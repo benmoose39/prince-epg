@@ -1,43 +1,3 @@
-2025-01-29 11:30pm
-Qabil Lil Jadal
-11:30pm
-
-2025-01-30 12:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
-2025-01-30 12:05am
-Hour Of Discussion
-Special report.
-
-2025-01-30 1:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
-2025-01-30 1:05am
-Fil Marma
-Series 1 Episode 13
-
-2025-01-30 2:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
-2025-01-30 2:30am
-Sijal
-Series 1 Episode 27
-
-2025-01-30 3:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
-2025-01-30 3:05am
-Outside The Box
-Special report.
-
-2025-01-30 4:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
 2025-01-30 5:00am
 Sabah Al Arabiya
 Arabic.
@@ -939,6 +899,162 @@ Al Arabiya News
 A news program.
 
 2025-02-05 5:35am
+Wa Ratel Al Quran
+A guide to the Holy Quran's teachings.
+
+2025-02-05 6:00am
+Sabah Al Arabiya
+Arabic.
+
+2025-02-05 8:00am
+Al Arabiya News
+A news program.
+
+2025-02-05 8:30am
+Business
+An insight into the changes and happenings in the business and economic sectors of the Arab world.
+
+2025-02-05 9:00am
+Al Arabiya News
+A news program.
+
+2025-02-05 9:05am
+Tafa'olcom
+Events and updates from social media collated and presented by Sarah Al Dandarawi.
+
+2025-02-05 9:30am
+Business
+An insight into the changes and happenings in the business and economic sectors of the Arab world.
+
+2025-02-05 10:00am
+Al Arabiya News
+A news program.
+
+2025-02-05 10:30am
+Power Lunch
+The business team gathers and rounds up all GCC market activities with analysts from different markets sharing their views live.
+
+2025-02-05 11:00am
+Al Arabiya News
+A news program.
+
+2025-02-05 11:30am
+Closing Bell
+Experts guide viewers in stock trading and in recognising patterns of movement.
+
+2025-02-05 12:29pm
+Kalam Fi Alfan
+12:29pm
+
+2025-02-05 1:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 2:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 3:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 3:30pm
+Wa Ratel Al Quran
+A guide to the Holy Quran's teachings.
+
+2025-02-05 4:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 4:30pm
+Sports News
+4:30pm
+
+2025-02-05 5:00pm
+Panorama
+A political talk show with current affairs.
+
+2025-02-05 6:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 6:30pm
+Al Arabiya News
+A news program.
+
+2025-02-05 7:00pm
+Al Arabiya Al Layla
+Top stories, breaking news, and current affairs from the Arab region and around the world.
+
+2025-02-05 9:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 9:05pm
+Tafa'olcom
+Events and updates from social media collated and presented by Sarah Al Dandarawi.
+
+2025-02-05 9:30pm
+Sports News
+9:30pm
+
+2025-02-05 10:00pm
+Al Arabiya News
+A news program.
+
+2025-02-05 10:28pm
+Kalam Fi Alfan
+10:28pm
+
+2025-02-05 11:00pm
+Al Arabiya News
+A news program.
+
+2025-02-06 12:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 12:09am
+Panorama
+A political talk show with current affairs.
+
+2025-02-06 1:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 1:31am
+Mysteries In The Archives
+Discover and rediscover known or unpublished images that bear witness to history.
+
+2025-02-06 2:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 2:31am
+Wa Ratel Al Quran
+A guide to the Holy Quran's teachings.
+
+2025-02-06 3:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 3:27am
+Sports News
+3:27am
+
+2025-02-06 4:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 4:30am
+Al Arabiya News
+A news program.
+
+2025-02-06 5:00am
+Al Arabiya News
+A news program.
+
+2025-02-06 5:34am
 Wa Ratel Al Quran
 A guide to the Holy Quran's teachings.
 
