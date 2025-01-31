@@ -688,7 +688,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-02-04 12:00pm
 Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+How the bombing of a small Tunisian town escalated into an international incident and became a pivotal moment in the history of colonialism in North Africa.
 
 2025-02-04 1:00pm
 Newshour
@@ -932,7 +932,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-02-06 1:00am
 Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+How the bombing of a small Tunisian town escalated into an international incident and became a pivotal moment in the history of colonialism in North Africa.
 
 2025-02-06 2:00am
 News

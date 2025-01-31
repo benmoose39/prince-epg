@@ -868,7 +868,7 @@ A news program.
 
 2025-02-06 5:34am
 Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
+Backtrace:
 
 2025-02-06 6:00am
 Sabah Al Arabiya
