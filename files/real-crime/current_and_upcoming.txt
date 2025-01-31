@@ -1,27 +1,3 @@
-2025-01-30 11:08pm
-CSI on Trial
-Firearms analysis, one of the most common forensic science practices in the US, faces fresh challenges over its underlying science. The national debate on allowing such evidence in court has significant consequences.
-
-2025-01-31 12:24am
-The Real Manhunter
-A walkthrough the case of Maureen Hale, who vanished one evening in 1999. Her husband was arrested and later released.
-
-2025-01-31 1:13am
-The Real Manhunter
-Following Ex-Detective, Senior Investigating Officer, Colin Sutton as he looks back at his most important cases and how they were solved.
-
-2025-01-31 2:04am
-The New Detectives
-Police search for a 22-year-old college student whose car was found abandoned outside Philadelphia. A 10-year-old boy is missing in Illinois.
-
-2025-01-31 3:03am
-The New Detectives
-An abandoned car brings heartache to a family and terror to a town. Detectives fear that a missing boy has fallen prey to a paedophile.
-
-2025-01-31 4:01am
-The New Detectives
-Two men are found dead, beaten to death in the bar where they work. A local television station receives an anonymous letter about the murders.
-
 2025-01-31 5:00am
 French Connection: Inside the New Mafias
 5:00am
@@ -573,4 +549,88 @@ After a girl finds her sister dead in her bedroom, a series of similar murders o
 2025-02-06 5:44am
 Psychopaths: Killing Spree Couples
 Filmmakers explore stories of psychopathic couples and whether they are born violent.
+
+2025-02-06 6:56am
+	Manson
+A chronicle of Charles Manson's life leading up to the orchestration of the Tate an LaBianca murders.
+
+2025-02-06 8:36am
+Code of Silence
+Investigators seek information when the Boston community is hit by a crime wave.
+
+2025-02-06 10:27am
+Material Witness
+The story of three CBS workers who walked into a kidnapping and were shot dead as they tried to help.
+
+2025-02-06 12:14pm
+Suburban Gangsters
+`Jockey' Smith, `public enemy No.1', and Raymond John Denning, a campaigner for prison reform, were armed robbers who had the dash and cunning to escape from prison.
+
+2025-02-06 1:08pm
+Suburban Gangsters
+Dino Dibra was a drug dealer and murderer, and Nikolai Radev was a rapist and drug trafficker. The story of two gangsters who dreamt of ruling Melbourne's underworld.
+
+2025-02-06 2:02pm
+The FBI Files
+In Florida in 1974, John Paul Knowles embarked on an horrific crime spree as a self-styled modern-day Jack the Ripper, leading to a massive manhunt to bring the killer to justice.
+
+2025-02-06 2:59pm
+The FBI Files
+The case of a vicious killer who used an AK-47 on cars entering CIA HQ, and was caught only after a five-year manhunt and a $2 million reward.
+
+2025-02-06 3:58pm
+The FBI Files
+After two serial bank robbers escape from police custody, FBI agents familiar with the bandits believe that they would attempt a grand-scale heist.
+
+2025-02-06 4:56pm
+The FBI Files
+When a corrupt local government hinders the investigation of a double murder, the FBI steps in to solve the case.
+
+2025-02-06 5:55pm
+The Sugar Wars: The Life Story of Angelo Lonardo
+Angelo Lonardo grew up in the wealthy neighborhood of Shaker Heights, his father was a powerful man and the first Mafia Boss of the city. After his father was murdered by a member of the rival Porello crime family in 1929.
+
+2025-02-06 6:59pm
+The FBI Files
+A hijacker made off with over $200,000 after parachuting out of a plane. Police arrested Richard McCoy, but was he really guilty?
+
+2025-02-06 7:57pm
+Great Crimes and Trials
+The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
+
+2025-02-06 8:28pm
+Escape From Death Row
+How did six murderers hatch an elaborate plan to escape from the first death row prison, thought to be escape-proof?
+
+2025-02-06 10:16pm
+	Dangerous Company
+A couple of Kentucky blue bloods team up to form a front for their drug smuggling business. As the operation grows, so too does the paranoia and betrayal.
+
+2025-02-07 12:04am
+Suburban Gangsters
+`Jockey' Smith, `public enemy No.1', and Raymond John Denning, a campaigner for prison reform, were armed robbers who had the dash and cunning to escape from prison.
+
+2025-02-07 12:58am
+Suburban Gangsters
+Dino Dibra was a drug dealer and murderer, and Nikolai Radev was a rapist and drug trafficker. The story of two gangsters who dreamt of ruling Melbourne's underworld.
+
+2025-02-07 1:53am
+The FBI Files
+In Florida in 1974, John Paul Knowles embarked on an horrific crime spree as a self-styled modern-day Jack the Ripper, leading to a massive manhunt to bring the killer to justice.
+
+2025-02-07 2:50am
+The FBI Files
+The case of a vicious killer who used an AK-47 on cars entering CIA HQ, and was caught only after a five-year manhunt and a $2 million reward.
+
+2025-02-07 3:50am
+The FBI Files
+After two serial bank robbers escape from police custody, FBI agents familiar with the bandits believe that they would attempt a grand-scale heist.
+
+2025-02-07 4:49am
+The FBI Files
+When a corrupt local government hinders the investigation of a double murder, the FBI steps in to solve the case.
+
+2025-02-07 5:48am
+The Sugar Wars: The Life Story of Angelo Lonardo
+Angelo Lonardo grew up in the wealthy neighborhood of Shaker Heights, his father was a powerful man and the first Mafia Boss of the city. After his father was murdered by a member of the rival Porello crime family in 1929.
 
