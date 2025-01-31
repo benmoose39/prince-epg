@@ -88,7 +88,7 @@ Shopping from home.
 
 2025-02-01 5:00am
 Building Alaska
-Winter is fast approaching, and the three builders find themselves with less help to finish the massive tasks at hand - leading to frayed tempers.
+Backtrace:
 
 2025-02-01 6:00am
 Deadliest Catch
