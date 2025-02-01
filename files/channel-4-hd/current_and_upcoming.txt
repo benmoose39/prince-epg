@@ -112,6 +112,10 @@ Dr Frasier Crane returns to Seattle and a new job as a radio psychiatrist. Howev
 
 2025-02-02 5:50am
 Frasier
+Backtrace:
+
+2025-02-02 5:50am
+Frasier
 Frasier is constantly interrupted when he tries to find a quiet place to read.
 
 2025-02-02 6:15am
