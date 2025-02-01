@@ -748,7 +748,7 @@ Up-to-date news and analysis from around the world.
 
 2025-02-05 10:30pm
 People and Power
-Investigative documentary series examining the use and abuse of power.
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
 
 2025-02-05 11:00pm
 News
@@ -803,26 +803,326 @@ Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2025-02-06 6:00am
-To Be Announced
-6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 6:30am
+Women Make Science
+Three women scientists take on Ecuador's endangered spider monkeys and empower indigenous women, in a scientific area usually dominated by men.
+
+2025-02-06 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-06 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 8:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-02-06 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 9:30am
+The Bottom Line
+9:30am
+
+2025-02-06 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-06 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-06 12:00pm
+The Palestine Laboratory
+Uncovering how Israel profits from surveillance technologies using occupied Palestinian territories as a testing ground.
+
+2025-02-06 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
 
 2025-02-06 2:00pm
-To Be Announced
-2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 2:30pm
+The Listening Post
+Providing key news and information to understand ever-more complex global events through in-depth analysis.
+
+2025-02-06 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-06 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 4:30pm
+Witness
+The leader of an opera troupe fights to keep her community together when their theatre in downtown Shanghai is suddenly slated for demolition.
+
+2025-02-06 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-06 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-06 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 7:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-02-06 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-06 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
 
 2025-02-06 10:00pm
-To Be Announced
-10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 10:30pm
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-02-06 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-06 11:30pm
+Reframe
+In this episode, writer Fatima Bhutto speaks to Palestinian writer and director Ahmed Masoud on growing up in Gaza and the role of art as a form of resistance.
+
+2025-02-07 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-07 1:00am
+Witness
+From snow to sand, a Finnish family return to their ancestral home in Somaliland to mine for gold.
+
+2025-02-07 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 2:30am
+Africa's New Directions
+Informal sector business owners and vendors are the backbone of South Sudan's economy.
+
+2025-02-07 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 3:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-02-07 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 4:30am
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-02-07 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2025-02-07 6:00am
-To Be Announced
-6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 6:30am
+Reframe
+In this episode, writer Fatima Bhutto speaks to Palestinian writer and director Ahmed Masoud on growing up in Gaza and the role of art as a form of resistance.
+
+2025-02-07 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-07 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 8:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-02-07 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 9:30am
+Witness
+The leader of an opera troupe fights to keep her community together when their theatre in downtown Shanghai is suddenly slated for demolition.
+
+2025-02-07 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-07 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-07 12:00pm
+The Bottom Line
+A weekly take on US politics and how they impact the world.
+
+2025-02-07 12:30pm
+The Fans Who Make Football
+Standing as a symbol or resistance for the regular folks, Liverpool has become not only the team for its city but also one of the most popular teams on earth.
+
+2025-02-07 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
 
 2025-02-07 2:00pm
-To Be Announced
-2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 2:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-02-07 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-07 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 4:30pm
+Africa's New Directions
+Informal sector business owners and vendors are the backbone of South Sudan's economy.
+
+2025-02-07 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-07 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-02-07 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 7:30pm
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-02-07 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-07 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
 
 2025-02-07 10:00pm
-To Be Announced
-10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 10:30pm
+Counting The Cost
+Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
+
+2025-02-07 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-07 11:30pm
+Witness
+The leader of an opera troupe fights to keep her community together when their theatre in downtown Shanghai is suddenly slated for demolition.
+
+2025-02-08 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-08 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-02-08 1:00am
+The Palestine Laboratory
+Uncovering how Israel profits from surveillance technologies using occupied Palestinian territories as a testing ground.
+
+2025-02-08 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-08 2:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-02-08 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-08 3:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-02-08 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-08 4:30am
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-02-08 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-02-08 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
