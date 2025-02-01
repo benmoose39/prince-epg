@@ -1,11 +1,3 @@
-2025-02-01 5:30pm
-BBC Weekend News
-National and international news, followed by weather.
-
-2025-02-01 5:40pm
-BBC London News
-News, sport and weather from London.
-
 2025-02-01 5:45pm
 BBC Weather
 The latest weather forecast.
