@@ -1,27 +1,3 @@
-2025-01-31 11:35pm
-ITV News
-The latest national and international news.
-
-2025-02-01 12:05am
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2025-02-01 12:20am
-The 1% Club
-Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
-
-2025-02-01 1:15am
-Olivia Attwood's Bad Boyfriends
-The first episode of an explosive reality series. Eight unsuspecting bad boyfriends have been nominated by their long-suffering girlfriends to take part in an intense relationship bootcamp with the help of Olivia Attwood, who is going to attempt to reform this wayward bunch of boys - the guys initially think they are taking part in a show called Brotopia, hosted by Pete Wicks, where the boys will find out how far they would go for a bro.
-
-2025-02-01 2:05am
-Teleshopping
-Shopping from home.
-
-2025-02-01 4:00am
-Lingo
-Crossing words to beat the reigning Lingo champions this time are sisters Lauren and Ellie from Solihull and friends Gill and Sue.
-
 2025-02-01 4:50am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
@@ -579,6 +555,90 @@ Lingo
 Battling it out against the reigning Lingo champions this time are best friends Paul and Alan and mother and daughter Mercedes and Syreeta.
 
 2025-02-07 4:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-02-07 6:05am
+Deal or No Deal
+Stephen Mulhern hosts as Wendy gets her chance to open the iconic red boxes - will she be swayed by one of the Banker's tempting cash offers for her box or hold out for a shot at the 100,000-pound jackpot?
+
+2025-02-07 7:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-02-07 10:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-02-07 11:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-02-07 1:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-02-07 2:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-02-07 2:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-07 3:00pm
+Love Your Friday with Alan Titchmarsh
+Join Alan for more highlights from the first series - this time they include interviews with property expert Phil Spencer and actress Sarah Parish, a guide to identifying bird songs, and a selection of the best British craft beers.
+
+2025-02-07 4:00pm
+Lingo
+The fast-paced game of words, hosted by Adil Ray, where three pairs of contestants face Lingo grids, fiendish puzzlewords, and a tense head-to-head round as they battle to reach the final and a chance to win a 15,000-pound jackpot - crossing words against the reigning Lingo champions this time are mother and daughter Valerie and Sarah and siblings Michael and Shanice.
+
+2025-02-07 5:00pm
+Deal or No Deal
+Join Stephen Mulhern as Matt gets his opportunity to open the iconic red boxes - in the game show with only one question, Matt must either say 'Deal' or 'No deal' when faced with the Banker's tempting offers.
+
+2025-02-07 6:00pm
+The Chase
+When four people who have never met before - Sarah from Braintree, Arash originally from Kidderminster, Suzanne from Nottingham and James from Burton-on-Trent - take on a Chaser, Bradley Walsh guides the contestants through a battle of wits in the hope that they'll go home with thousands of pounds.
+
+2025-02-07 7:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-07 7:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-02-07 8:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-02-07 8:30pm
+
+Mark Pougatch presents coverage from Old Trafford as Manchester United take on Leicester City in the fourth round of the 2024-25 FA Cup and Ruud van Nistelrooy.
+
+2025-02-07 11:20pm
+ITV News
+The latest national and international news.
+
+2025-02-07 11:50pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-08 12:10am
+Olivia Attwood's Bad Boyfriends
+The eight bad boyfriends are sent to Brozone, Olivia's brutal caravan park, as they go back to basics as part of the first phase of the project of Separation and Reflection - the first relationship test Shocking Revelations discovers how well the boys know their girlfriends, Sam stuns Jordi, and Liily is gobsmacked by Ruben.
+
+2025-02-08 1:00am
+Teleshopping
+Shopping from home.
+
+2025-02-08 4:00am
+Lingo
+The fast-paced game of words, hosted by Adil Ray, where three pairs of contestants face Lingo grids, fiendish puzzlewords, and a tense head-to-head round as they battle to reach the final and a chance to win a 15,000-pound jackpot - trying to Lingo all the way to beat the reigning Lingo champions are married couple Mala and Michael and best pals Heather and Emily.
+
+2025-02-08 4:50am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 

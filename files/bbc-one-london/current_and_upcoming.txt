@@ -1,47 +1,3 @@
-2025-01-31 11:30pm
-	P.S. I Love You
-New York widow Holly is devastated by her husband's sudden demise, but messages he left behind offer a ray of hope.
-
-2025-02-01 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-02-01 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-02-01 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-01 2:30am
-100 Women
-Once associated with gangsters, in South Korea tattoos still divide opinion. Whilst they have grown in popularity, only licensed doctors can officially ink skin. So in the thriving underground scene in Seoul, many artists are, in effect, working illegally. BBC 100 Women meets the women tattoo artists who are navigating this precarious work and those fighting to overturn the law so that artists no longer live in fear of being reported.
-
-2025-02-01 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-01 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-02-01 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-01 4:30am
-The Travel Show
-Rob Bell and mechanic Steve Green attempt to drive Cecil the VW Camper - a battered but beloved part of Steve's family in Cornwall - all the way back to its birthplace in Central Germany.
-
-2025-02-01 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-01 5:30am
-Unspun World with John Simpson
-Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.
-
 2025-02-01 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -945,4 +901,108 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-02-07 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-02-07 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-02-07 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-02-07 10:45am
+Expert Witness
+When a teenager's body is located in a shallow grave, a soil specialist is called on to unearth evidence to convict the killer.
+
+2025-02-07 11:15am
+Homes Under the Hammer
+Martin is in Wales, where a mixed commercial and residential unit is in surprisingly good condition. Jacqui's house in Norwich is also in decent nick, and Dion finds a three-bedroom mid-terrace in Staffordshire with a quirky layout to contend with.
+
+2025-02-07 12:15pm
+Bargain Hunt
+Christina Trevanion discovers the surprising value of the humble golf ball and learns about historic hickory golf clubs. John Cameron and Richard Madley, canter around the antiques fair at Linfield Park Racecourse in Surrey with the reds and blues.
+
+2025-02-07 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-02-07 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-07 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-02-07 2:00pm
+Father Brown
+Father Brown and Flambeau hunt for a priceless holy relic as a new nemesis lurks in the shadows.
+
+2025-02-07 2:45pm
+Escape to the Country
+With their entire belongings in two rucksacks, today's couple have spent the last six years travelling the globe. With £325,000 the pair have decided they need a base in the Wiltshire countryside, and Alistair Appleton is the man to show them what this gorgeous county has to offer. Alistair also meets an intensive care nurse at her much loved and fruitful allotment.
+
+2025-02-07 3:45pm
+The Travelling Auctioneers
+It's a race to empty a family bungalow before the new owners move in, but the one-storey is brimming with unique collections, rare items and antiques that could be worth a small fortune.
+
+2025-02-07 4:30pm
+The Repair Shop: On the Road
+The boys help save a monument that's crumbling before their eyes, Will brings a huge drum back to the barn, and Dom gets on the tools with the last scissor-maker in Sheffield.
+
+2025-02-07 5:15pm
+Pointless
+The brainy quiz returns, but this time host Alexander Armstrong is joined by co-host Liza Tarbuck. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-02-07 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-02-07 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-07 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-02-07 7:30pm
+Extraordinary Portraits
+Bill Bailey matches a remarkable young woman with cancer, who set up her own charity, with a realist painter to create a new art work.
+
+2025-02-07 8:00pm
+Would I Lie to You?
+Rob Brydon hosts the award-winning comedy panel show, with Lee Mack and David Mitchell as the lightning-quick team captains. Each week, a stellar cast of celebrity guests reveal extraordinary stories about themselves. But are they telling the truth, or are they making it all up? Sorting the fact from the fiction are guest panellists Richie Anderson, Taj Atwal, Chris McCausland and Katherine Parkinson.
+
+2025-02-07 8:30pm
+Amanda & Alan's Spanish Job
+Amanda and Alan brace themselves to tackle the kitchen. With a love for eating and entertaining, it is crucial to the project that they get this social space perfect as they aim to push the boat out with a typical Spanish design.
+
+2025-02-07 9:00pm
+Death in Paradise
+A mystery unravels in the jungle when a game show contestant is stabbed on a zip line. Meanwhile, the team butt heads with Mervin.
+
+2025-02-07 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-02-07 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-07 10:40pm
+The Graham Norton Show
+Joining Graham on his sofa are Robert De Niro, Mikey Madison, Alan Carr and Holly Willoughby. Brandi Carlile joins Elton John for a special performance in the studio.
+
+2025-02-07 11:30pm
+	Superbad
+Two inseparable best friends navigate the last weeks of high school and are invited to a gigantic house party. Together with their nerdy friend, they spend a long day trying to score enough alcohol to supply the party and inebriate two girls in order to kick-start their sex lives before they go off to college. Their quest is complicated after one of them falls in with two inept cops who are determined to show him a good time.
+
+2025-02-08 1:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-02-08 1:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 

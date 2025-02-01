@@ -1,51 +1,3 @@
-2025-01-31 11:30pm
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-02-01 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-02-01 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-02-01 1:00am
-The Palestine Laboratory
-Uncovering how Israel profits from surveillance technologies using occupied Palestinian territories as a testing ground.
-
-2025-02-01 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-02-01 2:30am
-People and Power
-A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
-
-2025-02-01 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-02-01 3:30am
-101 East
-101 East visits the island communities caught in the ongoing tensions between North and South Korea.
-
-2025-02-01 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-02-01 4:30am
-UpFront
-Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
-
-2025-02-01 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-02-01 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-02-01 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -859,6 +811,18 @@ To Be Announced
 2:00pm
 
 2025-02-06 10:00pm
+To Be Announced
+10:00pm
+
+2025-02-07 6:00am
+To Be Announced
+6:00am
+
+2025-02-07 2:00pm
+To Be Announced
+2:00pm
+
+2025-02-07 10:00pm
 To Be Announced
 10:00pm
 

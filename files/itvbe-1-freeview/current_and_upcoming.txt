@@ -1,15 +1,3 @@
-2025-01-31 10:00pm
-This is ITVBe+1
-10:00pm
-
-2025-02-01 4:00am
-Teleshopping
-Shopping from home.
-
-2025-02-01 5:00am
-This is ITVBe+1
-5:00am
-
 2025-02-01 6:00am
 This is ITVBe+1
 6:00am
@@ -127,6 +115,26 @@ Teleshopping
 Shopping from home.
 
 2025-02-07 5:00am
+This is ITVBe+1
+5:00am
+
+2025-02-07 6:00am
+This is ITVBe+1
+6:00am
+
+2025-02-07 2:00pm
+This is ITVBe+1
+2:00pm
+
+2025-02-07 10:00pm
+This is ITVBe+1
+10:00pm
+
+2025-02-08 4:00am
+Teleshopping
+Shopping from home.
+
+2025-02-08 5:00am
 This is ITVBe+1
 5:00am
 
