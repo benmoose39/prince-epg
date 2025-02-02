@@ -184,10 +184,6 @@ Join the CBBC crew for all your favourite programmes. Tune into CBBC every day f
 
 2025-02-03 2:58am
 This is CBBC!
-Backtrace:
-
-2025-02-03 2:58am
-This is CBBC!
 Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.
 
 2025-02-03 7:00am
