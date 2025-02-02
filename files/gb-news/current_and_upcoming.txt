@@ -1,23 +1,3 @@
-2025-02-01 11:00pm
-Headliners
-News programme.
-
-2025-02-02 12:00am
-The Saturday Five
-Join our provocative panel to discuss and debate the spikiest stories and craziest controversies of the week.
-
-2025-02-02 2:00am
-Headliners
-News programme.
-
-2025-02-02 3:00am
-Ben Leo Tonight
-Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
-
-2025-02-02 5:00am
-Headliners
-News programme.
-
 2025-02-02 6:00am
 Breakfast with Stephen and Anne
 The Great British Breakfast continues into the weekend with Stephen Dixon and Anne Diamond. Prepare yourself for the weekend with a full round-up of the week's news and politics and sport.
@@ -351,6 +331,54 @@ Patrick Christys Tonight
 Patrick chairs two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.
 
 2025-02-08 5:00am
+Headliners
+News programme.
+
+2025-02-08 6:00am
+Breakfast with Stephen and Anne
+The Great British Breakfast continues into the weekend with Stephen Dixon and Anne Diamond. Prepare yourself for the weekend with a full round-up of the week's news and politics and sport.
+
+2025-02-08 10:00am
+Saturday Morning Live
+Welcome the weekend as we celebrate the country's triumphs in the Best of British feature, and look at the good news where you are.
+
+2025-02-08 12:00pm
+The Weekend
+A lively look at all the latest live and breaking news for the weekend from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives.
+
+2025-02-08 3:00pm
+Nana Akua
+Nana Akua presents her own unique take on the biggest stories of the day.
+
+2025-02-08 6:00pm
+The Saturday Five
+Join our provocative panel to discuss and debate the spikiest stories and craziest controversies of the week.
+
+2025-02-08 8:00pm
+The Saturday Five Extra
+Join our provocative panel to discuss and debate the spikiest stories and controversies of the week.
+
+2025-02-08 9:00pm
+Ben Leo Tonight
+Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
+
+2025-02-08 11:00pm
+Headliners
+News programme.
+
+2025-02-09 12:00am
+The Saturday Five
+Join our provocative panel to discuss and debate the spikiest stories and craziest controversies of the week.
+
+2025-02-09 2:00am
+Headliners
+News programme.
+
+2025-02-09 3:00am
+Ben Leo Tonight
+Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
+
+2025-02-09 5:00am
 Headliners
 News programme.
 

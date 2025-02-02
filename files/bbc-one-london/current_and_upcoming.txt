@@ -1,51 +1,3 @@
-2025-02-01 10:30pm
-Match of the Day
-Gary Lineker presents highlights from another exciting day of Premier League action, featuring key games at the foot of the table.
-
-2025-02-01 11:50pm
-	The Keeper
-A look at how a German POW and a young English woman overcame prejudice, personal tragedy and public hostility as World War II came to an end.
-
-2025-02-02 1:40am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-02-02 1:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-02-02 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-02 2:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-02-02 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-02 3:30am
-Panorama
-Current affairs programme, featuring interviews and investigative reports on all aspects of life in Britain.
-
-2025-02-02 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-02 4:30am
-Click
-Alasdair Keane heads behind the scenes of the UK's National Satellite Test Facility. Spencer Kelly explores the robotics taking inspiration from nature. Plus, how a visual effects team brought the detail to the big screen in Mufasa: The Lion King.
-
-2025-02-02 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-02 5:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
 2025-02-02 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -969,4 +921,92 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-02-08 5:30am
 Unspun World with John Simpson
 John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-02-08 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-02-08 9:45am
+Saturday Kitchen Live
+Adam Woodyatt, Diane Parish, Emma Barton and Jacqueline Jossa join Matt Tebbutt for an EastEnders special celebrating 40 years of the iconic BBC soap!
+
+2025-02-08 11:15am
+Rick Stein's Cornwall
+Following in the footsteps of one of his literary heroes, Rick roams the dramatic north Cornish coast to tell the story of one of Britain's best-loved writers, Thomas Hardy, and his little-known love affair with a Cornishwoman. Another famous writer, Dylan Thomas, dubbed Rick's next stop, Mousehole, as `the loveliest village in Britain'.
+
+2025-02-08 11:45am
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-02-08 11:55am
+BBC Weather
+The latest weather forecast.
+
+2025-02-08 12:00pm
+Match of the Day
+Live FA Cup action from east London as reigning Premier League champions Manchester City seek to avoid a colossal upset against League One Leyton Orient in the fourth round.
+
+2025-02-08 2:30pm
+Garden Rescue
+University sweethearts Kirstie and Tom have recently bought a new build house in Daventry. They have been busy nest building and working on their home's interior, but now it's their lacklustre garden that seriously needs attention. They would like their south-facing, characterless garden transformed into a curvy, naturalistic oasis with a spiritual, Dartmoor-inspired atmosphere.
+
+2025-02-08 3:15pm
+Escape to the Country
+A young couple currently living in Manchester are hoping to up sticks to the Cheshire countryside with their young daughter. They have requested a four bedroom, detached family home with a large, private garden, and Nicki Chapman has a very tempting selection of properties that suit the brief, as well as a mystery house that makes them reconsider their wish list.
+
+2025-02-08 4:00pm
+Final Score
+A round-up of all the football news, with comprehensive results and the latest league tables.
+
+2025-02-08 5:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-02-08 5:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-08 5:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-02-08 5:30pm
+
+Gary Lineker introduces live FA Cup fourth-round action as third-tier Birmingham City attempt to knock out Premier League high-flyers Newcastle United.
+
+2025-02-08 8:10pm
+Michael McIntyre's Big Show
+BAFTA award-winning comedian Michael McIntyre returns with a brand new episode of his Big Show, an unmissable night of family entertainment broadcast from London's prestigious Theatre Royal Drury Lane. Comedian Josh Widdicombe is awoken for a hilarious edition of the Midnight Gameshow. Boxing star Tony Bellew hands over his phone in Send to All. The Darkness frontman Justin Hawkins gets the shock of his life in the Unexpected Star Star of the Show, and Olly Alexander performs.
+
+2025-02-08 9:10pm
+Casualty
+Dylan fights to prove his innocence, but is time his enemy? Meanwhile, Stevie makes peace with her head and her heart, and can Rash keep family ties from fraying permanently?
+
+2025-02-08 10:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-02-08 10:15pm
+BBC Weather
+The latest weather forecast.
+
+2025-02-08 10:20pm
+Match of the Day
+All the goals and highlights from the FA Cup fourth-round ties that have taken place so far this weekend, including Manchester City's visit to take on League One Leyton Orient.
+
+2025-02-08 11:40pm
+The Six Nations Greatest Moments
+Gabby Logan and guests reminisce over Wales's demolition of England in 2013, Martin Johnson's stand-off against Ireland in 2003 and the emergence of a young centre by the name of Brian O'Driscoll.
+
+2025-02-09 12:10am
+	Starter for 10
+Set in the 1980s featuring Brian, a working class boy stumbling romantically and academically through his first year at Bristol University. He tries to achieve his lifelong ambition to appear on TV quiz show `University Challenge', and falls in love with his teammate.
+
+2025-02-09 1:45am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-02-09 1:50am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 
