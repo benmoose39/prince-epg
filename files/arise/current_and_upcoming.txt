@@ -1,7 +1,3 @@
-2025-02-02 3:00pm
-Arise News Now
-3:00pm
-
 2025-02-02 4:30pm
 Global Business Report Weekly
 4:30pm
@@ -72,7 +68,7 @@ Arise News Now
 
 2025-02-03 5:00am
 Arise Review
-Backtrace:
+5:00am
 
 2025-02-03 6:00am
 Arise Newsnight
