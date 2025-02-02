@@ -68,10 +68,6 @@ After a long day, LA taxi driver Max is about to knock off when sharp-suited Vin
 
 2025-02-04 4:45am
 Teleshopping
-Backtrace:
-
-2025-02-04 4:45am
-Teleshopping
 Shopping from home.
 
 2025-02-04 8:45am

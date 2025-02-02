@@ -72,7 +72,7 @@ Arise News Now
 
 2025-02-03 5:00am
 Arise Review
-5:00am
+Backtrace:
 
 2025-02-03 6:00am
 Arise Newsnight
