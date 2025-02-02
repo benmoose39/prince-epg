@@ -1,15 +1,3 @@
-2025-02-02 4:45pm
-Supertato
-Banana Superstar's show is stopped when Evil Pea steals his peel. Supertato races against him to get it back, but trouble hits when a giant banana statue collapses onto the stage.
-
-2025-02-02 4:55pm
-Bluey
-Bluey and Mum are off to Chloe's party and Bingo isn't invited. When a passing cockatoo drops a feather, Bingo has an idea for a new game called `Featherwand', and when she waves her Featherwand she can make objects impossibly heavy.
-
-2025-02-02 5:05pm
-Vida the Vet
-It's a very hot day in Sweetwood, and Tidbit is really tired. Luckily, Vida knows why - he needs to hydrate! Vida helps Tidbit find a way to play and hydrate at the same time.
-
 2025-02-02 5:15pm
 Andy And The Band
 Rockers Leo and Jimi are unfairly locked in detention by their strict headteacher and will miss their first ever gig unless the band can bust them out. It's time for a crazy plan!
@@ -48,7 +36,7 @@ Join the CBBC crew for all your favourite programmes. Tune into CBBC every day f
 
 2025-02-03 2:58am
 This is CBBC!
-Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.
+Backtrace:
 
 2025-02-03 6:00am
 Vegesaurs
