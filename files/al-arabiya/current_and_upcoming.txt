@@ -2,33 +2,33 @@
 Sabah Al Arabiya
 Arabic.
 
-2025-02-02 6:07am
-Sabah Al Arabiya
-Arabic.
-
-2025-02-02 6:52am
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
-
-2025-02-02 6:59am
+2025-02-02 7:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-02 8:30am
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
+2025-02-02 7:30am
+Market Pulse
+7:30am
+
+2025-02-02 8:00am
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-02 9:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-02 9:30am
+Al Aswaq Al Arabiya 2
+9:30am
 
 2025-02-02 10:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-02 10:30am
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
+Power Lunch
+The business team gathers and rounds up all GCC market activities with analysts from different markets sharing their views live.
 
 2025-02-02 11:00am
 Al Arabiya News
@@ -38,9 +38,9 @@ A news program.
 Closing Bell
 Experts guide viewers in stock trading and in recognising patterns of movement.
 
-2025-02-02 12:25pm
-Special Mission
-Researching and uncovering some trending problems and issues in the world.
+2025-02-02 12:30pm
+Sports News
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-02 1:00pm
 Al Arabiya News
@@ -50,13 +50,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-02 3:00pm
+2025-02-02 3:05pm
 Tafa'olcom
 Events and updates from social media collated and presented by Sarah Al Dandarawi.
-
-2025-02-02 3:30pm
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
 
 2025-02-02 4:00pm
 Al Arabiya News
@@ -78,9 +74,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-02 7:00pm
-Al Arabiya Al Layla
-Top stories, breaking news, and current affairs from the Arab region and around the world.
+2025-02-02 8:00pm
+Outside The Box
+Special report.
 
 2025-02-02 9:00pm
 Al Arabiya News
@@ -102,41 +98,25 @@ A news program.
 Kalam Fi Alfan
 10:26pm
 
-2025-02-02 11:00pm
-Al Arabiya News
-A news program.
+2025-02-02 11:30pm
+Political Memory
+Interviews with former VIPS about past events and decisions that impacted the society greatly.
 
-2025-02-03 12:00am
-Al Arabiya News
-A news program.
+2025-02-03 12:05am
+Hour Of Discussion
+Special report.
 
-2025-02-03 12:09am
-Panorama
-A political talk show with current affairs.
-
-2025-02-03 1:00am
-Al Arabiya News
-A news program.
-
-2025-02-03 1:33am
-Death Making
-An examination of the religious and political dimensions of terrorist attacks around the world.
-
-2025-02-03 2:00am
-Al Arabiya News
-A news program.
-
-2025-02-03 2:33am
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
-2025-02-03 3:00am
-Al Arabiya News
-A news program.
-
-2025-02-03 3:29am
+2025-02-03 1:05am
 Sports News
-3:29am
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
+
+2025-02-03 2:30am
+Direct Question
+Series 1 Episode 39
+
+2025-02-03 3:05am
+Outside The Box
+Special report.
 
 2025-02-03 4:00am
 Al Arabiya News
@@ -154,9 +134,13 @@ A news program.
 Wa Ratel Al Quran
 A guide to the Holy Quran's teachings.
 
-2025-02-03 6:00am
-Sabah Al Arabiya
-Arabic.
+2025-02-03 7:00am
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-03 7:30am
+Market Pulse
+7:30am
 
 2025-02-03 8:00am
 Al Arabiya News
@@ -166,29 +150,21 @@ A news program.
 Business
 An insight into the changes and happenings in the business and economic sectors of the Arab world.
 
-2025-02-03 9:00am
-Al Arabiya News
-A news program.
+2025-02-03 9:30am
+Al Aswaq Al Arabiya 2
+9:30am
 
-2025-02-03 9:33am
-Tafa'olcom
-Events and updates from social media collated and presented by Sarah Al Dandarawi.
+2025-02-03 10:30am
+Power Lunch
+The business team gathers and rounds up all GCC market activities with analysts from different markets sharing their views live.
 
-2025-02-03 10:00am
-Al Arabiya News
-A news program.
+2025-02-03 11:30am
+Closing Bell
+Updates on the KSA market during the last minutes of trading and interviews CEOs and decision makers to share their views on major economic news.
 
-2025-02-03 10:32am
-Political Memory
-Interviews with former VIPS about past events and decisions that impacted the society greatly.
-
-2025-02-03 11:00am
-Al Arabiya News
-A news program.
-
-2025-02-03 12:29pm
-Kalam Fi Alfan
-12:29pm
+2025-02-03 12:30pm
+Sports News
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-03 1:00pm
 Al Arabiya News
@@ -198,13 +174,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-03 3:00pm
-Al Arabiya News
-A news program.
-
-2025-02-03 3:36pm
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
+2025-02-03 3:05pm
+Tafa'olcom
+Events and updates from social media collated and presented by Sarah Al Dandarawi.
 
 2025-02-03 4:00pm
 Al Arabiya News
@@ -226,9 +198,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-03 7:00pm
-Al Arabiya Al Layla
-Top stories, breaking news, and current affairs from the Arab region and around the world.
+2025-02-03 8:00pm
+Outside The Box
+Special report.
 
 2025-02-03 9:00pm
 Al Arabiya News
@@ -250,41 +222,25 @@ A news program.
 Kalam Fi Alfan
 10:29pm
 
-2025-02-03 11:00pm
-Al Arabiya News
-A news program.
+2025-02-03 11:30pm
+Qabil Lil Jadal
+11:30pm
 
-2025-02-04 12:00am
-Al Arabiya News
-A news program.
+2025-02-04 12:05am
+Hour Of Discussion
+Special report.
 
-2025-02-04 12:09am
-Panorama
-A political talk show with current affairs.
-
-2025-02-04 1:00am
-Al Arabiya News
-A news program.
-
-2025-02-04 1:32am
-Political Memory
-Interviews with former VIPS about past events and decisions that impacted the society greatly.
-
-2025-02-04 2:00am
-Al Arabiya News
-A news program.
-
-2025-02-04 2:38am
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
-2025-02-04 3:00am
-Al Arabiya News
-A news program.
-
-2025-02-04 3:33am
+2025-02-04 1:05am
 Sports News
-3:33am
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
+
+2025-02-04 2:30am
+Moraja'at
+Dissidents from the Muslim Brotherhood review their journeys within the movement, discussing its organizational apparatus, causes of their dissent, and visions for the future.
+
+2025-02-04 3:05am
+Outside The Box
+Special report.
 
 2025-02-04 4:00am
 Al Arabiya News
@@ -302,9 +258,13 @@ A news program.
 Wa Ratel Al Quran
 A guide to the Holy Quran's teachings.
 
-2025-02-04 6:00am
-Sabah Al Arabiya
-Arabic.
+2025-02-04 7:00am
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-04 7:30am
+Market Pulse
+7:30am
 
 2025-02-04 8:00am
 Al Arabiya News
@@ -318,165 +278,149 @@ A news program.
 Tafa'olcom
 Events and updates from social media collated and presented by Sarah Al Dandarawi.
 
-2025-02-04 9:29am
-Rawafed
-Interviewing intellectuals, artists and scientists.
+2025-02-04 9:30am
+Al Aswaq Al Arabiya 2
+9:30am
 
-2025-02-04 10:00am
-Al Arabiya News
-A news program.
-
-2025-02-04 10:32am
-Special Mission
-Researching and uncovering some trending problems and issues in the world.
+2025-02-04 10:30am
+Power Lunch
+The business team gathers and rounds up all GCC market activities with analysts from different markets sharing their views live.
 
 2025-02-04 11:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-04 11:30am
+Closing Bell
+Updates on the KSA market during the last minutes of trading and interviews CEOs and decision makers to share their views on major economic news.
 
 2025-02-04 12:30pm
-Kalam Fi Alfan
-12:30pm
+Sports News
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-04 1:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 2:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 3:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 3:05pm
 Tafa'olcom
 Events and updates from social media collated and presented by Sarah Al Dandarawi.
 
-2025-02-04 3:30pm
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
 2025-02-04 4:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 4:30pm
 Sports News
-4:30pm
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-04 5:00pm
-Panorama
-A political talk show with current affairs.
+Hour Of Discussion
+Special report.
 
 2025-02-04 6:00pm
 Al Arabiya News
-A news program.
-
-2025-02-04 6:30pm
-Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 7:00pm
-Al Arabiya Al Layla
-Top stories, breaking news, and current affairs from the Arab region and around the world.
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-04 8:00pm
+Outside The Box
+Special report.
 
 2025-02-04 9:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-04 9:30pm
-Sports News
-9:30pm
+2025-02-04 9:05pm
+Fil Marma
+Series 1 Episode 15
 
 2025-02-04 10:00pm
 Al Arabiya News
-A news program.
-
-2025-02-04 10:34pm
-Kalam Fi Alfan
-10:34pm
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-04 11:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-04 11:30pm
+Sijal
+Series 1 Episode 28
 
 2025-02-05 12:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-05 12:10am
-Panorama
-A political talk show with current affairs.
+2025-02-05 12:05am
+Hour Of Discussion
+Special report.
 
 2025-02-05 1:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-05 1:31am
-Mahattat
-Three reports and three countries, focusing on unique and intriguing news stories.
+2025-02-05 1:05am
+Fil Marma
+Series 1 Episode 15
 
 2025-02-05 2:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-05 2:32am
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
+2025-02-05 2:30am
+Yatafakkaroun
+Contributing to the renewal of Islamic thought, Yatafakkaroun presents new narratives, correcting misconceptions and discussing religious topics from a modern perspective.
 
 2025-02-05 3:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-05 3:29am
-Sports News
-3:29am
+2025-02-05 3:05am
+Outside The Box
+Special report.
 
 2025-02-05 4:00am
 Al Arabiya News
-A news program.
-
-2025-02-05 4:30am
-Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-05 5:00am
-Al Arabiya News
-A news program.
-
-2025-02-05 5:35am
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
-2025-02-05 6:00am
 Sabah Al Arabiya
 Arabic.
 
+2025-02-05 7:00am
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-05 7:30am
+Market Pulse
+7:30am
+
 2025-02-05 8:00am
 Al Arabiya News
-A news program.
-
-2025-02-05 8:30am
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-05 9:00am
 Al Arabiya News
-A news program.
-
-2025-02-05 9:05am
-Tafa'olcom
-Events and updates from social media collated and presented by Sarah Al Dandarawi.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-05 9:30am
-Business
-An insight into the changes and happenings in the business and economic sectors of the Arab world.
+Al Aswaq Al Arabiya 2
+9:30am
 
 2025-02-05 10:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-05 10:30am
 Power Lunch
@@ -490,9 +434,9 @@ A news program.
 Closing Bell
 Experts guide viewers in stock trading and in recognising patterns of movement.
 
-2025-02-05 12:29pm
-Kalam Fi Alfan
-12:29pm
+2025-02-05 12:30pm
+Sports News
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-05 1:00pm
 Al Arabiya News
@@ -502,13 +446,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-05 3:00pm
-Al Arabiya News
-A news program.
-
-2025-02-05 3:30pm
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
+2025-02-05 3:05pm
+Tafa'olcom
+Events and updates from social media collated and presented by Sarah Al Dandarawi.
 
 2025-02-05 4:00pm
 Al Arabiya News
@@ -530,9 +470,9 @@ A news program.
 Al Arabiya News
 A news program.
 
-2025-02-05 7:00pm
-Al Arabiya Al Layla
-Top stories, breaking news, and current affairs from the Arab region and around the world.
+2025-02-05 8:00pm
+Outside The Box
+Special report.
 
 2025-02-05 9:00pm
 Al Arabiya News
@@ -554,41 +494,25 @@ A news program.
 Kalam Fi Alfan
 10:28pm
 
-2025-02-05 11:00pm
-Al Arabiya News
-A news program.
+2025-02-05 11:30pm
+Moraja'at
+Dissidents from the Muslim Brotherhood review their journeys within the movement, discussing its organizational apparatus, causes of their dissent, and visions for the future.
 
-2025-02-06 12:00am
-Al Arabiya News
-A news program.
+2025-02-06 12:05am
+Hour Of Discussion
+Special report.
 
-2025-02-06 12:09am
-Panorama
-A political talk show with current affairs.
+2025-02-06 1:05am
+Fil Marma
+Series 1 Episode 16
 
-2025-02-06 1:00am
-Al Arabiya News
-A news program.
+2025-02-06 2:30am
+Sijal
+Series 1 Episode 28
 
-2025-02-06 1:31am
-Mysteries In The Archives
-Discover and rediscover known or unpublished images that bear witness to history.
-
-2025-02-06 2:00am
-Al Arabiya News
-A news program.
-
-2025-02-06 2:31am
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
-2025-02-06 3:00am
-Al Arabiya News
-A news program.
-
-2025-02-06 3:27am
-Sports News
-3:27am
+2025-02-06 3:05am
+Outside The Box
+Special report.
 
 2025-02-06 4:00am
 Al Arabiya News
@@ -606,9 +530,13 @@ A news program.
 Wa Ratel Al Quran
 A guide to the Holy Quran's teachings.
 
-2025-02-06 6:00am
-Sabah Al Arabiya
-Arabic.
+2025-02-06 7:00am
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 7:30am
+Market Pulse
+7:30am
 
 2025-02-06 8:00am
 Al Arabiya News
@@ -640,79 +568,75 @@ The business team gathers and rounds up all GCC market activities with analysts 
 
 2025-02-06 11:00am
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-06 11:30am
 Closing Bell
-Experts guide viewers in stock trading and in recognising patterns of movement.
+Updates on the KSA market during the last minutes of trading and interviews CEOs and decision makers to share their views on major economic news.
 
-2025-02-06 12:28pm
-Kalam Fi Alfan
-12:28pm
+2025-02-06 12:30pm
+Sports News
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
 
 2025-02-06 1:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-06 2:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-06 3:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
-2025-02-06 3:31pm
-Wa Ratel Al Quran
-A guide to the Holy Quran's teachings.
-
-2025-02-06 4:00pm
-Al Arabiya News
-A news program.
-
-2025-02-06 4:30pm
-Sports News
-4:30pm
-
-2025-02-06 5:00pm
-Panorama
-A political talk show with current affairs.
-
-2025-02-06 6:00pm
-Al Arabiya News
-A news program.
-
-2025-02-06 6:30pm
-Al Arabiya News
-A news program.
-
-2025-02-06 7:00pm
-Al Arabiya Al Layla
-Top stories, breaking news, and current affairs from the Arab region and around the world.
-
-2025-02-06 9:00pm
-Al Arabiya News
-A news program.
-
-2025-02-06 9:05pm
+2025-02-06 3:05pm
 Tafa'olcom
 Events and updates from social media collated and presented by Sarah Al Dandarawi.
 
-2025-02-06 9:30pm
+2025-02-06 4:00pm
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 4:30pm
 Sports News
-9:30pm
+Satisfying the needs of sports enthusiasts, Al Arabiya features specialized sports programs which aim to provide in-depth news and analysis on regional and international events.
+
+2025-02-06 5:00pm
+Hour Of Discussion
+Special report.
+
+2025-02-06 6:00pm
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 7:00pm
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 8:00pm
+Outside The Box
+Special report.
+
+2025-02-06 9:00pm
+Al Arabiya News
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 9:05pm
+Fil Marma
+Series 1 Episode 17
 
 2025-02-06 10:00pm
 Al Arabiya News
-A news program.
-
-2025-02-06 10:27pm
-Kalam Fi Alfan
-10:27pm
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
 
 2025-02-06 11:00pm
 Al Arabiya News
-A news program.
+Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
+
+2025-02-06 11:30pm
+Yatafakkaroun
+Contributing to the renewal of Islamic thought, Yatafakkaroun presents new narratives, correcting misconceptions and discussing religious topics from a modern perspective.
 
 2025-02-07 12:00am
 Al Arabiya News

@@ -1010,3 +1010,35 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2025-02-09 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-09 2:30am
+Americast
+BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+
+2025-02-09 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-09 3:30am
+The Making of Bill Gates
+3:30am
+
+2025-02-09 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-09 4:30am
+Click
+How can technology help people living with Parkinson's disease? Lara Lewington travels to Madrid to meet a patient undergoing a procedure which uses high frequency ultrasound to reduce tremors.
+
+2025-02-09 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-09 5:30am
+Talking Business
+Highlighting the economic trends and businesses that are changing the world.
+

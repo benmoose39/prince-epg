@@ -4,93 +4,97 @@ House of Commons proceedings in Westminster Hall from Wednesday 29 January.
 
 2025-02-02 11:00am
 House of Lords
-Featuring all the action from the UK Parliament's House of Lords where peers engage in debates, hold Q&A sessions, and suggest legislative changes.
+Business in the House of Lords on Wednesday 29 January.
 
-2025-02-02 11:45am
-Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
-
-2025-02-02 12:50pm
-Scottish Parliament
-Coverage of Scottish parliament proceedings.
-
-2025-02-02 1:35pm
-House of Commons
-Featuring all the action from the UK Parliament's House of Commons where MPs engage in debates, scrutinise policies, and listen to statements by the government.
-
-2025-02-02 2:20pm
-House of Lords
-Featuring all the action from the UK Parliament's House of Lords where peers engage in debates, hold Q&A sessions, and suggest legislative changes.
-
-2025-02-02 3:05pm
+2025-02-02 12:45pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 29 January.
 
-2025-02-02 3:40pm
+2025-02-02 1:25pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 30 January.
 
-2025-02-02 4:25pm
+2025-02-02 2:10pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 28 January.
 
-2025-02-02 5:15pm
+2025-02-02 3:00pm
 Northern Ireland Assembly
 Coverage of questions in Stormont to the infrastructure minister John O'Dowd, on Monday 27 January.
+
+2025-02-02 3:45pm
+Lords Questions
+Questions in the House of Lords to government ministers on Monday 27 January.
+
+2025-02-02 4:30pm
+House of Lords
+Business in the House of Lords on Wednesday 29 January.
 
 2025-02-02 6:00pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Treasury select committee session on the recent Bank of England Financial Stability report with evidence from the governor of the Bank of England, Andrew Bailey, from Wednesday, 29 January.
 
-2025-02-02 9:10pm
+2025-02-02 7:45pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Commons Foreign Affairs Committee session on the situation in Syria, with evidence from Dr Lina Khatib from Chatham House, and Richard Barrett, former director of counter-terrorism at MI6, from Tuesday 28 January.
 
-2025-02-03 12:20am
+2025-02-02 10:15pm
+Select Committees
+Coverage of select committee proceedings on Wednesday 29 January.
+
+2025-02-03 12:25am
 House of Commons
 Coverage of questions in the House of Commons to Jonathan Reynolds, the business and trade secretary, and his team of ministers on Thursday 30 January.
 
-2025-02-03 1:20am
+2025-02-03 1:30am
 House of Commons
 Coverage of questions in the House of Commons to Jo Stevens, the Welsh secretary, and her team of ministers on Wednesday 29 January.
 
-2025-02-03 1:50am
+2025-02-03 1:55am
 House of Commons
 Coverage of questions in the House of Commons to Shabana Mahmood, the justice secretary, and her team of ministers on Tuesday 28 January.
 
-2025-02-03 2:50am
+2025-02-03 2:55am
 House of Commons
 Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 27 January.
 
-2025-02-03 3:50am
+2025-02-03 4:00am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 28 January.
 
-2025-02-03 4:40am
+2025-02-03 4:50am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 30 January.
 
-2025-02-03 5:25am
+2025-02-03 5:35am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 29 January.
 
-2025-02-03 6:00am
+2025-02-03 6:15am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 30 January.
 
-2025-02-03 9:05am
+2025-02-03 7:25am
+House of Commons
+Coverage of the day's proceedings in the House of Commons on Wednesday 29 January.
+
+2025-02-03 8:45am
+House of Lords
+Business in the House of Lords on Wednesday 29 January.
+
+2025-02-03 8:55am
 Northern Ireland Assembly
 Coverage of questions in Stormont to the infrastructure minister John O'Dowd, on Monday 27 January.
 
-2025-02-03 9:50am
+2025-02-03 9:40am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 28 January.
 
-2025-02-03 10:40am
+2025-02-03 10:35am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 30 January.
 
-2025-02-03 11:25am
+2025-02-03 11:20am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 29 January.
 
@@ -110,18 +114,6 @@ Coverage of questions in the House of Commons to Liz Kendall, the work and pensi
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Monday, 3 February 2025.
 
-2025-02-03 4:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 3 February 2025.
-
-2025-02-03 5:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 3 February 2025.
-
-2025-02-03 6:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 3 February 2025.
-
 2025-02-03 10:30pm
 Northern Ireland Assembly
 Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
@@ -134,26 +126,6 @@ Questions in the House of Lords to government ministers on Monday 3 February.
 House of Lords
 Business in the House of Lords on Monday 3 February.
 
-2025-02-04 1:00am
-House of Lords
-Business in the House of Lords on Monday 3 February.
-
-2025-02-04 2:00am
-House of Lords
-Business in the House of Lords on Monday 3 February.
-
-2025-02-04 3:00am
-House of Lords
-Business in the House of Lords on Monday 3 February.
-
-2025-02-04 4:00am
-House of Lords
-Business in the House of Lords on Monday 3 February.
-
-2025-02-04 5:00am
-House of Lords
-Business in the House of Lords on Monday 3 February.
-
 2025-02-04 7:00am
 House of Commons
 Coverage of questions in the House of Commons to Liz Kendall, the work and pensions secretary, and her team of ministers on Monday 3 February.
@@ -162,7 +134,7 @@ Coverage of questions in the House of Commons to Liz Kendall, the work and pensi
 House of Commons
 Highlights of the proceedings in the House of Commons on Monday. 3 February 2025.
 
-2025-02-04 9:30am
+2025-02-04 10:00am
 Select Committees
 Coverage of select committee proceedings on Tuesday 4 February.
 
@@ -173,18 +145,6 @@ Coverage of questions in the House of Commons to Ed Miliband, the energy securit
 2025-02-04 12:30pm
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Tuesday, 4 February 2025.
-
-2025-02-04 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday, 4 February 2025.
-
-2025-02-04 2:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 4 February.
-
-2025-02-04 3:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 4 February.
 
 2025-02-04 7:30pm
 House of Lords
@@ -199,26 +159,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Tuesday 4 February.
 
 2025-02-04 11:35pm
-House of Lords
-Business in the House of Lords on Tuesday 4 February.
-
-2025-02-05 12:35am
-House of Lords
-Business in the House of Lords on Tuesday 4 February.
-
-2025-02-05 1:35am
-House of Lords
-Business in the House of Lords on Tuesday 4 February.
-
-2025-02-05 2:35am
-House of Lords
-Business in the House of Lords on Tuesday 4 February.
-
-2025-02-05 3:35am
-House of Lords
-Business in the House of Lords on Tuesday 4 February.
-
-2025-02-05 4:35am
 House of Lords
 Business in the House of Lords on Tuesday 4 February.
 
@@ -246,14 +186,6 @@ Coverage of questions in the House of Commons to Keir Starmer, the prime ministe
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Wednesday 5 February.
 
-2025-02-05 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday 5 February.
-
-2025-02-05 2:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday 5 February.
-
 2025-02-05 7:30pm
 House of Lords
 Coverage of the day's proceedings in the House of Lords on Wednesday 5 February.
@@ -267,26 +199,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Wednesday 5 February.
 
 2025-02-05 11:20pm
-House of Lords
-Business in the House of Lords on Wednesday 5 February.
-
-2025-02-06 12:20am
-House of Lords
-Business in the House of Lords on Wednesday 5 February.
-
-2025-02-06 1:20am
-House of Lords
-Business in the House of Lords on Wednesday 5 February.
-
-2025-02-06 2:20am
-House of Lords
-Business in the House of Lords on Wednesday 5 February.
-
-2025-02-06 3:20am
-House of Lords
-Business in the House of Lords on Wednesday 5 February.
-
-2025-02-06 4:20am
 House of Lords
 Business in the House of Lords on Wednesday 5 February.
 
@@ -318,14 +230,6 @@ Coverage of the announcement of future Commons business and questions to Lucy Po
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Thursday 6 February.
 
-2025-02-06 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday 6 February.
-
-2025-02-06 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday 6 February.
-
 2025-02-06 5:30pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 6 February.
@@ -335,26 +239,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Thursday 6 February.
 
 2025-02-06 7:00pm
-House of Lords
-Business in the House of Lords on Thursday 6 February.
-
-2025-02-06 8:00pm
-House of Lords
-Business in the House of Lords on Thursday 6 February.
-
-2025-02-06 9:00pm
-House of Lords
-Business in the House of Lords on Thursday 6 February.
-
-2025-02-06 10:00pm
-House of Lords
-Business in the House of Lords on Thursday 6 February.
-
-2025-02-06 11:00pm
-House of Lords
-Business in the House of Lords on Thursday 6 February.
-
-2025-02-07 12:00am
 House of Lords
 Business in the House of Lords on Thursday 6 February.
 
@@ -390,10 +274,6 @@ Highlights of proceedings in the House of Lords.
 Select Committees
 Recorded coverage of select committee proceedings.
 
-2025-02-07 7:30pm
-Select Committees
-Recorded coverage of select committee proceedings.
-
 2025-02-07 9:00pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 6 February.
@@ -402,31 +282,11 @@ Questions in the Scottish Parliament to John Swinney, the first minister, on Thu
 Scottish Parliament
 Highlights from the Scottish Parliament.
 
-2025-02-07 10:45pm
-Scottish Parliament
-Highlights from the Scottish Parliament.
-
-2025-02-07 11:45pm
-Scottish Parliament
-Highlights from the Scottish Parliament.
-
 2025-02-08 1:00am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 4 February.
 
 2025-02-08 1:50am
-Senedd Cymru - Welsh Parliament
-Highlights from the Welsh Parliament.
-
-2025-02-08 2:30am
-Senedd Cymru - Welsh Parliament
-Highlights from the Welsh Parliament.
-
-2025-02-08 3:10am
-Senedd Cymru - Welsh Parliament
-Highlights from the Welsh Parliament.
-
-2025-02-08 3:50am
 Senedd Cymru - Welsh Parliament
 Highlights from the Welsh Parliament.
 
