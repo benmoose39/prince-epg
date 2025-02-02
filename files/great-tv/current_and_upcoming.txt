@@ -1,7 +1,3 @@
-2025-02-02 12:00pm
-Murder, She Wrote
-Jessica suspects a set-up when her Irish colleague is charged with murdering his long-time nemesis, who is killed shortly after moving to the United States.
-
 2025-02-02 1:00pm
 Murder, She Wrote
 Jessica tries to clear Dr Hazlitt after he is threatened with a possible malpractice suit when the owner of Cabot Cove's computer company dies.
@@ -76,7 +72,7 @@ Shopping from home.
 
 2025-02-03 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-02-03 6:00am
 Teleshopping
