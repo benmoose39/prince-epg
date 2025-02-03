@@ -1,23 +1,3 @@
-2025-02-02 11:00pm
-Headliners
-News programme.
-
-2025-02-03 12:00am
-Free Speech Nation
-Round up of the best and most infuriating stories of Andrew Doyle's week, including a comedy take on the week.
-
-2025-02-03 2:00am
-Headliners
-News programme.
-
-2025-02-03 3:00am
-Ben Leo Tonight
-Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
-
-2025-02-03 5:00am
-Headliners
-News programme.
-
 2025-02-03 6:00am
 Breakfast with Eamonn and Ellie
 Join Eamonn Holmes and Ellie Costello to start your day across the United Kingdom. This is your breakfast show. Join the conversation about what is happening in our nation and the world.
@@ -347,6 +327,58 @@ Ben Leo Tonight
 Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
 
 2025-02-09 5:00am
+Headliners
+News programme.
+
+2025-02-09 6:00am
+Breakfast with Stephen and Anne
+The Great British Breakfast continues into the weekend with Stephen Dixon and Anne Diamond. Prepare yourself for the weekend with a full round-up of the week's news and politics and sport.
+
+2025-02-09 9:30am
+The Camilla Tominey Show
+Hosted by Camilla Tominey.
+
+2025-02-09 11:00am
+Portillo
+Join Michael Portillo and guests for a relaxed look at the world of politics, culture and the arts.
+
+2025-02-09 1:00pm
+The Weekend
+A lively look at all the latest live and breaking news for the weekend from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives.
+
+2025-02-09 3:00pm
+Nana Akua
+Nana Akua presents her own unique take on the biggest stories of the day.
+
+2025-02-09 6:00pm
+The Camilla Tominey Show Highlights
+Best of Camilla Tominey discussing politics, live from Westminister.
+
+2025-02-09 7:00pm
+Free Speech Nation
+Round up of the best and most infuriating stories of Andrew Doyle's week, including a comedy take on the week.
+
+2025-02-09 9:00pm
+Ben Leo Tonight
+Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
+
+2025-02-09 11:00pm
+Headliners
+News programme.
+
+2025-02-10 12:00am
+Free Speech Nation
+Round up of the best and most infuriating stories of Andrew Doyle's week, including a comedy take on the week.
+
+2025-02-10 2:00am
+Headliners
+News programme.
+
+2025-02-10 3:00am
+Ben Leo Tonight
+Join Ben for two hours of lively debate and news making interviews. Top guests tackle the big issues of the day with Ben's fresh take on every story.
+
+2025-02-10 5:00am
 Headliners
 News programme.
 
