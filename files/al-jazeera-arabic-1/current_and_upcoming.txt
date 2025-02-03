@@ -512,7 +512,7 @@ A current affairs daily program looking at a major news story of the day.
 
 2025-02-07 5:00am
 News Bulletin
-International news with an emphasis on developments in the Arab world.
+Backtrace:
 
 2025-02-07 6:00am
 News Bulletin
