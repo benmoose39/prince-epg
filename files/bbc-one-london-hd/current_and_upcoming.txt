@@ -1,7 +1,3 @@
-2025-02-05 11:15am
-Homes Under the Hammer
-A Victorian cottage by the water's edge in Plymouth is given a breathtaking new look, worthy of the views from its windows, while developers also work hard in Stoke and Pembroke Dock to add value to their projects.
-
 2025-02-05 12:15pm
 Bargain Hunt
 Charlie Ross and the teams try to uncover profitable antiques in Sussex with experts Caroline Hawley and Tim Weeks. While the reds and blues compete to make the most money at auction, Charlie learns how science can help to prove the authenticity of ancient artefacts, using a process called thermoluminescence.
@@ -140,7 +136,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-02-06 5:30am
 Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
+Backtrace:
 
 2025-02-06 6:00am
 Breakfast
