@@ -1,59 +1,3 @@
-2025-02-05 11:15pm
-	Respect
-Aretha Franklin sings in her father's church choir as a child and grows up to become an international musical superstar and legend.
-
-2025-02-06 1:35am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-02-06 1:40am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-02-06 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-02-06 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-02-06 2:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-02-06 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-02-06 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-02-06 3:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-02-06 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-02-06 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-02-06 4:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-02-06 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-06 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-02-06 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -931,6 +875,170 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-02-12 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-02-12 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-02-12 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-02-12 10:45am
+Expert Witness
+When a decomposed body is washed up on a Dutch beach, a UK facial reconstruction expert helps uncover the identity. Also, a forensic linguistic specialist leads an international hunt for evidence against an Edinburgh bomber.
+
+2025-02-12 11:15am
+Homes Under the Hammer
+A scenic plot of land in Staffordshire by the water has Dion beaming with enthusiasm, while Jacqui is trying to crack the code of a safe left behind in a house in Norfolk. Great minds think alike as Martin and the new owner of a house in south Wales have the same ideas on how to improve the layout.
+
+2025-02-12 12:15pm
+Bargain Hunt
+Caroline Hawley and the teams are in Kent, where experts Nick Hall and Tim Weeks help the red and blue teams as they shop for antiques to take to auction. Caroline finds out why a tragic death in the 1800s is still helping to save lives today.
+
+2025-02-12 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-02-12 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-12 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-02-12 2:00pm
+The Big Idea Works
+Sara Davies meets David and Heather at the Idea Works to hear their big ideas. David's idea is for a very cool kitchen gadget. Heather has an idea for a luxury cat carrier.
+
+2025-02-12 2:30pm
+Rick Stein's Food Stories
+Rick gets his chops around the ultimate jerk chicken made by the man behind Bristol's most exciting Caribbean food kitchen. He delves into the history of the city's African-Caribbean carnival and witnesses the healing power of food.
+
+2025-02-12 3:00pm
+Escape to the Country
+Wanting to leave town life behind them, this episode's couple have their sights set on a new countryside home in Northamptonshire, and Ginny Buckley is on hand to help them find it. Ginny also discovers a beautiful green space on the outskirts of Kettering, where the town's residents can recharge their minds, bodies and green fingers.
+
+2025-02-12 3:45pm
+Antiques Road Trip
+The heat is on for Phil and Natasha as they straddle the border between Scotland and England. Will Phil be able to haggle his way up to a win?
+
+2025-02-12 4:30pm
+The Repair Shop: On the Road
+Dom and Lucia help an iconic Glasgow landmark that has lost its lustre.
+
+2025-02-12 5:15pm
+Pointless
+Alexander Armstrong is joined by co-host Liza Tarbuck for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-02-12 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-02-12 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-12 6:55pm
+Party Political Broadcast
+A party political broadcast by the Conservative Party.
+
+2025-02-12 7:00pm
+The One Show
+Alex Jones and Vernon Kay bring you the stories that matter from across the country.
+
+2025-02-12 7:30pm
+EastEnders
+The Square prepare to celebrate Honey and Billy's joint Sten-do, Sharon's concerns for Phil continue to grow, and Priya attempts to see out a plan.
+
+2025-02-12 8:00pm
+The Repair Shop
+Childhood memories are restored alongside items such as a storybook made by two loving parents and a tweed flat cap that belonged to a bricklaying father who died far too young.
+
+2025-02-12 9:00pm
+Amandaland
+After embracing minimalism, or as she calls it, 'simpletonism', Amanda is forced to sell the contents of her lock-up at a car boot sale.
+
+2025-02-12 9:30pm
+Am I Being Unreasonable?
+The aftermath of the memorial sees Nic kicked out of the house and shunned by everyone in the village. A tarot card reading warns her of a foreboding figure in her future that could affect not only Nic but her son too. Dan has taken up roller skating to channel his mid-life crisis, putting Ollie's patience to the test. Nic moves in with Jen, and they have a boozy night together to drown their sorrows, but is Nic right to trust Jen again?
+
+2025-02-12 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-02-12 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-02-12 10:40pm
+UEFA Champions League Football
+Watch all the goals and talking points from the first-leg ties of the knockout phase play-offs, as 16 sides battle to secure a place in the next round of this season's new-look Champions League. Some of the teams in action this week left it late to seal their qualification for the latter stages. All of these clubs finished between ninth and 24th place in the initial league table.
+
+2025-02-13 12:00am
+The Six Nations Greatest Moments
+A look back at Johnny Sexton's last grasp winner in 2018, Mauro Bergamasco's debut at scrum half and the craziest end to a Six Nations game as Wales faced Scotland in 2010.
+
+2025-02-13 12:30am
+Extraordinary Portraits
+Bill Bailey matches a remarkable young woman with cancer, who set up her own charity, with a realist painter to create a new art work.
+
+2025-02-13 1:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-02-13 1:05am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-02-13 1:30am
+The Making of Bill Gates
+1:30am
+
+2025-02-13 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-02-13 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-02-13 2:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-02-13 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-02-13 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-02-13 3:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-02-13 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-02-13 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-02-13 4:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-02-13 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-13 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 

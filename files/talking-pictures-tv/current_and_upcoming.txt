@@ -1,31 +1,3 @@
-2025-02-05 11:10pm
-Crime Story
-A woman, her two children and her parents are found dead in rural Tolleshunt D'Arcy.
-
-2025-02-06 12:15am
-Maigret
-Parisian detective chief superintendent Maigret investigates murder cases.
-
-2025-02-06 1:20am
-	Black Tuesday
-A condemned killer's escape plan backfires when a fellow inmate refuses to help him execute his hostages.
-
-2025-02-06 3:00am
-Look at Life
-A fascinating look at the increasing mechanisation of hop picking.
-
-2025-02-06 3:10am
-	Somewhere on Leave
-Wealthy Private Roy takes his soldier friends Randle, Enoch and Young to his palatial home to help him get his dream girl.
-
-2025-02-06 5:00am
-Four Star Playhouse
-A successful commercial artist is enticed away from his lucrative career by a young model.
-
-2025-02-06 5:30am
-Richard Diamond, Private Detective
-Diamond corners a hit-run killer in a mirrored fun house.
-
 2025-02-06 6:00am
 	Bulldog Drummond Escapes
 The London sleuth and his sidekick, Algy, catch crooks for a Scotland Yard inspector.
@@ -529,4 +501,104 @@ A Scotland Yard detective gets more than he bargained with a gang of London jewe
 2025-02-12 5:30am
 The Beverly Hillbillies
 When Mr. Drysdale describes Mrs. Drysdale as being a hypochondriac, the Clampetts assume she must be a drunk.
+
+2025-02-12 6:00am
+Amos Burke, Secret Agent
+Burke must infiltrate an international criminal organisation which plans to use a peace group's plan to use an LSD gas.
+
+2025-02-12 7:00am
+Look at Life
+1962. A look at Hitler's 'Eagle's Nest' in the Bavarian Alps; a construction which survived World War II, that has now become a popular tourist attraction.
+
+2025-02-12 7:10am
+	The Trial of Madame X
+Crime drama (1948)
+
+2025-02-12 8:20am
+	At Sea In The Royal Navy
+An insightful short film providing a look at the responsibilities of the men working for the Royal Navy, with a glimpse of some of the men off duty in Gibraltar.
+
+2025-02-12 8:30am
+One Step Beyond
+A jealous husband kills his wife after misreading her visit to the quarters of a mute clown.
+
+2025-02-12 9:05am
+	The Gentle Trap
+After intercepting two gangsters who have just robbed a jewellery store, a crafty crook finds himself on the run from the law and the ruthless leader of the gang.
+
+2025-02-12 10:15am
+	Nowhere to Go
+Paul Gregory is sprung from jail in London by his accomplice. A series of accidents and double-crosses sends Gregory spinning through London's criminal underworld.
+
+2025-02-12 12:15pm
+Look at Life
+The spotlight shines on the brave bomb disposal units of three services, also with a look at the many risks they take.
+
+2025-02-12 12:25pm
+	Third Party Risk
+Vacationing at a resort hotel in Spain, a man discovers he is the only one not mixed up one way or another in murder, drugs and microfilm smuggling. But, the police are after him!
+
+2025-02-12 1:55pm
+The Brothers
+Power For Sale. 1974. Stars Patrick O'Connell, Jonathan Newth & Michael Turner. Ted is floored by Jennifer's announcement and Dutch businessman Van Der Moewe is introduced to the Board.
+
+2025-02-12 3:00pm
+	The Hellbenders
+An ex-Confederate officer and his sons cross the desert with a coffin full of stolen Union cash.
+
+2025-02-12 4:50pm
+The Life and Legend of Wyatt Earp
+A pillar of the community is hailed as a hero when he shoots a thief, until people learn that the man is wanted for being a member of the James gang.
+
+2025-02-12 5:25pm
+The Adventures of Jim Bowie
+Jim steps in when the army tries to relocate the Seminole Indians from their lands.
+
+2025-02-12 5:55pm
+The Texan
+Longley and Acosta travel to San Thomas to bid on a shipment of rifles and ammunition; they're outbid by a beautiful blonde woman working for a notorious gun runner; Longley and Acosta must now prevent the gunrunner's plans to arm the Apaches.
+
+2025-02-12 6:30pm
+The Road to D-Day
+War is destructive and produces more sophisticated ways of killing people, yet D-Day showed that conflict also leads to technological innovations designed to counter new sources of death.
+
+2025-02-12 7:00pm
+Z Cars
+The council want to evict a commune, but how far is too far when the squatters resist?
+
+2025-02-12 8:00pm
+Manhunt
+Gratz has, for reasons of his own but to Lutzig's dismay, released Nina. Together with Vincent and Jimmy she is hidden in the town of Boiziers by Doctor Moussac and his wife. Lutzig, though, is on their trail.
+
+2025-02-12 9:05pm
+Maigret
+Maigret travels to his home town after seeing a note with a warning about a crime that will be committed in the church.
+
+2025-02-12 10:55pm
+Crime Story
+A story of hostility within the fast-food underworld which began with the murders of a hot dog baron and his employee.
+
+2025-02-13 12:00am
+Maigret
+Parisian detective chief superintendent Maigret investigates murder cases.
+
+2025-02-13 1:05am
+	Day of the Nightmare
+Police officials are stumped when a series of grisly crimes leads them to the grave of a long-dead woman.
+
+2025-02-13 2:55am
+	On the Yard
+When a con artist goes up against the head of a prison gang, he learns the price of defiance. Filmed entirely inside the Rockview State Correctional Facility.
+
+2025-02-13 4:50am
+Four Star Playhouse
+A woman with no companion other than her young daughter knows that an escaped convict is on his way to kill her.
+
+2025-02-13 5:20am
+Look at Life
+1962. A look at Hadrian's Wall in Northumberland. Also, with a look at a more detailed examination of the Berlin Wall.
+
+2025-02-13 5:30am
+Richard Diamond, Private Detective
+A marriage counsellor plots the perfect murder of his wife.
 
