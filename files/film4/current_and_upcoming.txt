@@ -40,10 +40,6 @@ Cursed with immortality, a highly skilled samurai in feudal Japan promises to he
 
 2025-02-07 4:00am
 Teleshopping
-Backtrace:
-
-2025-02-07 4:00am
-Teleshopping
 Shopping from home.
 
 2025-02-07 8:00am
