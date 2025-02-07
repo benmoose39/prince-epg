@@ -1,11 +1,3 @@
-2025-02-07 1:00pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2025-02-07 1:35pm
-BBC London News
-News, sport and weather from London.
-
 2025-02-07 1:45pm
 BBC News at One
 The latest national and international news, followed by weather.
