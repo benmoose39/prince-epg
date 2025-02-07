@@ -1,27 +1,3 @@
-2025-02-06 11:00pm
-Headliners
-News programme.
-
-2025-02-07 12:00am
-Farage
-Nigel Farage delivers his typically forthright views on the day's biggest stories with guests and interviews.
-
-2025-02-07 1:00am
-Dewbs & Co
-Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.
-
-2025-02-07 2:00am
-Headliners
-News programme.
-
-2025-02-07 3:00am
-Patrick Christys Tonight
-Patrick chairs two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.
-
-2025-02-07 5:00am
-Headliners
-News programme.
-
 2025-02-07 6:00am
 Breakfast with Stephen and Ellie
 Start your day with all the news and views from Britain's best Breakfast show.
@@ -347,6 +323,62 @@ Patrick Christys Tonight
 Patrick chairs two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.
 
 2025-02-13 5:00am
+Headliners
+News programme.
+
+2025-02-13 6:00am
+Breakfast with Stephen and Ellie
+Start your day with all the news and views from Britain's best Breakfast show.
+
+2025-02-13 9:30am
+Britain's Newsroom
+When the news happens, it happens here. But what does it mean for you? Every weekday morning, Britain's Newsroom brings you the biggest stories and the answers you need from the across the UK.
+
+2025-02-13 12:00pm
+Good Afternoon Britain
+Every weekday from midday, we bring you the news as it breaks. Wherever it's happening, we'll have it covered - as well as giving our own view and how it matters to you with Tom and Emily.
+
+2025-02-13 3:00pm
+Martin Daubney
+Martin gives an up-to-the-minute take on the day's events delivered in his own unique and lively style.
+
+2025-02-13 6:00pm
+Dewbs & Co
+Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.
+
+2025-02-13 7:00pm
+Farage
+Nigel Farage delivers his typically forthright views on the day's biggest stories with guests and interviews.
+
+2025-02-13 8:00pm
+State of the Nation
+The countdown to election day is on. Commentators explore the issues they believe matter to Britain as the parties attempt to win the vote and the keys to Number 10.
+
+2025-02-13 9:00pm
+Patrick Christys Tonight
+Patrick chairs two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.
+
+2025-02-13 11:00pm
+Headliners
+News programme.
+
+2025-02-14 12:00am
+Farage
+Nigel Farage delivers his typically forthright views on the day's biggest stories with guests and interviews.
+
+2025-02-14 1:00am
+Dewbs & Co
+Plain-speaking, straight-talking - Michelle Dewberry delivers her individual take on the day's news.
+
+2025-02-14 2:00am
+Headliners
+News programme.
+
+2025-02-14 3:00am
+Patrick Christys Tonight
+Patrick chairs two hours of spirited debate and news making interviews. Top guests tackle the issues that matter, with a sharp take on every story.
+
+2025-02-14 5:00am
 Headliners
 News programme.
 
