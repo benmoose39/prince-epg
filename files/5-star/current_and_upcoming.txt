@@ -1,7 +1,3 @@
-2025-02-07 1:00pm
-Traffic Cops
-Following the work of the North Yorkshire Police on the frontline of Britain's roads, where the fight against crime is fast and furious.
-
 2025-02-07 2:00pm
 Police Interceptors
 Profiling the work of high-speed police interception units around the country with some of the most dangerous pursuits and shocking footage ever captured. Exploring what it takes to bring order to chaos.
@@ -76,7 +72,7 @@ A daily round-up of showbiz news and gossip from around the world, focusing on c
 
 2025-02-08 4:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-02-08 6:00am
 Teleshopping
