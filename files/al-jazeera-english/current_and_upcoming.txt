@@ -1,7 +1,3 @@
-2025-02-08 7:00am
-Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
-
 2025-02-08 8:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -152,7 +148,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-02-09 5:30am
 Inside Story
-Backtrace:
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2025-02-09 6:00am
 News
