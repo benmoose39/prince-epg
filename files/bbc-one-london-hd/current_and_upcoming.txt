@@ -91,8 +91,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-02-09 2:30am
-Americast
-BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+Scams & Scandals
+The story of a man who charges thousands for a dangerous cosmetic procedure: liquid Brazilian butt lifts. Ricky Sawyer has left women across the UK disfigured and in agony.
 
 2025-02-09 3:00am
 BBC News
@@ -116,7 +116,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-02-09 5:30am
 Talking Business
-Highlighting the economic trends and businesses that are changing the world.
+Rare earths are crucial to the global economy, but what are they and what have they got to do with President Trump's plans for Greenland?
 
 2025-02-09 6:00am
 Breakfast
@@ -999,6 +999,38 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-02-15 1:30am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
+China's Greatest Treasures
+BBC art historian Alastair Sooke discovers how historic fashion design still resonates with people in China today, and how it has become a way in which people can celebrate their identity.
+
+2025-02-15 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-15 2:30am
+World Questions
+Rising defence spending, a permanent NATO brigade and anti-tank fortifications on its borders - after Russia's invasion of Ukraine, Lithuanians are keen not to be next.
+
+2025-02-15 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-15 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-02-15 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-15 4:30am
+The Travel Show
+Thirty years after the Dayton Accords finally ended the war in Bosnia, Rajan Datar travels to the country to explore the legacy that the conflict left behind as it tries to attract more tourists.
+
+2025-02-15 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-15 5:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
 
