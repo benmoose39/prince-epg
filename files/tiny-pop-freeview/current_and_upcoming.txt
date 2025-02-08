@@ -20,7 +20,7 @@ Lifetime +1 is no longer available.
 
 2025-02-09 2:00am
 Channel No Longer Available
-Lifetime +1 is no longer available.
+Backtrace:
 
 2025-02-09 6:00am
 Channel No Longer Available
