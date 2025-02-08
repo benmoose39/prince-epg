@@ -1,55 +1,3 @@
-2025-02-07 11:30pm
-Behind the News
-A current affairs daily program looking at a major news story of the day.
-
-2025-02-08 12:00am
-News Summary
-Round up of the latest news headlines.
-
-2025-02-08 12:05am
-Scenarios
-An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
-
-2025-02-08 12:55am
-Weather Forecast
-Bringing you the latest weather news and forecast.
-
-2025-02-08 1:00am
-News Summary
-Round up of the latest news headlines.
-
-2025-02-08 1:05am
-From Washington
-Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
-
-2025-02-08 2:00am
-News Summary
-Round up of the latest news headlines.
-
-2025-02-08 2:05am
-On the scale
-2:05am
-
-2025-02-08 3:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2025-02-08 3:30am
-Beyond Authority
-A weekly programme assessing important political, security, economic, social and general events of interest to the public. Presented in the critical and sarcastically comic style but with appropriate measure of seriousness.
-
-2025-02-08 4:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2025-02-08 4:30am
-Behind the News
-A current affairs daily program looking at a major news story of the day.
-
-2025-02-08 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
 2025-02-08 6:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
@@ -811,6 +759,134 @@ Behind the News
 A current affairs daily program looking at a major news story of the day.
 
 2025-02-14 5:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 6:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 6:05am
+Al Jazeera This Morning
+Starting the day with news brought to you with interviews from Al Jazeera's global teams.
+
+2025-02-14 7:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 7:30am
+Contemplation
+Al Jazeera presents Contemplation.
+
+2025-02-14 8:00am
+This Day
+Stay on top of today's news with all the latest developments, including economic and sport.
+
+2025-02-14 11:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 11:55am
+Weather Forecast
+Bringing you the latest weather news and forecast.
+
+2025-02-14 12:00pm
+Al Jazeera Midday
+The day's news brought to you with interviews and full reports from Al Jazeera's global teams.
+
+2025-02-14 3:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 4:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 4:30pm
+Beyond Authority
+A weekly programme assessing important political, security, economic, social and general events of interest to the public. Presented in the critical and sarcastically comic style but with appropriate measure of seriousness.
+
+2025-02-14 5:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 5:30pm
+Behind the News
+A current affairs daily program looking at a major news story of the day.
+
+2025-02-14 6:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 7:05pm
+Private Investigation
+The programme will be linking the strands of information with available documentation and eyewitness reports to form a complete picture of the event.
+
+2025-02-14 8:00pm
+Today's Harvest
+An extensive round up of the day's news coverage, bringing you the headline news.
+
+2025-02-14 9:00pm
+Mid Night
+A summary of the day's news, including sport and new media.
+
+2025-02-14 10:55pm
+Weather Forecast
+Bringing you the latest weather news and forecast.
+
+2025-02-14 11:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-14 11:30pm
+Behind the News
+A current affairs daily program looking at a major news story of the day.
+
+2025-02-15 12:00am
+News Summary
+Round up of the latest news headlines.
+
+2025-02-15 12:05am
+Scenarios
+An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
+
+2025-02-15 12:55am
+Weather Forecast
+Bringing you the latest weather news and forecast.
+
+2025-02-15 1:00am
+News Summary
+Round up of the latest news headlines.
+
+2025-02-15 1:05am
+From Washington
+Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
+
+2025-02-15 2:00am
+News Summary
+Round up of the latest news headlines.
+
+2025-02-15 2:05am
+On the scale
+2:05am
+
+2025-02-15 3:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-15 3:30am
+Beyond Authority
+A weekly programme assessing important political, security, economic, social and general events of interest to the public. Presented in the critical and sarcastically comic style but with appropriate measure of seriousness.
+
+2025-02-15 4:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2025-02-15 4:30am
+Behind the News
+A current affairs daily program looking at a major news story of the day.
+
+2025-02-15 5:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
