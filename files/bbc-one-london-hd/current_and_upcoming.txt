@@ -558,21 +558,25 @@ News, sport and weather from London.
 UEFA Champions League Football
 Watch all the goals and talking points from the first-leg ties of the knockout phase play-offs, as 16 sides battle to secure a place in the next round of this season's new-look Champions League. Some of the teams in action this week left it late to seal their qualification for the latter stages. All of these clubs finished between ninth and 24th place in the initial league table.
 
-2025-02-13 12:00am
+2025-02-12 11:50pm
 The Six Nations Greatest Moments
 A look back at Johnny Sexton's last grasp winner in 2018, Mauro Bergamasco's debut at scrum half and the craziest end to a Six Nations game as Wales faced Scotland in 2010.
 
-2025-02-13 12:30am
+2025-02-13 12:20am
 Extraordinary Portraits
 Bill Bailey matches a remarkable young woman with cancer, who set up her own charity, with a realist painter to create a new art work.
 
-2025-02-13 1:00am
+2025-02-13 12:50am
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2025-02-13 1:05am
+2025-02-13 12:55am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-02-13 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-02-13 1:30am
 The Making of Bill Gates
@@ -1013,4 +1017,32 @@ Detailed weather forecast.
 2025-02-16 2:10am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-02-16 2:30am
+Americast
+BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+
+2025-02-16 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-16 3:30am
+Eye Investigations
+After a Saudi trans woman's death went viral, BBC Eye investigates the final months of her life and the claim that she was misled into returning to Saudi Arabia from the US.
+
+2025-02-16 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-16 4:30am
+Click
+Nick Kwek meets the Sydney-based startup using robotics to clean up waterways. Paul Carter explores a tech solution which could lead to self-healing potholes.
+
+2025-02-16 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-16 5:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
