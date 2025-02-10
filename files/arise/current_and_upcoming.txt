@@ -1,7 +1,3 @@
-2025-02-10 12:00pm
-This Day Live
-12:00pm
-
 2025-02-10 2:00pm
 Arise News Now
 2:00pm
@@ -68,7 +64,7 @@ Arise America
 
 2025-02-11 5:00am
 Arise News Now
-5:00am
+Backtrace:
 
 2025-02-11 6:00am
 Arise 360
