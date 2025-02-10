@@ -1,31 +1,3 @@
-2025-02-09 9:55pm
-	Pulp
-A successful pulp-fiction writer living in Rome agrees to ghost-write the autobiography of an over-the-hill movie star famed for his real-life friendships with gangsters. The writer soon finds himself in over his head when the subject of the book is murdered.
-
-2025-02-09 11:50pm
-The Heritage Chart Show
-'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
-
-2025-02-10 12:55am
-	The Deep Blue Sea
-An unhappily married woman has an ill-fated affair with an RAF pilot in England; based on Terrence Rattigan's play.
-
-2025-02-10 3:00am
-	The First Traveling Saleslady
-A corset store owner goes broke and becomes a travelling sales lady in Texas 1897.
-
-2025-02-10 4:50am
-Cinebox Memories
-It's time to get into the groove with `Ain't Gonna Kiss Ya' performed by the internationally acclaimed harmony band, The Fortunes, originally formed in Birmingham, UK in the 1960s.
-
-2025-02-10 4:55am
-The Texan
-After Longley rescues the wounded Reverend Kilgore from two would-be bushwhackers, he learns that the parson was heading for Phillipsburg.
-
-2025-02-10 5:30am
-The Larkins
-Alf accuses Ada of interfering, leading her to do some soul searching, but the family fear an inevitable eruption.
-
 2025-02-10 6:00am
 	The Lone Wolf Strikes
 Former jewel thief Michael Lanyard recovers stolen pearls for an heiress.
@@ -569,4 +541,88 @@ A Film Made by Wilf Watters in the 1960s where he visits what remains of Victori
 2025-02-16 5:30am
 Out of Town
 Starting at the coast, Jack Hargreaves takes us on a trip along Southampton Water to Eling Creek, where the double tide powers a water mill.
+
+2025-02-16 6:00am
+	Lost Lagoon
+A married castaway washes up on an island off Florida and opens a resort with another woman.
+
+2025-02-16 7:35am
+	Strange Invaders
+A tabloid newswoman helps a professor find his daughter and ex-wife, one of many snatched by aliens in 1958.
+
+2025-02-16 9:25am
+	Journey to the Center of the Earth
+A retelling of the Jule Verne tale. A group of young people fall into a hole after exploring a cave and end up in the lost city of Atlantis.
+
+2025-02-16 11:05am
+The Beverly Hillbillies
+A rural family reluctantly exchanges a one-room mountain cabin for $25 million and a 35-room mansion after they strike oil on their land.
+
+2025-02-16 11:40am
+Look at Life
+A look at the people who prepare salvaged steel to be re-used, also with a glimpse at the steel foundries which melt it all down again.
+
+2025-02-16 11:55am
+	The Naked Hills
+In 1800's California, a man in the grip of gold fever deserts his family to scour the hills for the precious metal.
+
+2025-02-16 1:25pm
+Batman
+Batman and Robin deduce The Catwoman's next objective, and rush to The Gotham State Building to discover the sale of Zubin Zucchini's two rare Stradivarius violins for $250,000 each, which they attempt to stop.
+
+2025-02-16 2:00pm
+	The Commandos Strike at Dawn
+A Norwegian exile, enraged at the Nazi invasion of his quiet fishing village, guides some British commandos on a raid against the German oppressors.
+
+2025-02-16 4:00pm
+The Adventures of Robin Hood
+When Marian uncovers a plot to accuse an eccentric scientist of sorcery, she informs Robin Hood who jumps into action.
+
+2025-02-16 4:30pm
+Out of Town
+In the high Dorset downs, the sheep shearing team has arrived. Jack goes to watch before taking a trawler in pursuit of another annual visitor, the sea bream.
+
+2025-02-16 5:00pm
+The Footage Detectives
+We have a fascinating lost reel of Dick Emery you won't want to miss; we take you to Birmingham in 1964 with a brilliant reel and how many of you still have your 60s 'Give Us a Show' projector?
+
+2025-02-16 6:00pm
+	Notorious
+The daughter of a convicted traitor is enlisted by the CIA to help foil a Nazi plot. Although she is initially reluctant to help those who precipitated the downfall of her father, the suave American agent sent to enlist her proves too persuasive, and she agrees to marry a Nazi collaborator to obtain insider information. However, her new husband soon realises their marriage is not what it seems.
+
+2025-02-16 8:00pm
+Gideon's Way
+The Commander of Scotland Yard juggles solving crime and staying present for his family.
+
+2025-02-16 9:05pm
+The Wheeltappers and Shunters Social Club
+The Kaye Sisters sing Together and Malcolm Roberts sings She; they are also joined by Sheps Banjo Boys, Dave Evans and Johnny Hackett.
+
+2025-02-16 9:55pm
+Budgie
+Budgie leaves prison and has a job planned within hours, a hijack of a van load of cosmetics. Unfortunately, the van has a more unusual cargo.
+
+2025-02-16 10:55pm
+	Into the Blue
+Contemporary thriller set partly on the island of Rhodes. A bankrupt former garage owner, now working as a waiter and a caretaker on the Greek isle, is hauled in by the local police when a young Englishwoman he has befriended goes missing. Under suspicion of murder, he flees the island and returns to England, where he begins trying to piece together the missing woman's background and her reasons for visiting Rhodes in the first place.
+
+2025-02-17 1:05am
+The Heritage Chart Show
+'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
+
+2025-02-17 2:10am
+	Charade
+A woman returns to her Paris flat to find her estranged husband's body and the CIA demanding answers to some baffling questions. She learns that her husband stole a huge sum of gold during the war and tricked four of his wartime buddies in order to keep it all for himself. The police are convinced that she knows the whereabouts of the loot.
+
+2025-02-17 4:30am
+Beautiful Dreamer
+The life and loves of composer Stephen Foster who was the influence for the early Minstrel shows.
+
+2025-02-17 4:55am
+The Texan
+Longley is hired to drive the first herd of cattle directly from the Texas Panhandle to Denver.
+
+2025-02-17 5:30am
+The Larkins
+When Ada and Hetty fall out, everyone attempts to stop the warring women, but their plans seem to make things worse.
 
