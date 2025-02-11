@@ -1,7 +1,3 @@
-2025-02-11 6:30am
-Breakfast
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports.
-
 2025-02-11 7:00am
 Breakfast
 All the big stories of the morning plus news making interviews, analysis and eyewitness reports.
@@ -160,7 +156,7 @@ All the top stories as they break, with live reports and updates.
 
 2025-02-12 5:00am
 Sky News
-All the top stories as they break, with live reports and updates.
+Backtrace:
 
 2025-02-12 6:00am
 Breakfast
