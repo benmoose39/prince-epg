@@ -76,7 +76,7 @@ Drew finds a mysterious piece of black pottery in Lancashire, an exotic piece in
 
 2025-02-12 5:00am
 Salvage Hunters
-Drew Pritchard runs a decorative salvage yard and is constantly looking for new stock.
+Backtrace:
 
 2025-02-12 6:00am
 Fantasy Homes by the Sea
