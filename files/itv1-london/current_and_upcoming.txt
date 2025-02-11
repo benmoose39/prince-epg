@@ -1,23 +1,3 @@
-2025-02-10 11:40pm
-Heathrow: Britain's Busiest Airport
-Flying for the last time out of Heathrow is the iconic Boeing 747, with plane spotters around the world hoping to bid it a fond farewell. Inside the terminal, it's hello to some new rather robotic members of staff, and outside on the airfield, new cargo driver Dylan is hoping his hankering for hypnosis can get him out of a jam.
-
-2025-02-11 12:05am
-Teleshopping
-Shopping from home.
-
-2025-02-11 3:00am
-Lingo
-The fast-paced game of words, hosted by Adil Ray, where three pairs of contestants face Lingo grids, fiendish puzzlewords, and a tense head-to-head round as they battle to reach the final and a chance to win a 15,000-pound jackpot - playing against the reigning Lingo champions this time are sisters Carol and Joanie and couple Ailsa and Joe.
-
-2025-02-11 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-02-11 5:05am
-Deal or No Deal
-Stephen Mulhern hosts as Ozzy gets his chance to open the iconic red boxes - he might be tempted by one of the Banker's enticing offers for his box or stand firm for a chance at the 100,000-pound jackpot.
-
 2025-02-11 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -565,4 +545,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-02-17 5:05am
 Fletchers' Family Farm
 The Fletchers focus on diversification at the farm as Kelvin forages for berries and herbs to make their very own Fletchers' gin. Liz is feeling inspired by leftover sheep's wool and heads to a mill in Oldham to see if they can be made into blankets.
+
+2025-02-17 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-02-17 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-02-17 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-02-17 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-02-17 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-02-17 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-17 2:00pm
+Dickinson's Real Deal
+David Dickinson presents from Aintree Racecourse in Liverpool as a church lamp turns out to be a bargain and Tim Hogarth is pressured by a seller's granddaughter.
+
+2025-02-17 3:00pm
+Lingo
+The fast-paced game of words, hosted by Adil Ray, where three pairs of contestants face Lingo grids, fiendish puzzlewords, and a tense head-to-head round as they battle to reach the final and a chance to win a 15,000-pound jackpot - trying to Lingo all the way to beat the reigning Lingo champions are friends Brad and Will and mother and daughter Helen and Esther.
+
+2025-02-17 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-02-17 5:00pm
+The Chase
+Bradley Walsh hosts as all that stands between Dale from Hull, Leslie from Barnsley, Ola from Aberdeen, Gordon from Glasgow and thousands of pounds is one of the country's finest quiz brains.
+
+2025-02-17 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-17 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-02-17 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-02-17 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-02-17 9:00pm
+Unforgotten
+With the details of Gerry Cooper's life becoming clearer and one suspect already being questioned, the Bishop Street team find suspects further afield. And if Mel and Asif have nothing to hide, why do they claim not to remember Gerry?
+
+2025-02-17 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-02-17 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-17 10:45pm
+The Real Stonehouse
+10:45pm
+
+2025-02-17 11:40pm
+Heathrow: Britain's Busiest Airport
+Christmas is approaching and there's a new kid on the block - British airline, Domestic Carrier Eastern Airways. They're excited to be joining the big names at Heathrow, but one of their busiest flights is scuppered by yet more bad news. A new variant of the pandemic has been discovered and it's come from Kent, meaning airports around the world are closing their borders to the UK.
+
+2025-02-18 12:05am
+Teleshopping
+Shopping from home.
+
+2025-02-18 3:00am
+Glitter: The Popstar Paedophile
+Exploring the dual life of the iconic performer and predatory abuser Gary Glitter and documenting his global crimes and the failures to bring him to justice.
+
+2025-02-18 4:15am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-02-18 5:30am
+For the Love of Dogs with Alison Hammond
+Alison bottle-feeds a three-week-old puppy found abandoned in a bin, meets a toy-obsessed terrier in training to be a sniffer dog, and falls head over heels for Nelly, a gorgeous spaniel with a rare eye condition.
 
