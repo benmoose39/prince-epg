@@ -1,7 +1,3 @@
-2025-02-11 9:00am
-Salvage Hunters
-Drew Pritchard runs a decorative salvage yard and is constantly looking for new stock.
-
 2025-02-11 10:00am
 Salvage Hunters
 Drew Pritchard runs a decorative salvage yard and is constantly looking for new stock.
@@ -76,7 +72,7 @@ Drew finds a mysterious piece of black pottery in Lancashire, an exotic piece in
 
 2025-02-12 5:00am
 Salvage Hunters
-Backtrace:
+Drew Pritchard runs a decorative salvage yard and is constantly looking for new stock.
 
 2025-02-12 6:00am
 Fantasy Homes by the Sea
