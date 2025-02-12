@@ -1,23 +1,3 @@
-2025-02-11 11:20pm
-ITV News
-The latest national and international news.
-
-2025-02-11 11:50pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2025-02-12 12:05am
-Keane & Vieira - Best Of Enemies
-A fascinating study of one of football's most infamous personality clashes between former midfield enforcers Roy Keane of Manchester United and Arsenal's Patrick Vieira.
-
-2025-02-12 1:10am
-Teleshopping
-Shopping from home.
-
-2025-02-12 4:00am
-Lingo
-The fast-paced game of words hosted by Adil Ray - crossing words to beat the reigning Lingo champions this time are friends Chris and Jake and pals Kiran and Sarah.
-
 2025-02-12 4:50am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
@@ -575,6 +555,94 @@ Glitter: The Popstar Paedophile
 Exploring the dual life of the iconic performer and predatory abuser Gary Glitter and documenting his global crimes and the failures to bring him to justice.
 
 2025-02-18 5:15am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-02-18 6:30am
+For the Love of Dogs with Alison Hammond
+Alison bottle-feeds a three-week-old puppy found abandoned in a bin, meets a toy-obsessed terrier in training to be a sniffer dog, and falls head over heels for Nelly, a gorgeous spaniel with a rare eye condition.
+
+2025-02-18 7:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-02-18 10:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-02-18 11:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-02-18 1:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-02-18 2:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-02-18 2:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-18 3:00pm
+Dickinson's Real Deal
+David Dickinson presents from Barry in South Wales as a Whitefriars charity shop bargain vase that cost just 50 pence gets a generous offer from Simon Schneider.
+
+2025-02-18 4:00pm
+Lingo
+The fast-paced game of words hosted by Adil Ray - battling it out this time are colleagues Mikie and Katie from Warrington, mates Nia and Sarah from Anglesey and Stoke-on-Trent, and James and his dad Nick from Bristol.
+
+2025-02-18 5:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-02-18 6:00pm
+The Chase
+Bradley Walsh hosts as all that stands between Will from York, Annaka from Newton Abbott, Debra from Glasgow & Tom from London and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains.
+
+2025-02-18 7:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-18 7:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-02-18 8:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-02-18 9:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-02-18 10:00pm
+The Real Unforgotten
+The first part of a two-part series following detectives as they reinvestigate the murder of Carol Morgan in the storeroom of her Bedfordshire corner shop in 1991 - a beloved local figure and mother of two young children, the murder had haunted the community ever since.
+
+2025-02-18 11:10pm
+ITV News
+The latest national and international news.
+
+2025-02-18 11:40pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-02-18 11:55pm
+The Jonathan Ross Show
+The host welcomes another batch of celebrity guests to his green room, including Brian Cox, Christina Hendricks, Oti Mabuse, and Chris McCausland. Also featuring, music by Snow Patrol.
+
+2025-02-19 1:00am
+Teleshopping
+Shopping from home.
+
+2025-02-19 4:00am
+The Real Unforgotten
+The first part of a two-part series following detectives as they reinvestigate the murder of Carol Morgan in the storeroom of her Bedfordshire corner shop in 1991 - a beloved local figure and mother of two young children, the murder had haunted the community ever since.
+
+2025-02-19 5:00am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
