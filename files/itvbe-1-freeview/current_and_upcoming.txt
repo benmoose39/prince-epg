@@ -16,7 +16,7 @@ Shopping from home.
 
 2025-02-13 5:00am
 This is ITVBe+1
-Backtrace:
+5:00am
 
 2025-02-13 6:00am
 This is ITVBe+1
