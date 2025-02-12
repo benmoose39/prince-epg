@@ -1,11 +1,3 @@
-2025-02-12 10:55am
-Aurora Teagarden Mysteries
-Aurora and friends take part in a mystery dinner theatre. However, art imitates life when a fellow actor gets killed.
-
-2025-02-12 11:50am
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
 2025-02-12 11:52am
 Aurora Teagarden Mysteries
 Aurora and friends take part in a mystery dinner theatre. However, art imitates life when a fellow actor gets killed.
@@ -396,7 +388,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 
 2025-02-15 5:50am
 Great! Movie News Extra
-Backtrace:
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-02-15 6:00am
 Affordable Luxury with TJC
