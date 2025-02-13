@@ -228,7 +228,7 @@ Shopping from home.
 
 2025-02-15 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-02-15 6:00am
 Say Yes to the Dress: Bridesmaids
