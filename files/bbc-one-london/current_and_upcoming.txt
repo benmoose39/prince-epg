@@ -174,11 +174,11 @@ The notorious cat has the adventure of nine lifetimes when he joins forces with 
 Gladiators: Epic Pranks
 Nitro and Apollo prank Dynamite turning her into a singing banana! The other Gladiators have fun behind the scenes and pranking the audience at Sheffield Arena.
 
-2025-02-16 3:35pm
+2025-02-16 3:30pm
 Gladiators
 Gladiators Ready! Hosts Bradley and Barney Walsh return as four more gritty Contenders take on the superhuman Gladiators in five brutal events before going head-to-head in the gruelling Eliminator. Who has the will and the skill to conquer the infamous Travelator and win a coveted place in the quarter-finals? The Contenders brave the petrifying Unleash track, witness the first ever Contender victory in Hang Tough and prepare for a record-breaking Eliminator performance.
 
-2025-02-16 4:35pm
+2025-02-16 4:30pm
 BBC Weekend News
 National and international news, followed by weather.
 
@@ -1013,4 +1013,32 @@ Detailed weather forecast.
 2025-02-22 2:25am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-02-22 2:30am
+Influential with Katty Kay
+Brooke Shields tells Katty Kay about her journey from child star to resilient adult. They discuss the challenges of fame and what it's like to grow older in Hollywood.
+
+2025-02-22 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-02-22 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 4:30am
+The Travel Show
+The Travel Show discovers how Opera is trying to the shake off it's 'elitist and exclusive' reputation in the UK to be more inclusive and bring in a wider audience.
+
+2025-02-22 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 5:30am
+Unspun World with John Simpson
+Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.
 
