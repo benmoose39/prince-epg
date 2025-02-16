@@ -1,55 +1,3 @@
-2025-02-15 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-02-16 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 12:30am
-Arts in Motion
-Opera star Benjamin Bernheim leads a masterclass in New York, teaching aspiring singers the emotional depth and artistry of French opera and song.
-
-2025-02-16 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-02-16 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 2:30am
-Cricket's Forgotten Team
-When the Taliban regained power in Afghanistan, the women's cricket team fled the country. Jo Currie tells the story of their battle to play competitive cricket and represent their country.
-
-2025-02-16 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 3:30am
-Eye Investigations
-After a Saudi trans woman's death went viral, BBC Eye investigates the final months of her life and the claim that she was misled into returning to Saudi Arabia from the US.
-
-2025-02-16 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 4:30am
-Click
-Nick Kwek meets the Sydney-based startup using robotics to clean up waterways. Paul Carter explores a tech solution which could lead to self-healing potholes.
-
-2025-02-16 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-02-16 5:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
 2025-02-16 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1249,4 +1197,168 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-02-22 5:30am
 Unspun World with John Simpson
 Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.
+
+2025-02-22 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-02-22 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 10:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 11:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 11:30am
+Unspun World with John Simpson
+Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.
+
+2025-02-22 12:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 12:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 1:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 1:30pm
+Americast
+BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+
+2025-02-22 2:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 2:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-02-22 3:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 3:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 3:45pm
+Newswatch
+Viewers' opinions on the coverage of events by BBC News, addressed by the editors and decision makers in charge.
+
+2025-02-22 4:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 4:30pm
+100 Women
+Brazil's most decorated Olympian of all time, gymnast Rebeca Andrade, discusses her success and how she manages the mental health challenges of competing in a demanding and highly competitive sport.
+
+2025-02-22 5:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 6:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 6:30pm
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-02-22 7:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 7:30pm
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-02-22 8:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 8:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-02-22 9:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 10:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 10:30pm
+Political Thinking with Nick Robinson
+Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.
+
+2025-02-22 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-22 11:30pm
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-02-23 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 12:30am
+Talking Movies
+Talking Movies reports from the 75th edition of the Berlin International Film Festival where veteran filmmaker Todd Haynes will head the competition jury.
+
+2025-02-23 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 1:30am
+Unspun World with John Simpson
+Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor, John Simpson.
+
+2025-02-23 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 2:30am
+Americast
+BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+
+2025-02-23 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 3:30am
+100 Women
+Brazil's most decorated Olympian of all time, gymnast Rebeca Andrade, discusses her success and how she manages the mental health challenges of competing in a demanding and highly competitive sport.
+
+2025-02-23 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 4:30am
+Click
+Click revisits tech stories from around the globe - from innovations being trialed in Australia to preserve coral reefs, to an underground vault in the Arctic designed to protect our data.
+
+2025-02-23 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-02-23 5:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
