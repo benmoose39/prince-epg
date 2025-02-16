@@ -3,84 +3,80 @@ Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 12 February.
 
 2025-02-16 11:00am
-House of Lords
-Coverage of a debate in the House of Lords.
+Lords Questions
+Questions in the House of Lords to government ministers on Wednesday 12 February.
 
 2025-02-16 11:45am
 Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
+Questions in the Senedd, the Welsh Parliament, to the cabinet secretary for health and social care, Jeremy Miles, from Wednesday 12 February.
 
-2025-02-16 12:45pm
+2025-02-16 12:40pm
 Northern Ireland Assembly
-Highlights from the Northern Ireland Assembly.
+Questions in the Northern Ireland Assembly to the education minister Paul Givan, on Tuesday 11 February.
 
 2025-02-16 1:30pm
-House of Commons
-Coverage of a statement in the House of Commons.
-
-2025-02-16 2:15pm
 House of Lords
-Coverage of an urgent question in the House of Lords.
+Business in the House of Lords on Thursday 13 February.
 
-2025-02-16 3:00pm
-Senedd Cymru - Welsh Parliament
-Coverage of a statement in the Welsh Parliament.
+2025-02-16 3:25pm
+House of Lords
+Business in the House of Lords on Thursday 13 February.
 
-2025-02-16 3:50pm
-Prime Minister's Questions
-Coverage of questions to Keir Starmer, the Prime Minister, on Wednesday 12 February.
-
-2025-02-16 4:25pm
-Welsh First Minister's Questions
-Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 11 February.
-
-2025-02-16 5:15pm
-Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive.
-
-2025-02-16 6:00pm
-Select Committees
-Recorded coverage of select committee proceedings.
-
-2025-02-16 9:00pm
-Select Committees
-Recorded coverage of select committee proceedings.
-
-2025-02-17 12:05am
-House of Commons
-Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 13 February.
-
-2025-02-17 1:05am
-House of Commons
-Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 13 February.
-
-2025-02-17 2:05am
+2025-02-16 5:30pm
 House of Commons
 Coverage of questions in the House of Commons to Peter Kyle, the science, innovation and technology secretary, and his team of ministers on Wednesday 12 February.
 
-2025-02-17 2:35am
+2025-02-16 6:00pm
+Select Committees
+Home Affairs committee pre-appointment session with the UK government's preferred candidate for the role of Independent Chief Inspector of Borders and Immigration, John Tuckett, on Tuesday 11 February.
+
+2025-02-16 7:20pm
+Select Committees
+Welsh Affairs committee on the work of the first minister of Wales, with Eluned Morgan.
+
+2025-02-16 8:45pm
+Select Committees
+Women and Equalities committee session on the work of ministers from the Equality Office.
+
+2025-02-16 10:25pm
+Select Committees
+Coverage of select committee proceedings on Wednesday 12 February.
+
+2025-02-17 12:35am
+House of Commons
+Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 13 February.
+
+2025-02-17 1:40am
+House of Commons
+Coverage of questions in the House of Commons to Peter Kyle, the science, innovation and technology secretary, and his team of ministers on Wednesday 12 February.
+
+2025-02-17 2:05am
 House of Commons
 Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 11 February.
 
-2025-02-17 3:35am
+2025-02-17 3:10am
 House of Commons
 Coverage of questions in the House of Commons to John Healey, the Defence Secretary, and his team of ministers on Monday, 10 February 2025.
 
-2025-02-17 4:35am
+2025-02-17 4:15am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 11 February.
 
-2025-02-17 5:25am
+2025-02-17 5:00am
 Prime Minister's Questions
 Coverage of questions to Keir Starmer, the Prime Minister, on Wednesday 12 February.
 
-2025-02-17 6:00am
+2025-02-17 5:40am
+House of Commons
+Coverage of the day's proceedings in the House of Commons on Wednesday 12 February.
+
+2025-02-17 6:10am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 13 February.
 
 2025-02-17 9:00am
 Senedd Cymru - Welsh Parliament
-Coverage of a statement in the Welsh Parliament.
+Questions in the Senedd, the Welsh Parliament, to the cabinet secretary for economy, energy and planning, Rebecca Evans, from Wednesday 12 February.
 
 2025-02-17 9:50am
 Northern Ireland Assembly
@@ -90,7 +86,7 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 11 February.
 
-2025-02-17 11:25am
+2025-02-17 11:20am
 Prime Minister's Questions
 Coverage of questions to Keir Starmer, the Prime Minister, on Wednesday 12 February.
 
@@ -104,7 +100,7 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 
 2025-02-17 2:45pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, on Monday 17 February.
 
 2025-02-17 3:30pm
 Northern Ireland Assembly
@@ -120,7 +116,7 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 
 2025-02-17 8:45pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, on Monday 17 February.
 
 2025-02-17 9:30pm
 Northern Ireland Assembly
@@ -136,7 +132,7 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 
 2025-02-18 2:45am
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, on Monday 17 February.
 
 2025-02-18 3:30am
 Northern Ireland Assembly
@@ -170,19 +166,7 @@ Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesd
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
 
-2025-02-18 4:20pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
-2025-02-18 6:20pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
 2025-02-18 7:00pm
-Scottish Parliament
-Coverage of the day's proceedings in the Scottish Parliament on Tuesday 18 February.
-
-2025-02-18 9:00pm
 Scottish Parliament
 Coverage of the day's proceedings in the Scottish Parliament on Tuesday 18 February.
 
@@ -192,25 +176,13 @@ Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesd
 
 2025-02-18 11:20pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in Stormont to Northern Ireland's health minister Mike Nesbitt, on Tuesday 18 February.
 
 2025-02-19 12:05am
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.
 
-2025-02-19 2:05am
-Northern Ireland Assembly
-Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.
-
 2025-02-19 4:20am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
-2025-02-19 6:20am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
-2025-02-19 8:20am
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
 
@@ -226,19 +198,7 @@ Coverage of the proceedings in the Northern Ireland Assembly, including members'
 Scottish Parliament
 Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
 
-2025-02-19 3:45pm
-Scottish Parliament
-Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
-
 2025-02-19 5:30pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-19 7:30pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-19 9:30pm
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
 
@@ -246,19 +206,7 @@ Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednes
 Scottish Parliament
 Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
 
-2025-02-20 12:45am
-Scottish Parliament
-Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
-
 2025-02-20 2:30am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-20 4:30am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-20 6:30am
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
 
@@ -294,10 +242,6 @@ Coverage of questions in the House of Commons to Peter Kyle, the science, innova
 Scottish Parliament
 Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 20 February.
 
-2025-02-20 4:30pm
-Scottish Parliament
-Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 20 February.
-
 2025-02-20 5:30pm
 Scottish Parliament
 Coverage of committee proceedings in the Scottish Parliament on Tuesday 18 February.
@@ -318,10 +262,6 @@ Coverage of the day's proceedings in the Scottish Parliament on Thursday 20 Febr
 Scottish Parliament
 Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 20 February.
 
-2025-02-21 12:05am
-Scottish Parliament
-Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 20 February.
-
 2025-02-21 1:05am
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly, including members' statements, on Monday, 17 February 2025.
@@ -332,17 +272,13 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 
 2025-02-21 3:50am
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, on Monday 17 February.
 
 2025-02-21 4:35am
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly, including members' statements, on Monday, 17 February 2025.
 
 2025-02-21 7:05am
-Scottish Parliament
-Coverage of the day's proceedings in the Scottish Parliament on Tuesday 18 February.
-
-2025-02-21 9:05am
 Scottish Parliament
 Coverage of the day's proceedings in the Scottish Parliament on Tuesday 18 February.
 
@@ -354,27 +290,15 @@ Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesd
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
 
-2025-02-21 1:25pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
-2025-02-21 3:25pm
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.
-
 2025-02-21 4:25pm
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.
 
 2025-02-21 6:55pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in Stormont to Northern Ireland's health minister Mike Nesbitt, on Tuesday 18 February.
 
 2025-02-21 7:40pm
-Northern Ireland Assembly
-Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.
-
-2025-02-21 9:40pm
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.
 
@@ -382,19 +306,7 @@ Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 Febru
 Scottish Parliament
 Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
 
-2025-02-22 1:40am
-Scottish Parliament
-Coverage of the day's proceedings in the Scottish Parliament on Wednesday 19 February.
-
 2025-02-22 3:25am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-22 5:25am
-Senedd Cymru - Welsh Parliament
-Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
-
-2025-02-22 7:25am
 Senedd Cymru - Welsh Parliament
 Coverage of the day's proceedings in the Senedd, the Welsh Parliament, on Wednesday 19 February.
 
@@ -428,7 +340,7 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 
 2025-02-22 4:30pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 20 January.
+Coverage of questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, on Monday 17 February.
 
 2025-02-22 5:15pm
 Northern Ireland Assembly
