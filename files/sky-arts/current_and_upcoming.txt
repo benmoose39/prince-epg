@@ -1,7 +1,3 @@
-2025-02-17 3:00pm
-Discovering Film
-An intimate look at the life and career of Academy Award-winning actor Lee Marvin, who starred in movies including Cat Ballou, The Professionals and The Dirty Dozen.
-
 2025-02-17 4:00pm
 Guy Garvey: From The Vaults
 1989: Elbow frontman Guy Garvey lifts the lid on two decades of TV gold. Here, he takes you through 1989, reflecting on the year's defining musical performances.
@@ -160,7 +156,7 @@ Christie's is selling a masterpiece by Jacob Jordaens, which may fetch a million
 
 2025-02-19 5:30am
 Auction
-Timepieces made by legendary clockmaker Thomas Tompion come to auction at Sotheby's, while at Bonhams, a 1920s Rolls Royce is expected to fetch one million pounds.
+Backtrace:
 
 2025-02-19 6:00am
 Cirque du Soleil: Volta
