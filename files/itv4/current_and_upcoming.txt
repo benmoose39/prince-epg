@@ -84,7 +84,7 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 
 2025-02-18 3:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-02-18 6:00am
 Minder
