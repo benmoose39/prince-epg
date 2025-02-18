@@ -220,7 +220,7 @@ A collection of 19th-century art goes on sale at Bonhams, while Sotheby's prepar
 
 2025-02-20 5:35am
 Auction
-Artworks by Gustav Klimt, Amedeo Modigliani, Pablo Picasso and Camille Pissarro are expected to fetch tens of millions of pounds at Sotheby's.
+Backtrace:
 
 2025-02-20 6:00am
 Darbar Festival 2024
