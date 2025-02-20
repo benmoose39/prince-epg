@@ -319,7 +319,7 @@ BBC Weather
 The latest weather forecast.
 
 2025-02-22 1:15pm
-Men's Six Nations
+
 Reigning champions Ireland travel to the Principality Stadium in Cardiff to take on Wales, who ended last year's Six Nations with the wooden spoon.
 
 2025-02-22 4:30pm
@@ -387,8 +387,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-02-23 2:30am
-Americast
-BBC Presenters Emily Maitlis and Jon Sopel dissect the latest news and analysis from the campaign trail of the 2020 US presidential election race.
+The Interview
+Cycling superstar, Geraint Thomas, talks about deciding to retire, his extraordinary achievements, and life in elite sport.
 
 2025-02-23 3:00am
 BBC News
