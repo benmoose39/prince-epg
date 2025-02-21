@@ -1,15 +1,3 @@
-2025-02-21 10:30pm
-Newsnight
-Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
-
-2025-02-21 11:00pm
-BBC Weather
-The latest weather forecast.
-
-2025-02-21 11:04pm
-British Film Premieres Introductions
-An introduction to the British film premiere of God's Creatures.
-
 2025-02-21 11:06pm
 	God's Creatures
 A mother tells a lie for her beloved son that rips apart their family and close-knit Irish town -- ultimately testing her own sense of right and wrong.
