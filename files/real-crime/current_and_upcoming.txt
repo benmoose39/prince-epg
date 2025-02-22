@@ -1,23 +1,3 @@
-2025-02-21 11:29pm
-Gangs of Britain
-Gary and Martin compare gangs past and present, asking if they still make money and maintain power in the same way.
-
-2025-02-22 12:25am
-British Gangsters: Faces of the Underworld
-Bernard looks at the effect of time on gangs and their origins. Whether it be motorcycle gangs or Irish travellers, the roots are dying out with every new generation.
-
-2025-02-22 1:18am
-British Gangsters: Faces of the Underworld
-Bernard O'Mahoney explores the minefield that is the media and how its influence has been used to build celebrities out of men, without checking facts. Is it possible to create a gangland persona based purely on a false reputation built by the press? Yes, but there are certain to be extremely costly consequences...
-
-2025-02-22 2:12am
-Great Crimes and Trials
-The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
-
-2025-02-22 2:43am
-	The Feared: Irish Gangsters
-True crime author Bernard O'Mahoney returns to his home country to shine a light on the Irish underworld. With exclusive access to high-profile Irish `faces', he enters uncharted territory when he discovers that there may be more to these crimes than meets the eye. He travels around the country through the workings of a dark criminal underworld with stories of extreme violence, poverty, and ultimately, the devastating consequences they bring.
-
 2025-02-22 4:28am
 	Dangerous Company
 A couple of Kentucky blue bloods team up to form a front for their drug smuggling business. As the operation grows, so too does the paranoia and betrayal.
@@ -609,4 +589,92 @@ In October 1994, Susan Smith reports her children missing. For days, Susan and h
 2025-02-28 4:47am
 Angel of Death
 As the number of deaths at a medical centre climbs, the night staff begins to suspect that someone is poisoning the patients.
+
+2025-02-28 6:38am
+	Manson
+A chronicle of Charles Manson's life leading up to the orchestration of the Tate an LaBianca murders.
+
+2025-02-28 8:19am
+The Banker, The Escorts and the $18 Million
+The story of one man who defrauded a high profile bank and his clients for almost a decade. He's New Zealand's single biggest ever employee fraudster.
+
+2025-02-28 9:11am
+The Boneyard
+Chilling documentary charting a brutal real life tale of kidnapping, enslavement and murder. Find out how investigators tracked down a malicious murderer and explore the extensive trial that followed.
+
+2025-02-28 10:59am
+Mafia's Greatest Hits
+Ambitious John Gotti became the boss of the Gambino family by ordering the death of the group's former head and earned the nickname 'Teflon Don' after three acquittals.
+
+2025-02-28 12:00pm
+Mafia's Greatest Hits
+Meyer Lansky was an associate of `Lucky' Luciano and linked to criminal financial operations, but the FBI struggled to pin anything on him - or find his riches.
+
+2025-02-28 12:59pm
+Mafia's Greatest Hits
+Ex-FBI agent Joe Pistone, who infiltrated the Mafia for six years as mobster `Donnie Brasco', reveals how his undercover work led to over 100 convictions.
+
+2025-02-28 1:59pm
+Mafia's Greatest Hits
+Lucky Luciano's crimes with the Mafia, including bribing high-ranking officials, got him 50 years in jail. However, when WWII broke out, the USA needed Luciano's help.
+
+2025-02-28 2:55pm
+The New Detectives
+Psychologists discuss the behaviour of serial killers while detectives talk about techniques used to catch them.
+
+2025-02-28 3:57pm
+The New Detectives
+An FBI profiler gets inside the mind of a serial killer by piecing together the evidence left at a crime scene.
+
+2025-02-28 4:58pm
+The New Detectives
+Forensics in the O.J. Simpson Murder Trial: Millions watched on television as the jury rendered their verdict. Orenthal James Simpson was found not guilty.
+
+2025-02-28 6:00pm
+The FBI Files
+The story of the most exhaustive manhunt in American history: the FBI's search for the Unabomber.
+
+2025-02-28 7:01pm
+The FBI Files
+When the World Trade Center parking garage explosion resulted in six deaths, the FBI traced the bombers' vehicle to a U-Haul dealership.
+
+2025-02-28 8:03pm
+Great Crimes and Trials
+The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
+
+2025-02-28 8:34pm
+Scarface: The Al Capone Story
+In the Roaring Twenties, Al Capone ruled an empire of crime in the Windy City: gambling, prostitution, bootlegging, bribery, narcotics trafficking, robbery, protection rackets, and murder. It seemed that law enforcement couldn't touch him, until one fatal night in 1929.
+
+2025-02-28 9:44pm
+The Krays: The Myth Behind the Legend
+Rivals and other contemporaries discuss gangsters Ronnie and Reggie Kray, who ran London's East End.
+
+2025-02-28 10:44pm
+	Gangster No. 1: The Freddie Foreman Story
+Attached to almost every unsolved gangland murder in London over the last 50 years, Freddie Foreman is the `Godfather' of Britain's criminal underworld. Foreman reveals the audacious details of the heists, double crossings, shootouts, murders and betrayals he was involved in, and ultimately, what has made him `Gangster Number.1'.
+
+2025-03-01 12:29am
+Mafia's Greatest Hits
+Ex-FBI agent Joe Pistone, who infiltrated the Mafia for six years as mobster `Donnie Brasco', reveals how his undercover work led to over 100 convictions.
+
+2025-03-01 1:29am
+Mafia's Greatest Hits
+Lucky Luciano's crimes with the Mafia, including bribing high-ranking officials, got him 50 years in jail. However, when WWII broke out, the USA needed Luciano's help.
+
+2025-03-01 2:25am
+The New Detectives
+Psychologists discuss the behaviour of serial killers while detectives talk about techniques used to catch them.
+
+2025-03-01 3:27am
+The New Detectives
+An FBI profiler gets inside the mind of a serial killer by piecing together the evidence left at a crime scene.
+
+2025-03-01 4:29am
+The New Detectives
+Forensics in the O.J. Simpson Murder Trial: Millions watched on television as the jury rendered their verdict. Orenthal James Simpson was found not guilty.
+
+2025-03-01 5:31am
+The FBI Files
+The story of the most exhaustive manhunt in American history: the FBI's search for the Unabomber.
 
