@@ -1,7 +1,3 @@
-2025-02-23 10:00pm
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
 2025-02-23 10:30pm
 All Hail The Planet
 Series 2024 : Is It Really A 'Natural' Disaster?
@@ -216,7 +212,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-02-25 5:30am
 Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+Backtrace:
 
 2025-02-25 6:00am
 News
