@@ -148,7 +148,7 @@ The offer of a weekend in Edinburgh with the luscious Veronica causes Simon and 
 
 2025-02-25 5:25am
 That's Entertainment
-Bringing the best in entertainment programming.
+Backtrace:
 
 2025-02-25 6:00am
 Shop: Dormeo Mattresses
