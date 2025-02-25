@@ -1,7 +1,3 @@
-2025-02-25 1:57pm
-	Eyewitness
-Five years after sending a man to jail Diana returns home to find that he has escaped from prison and has come to confront her.
-
 2025-02-25 3:00pm
 	Lost and Found
 Five years after her then 12-year-old daughter disappeared from school, a mother is shocked to welcome her back home.
@@ -84,7 +80,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 
 2025-02-26 5:50am
 Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+Backtrace:
 
 2025-02-26 6:00am
 Affordable Luxury with TJC
