@@ -1,7 +1,3 @@
-2025-02-27 4:00am
-This Is BBC THREE
-BBC THREE: Refreshing TV for the digital age. Tune in daily from 7.00pm.
-
 2025-02-27 12:00pm
 This Is BBC THREE
 BBC THREE: Refreshing TV for the digital age. Tune in daily from 7.00pm.
@@ -61,6 +57,10 @@ Follows Marianne and Connell, from different backgrounds but the same small town
 2025-02-28 3:20am
 Normal People
 Follows Marianne and Connell, from different backgrounds but the same small town in Ireland, as they weave in and out of each other's romantic lives.
+
+2025-02-28 3:55am
+This Is BBC THREE
+Backtrace:
 
 2025-02-28 3:55am
 This Is BBC THREE
