@@ -547,8 +547,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-02 3:30am
-The Making of Bill Gates
-3:30am
+Weather: Beyond the Forecast
+Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
 
 2025-03-02 4:00am
 BBC News
@@ -603,8 +603,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-02 1:30pm
-Click
-What are the top technology trends to watch in 2025? The Click team heads to Las Vegas to check out the highlights from CES, one of the biggest tech and innovation events of the year.
+Weather: Beyond the Forecast
+Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
 
 2025-03-02 2:00pm
 BBC News
@@ -899,8 +899,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-04 1:30am
-The Making of Bill Gates
-1:30am
+Weather: Beyond the Forecast
+Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
 
 2025-03-04 2:00am
 Newsday
