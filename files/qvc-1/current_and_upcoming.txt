@@ -1,7 +1,3 @@
-2025-02-28 9:00pm
-In the Garden with Thompson & Morgan
-Enjoy gorgeous plants and flowers in your garden from Thompson & Morgan, one of the UK's oldest horticulture firms and an established household name for gardeners across the country.
-
 2025-02-28 11:00pm
 Home Improvements
 Spruce up your home with our amazing deals.
@@ -120,7 +116,7 @@ Professional beauty products from the pioneering skincare specialists.
 
 2025-03-02 5:00am
 In the Salon with Gatineau
-Professional beauty products from the pioneering skincare specialists.
+Backtrace:
 
 2025-03-02 6:00am
 In the Salon with Gatineau
