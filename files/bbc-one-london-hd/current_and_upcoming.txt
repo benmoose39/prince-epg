@@ -1,51 +1,3 @@
-2025-02-28 11:30pm
-	The Last Letter From Your Lover
-After finding a trove of love letters from the 1960s, a journalist sets out to solve the mystery of a secret affair.
-
-2025-03-01 1:15am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-01 1:20am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-01 1:30am
-Discovering the World's Table
-Food writer Nick Kwekis takes a gastronomic journey through Uzbekistan, a country steeped in Silk Road legacy and rapidly transforming.
-
-2025-03-01 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-01 2:30am
-Influential with Katty Kay
-Award-winning actor Derek Jacobi sits down with Katty Kay to discuss his storied career, his most iconic roles, and the importance of luck in his life.
-
-2025-03-01 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-01 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-03-01 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-01 4:30am
-The Travel Show
-40 years after the death of the dictator Enver Hoxha, whose four-decade rule over Albania drove it into isolation and poverty, Qasa Alom explores how the country has changed for travellers and locals.
-
-2025-03-01 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-01 5:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
 2025-03-01 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -937,4 +889,108 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-07 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-07 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-07 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-07 10:45am
+Crimewatch Live
+In 2023, ex-Hollyoaks actress Frankie Jules-Hough was killed with her unborn baby by a reckless driver. Her family have set up a charity in their memory. And the Met appeal for information on the Brixton Academy crush.
+
+2025-03-07 11:30am
+Homes Under the Hammer
+A back-to-front house in Eastbourne - what will Tommy make of that? Meanwhile, Dion has to tackle two derelict properties in Grimsby and Worcestershire that need far more than just a lick of paint.
+
+2025-03-07 12:15pm
+Bargain Hunt
+Experts Stephanie Connell and Gary Pe skipper two teams around an antiques centre in Derbyshire, while Natasha Raskin Sharp visits a home straight out of the late Victorian and Edwardian eras.
+
+2025-03-07 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-07 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-07 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-07 2:00pm
+Father Brown
+Father Brown must untangle the mysteries that lie within the sewing circle when a seamstress is stabbed to death.
+
+2025-03-07 2:45pm
+Escape to the Country
+Briony May Williams is with a couple from London in the market for a new home in the countryside of Oxfordshire or Wiltshire that has enough space for them and their two young sons.
+
+2025-03-07 3:45pm
+Make It at Market
+Can pyrographer Richard make a full-time living from his craft, and will Connie be able to build the embroidery business she dreams of to replace her academic career?
+
+2025-03-07 4:30pm
+Antiques Road Trip
+Tahmina Ghaffar embraces her final chance for a win against David Harper. But has the competition driven them potty as they tuck in to some 'bug-ilicious' food?
+
+2025-03-07 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-03-07 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-07 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-07 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-03-07 7:30pm
+Extraordinary Portraits
+Bill Bailey challenges a young artist to paint Marva and Lionel, who have fostered almost 200 teenagers.
+
+2025-03-07 8:00pm
+Would I Lie to You?
+Rob Brydon hosts the award-winning comedy panel show. Team captains Lee Mack and David Mitchell are joined by guest panellists Sara Davies, Michelle de Swarte, Bob Mortimer and Chris Ramsey.
+
+2025-03-07 8:30pm
+Amanda & Alan's Spanish Job
+Alan persuades Amanda to let go of her maximalist instinct for this final bedroom. The pair settle on an all-white, exposed natural brick feel as they name the room a Balearic balm oasis.
+
+2025-03-07 9:00pm
+Death in Paradise
+Mervin and the team investigate the dark side of online dating when a man is shot dead at his villa. A new colleague makes an impression for all the wrong reasons.
+
+2025-03-07 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-07 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-07 10:40pm
+The Graham Norton Show
+A compilation of highlights from the series, featuring a host of stars, including Demi Moore, Timothée Chalamet, Cher, Denzel Washington, Nicole Kidman and many more.
+
+2025-03-07 11:40pm
+Eurovision Song Contest
+Eurovision coverage where participants perform on live television. Graham Norton provides commentary for the finals, lending his signature style and charm to the glitzy event.
+
+2025-03-08 1:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-08 1:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 

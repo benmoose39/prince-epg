@@ -1,27 +1,3 @@
-2025-02-28 11:00pm
-All Elite Wrestling: Dynamite
-Action from the American professional wrestling promotion founded in 2019. Featuring Will Ospreay, Kazuchika Okada, Jay White, Mercedes Mone, Toni Storm, and many more.
-
-2025-03-01 1:00am
-Dark Side of the Ring
-After Japan's Atsushi Onita creates FMW and its spectacular matches featuring explosions and gratuitous gore, his handpicked successor takes his own life while drowning in debt.
-
-2025-03-01 1:50am
-Auto Mundial
-The latest news and reviews from the world of cars.
-
-2025-03-01 2:20am
-Motorsport Mundial
-The latest motorsport news and action from around the globe. From Superbikes to Formula 1, Motorsport Mundial has the latest action and talking points from the motorsport world.
-
-2025-03-01 2:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-03-01 3:00am
-Teleshopping
-Shopping from home.
-
 2025-03-01 6:00am
 ITV Racing
 All the racing, glamour and fun of Derby Day at Epsom Downs, including brilliant performances from Shergar and Sea The Stars and interviews with personalities from the worlds of sport and entertainment.
@@ -531,6 +507,94 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2025-03-07 3:00am
+Teleshopping
+Shopping from home.
+
+2025-03-07 6:00am
+Minder
+Terry and Arthur bump into Maltese Tony, who's back in England to hand over some money.
+
+2025-03-07 7:00am
+The Sweeney
+While on a routine surveillance, Regan uncovers a multi-thousand pound car parking fraud, which ends in a shootout. However, is there enough evidence to convict John Smith?
+
+2025-03-07 8:05am
+Robin of Sherwood
+The Hounds of Lucifer, a strange band of costumed horseman, are terrorising a distant village. Robin and his followers set out from Sherwood and go to the rescue.
+
+2025-03-07 9:15am
+Magnum, P.I.
+Robin Masters goes into hiding when he learns a party guest plans to murder him.
+
+2025-03-07 10:20am
+Kojak
+A former detective catches an elderly counterfeiter, who is murdered before reaching New York; guest Eileen Brennan.
+
+2025-03-07 11:25am
+BattleBots
+The international cast of murderous machines doles out more serious robot punishment in the third round of World Championship qualifiers; the night's climax is a shocking Main Event when two of the world's deadliest bots collide: Hydra vs. Rotator.
+
+2025-03-07 12:30pm
+Robin of Sherwood
+Series 2 Episode 6: The Swords of Wayland
+
+2025-03-07 1:35pm
+Magnum, P.I.
+Higgins' half brother, an impoverished parish priest, arrives in Hawaii.
+
+2025-03-07 2:40pm
+Kojak
+Christmas Eve finds the understaffed detectives on the streets trying to prevent two murders; guest Veronica Hamel.
+
+2025-03-07 3:45pm
+Minder
+A local property developer offers to buy Arthur's lock-up and car lot, but Terry suspects that the deal is bent and turns to DS Jones for help.
+
+2025-03-07 4:50pm
+The Sweeney
+An antique shop is being used as access to rob a bank and it looks as though there was inside assistance, but Regan thinks otherwise and aims to prove that a convict on parole was framed.
+
+2025-03-07 6:00pm
+The Chase: Celebrity Special
+Bradley Walsh hosts as four stars of I'm A Celebrity Get Me Out of Here take on one of the country's finest quiz brains. But have AJ Pritchard, Hollie Arnold, Giovanna Fletcher and Russell Watson got what it takes?
+
+2025-03-07 7:00pm
+The Motorbike Show
+Henry Cole rides through the glorious Peak District from Buxton down to the world-renowned Crich Tramway Village. Henry meets Matlock Bath's bikers on the way and explores the notorious history of the Magpie lead mine.
+
+2025-03-07 8:00pm
+Giant Lobster Hunters
+Following six lobster-boat captains as they battle through unpredictable and harsh weather conditions to find Tasmanian rock lobster.
+
+2025-03-07 9:00pm
+	High Plains Drifter
+A mysterious stranger rides into a small frontier town in the American southwest, provoked into a gunfight in which he kills three men, and then begged by the townsfolk to become sheriff. The residents are terrified of the gunslinger but live in greater fear of a gang which intends to wipe out the whole town.
+
+2025-03-07 10:00pm
+FYI Daily
+News from the world of entertainment.
+
+2025-03-07 10:05pm
+	High Plains Drifter
+A mysterious stranger rides into a small frontier town in the American southwest, provoked into a gunfight in which he kills three men, and then begged by the townsfolk to become sheriff. The residents are terrified of the gunslinger but live in greater fear of a gang which intends to wipe out the whole town.
+
+2025-03-07 11:15pm
+All Elite Wrestling: Dynamite
+Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, Chris Jericho, Bryan Danielson and Claudio Castagnoli, and many more who bring a freshness and energy into professional wrestling.
+
+2025-03-08 1:10am
+Dark Side of the Ring
+A striking villain in the ring, Luna Vachon becomes a groundbreaking physical performer who battles mental illness and addiction while seeking to champion women's wrestling.
+
+2025-03-08 2:05am
+Auto Mundial
+The narrator provides insight into the world of the automobile industry while highlighting the latest car models that are released in the international market.
+
+2025-03-08 2:30am
+Motorsport Mundial
+The latest motorsport news and action from around the globe. From Superbikes to Formula 1, Motorsport Mundial has the latest action and talking points from the motorsport world.
+
+2025-03-08 3:00am
 Teleshopping
 Shopping from home.
 

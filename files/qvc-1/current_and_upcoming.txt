@@ -1,31 +1,3 @@
-2025-02-28 11:00pm
-Home Improvements
-Spruce up your home with our amazing deals.
-
-2025-03-01 12:00am
-Spruce Your Home for Spring
-12:00am
-
-2025-03-01 1:00am
-Spruce Your Home for Spring
-1:00am
-
-2025-03-01 2:00am
-Spruce Your Home for Spring
-2:00am
-
-2025-03-01 3:00am
-Spruce Your Home for Spring
-3:00am
-
-2025-03-01 4:00am
-Spruce Your Home for Spring
-4:00am
-
-2025-03-01 5:00am
-Spruce Your Home for Spring
-5:00am
-
 2025-03-01 6:00am
 Spruce Your Home for Spring
 6:00am
@@ -116,7 +88,7 @@ Professional beauty products from the pioneering skincare specialists.
 
 2025-03-02 5:00am
 In the Salon with Gatineau
-Backtrace:
+Professional beauty products from the pioneering skincare specialists.
 
 2025-03-02 6:00am
 In the Salon with Gatineau
@@ -577,4 +549,100 @@ Dive in and explore one of our big beauty brands Dyson, and discover the innovat
 2025-03-07 5:00am
 Big Beauty Brands with Dyson
 Dive in and explore one of our big beauty brands Dyson, and discover the innovative hair styling tools they have on offer.
+
+2025-03-07 6:00am
+Big Beauty Brands with Dyson
+Dive in and explore one of our big beauty brands Dyson, and discover the innovative hair styling tools they have on offer.
+
+2025-03-07 7:00am
+Big Beauty Brands with Dyson
+Dive in and explore one of our big beauty brands Dyson, and discover the innovative hair styling tools they have on offer.
+
+2025-03-07 8:00am
+Big Beauty Brands with Dyson
+Dive in and explore one of our big beauty brands Dyson, and discover the innovative hair styling tools they have on offer.
+
+2025-03-07 9:00am
+The Morning Show
+Wake up to QVC with products from across all ranges to ensure there is something for everyone.
+
+2025-03-07 10:00am
+Richard Jackson's Garden
+Expert Richard Jackson shares his top tips for the coming season.
+
+2025-03-07 11:00am
+Apricot Clothing
+11:00am
+
+2025-03-07 12:00pm
+Look Good, Feel Good
+Find the best in health and fitness products for a healthier lifestyle.
+
+2025-03-07 1:00pm
+The Lunchtime Show
+Join us and our great panel of guests at lunchtime as they enjoy a chat and share a selection of fantastic products from top brands on QVC.
+
+2025-03-07 2:00pm
+Denim & Co
+Join us to see Denim & Co's clothing range offering trend-focused pieces combined with timeless style and chic choices for your smart or casual looks.
+
+2025-03-07 3:00pm
+Elemis Skin Therapies
+Defined by nature, led by science - Find the right formula for you...
+
+2025-03-07 4:00pm
+Beauty Tools & Accessories
+The beauty tools you use are as important as your products, so enjoy professional-standard implements and accessories, from lash curlers to make-up bags and tweezers to brushes.
+
+2025-03-07 5:00pm
+Fashion on Friday with Finery
+With specially chosen products from across the QVC range, there's something for everyone in the QVC Selection.
+
+2025-03-07 6:00pm
+Moda In Pelle
+Discover fashionable footwear from Moda In Pelle which combines affordable luxury and complete comfort for you.
+
+2025-03-07 7:00pm
+Dyson
+From bagless vacuums that don't lose suction to bladeless fans, Dyson are revolutionising technology in your home.
+
+2025-03-07 8:00pm
+Elemis Skin Therapies
+Defined by nature, led by science - Find the right formula for you...
+
+2025-03-07 9:00pm
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-07 10:00pm
+Dyson
+From bagless vacuums that don't lose suction to bladeless fans, Dyson are revolutionising technology in your home.
+
+2025-03-07 11:00pm
+Diamonique Jewellery
+Showcasing a wide range of beautiful designs in both silver and gold Diamonique, this show offers an emporium of both classic, essential looks, and unusual and rare cuts and colours.
+
+2025-03-08 12:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-08 1:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-08 2:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-08 3:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-08 4:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
+
+2025-03-08 5:00am
+Kim and Co.
+Join designer Kim Mendelson as she presents her latest lines.
 
