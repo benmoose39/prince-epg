@@ -84,7 +84,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-01 7:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-01 8:00pm
 News
@@ -152,7 +152,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-02 4:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-02 5:00am
 News
@@ -216,7 +216,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-02 2:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-02 3:00pm
 Newshour
@@ -348,7 +348,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-03 9:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-03 10:00am
 Newshour
@@ -456,7 +456,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-04 2:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-04 3:00am
 News
@@ -524,7 +524,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-03-04 12:00pm
 Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+An exclusive interview with the military defector codenamed 'Caesar' who exposed the systematic torture of Syrian civilians and now reveals his true identity.
 
 2025-03-04 1:00pm
 Newshour
@@ -696,7 +696,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-05 2:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+The UN humanitarian chief discusses global aid crises, funding cuts, and political games threatening relief efforts.
 
 2025-03-05 3:00pm
 Newshour
@@ -768,7 +768,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-03-06 1:00am
 Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+An exclusive interview with the military defector codenamed 'Caesar' who exposed the systematic torture of Syrian civilians and now reveals his true identity.
 
 2025-03-06 2:00am
 News

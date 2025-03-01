@@ -2,49 +2,37 @@
 Teleshopping
 Shopping from home.
 
-2025-03-01 6:30am
-Teleshopping
-Shopping from home.
-
-2025-03-01 7:00am
-Teleshopping
-Shopping from home.
-
-2025-03-01 7:30am
-Teleshopping
-Shopping from home.
-
 2025-03-01 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-01 8:10am
 	The Perfect Pairing
 A food and wine critic falls for a single father after she bumps her head and ends up losing her memory.
 
-2025-03-01 9:05am
+2025-03-01 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-01 9:10am
+2025-03-01 9:00am
 	The Perfect Pairing
 A food and wine critic falls for a single father after she bumps her head and ends up losing her memory.
+
+2025-03-01 9:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-01 10:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-01 10:10am
 	Love Struck Café
 An aspiring architect gets the opportunity of a lifetime when she's chosen to develop her home town's lake into an entertainment complex. Unfortunately, to complete the project, she must convince a lifelong friend to leave her family's home.
 
-2025-03-01 11:05am
+2025-03-01 10:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-01 11:10am
+2025-03-01 11:00am
 	Love Struck Café
 An aspiring architect gets the opportunity of a lifetime when she's chosen to develop her home town's lake into an entertainment complex. Unfortunately, to complete the project, she must convince a lifelong friend to leave her family's home.
+
+2025-03-01 11:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-01 12:05pm
 	Undercover Bridesmaid
@@ -154,41 +142,25 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-03-02 5:30am
-Teleshopping
-Shopping from home.
-
 2025-03-02 6:00am
 Teleshopping
 Shopping from home.
 
-2025-03-02 6:30am
-Teleshopping
-Shopping from home.
-
-2025-03-02 7:00am
-Teleshopping
-Shopping from home.
-
-2025-03-02 7:30am
-Teleshopping
-Shopping from home.
-
 2025-03-02 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-02 8:10am
 	Sealed With a Kiss
 Sparks fly when an engaged country-music star reconnects with a childhood friend.
 
-2025-03-02 9:05am
+2025-03-02 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-02 9:10am
+2025-03-02 9:00am
 	Sealed With a Kiss
 Sparks fly when an engaged country-music star reconnects with a childhood friend.
+
+2025-03-02 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-02 10:05am
 	Taking the Reins
@@ -246,23 +218,7 @@ Helping out at the family café in her hometown, wedding planner Zoe is reunited
 	A Very Country Wedding
 When a country star's wedding is delayed, he's torn between the charms of his fiancée and a chance encounter.
 
-2025-03-02 6:55pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-03-02 7:00pm
-	A Very Country Wedding
-When a country star's wedding is delayed, he's torn between the charms of his fiancée and a chance encounter.
-
 2025-03-02 8:00pm
-	Wedding Wonderland
-A couple hold a small town winter wedding in the snow after their original plan for a breezy wedding in the tropics is cancelled by family conflict.
-
-2025-03-02 8:55pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-03-02 9:00pm
 	Wedding Wonderland
 A couple hold a small town winter wedding in the snow after their original plan for a breezy wedding in the tropics is cancelled by family conflict.
 
@@ -314,53 +270,25 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-03-03 5:30am
-Teleshopping
-Shopping from home.
-
 2025-03-03 6:00am
 Teleshopping
 Shopping from home.
 
-2025-03-03 6:30am
-Teleshopping
-Shopping from home.
-
-2025-03-03 7:00am
-Teleshopping
-Shopping from home.
-
-2025-03-03 7:30am
-Teleshopping
-Shopping from home.
-
 2025-03-03 8:00am
+	Love's Match
+Sparks fly between the owner of a dating website and a rival matchmaker who's helping her find love for a client.
+
+2025-03-03 10:00am
 Great! Movie News Extra
 From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-03 8:10am
-	Love's Match
-Sparks fly between the owner of a dating website and a rival matchmaker who's helping her find love for a client.
-
-2025-03-03 9:05am
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-03-03 9:10am
-	Love's Match
-Sparks fly between the owner of a dating website and a rival matchmaker who's helping her find love for a client.
 
 2025-03-03 10:10am
 	The Perfect Wedding Match
 Romance blossoms when a programmer uses a matchmaking app to find a date for her younger sister's wedding.
 
-2025-03-03 11:05am
+2025-03-03 11:10am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-03-03 11:10am
-	The Perfect Wedding Match
-Romance blossoms when a programmer uses a matchmaking app to find a date for her younger sister's wedding.
 
 2025-03-03 12:05pm
 	Make Me a Match
