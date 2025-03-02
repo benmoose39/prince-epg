@@ -1,23 +1,3 @@
-2025-03-01 11:00pm
-Van der Valk
-Following a street smart and unapologetic Dutch detective as he navigates the lively and enigmatic city of Amsterdam, solving mysterious crimes using astute human observation and inspired detection.
-
-2025-03-02 12:45am
-Mr Bean
-Mr Bean rushes to the dentist's office after oversleeping, then helps a boy fix his remote-controlled toy boat, and later is menaced by a wasp while having a picnic.
-
-2025-03-02 1:15am
-Bless This House
-Sid is very excited when he closes a deal on a large export order for his firm.
-
-2025-03-02 1:45am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-03-02 2:30am
-Teleshopping
-Shopping from home.
-
 2025-03-02 6:00am
 Never the Twain
 While Simon delves into genealogy, Oliver prepares to add to his customers none other than HRH The Prince of Wales.
@@ -491,6 +471,66 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2025-03-08 2:30am
+Teleshopping
+Shopping from home.
+
+2025-03-08 6:00am
+Bless This House
+Sid discovers where the money for his birthday party came from.
+
+2025-03-08 6:30am
+Agatha Christie's Poirot
+Poirot investigates the death of a man found murdered with a love letter in his pocket, but the plot is complicated by the theft of the murder weapon by a beautiful singer.
+
+2025-03-08 8:45am
+Agatha Christie's Poirot
+Following supernatural warnings and Poirot's advice to change her will, Emily Arundel is murdered. Poirot reflects on which member of the family could have poisoned her medicine, and the key witness turns out to be a pet dog.
+
+2025-03-08 11:00am
+	Man About the House
+A college student aids his landlady in stopping her husband from selling the house to a development company.
+
+2025-03-08 1:00pm
+Rosemary and Thyme
+As Laura and Rosemary visit a prep school to investigate dying roses, they are caught up in a strange ritual involving a member of staff dressed as a stag. The geography master is then found in the garden with a harpoon through his chest.
+
+2025-03-08 2:00pm
+Rosemary and Thyme
+Rosemary and Laura enter the cut-throat world of TV garden makeovers when they help a presenter with her new series. When Rosemary is injured in a suspicious accident, Laura and the presenter team up to investigate further.
+
+2025-03-08 3:00pm
+Agatha Christie's Marple
+Miss Marple arrives at the luxurious Bertram's Hotel, but soon discovers that there are dark secrets lurking below the highly polished veneer. When one of the maids is murdered, she tries to learn the truth before the murderer strikes again, but the truth is far more sinister than even she is prepared for.
+
+2025-03-08 5:10pm
+Midsomer Murders
+When convicted murderer Grady Felton returns to the village where he killed a boy years earlier, his arrival is met with anger from the locals. Soon afterwards, a barrister is killed in Midsomer and suspicion falls on Grady. Grady has a solid alibi, but Barnaby suspects that he is working with an accomplice - until Grady himself is targeted in an arson attack.
+
+2025-03-08 7:00pm
+Midsomer Murders
+Barnaby and Jones investigate when the appearance of a headless horseman at Quitewell Hall foreshadows a number of deaths among an aristocratic family called the DeQuettevilles. Meanwhile, the family stage a Civil War re-enactment with their hostile neighbours and relive historic battles. Can the detectives uncover the truth about the DeQuettevilles and the ghostly rider in order to prevent more murders?
+
+2025-03-08 9:00pm
+Vera
+Crime drama series. When the remains of a teenage girl are found half-buried in a Northumberland wood, Vera and her team find themselves investigating a 30-year-old mystery. The remains are identified as those of miner's daughter Carrie Telling, who vanished during the miners' strike in 1984. Her father Bill insisted that Carrie would never run away, but his protests fell on deaf ears. Carrie went missing at a time when tension between the police and locals was at an all-time high.
+
+2025-03-08 11:00pm
+Van der Valk
+The fatal stabbing of a psychiatrist during the ritual summoning of a demon pulls Piet and his team deep into the esoteric world of ritual magic, where mystical beliefs conceal a wealth of hidden rivalries.
+
+2025-03-09 12:50am
+The Real Crown: Inside the House of Windsor
+In the 1970s, Britain is in the grip of a fuel crisis, strikes and inflation. Against this backdrop, Prince Charles is to be installed as Prince of Wales, the first step on his journey to becoming king. But it is a path fraught with danger.
+
+2025-03-09 1:45am
+Bless This House
+Sid discovers where the money for his birthday party came from.
+
+2025-03-09 2:10am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-03-09 2:30am
 Teleshopping
 Shopping from home.
 

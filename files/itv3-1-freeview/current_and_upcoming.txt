@@ -1,23 +1,3 @@
-2025-03-01 12:00am
-Van der Valk
-Following a street smart and unapologetic Dutch detective as he navigates the lively and enigmatic city of Amsterdam, solving mysterious crimes using astute human observation and inspired detection.
-
-2025-03-01 1:45am
-Mr Bean
-Mr Bean rushes to the dentist's office after oversleeping, then helps a boy fix his remote-controlled toy boat, and later is menaced by a wasp while having a picnic.
-
-2025-03-01 2:15am
-Bless This House
-Sid is very excited when he closes a deal on a large export order for his firm.
-
-2025-03-01 2:45am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-03-01 3:30am
-Teleshopping
-Shopping from home.
-
 2025-03-02 9:00pm
 Doc Martin
 Louisa finds her new neighbours irritating. Martin and Louisa find their romantic meal ruined by Anthony and Terri Oakwood's sudden arrival.
@@ -147,6 +127,26 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2025-03-08 3:30am
+Teleshopping
+Shopping from home.
+
+2025-03-08 10:00pm
+Vera
+Crime drama series. When the remains of a teenage girl are found half-buried in a Northumberland wood, Vera and her team find themselves investigating a 30-year-old mystery. The remains are identified as those of miner's daughter Carrie Telling, who vanished during the miners' strike in 1984. Her father Bill insisted that Carrie would never run away, but his protests fell on deaf ears. Carrie went missing at a time when tension between the police and locals was at an all-time high.
+
+2025-03-09 12:00am
+Van der Valk
+The fatal stabbing of a psychiatrist during the ritual summoning of a demon pulls Piet and his team deep into the esoteric world of ritual magic, where mystical beliefs conceal a wealth of hidden rivalries.
+
+2025-03-09 2:45am
+Bless This House
+Sid discovers where the money for his birthday party came from.
+
+2025-03-09 3:10am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-03-09 3:30am
 Teleshopping
 Shopping from home.
 
