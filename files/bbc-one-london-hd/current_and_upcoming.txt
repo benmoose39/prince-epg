@@ -1,63 +1,3 @@
-2025-03-02 10:30pm
-	Calendar Girls
-Based on the true story of 12 ladies from Yorkshire baring all for charity. When one of the women's husbands dies from leukaemia, they decide that their prim and proper fundraising efforts need a bit of a shake-up. They find a more compelling way to raise money - by starring in a nude calendar. Their modest hopes of selling a few hundred copies around the village are outstripped when it becomes a worldwide sensation.
-
-2025-03-03 12:10am
-The Women's Football Show
-Highlights from the Women's Super League as Chelsea travel to face Brighton & Hove Albion, Arsenal welcome West Ham United and Manchester United play host to Leicester City. The other fixtures are Tottenham Hotspur v Manchester City, Aston Villa v Everton and Crystal Palace vs Liverpool.
-
-2025-03-03 1:00am
-Superman & Lois
-After some concerning interactions in town, Clark is determined to protect the secret that he's Superman -- a task complicated by Jonathan and Jordan; Lois considers the future of the Gazette after Chrissy proposes something drastic.
-
-2025-03-03 1:45am
-Superman & Lois
-Luthor challenges Lois to a live telecast debate, though not everything is as it seems; John Henry and Clark face a troubling possibility.
-
-2025-03-03 2:25am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-03 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-03 2:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-03 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-03 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-03 3:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-03 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-03 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-03 4:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-03 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-03 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-03-03 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -937,4 +877,156 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-09 5:30am
 Talking Business
 Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-03-09 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-09 7:35am
+Match of the Day
+Gary Lineker introduces highlights from another crucial round of fixtures in the Premier League, headlined by Nottingham Forest welcoming Manchester City to the City Ground.
+
+2025-03-09 9:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2025-03-09 10:00am
+Politics London
+The latest political news, interviews and debate.
+
+2025-03-09 10:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2025-03-09 11:30am
+Songs of Praise
+Sean Fletcher explores the depth of meaning in the prayer spoken by billions every day and meets people whose lives have been profoundly changed by its words.
+
+2025-03-09 12:05pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-03-09 12:15pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-09 12:20pm
+
+Live coverage of Women's FA Cup quarter-final between Manchester City and Aston Villa.
+
+2025-03-09 2:50pm
+Gladiators
+Gladiators ready! Bradley and Barney Walsh host the second of the quarter-finals as four determined Contenders take on the superhuman Gladiators in five brutal events before going head-to-head in the gruelling Eliminator. Who has the will and the skill to conquer the infamous Travelator and win a coveted place in the semi-finals?
+
+2025-03-09 3:50pm
+Blue Planet II
+Uncovering the impact that modern lives are having on ocean creatures, from albatross parents feeding their chicks discarded plastic, to mother dolphins potentially exposing their calves to pollutants through contaminated milk.
+
+2025-03-09 4:50pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-03-09 5:05pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-09 5:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-03-09 5:15pm
+Countryfile
+Focusing on different people, places, and stories from the heart of the British countryside. Including rural, agriculture and environmental issues.
+
+2025-03-09 6:15pm
+The Americas
+Mexico, where deserts meet tropics; see new footage of fledgling pygmy owls, orca hunting, new species in flooded caves and orchid bees filmed in incredible detail -- all revealing the hidden lives of unique wildlife.
+
+2025-03-09 7:00pm
+Antiques Roadshow
+The roadshow team visit Roundhay Park in Leeds, where treasures include family photos of Arnold Schwarzenegger, a psychedelic chair, an original script for `Dad's Army' and a mysterious diamond ring.
+
+2025-03-09 8:00pm
+Ten Pound Poms
+Kate comes to terms with the consequences of her decision. Meanwhile, the Roberts family adjust to life with a newborn and look for new opportunities to fulfil their dreams down under.
+
+2025-03-09 9:00pm
+Towards Zero
+After an explosive night, a shocking murder is discovered at the estate, and Detective Leach must find his purpose again if he is to uproot the dark secrets of Gull's Point.
+
+2025-03-09 10:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-03-09 10:25pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-09 10:30pm
+Match of the Day 2
+Join Mark Chapman and guests for comprehensive highlights of the day's three Premier League matches, headlined by a heavyweight clash between old rivals Manchester United and Arsenal. This is a fixture that has produced some of the biggest and most significant games in English top-flight history. The Gunners have firmly grabbed the ascendancy in recent years and will be confident of a fifth straight league win over the struggling Red Devils.
+
+2025-03-09 11:40pm
+Superman & Lois
+Clark Kent and Lois Lane face a big challenge, being working parents in the current society.
+
+2025-03-10 12:20am
+Superman & Lois
+The Kents fight with everything they have as Luthor makes his final move on Smallville.
+
+2025-03-10 1:05am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-10 1:10am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-03-10 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-03-10 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-10 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-10 2:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-10 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-10 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-10 3:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-10 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-10 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-10 4:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-10 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-10 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
