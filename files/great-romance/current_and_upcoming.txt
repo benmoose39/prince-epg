@@ -2,33 +2,21 @@
 Teleshopping
 Shopping from home.
 
-2025-03-05 6:30am
-Teleshopping
-Shopping from home.
-
-2025-03-05 7:00am
-Teleshopping
-Shopping from home.
-
-2025-03-05 7:30am
-Teleshopping
-Shopping from home.
-
 2025-03-05 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-05 8:10am
 	Sun, Sand & Romance
 Kate and Eric head to Cancun for a vacation. Upon arrival, Eric leaves Kate to her own devices time and again to pursue an opportunity. Luckily, Shep, the resort's activities director, is more than willing to help fill her time with adventure.
 
-2025-03-05 9:05am
+2025-03-05 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-05 9:10am
+2025-03-05 9:00am
 	Sun, Sand & Romance
 Kate and Eric head to Cancun for a vacation. Upon arrival, Eric leaves Kate to her own devices time and again to pursue an opportunity. Luckily, Shep, the resort's activities director, is more than willing to help fill her time with adventure.
+
+2025-03-05 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-05 10:05am
 	Paris, Wine & Romance
@@ -150,57 +138,41 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-03-06 5:30am
-Teleshopping
-Shopping from home.
-
 2025-03-06 6:00am
 Teleshopping
 Shopping from home.
 
-2025-03-06 6:30am
-Teleshopping
-Shopping from home.
-
-2025-03-06 7:00am
-Teleshopping
-Shopping from home.
-
-2025-03-06 7:30am
-Teleshopping
-Shopping from home.
-
 2025-03-06 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-06 8:10am
 	Rome in Love
 An actress's dreams come true when she lands the lead role in a remake of Roman Holiday.
 
-2025-03-06 9:05am
+2025-03-06 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-06 9:10am
+2025-03-06 9:00am
 	Rome in Love
 An actress's dreams come true when she lands the lead role in a remake of Roman Holiday.
+
+2025-03-06 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-06 10:05am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-06 10:15am
 	A Summer Romance
 Samantha is initially reluctant to sell her family's Montana ranch to a developer, but then starts to take a shine to him.
 
-2025-03-06 11:10am
+2025-03-06 11:00am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-06 11:12am
+2025-03-06 11:02am
 	A Summer Romance
 Samantha is initially reluctant to sell her family's Montana ranch to a developer, but then starts to take a shine to him.
+
+2025-03-06 11:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-06 12:05pm
 	Love and Sunshine
@@ -310,10 +282,6 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-03-07 5:30am
-Teleshopping
-Shopping from home.
-
 2025-03-07 6:00am
 Teleshopping
 Shopping from home.
@@ -331,20 +299,20 @@ Teleshopping
 Shopping from home.
 
 2025-03-07 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-07 8:10am
 	One Perfect Wedding
 With help from their best friends, a happy couple plan the perfect wedding at the same place where their romance began.
 
-2025-03-07 9:05am
+2025-03-07 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-07 9:10am
+2025-03-07 9:00am
 	One Perfect Wedding
 With help from their best friends, a happy couple plan the perfect wedding at the same place where their romance began.
+
+2025-03-07 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-07 10:05am
 	Romantic Rewrite
@@ -495,20 +463,20 @@ Teleshopping
 Shopping from home.
 
 2025-03-08 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-08 8:10am
 	Matching Hearts
 Romance (2020)
 
-2025-03-08 9:05am
+2025-03-08 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-08 9:10am
+2025-03-08 9:00am
 	Matching Hearts
 Romance (2020)
+
+2025-03-08 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-08 10:05am
 	Same Time Next Week
@@ -807,20 +775,20 @@ Teleshopping
 Shopping from home.
 
 2025-03-10 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-10 8:10am
 	The Baby Proposal
 Sparks fly between a TV show host and her colleague when they become the unexpected guardians of a baby.
 
-2025-03-10 9:05am
+2025-03-10 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-10 9:10am
+2025-03-10 9:00am
 	The Baby Proposal
 Sparks fly between a TV show host and her colleague when they become the unexpected guardians of a baby.
+
+2025-03-10 10:00am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-10 10:10am
 	Love to the Rescue
@@ -963,20 +931,20 @@ Teleshopping
 Shopping from home.
 
 2025-03-11 8:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-03-11 8:10am
 	Appetite for Love
 When an executive is sent to a small town to acquire a local diner, she discovers that its owner is an ex-boyfriend who refuses to sell it to her.
 
-2025-03-11 9:05am
+2025-03-11 8:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-03-11 9:10am
+2025-03-11 9:00am
 	Appetite for Love
 When an executive is sent to a small town to acquire a local diner, she discovers that its owner is an ex-boyfriend who refuses to sell it to her.
+
+2025-03-11 9:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-03-11 10:05am
 	A Slice of Chicago Romance
