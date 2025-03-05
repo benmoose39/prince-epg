@@ -1,27 +1,3 @@
-2025-03-04 11:40pm
-The Traitors US
-The Traitors reach a stalemate in the tower, while the Faithful are challenged to think like a Traitor during the mission; a rivalry comes to a head at the round table, and someone has brought receipts.
-
-2025-03-05 12:40am
-The Traitors US
-One Faithful faces a decision that could make or break their game; the mission offers the chance to win a great power; the pressure to banish a Traitor at the round table is on, with this being the final time a player's identity is revealed.
-
-2025-03-05 1:45am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-05 1:50am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-05 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-05 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-03-05 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -903,6 +879,162 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-11 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-11 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-11 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-11 10:45am
+Crimewatch Live
+How police caught the man who stole am American Football legend's Hall of Fame ring. And police need help with identifying a man who died near Victoria train station in June 2024.
+
+2025-03-11 11:30am
+Homes Under the Hammer
+A scrap of land becomes home to a smart three-bedroom house in Staffordshire, along with transformations in Liverpool and Torquay.
+
+2025-03-11 12:15pm
+Bargain Hunt
+The teams are battling it out in Doune, Perthshire. Natasha Raskin Sharp meets leading tartan historian Peter MacDonald to learn about the origins of the iconic patterned cloth, while experts Roo Irvine and Danny Sebastian are guiding the Reds and Blues.
+
+2025-03-11 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-11 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-11 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-11 2:00pm
+Clean It, Fix It
+Mark Wright and his team, Tommy Walsh and Maxine Dwyer, help Max, a young man with Sotos syndrome, create a calmer and more accessible home. Max's bedroom, filled with collectibles, was overwhelming for him. The team declutter the room and adjust his desk for better comfort. In the bathroom, a new partition and safer fittings offer privacy and accessibility. Finally, an awning and lavender trellis in the garden transform the outdoor space into a relaxing retreat for Max to enjoy.
+
+2025-03-11 2:30pm
+Money for Nothing
+Expert upcycler Jacqui Joseph is at Earlswood recycling centre, scouring the skips for two items that she can rework to reveal their true potential. To help turn drab into fab, Jacqui enlists luggage legend Neil Wragg to work on some sofa leather, while Jacqui's creativity is tested by a mannequin. Will the transformations be enough to turn cast-offs into cash?
+
+2025-03-11 3:00pm
+Escape to the Country
+Alistair Appleton heads to Devon, with a mother-and-daughter duo hopeful of finding a new countryside home for the whole family in or near Dartmoor National Park. Business potential is at the top of the wish list, as there are ambitions to create a retreat centring on their love of horses and yoga.
+
+2025-03-11 3:45pm
+Make It at Market
+Stone carver Richard needs to make his pieces more profitable. Stained-glass artist Kate has to refine her pieces. Can Dom help them succeed and build their businesses?
+
+2025-03-11 4:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Adam, Morgan, Mikey, Sandra and Dip race in moving podiums across the studio floor to try to win £5,000.
+
+2025-03-11 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-03-11 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-11 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-11 7:00pm
+The One Show
+Alex Jones and Clara Amfo bring you the stories that matter from across the country.
+
+2025-03-11 7:30pm
+EastEnders
+Follow the latest dramas of the residents of Albert Square in London's East End as they deal with life, love and loss.
+
+2025-03-11 8:00pm
+Sort Your Life Out
+The Bowens, a family of five, call on Stacey and her team to transform their cluttered home in Wales. Mum-of-four Katrina recently moved her family from the West Midlands to start a new chapter in the countryside as a single parent. As a busy mum juggling everything on her own, Katrina struggles to find the time or space to tackle the chaos in her rented home. With Stacey and the team's help, the Bowens pack up every possession, stripping their home bare and revealing its hidden potential.
+
+2025-03-11 9:00pm
+Waterloo Road
+After witnessing Jared's controlling behaviour towards Libby, Amy bends school rules to seek justice. Schuey confronts his past when Agnes goes behind his back to visit a surprising person, putting their relationship under threat.
+
+2025-03-11 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-11 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-11 10:40pm
+The Hunt for Peter Tobin
+In 1991, two teenagers disappear without a trace in different parts of the UK. Fifteen years later, the murder of a woman in Glasgow reveals a terrible link between all three cases.
+
+2025-03-11 11:40pm
+The Hunt for Peter Tobin
+With Peter Tobin accused of the brutal murder of Angelika Kluk at a church in Glasgow, detectives analyse what dark secrets might lurk in his past.
+
+2025-03-12 12:40am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-12 12:45am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-03-12 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-12 1:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-03-12 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-12 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-12 2:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-12 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-12 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-12 3:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-12 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-12 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-12 4:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-12 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-12 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
