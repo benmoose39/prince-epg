@@ -1,27 +1,3 @@
-2025-03-05 11:40pm
-Made in Britain
-Discover how the famous Henry vacuum cleaner is made - his friendly face can be found in millions of homes, hotels and offices around the world. Go behind the scenes at the family firm churning out dairy ice cream - their herd of clever cows decide for themselves when they're ready for milking.
-
-2025-03-06 12:05am
-Teleshopping
-Shopping from home.
-
-2025-03-06 3:00am
-Tonight
-Former British soldier Adnan Sarwar reports on an assessment of the UK's defence strategy in a volatile international climate - and following the election of Donald Trump as US president - how well-prepared the nation's armed forces are for any future conflict, whether its current levels of equipment and manpower are adequate or not, and if the right level of funding is in place to meet the challenges of the future.
-
-2025-03-06 3:25am
-For the Love of Dogs with Alison Hammond
-Alison Hammond meets two a pair of inseparable golden Labradors who come as a pair and are struggling to find their forever home. She then helps a three-month-old whippet with some swimming lessons, and befriends a shy Maltese with trust issues.
-
-2025-03-06 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-03-06 5:05am
-Judi Love's Culinary Cruise
-Judi Love embarks on a food exploration and travel adventure as she visits fabulous locations, meets wonderful locals, and finds out all about their heritage and traditions while taking in their cultures and incredible produce.
-
 2025-03-06 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -545,4 +521,84 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-03-12 5:00am
 Alan Titchmarsh's Gardening Club
 Alan showcases his early-blooming plants, Camilla Bassett-Smith visits one of the world's largest indoor rainforests to meet the team behind it, Claire Lowrie leads a houseplant masterclass for beginners, Anna Greenland answers a viewer's query on growing vegetables, and Errol Reuben Fernandes explores an inner-city community garden while sharing his eco-friendly gardening advice.
+
+2025-03-12 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-03-12 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-03-12 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-03-12 12:15pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-03-12 12:35pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-12 12:45pm
+
+Ed Chamberlin presents coverage of six races on the second day of the 2025 Cheltenham Festival - today's feature race is the Champion Chase as many hope that Jonbon will be one of the star performers of the meeting. A superb supporting card includes the Turners' Novices' Hurdle, the Brown Advisory Chase and the Coral Cup, and the cross-country fences are in action for the one and only time this week in the Cross-Country Chase.
+
+2025-03-12 5:00pm
+The Chase
+Bradley Walsh hosts as Lynwen from Mold, Rob from London, Vikki from Wellingborough and Keith from Manchester work together as a team and try to take one of the country's finest quiz brains down for thousands of pounds.
+
+2025-03-12 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-12 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-03-12 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-03-12 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-03-12 9:00pm
+A Cruel Love: The Ruth Ellis Story
+Ruth is on trial for murder as the court hears how she came to kill David Blakely and why a woman who seemingly had it all did so.
+
+2025-03-12 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-03-12 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-12 10:45pm
+The 1% Club
+Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
+
+2025-03-12 11:40pm
+Who Wants to Be a Millionaire?
+15 questions are all that stand between six contestants and a life-changing jackpot of one million pounds.
+
+2025-03-13 12:45am
+Teleshopping
+Shopping from home.
+
+2025-03-13 3:00am
+Long Lost Family
+In this special episode, women affected by a historic scandal in Spain from the 1930s through the Franco era to the 1990s search for children and family.
+
+2025-03-13 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-03-13 5:00am
+Wheel of Fortune
+Graham Norton invites novelty shop owner Jess, learning and development trainer Xhemal, and former GP Pip to spin the Wheel, solve puzzles and hopefully hold their nerve to win a possible 50,000 pounds.
 
