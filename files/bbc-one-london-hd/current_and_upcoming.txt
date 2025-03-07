@@ -1,67 +1,3 @@
-2025-03-06 11:40pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2025-03-07 12:10am
-The Weakest Link
-Gok Wan, Sunetra Sarker, Kate Humble, Asim Chaudhry, Katie Piper, Dermot Murnaghan, Andy Day and Susie McCabe compete to be the strongest link and win money for their chosen charity.
-
-2025-03-07 12:55am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-07 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-07 1:30am
-Click
-What are the top technology trends to watch in 2025? The Click team heads to Las Vegas to check out the highlights from CES, one of the biggest tech and innovation events of the year.
-
-2025-03-07 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-07 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-07 2:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-07 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-07 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-07 3:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-07 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-07 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-07 4:45am
-Sportsday
-A round-up of the day's sporting action, plus talking points, analysis and original journalism.
-
-2025-03-07 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-07 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-03-07 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -943,6 +879,166 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-13 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-13 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-13 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-13 10:45am
+Crimewatch Live
+In 2023, Carl Cooper was jailed for killing Naomi Hunte and Fiona Holm. Fiona's body hasn't been found. Can you help lay her to rest? And the chase to catch a reckless trio stealing mopeds and joyriding across Peterborough.
+
+2025-03-13 11:30am
+Homes Under the Hammer
+A first time developer transforms a terrace in Stoke while more seasoned developers also deliver great projects in Rugby and Leeds.
+
+2025-03-13 12:15pm
+Bargain Hunt
+It's party time on Bargain Hunt! Join the show's presenters and experts as they delve into the archive and celebrate 25 years of the nation's favourite antiques game show.
+
+2025-03-13 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-13 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-13 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-13 2:00pm
+Clean It, Fix It
+Mark Wright and his team, Karla Pryce and Asher Edwards, step in to help Gloria's family, whose home was devastated by a flood. A year later, their living room is still a dumping ground, and the kitchen is chaotic. With clever decluttering, custom storage solutions and a vibrant feature wall, the team transform the house into a warm, functional space. From a playful coffee table to ingenious kitchen storage, they bring joy, style and order back to Gloria's home.
+
+2025-03-13 2:30pm
+Money for Nothing
+Sarah Moore is at Woking's recycling centre to stop quality discards ending up in the skips. She intercepts a retro swivel chair, a large oak dining table and a once-cherished sideboard. With the help of upholsterer Simion Hawtin-Smith and screen-print artist Zoe Murphy, the three items are revitalised ready to sell on and hopefully turn a profit for their original owners.
+
+2025-03-13 3:00pm
+Escape to the Country
+The bluebells are out in Buckinghamshire as Briony May Williams shows some splendid countryside properties to a couple wanting to escape from the Warwickshire town of Rugby.
+
+2025-03-13 3:45pm
+Make It at Market
+Can Dom and the team help leatherworker Sonia's dream of crafting make a comeback and find a way to get textile weaver Shiv out of a disastrous sales slump?
+
+2025-03-13 4:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Shauna, Andy, Doniya, Kathryn and Martin race in moving podiums across the studio floor to try to win £5,000.
+
+2025-03-13 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-03-13 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-13 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-13 7:00pm
+The One Show
+Alex Jones and Vernon Kay bring you the stories that matter from across the country.
+
+2025-03-13 7:30pm
+EastEnders
+Follow the latest dramas of the residents of Albert Square in London's East End as they deal with life, love and loss.
+
+2025-03-13 8:00pm
+Dragons' Den
+Hoping to entice the Dragons are a couple who organise social events for four-legged friends and a 29-year-old with a larger-than-life clothing business. A married couple claim they've invented the holy grail for tall people, a decent night's sleep. And a self- proclaimed accidental CEO aims to give some dignity to borrowing money from friends and family.
+
+2025-03-13 9:00pm
+The Apprentice
+It's week seven, and the candidates launch a new banking app and accompanying money box for six-to-nine-year-olds. After pitching to industry heavyweights, the team that secures the most investment wins. It's all fun (and no facts) for one team, whilst on the other, a lack of synergy spells disaster. In the boardroom, Lord Sugar tells another candidate 'You're fired.'
+
+2025-03-13 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-13 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-13 10:40pm
+Question Time
+Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
+
+2025-03-13 11:40pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-03-14 12:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-14 12:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-03-14 12:30am
+HARDtalk
+Hard-hitting interviews with international political leaders, corporate decision makers and entertainers.
+
+2025-03-14 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-14 1:30am
+100 Women
+Film director Chloé Zhao sits down with BBC 100 Women to talk about being a woman behind the camera and how the film industry in Hollywood is still shaped by men - something she's trying to change.
+
+2025-03-14 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-14 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-14 2:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-14 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-14 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-14 3:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-14 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-03-14 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-14 4:45am
+Sportsday
+A round-up of the day's sporting action, plus talking points, analysis and original journalism.
+
+2025-03-14 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-14 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
