@@ -1,2 +1,2 @@
-10:10pm - BBC Weekend News
-National and international news, followed by weather.
+10:25pm - BBC Weather
+The latest weather forecast.
