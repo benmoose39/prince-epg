@@ -28,7 +28,7 @@ Tarek and Christina have one week to find a flip and battle it out over the kitc
 
 2025-03-09 4:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-03-09 6:00am
 Teleshopping
