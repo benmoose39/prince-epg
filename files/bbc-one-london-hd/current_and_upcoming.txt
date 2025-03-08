@@ -1,51 +1,3 @@
-2025-03-07 11:40pm
-Eurovision Song Contest
-Eurovision coverage where participants perform on live television. Graham Norton provides commentary for the finals, lending his signature style and charm to the glitzy event.
-
-2025-03-08 1:20am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-08 1:25am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-08 1:30am
-100 Women
-Film director Chloé Zhao sits down with BBC 100 Women to talk about being a woman behind the camera and how the film industry in Hollywood is still shaped by men - something she's trying to change.
-
-2025-03-08 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-08 2:30am
-Influential with Katty Kay
-Vera Wang tells Katty Kay about her journey from figure skating to fashion, her time at Vogue, and the creation of her bridal empire.
-
-2025-03-08 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-08 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-03-08 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-08 4:30am
-The Travel Show
-At the edge of the Arctic circle, Roma Wells heads to the far north of Iceland in search of majestic marine life, other worldly landscapes, and a glimpse of the Northern Lights.
-
-2025-03-08 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-08 5:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
 2025-03-08 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -949,4 +901,104 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-14 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-14 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-14 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-14 10:45am
+Crimewatch Live
+In 1994 Lindsay Rimer went missing. Her body was found five months later. Police need help with solving the murder. And police catch a gang using online dating apps to target and attack men.
+
+2025-03-14 11:30am
+Homes Under the Hammer
+A terraced cottage in Kent, a two-bed semi-detached with a wonderful garden in Suffolk and a four-bedroom terrace near Coventry are all sold at online auctions. Two homes are destined for the rental market while the third becomes a labour of love for its new owner who plans to make it his home.
+
+2025-03-14 12:15pm
+Bargain Hunt
+Eric Knowles presents from Kingston upon Thames in Surrey, with the reds and the blues led by Thomas Forrester and Gary Pe. As both teams fight to make a profit at the auction, Eric discovers the fascinating life of the famed florist Constance Spry.
+
+2025-03-14 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-14 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-14 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-14 2:00pm
+Father Brown
+Mrs Devine and Sullivan's wedding approaches, but can Father Brown stop a would-be killer from ruining their big day?
+
+2025-03-14 2:45pm
+Escape to the Country
+There's a marvellous multi-generational move to consider as Alistair Appleton helps one family, spread over four generations, find two houses in one village. It's a tall order, but Alistair presents a whole host of interesting property options.
+
+2025-03-14 3:45pm
+Make It at Market
+Woodworker Neil needs to focus to achieve his goals. Embroiderer Catherine dreams of a successful business but is spreading herself too thin. Can Dom and his mentors help?
+
+2025-03-14 4:30pm
+The Finish Line
+Roman Kemp, assisted by Sarah Greene, hosts the quiz show where knowledge equals speed. Megan, Emilie, Kenny, Philippa and Stephen race in moving podiums across the studio floor to try to win £5,000.
+
+2025-03-14 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-03-14 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-14 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-14 7:00pm
+The One Show
+Lauren Laverne and Clara Amfo bring you the stories that matter from across the country.
+
+2025-03-14 7:30pm
+Extraordinary Portraits
+Bill matches 20-year-old Millie a campaigner challenging the stereotypes around Down's syndrome, with Karen Turner, an award-winning, self-taught painter.
+
+2025-03-14 8:00pm
+Ghosts
+Alison has invited Lucy to come to Button House for a sleepover, but after a worrying meeting with the solicitor, Alison must work out if Lucy is really who she says she is. The Captain insists on utilising his skills in surveillance to help Alison find out the truth. After an emailing prank by Julian gets out of hand, Mike has some awkward explaining to do to his boss, which Julian and Robin are gleeful to have front row seats for.
+
+2025-03-14 8:30pm
+Amanda & Alan's Spanish Job
+Amanda and Alan go all out for their last room, designing a lavish Moorish-gold-themed bar. They head to a traditional tea house in Granada, but sipping on their tea is the least of their worries as they get more than they bargained for.
+
+2025-03-14 9:00pm
+Death in Paradise
+Mervin reopens his mother's case and uncovers the prime suspect in her murder. Even though everything points back to this suspicious figure, they cannot work out how foul play was involved. Old wounds are reopened as Mervin confronts his past.
+
+2025-03-14 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-14 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-14 10:40pm
+	Romeo & Juliet
+Oscar-nominated and BAFTA-winning version of Shakespeare's tale of a doomed love affair. Updated in setting to Verona Beach, where the gangs of the corporate dynasties, the Capulets and Montagues, battle with guns as much as knives.
+
+2025-03-15 12:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-15 12:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 
