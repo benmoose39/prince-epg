@@ -24,7 +24,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-09 9:30am
 UpFront
-Challenging, dynamic and UpFront, Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests and newsmakers.
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
 
 2025-03-09 10:00am
 Newshour
@@ -84,7 +84,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-09 7:30pm
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-09 8:00pm
 News
@@ -132,7 +132,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-10 2:30am
 UpFront
-Challenging, dynamic and UpFront, Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests and newsmakers.
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
 
 2025-03-10 3:00am
 News
@@ -148,7 +148,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-10 4:30am
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-10 5:00am
 News
@@ -212,7 +212,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-10 2:30pm
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-10 3:00pm
 Newshour
@@ -344,7 +344,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-11 9:30am
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-11 10:00am
 Newshour
@@ -404,7 +404,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-11 7:30pm
 The Bottom Line
-Discussions on US politics and policies.
+Host Steve Clemons asks former Israeli advisor Daniel Levy about the consequences of the unraveling of the Gaza ceasefire deal brokered by the U.S.
 
 2025-03-11 8:00pm
 News
@@ -452,7 +452,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-12 2:30am
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-12 3:00am
 News
@@ -664,7 +664,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-13 9:30am
 The Bottom Line
-Discussions on US politics and policies.
+Host Steve Clemons asks former Israeli advisor Daniel Levy about the consequences of the unraveling of the Gaza ceasefire deal brokered by the U.S.
 
 2025-03-13 10:00am
 Newshour
@@ -692,7 +692,7 @@ World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-03-13 2:30pm
 The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+Could phase two of the Gaza ceasefire effectively be dead even before it gets underway? Also, we analyse the Anti-Defamation League and its work.
 
 2025-03-13 3:00pm
 Newshour
