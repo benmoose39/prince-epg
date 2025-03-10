@@ -1,15 +1,3 @@
-2025-03-09 9:00pm
-Asian Network Comedy
-BBC Asian Network Comedy returns with a hilarious new stand-up show.
-
-2025-03-10 3:00am
-Asian Network Comedy
-BBC Asian Network Comedy returns with a hilarious new stand-up show.
-
-2025-03-10 4:50am
-What's Your Thing?
-The normal, the unusual and everything in between, journalist Adam Clarkson explores the hobbies, passions and interests of everyday people across England.
-
 2025-03-10 6:00am
 What's Your Thing?
 The normal, the unusual and everything in between, journalist Adam Clarkson explores the hobbies, passions and interests of everyday people across England.
@@ -241,4 +229,44 @@ BBC Asian Network Comedy returns with a hilarious new stand-up show.
 2025-03-16 4:30am
 Winterwatch
 Enjoy the very best of the season in a natural escape that lets nature do the talking.
+
+2025-03-16 6:00am
+Winterwatch
+Enjoy the very best of the season in a natural escape that lets nature do the talking.
+
+2025-03-16 8:35am
+WSL
+Coverage as Liverpool host Manchester United in the Women's Super League.
+
+2025-03-16 11:00am
+All England Open Championship Badminton
+Coverage of the final day of competition at the All England Open in Birmingham, the world's oldest badminton tournament.
+
+2025-03-16 2:50pm
+Premiership Women's Rugby
+Coverage of the Women's Premiership Rugby play-off final at StoneX Stadium, North London, with the last two teams standing battling it out for glory.
+
+2025-03-16 5:15pm
+Superleague Netball
+Coverage of the Super League game between London Pulse and Nottingham Forest Netball at London's Copper Box Arena.
+
+2025-03-16 7:35pm
+What's Your Thing?
+The normal, the unusual and everything in between, journalist Adam Clarkson explores the hobbies, passions and interests of everyday people across England.
+
+2025-03-16 10:00pm
+The Women's Football Show
+Highlights from the Women's League Cup final as Chelsea and Manchester City battle it out to claim the first piece of silverware of the season. There are also highlights from the Women's Super League as Manchester United travel to Anfield to face Liverpool. Everton host Arsenal, Crystal Palace welcome Aston Villa, and Brighton & Hove Albion travel to Tottenham Hotspur.
+
+2025-03-16 10:40pm
+FA Women's League Cup
+Coverage of the final of the Women's League Cup between Chelsea and Manchester City.
+
+2025-03-17 1:55am
+Asian Network Comedy
+BBC Asian Network Comedy returns with a hilarious new stand-up show.
+
+2025-03-17 5:15am
+What's Your Thing?
+The normal, the unusual and everything in between, journalist Adam Clarkson explores the hobbies, passions and interests of everyday people across England.
 
