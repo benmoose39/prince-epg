@@ -40,10 +40,6 @@ During a night on the town, a dedicated single mother meets a charming yet troub
 
 2025-03-12 4:00am
 Teleshopping
-Backtrace:
-
-2025-03-12 4:00am
-Teleshopping
 Shopping from home.
 
 2025-03-12 8:00am
