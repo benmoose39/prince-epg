@@ -1,23 +1,3 @@
-2025-03-10 11:40pm
-Heathrow: Britain's Busiest Airport
-Passenger numbers may be down by 77 per cent but deciphering the protocols of all 206 countries that Heathrow fly to is more complicated than navigating Spaghetti Junction in rush hour. On the frontline is Joel, the manager of Heathrow's testing centre, who leads the charge in trying to reduce passenger stress and makes sure that everyone gets the right test for the right country.
-
-2025-03-11 12:05am
-Teleshopping
-Shopping from home.
-
-2025-03-11 3:00am
-For the Love of Dogs with Alison Hammond
-Alison has her work cut out when a police van arrives with several dogs found living in terrible conditions. Among them is a beautiful chocolate labrador who has been used for excessive breeding and a tiny Maltese cross in need of some de-matting.
-
-2025-03-11 3:25am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-03-11 4:20am
-The Academy Awards
-Jonathan Ross brings you the very best Oscars moments with highlights from the 97th Academy Awards.
-
 2025-03-11 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -505,4 +485,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-03-17 5:05am
 Prue Leith's Cotswold Kitchen
 Prue Leith, her husband and friends cook more mouth-watering dishes and explore the joys of their Cotswold home and local area - Prue is joined in her kitchen in this episode of the programme by Lulu, who she first met at her restaurant in the 1970s.
+
+2025-03-17 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-03-17 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-03-17 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-03-17 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-03-17 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-03-17 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-17 2:00pm
+Alan Titchmarsh's Gardening Club
+Alan welcomes us back to his gardening club with expert advice on growing potatoes and managing ferns - also on the programme, Jason Williams visits an inspiring community allotment in Liverpool, Martha Swales shares a seed sowing masterclass, Camilla Bassett-Smith explores a pristine Yorkshire garden, and Henry Agg provides a step-by-step guide to building a raised bed.
+
+2025-03-17 3:00pm
+Jeopardy!
+Stephen Fry hosts the quiz based on a hit US show where players are presented with clues in the form of answers and must phrase their responses in the form of a question.
+
+2025-03-17 4:00pm
+Tipping Point
+Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.
+
+2025-03-17 5:00pm
+The Chase
+Bradley Walsh hosts as Mark from Edinburgh, Suzi from Hemel Hempstead, Tracey from Sutton Coldfield and Aaron from London hope that they can take home thousands of pounds together.
+
+2025-03-17 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-17 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-03-17 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-03-17 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-03-17 9:00pm
+Protection
+As Liz desperately tries to protect the integrity of her unit and to limit further damage, she is forced to take drastic steps to protect her highly vulnerable witness. But she may only manage to compromise herself further.
+
+2025-03-17 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-03-17 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-03-17 10:45pm
+The British Airways Killer
+Halloween 2010 - Britain is rocked by the disappearance of Joanna Simpson, a wealthy heiress and mother of two from Ascot.
+
+2025-03-17 11:40pm
+Sorry, I Didn't Know
+Jimmy Akingbola hosts the classic panel show with a twist - this time sees Kae Kurd, Kiri Pritchard-McLean, Oti Mabuse and Jordan Stephens join team leaders Chizzy Akudolu and Eddie Kadi to take viewers on a tour of Black British history.
+
+2025-03-18 12:05am
+Teleshopping
+Shopping from home.
+
+2025-03-18 3:00am
+The Undercover Police Scandal: Love and Lies Exposed
+Five women come together for the first time on camera to share their experiences of being deceived into intimate relationships with undercover police officers - in interwoven stories spanning two decades, we hear from Alison, Lisa and Helen.
+
+2025-03-18 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-03-18 5:05am
+Judi Love's Culinary Cruise
+An inspirational series following Judi Love on a food exploration and travel adventure - Judi's exploits this time take her to Corfu, the island of spices, where she visits a dairy shop known for their huge block of butter that Jackie Onassis was a big fan of, gets nostalgic over nutmeg at a spice shop, and visits a family-run restaurant that has been in the family for 100 years where she is taught how to make the classic Corfiot dish of pastitsada.
 
