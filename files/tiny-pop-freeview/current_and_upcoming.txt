@@ -44,7 +44,7 @@ Lifetime +1 is no longer available.
 
 2025-03-14 2:00am
 Channel No Longer Available
-Backtrace:
+Lifetime +1 is no longer available.
 
 2025-03-14 6:00am
 Channel No Longer Available
