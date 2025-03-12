@@ -1,31 +1,3 @@
-2025-03-11 11:25pm
-	The Fisherman: A Journey Into The Mind Of A Killer
-Retired detective Gordon Davie discusses the crimes of notorious child murderer James Ryan O'Neill, who murdered two young boys in Tasmania in 1975.
-
-2025-03-12 12:26am
-Cult of Personality
-Jim Jones, a charismatic but tyrannical preacher, leads his followers into the remote commune of Jonestown, Guyana.
-
-2025-03-12 1:18am
-Cult of Personality
-Charles Manson, a former con man turned guru of a hippie commune isolated in the Californian desert, has followers who are willing to kill for him.
-
-2025-03-12 2:09am
-Cult of Personality
-Moonies are told that they are on a mission to save humanity, but in reality, they are just building an empire for their Messiah, Sun Myung Moon, the all powerful reverend of the Unification Church.
-
-2025-03-12 3:00am
-Cult of Personality
-David Koresh, the so-called Sinful Messiah of Waco, Texas, prepares his followers for a battle with the federal government, but he also sleeps with whomever he chooses, including preteen girls.
-
-2025-03-12 3:52am
-The FBI Files
-After surviving an attack, a victim helps the FBI close a six-month investigation into the abductions, rapes and murders of 10 Florida women.
-
-2025-03-12 4:53am
-Mafia's Greatest Hits
-Ambitious John Gotti became the boss of the Gambino family by ordering the death of the group's former head and earned the nickname 'Teflon Don' after three acquittals.
-
 2025-03-12 5:54am
 	Gangster No. 1: The Freddie Foreman Story
 Attached to almost every unsolved gangland murder in London over the last 50 years, Freddie Foreman is the `Godfather' of Britain's criminal underworld. Foreman reveals the audacious details of the heists, double crossings, shootouts, murders and betrayals he was involved in, and ultimately, what has made him `Gangster Number.1'.
@@ -561,4 +533,96 @@ Based on expert testimony from bloodstain pattern analysts, a jury convicted for
 2025-03-18 5:16am
 CSI on Trial
 As a young sailor, Keith Harward was convicted of a vicious assault based on bitemark analysis. After 33 years in prison, DNA testing exonerated him and proved that the bite evidence was junk science.
+
+2025-03-18 6:24am
+CSI on Trial
+Firearms analysis, one of the most common forensic science practices in the US, faces fresh challenges over its underlying science. The national debate on allowing such evidence in court has significant consequences.
+
+2025-03-18 7:25am
+	Dangerous Company
+A couple of Kentucky blue bloods team up to form a front for their drug smuggling business. As the operation grows, so too does the paranoia and betrayal.
+
+2025-03-18 9:13am
+Police: Suspect No. 1
+After a raid on a cannabis factory, nine people are arrested and it is up to the team to get to the bottom of which role each suspect played.
+
+2025-03-18 10:04am
+Police: Suspect No. 1
+The team in Norwich gather evidence about a single-punch attack that has left a man seriously injured, and there are no willing witnesses.
+
+2025-03-18 10:55am
+Conviction: Murder at the Station
+Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
+
+2025-03-18 12:00pm
+Almost Unsolved
+The body of a brutally murdered young Indigenous woman is discovered in Manitoba. Four suspect's names keep coming up, but with little evidence and no one willing to talk, it takes over a decade before a new officer finds a way to break the silence.
+
+2025-03-18 12:49pm
+Almost Unsolved
+An Alberta resident vanishes without a trace until her charred body is found in an abandoned shack. The RCMP hits the case hard but without any evidence, the case quickly goes cold.
+
+2025-03-18 1:38pm
+Almost Unsolved
+A young nurse is murdered on her way to work, and though a suspect is charged and imprisoned, the entire investigation is called into question.
+
+2025-03-18 2:27pm
+24 Hours Police
+Programme about Police activities.
+
+2025-03-18 3:21pm
+24 Hours Police
+Programme about Police activities.
+
+2025-03-18 4:13pm
+	No Visible Trauma
+The stories of three individuals who were the victims of police brutality in Calgary, Canada.
+
+2025-03-18 6:06pm
+The Boneyard
+Chilling documentary charting a brutal real life tale of kidnapping, enslavement and murder. Find out how investigators tracked down a malicious murderer and explore the extensive trial that followed.
+
+2025-03-18 7:53pm
+Murder Maps
+John Christie killed at least eight women during the 1940s and 1950s, including his wife. Hear more about his shocking crimes in this two-parter.
+
+2025-03-18 8:44pm
+Murder Maps
+WWI veteran John Christie later turned to a life of crime and killed at least eight women. Hear how his murderous spree ended at the gallows.
+
+2025-03-18 9:34pm
+Conviction: Murder at the Station
+Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
+
+2025-03-18 10:39pm
+Dark Waters of Crime
+Investigators have devised extraordinary measures to solve crimes involving water.
+
+2025-03-18 11:29pm
+Dark Waters of Crime
+New information forces the opening of a years old accidental death case.
+
+2025-03-19 12:24am
+Almost Unsolved
+An Alberta resident vanishes without a trace until her charred body is found in an abandoned shack. The RCMP hits the case hard but without any evidence, the case quickly goes cold.
+
+2025-03-19 1:13am
+Almost Unsolved
+A young nurse is murdered on her way to work, and though a suspect is charged and imprisoned, the entire investigation is called into question.
+
+2025-03-19 2:02am
+24 Hours Police
+Programme about Police activities.
+
+2025-03-19 2:56am
+24 Hours Police
+Programme about Police activities.
+
+2025-03-19 3:49am
+	No Visible Trauma
+The stories of three individuals who were the victims of police brutality in Calgary, Canada.
+
+2025-03-19 5:42am
+The Boneyard
+Chilling documentary charting a brutal real life tale of kidnapping, enslavement and murder. Find out how investigators tracked down a malicious murderer and explore the extensive trial that followed.
 
