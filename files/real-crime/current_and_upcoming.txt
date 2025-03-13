@@ -1,23 +1,3 @@
-2025-03-12 11:26pm
-Served: Harvey Weinstein
-The rise and fall of one of Hollywood's most powerful men, Harvey Weinstein.
-
-2025-03-13 12:31am
-The New Detectives
-Psychologists discuss the behaviour of serial killers while detectives talk about techniques used to catch them.
-
-2025-03-13 1:33am
-The New Detectives
-The massive investigation into the attempted murders of federal judges in 1989, beginning with the killing of Judge Robert Vance.
-
-2025-03-13 2:34am
-Conviction: Murder at the Station
-Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
-
-2025-03-13 3:39am
-Conviction: Murder at the Station
-Louise investigates a case, looking for evidence that could present grounds to bring an appeal, and ultimately overturn the conviction of a Southampton man in prison for the murder of his secret lover.
-
 2025-03-13 4:46am
 Angel of Death
 As the number of deaths at a medical centre climbs, the night staff begins to suspect that someone is poisoning the patients.
@@ -565,4 +545,96 @@ The stories of three individuals who were the victims of police brutality in Cal
 2025-03-19 5:42am
 The Boneyard
 Chilling documentary charting a brutal real life tale of kidnapping, enslavement and murder. Find out how investigators tracked down a malicious murderer and explore the extensive trial that followed.
+
+2025-03-19 7:29am
+Murder Maps
+John Christie killed at least eight women during the 1940s and 1950s, including his wife. Hear more about his shocking crimes in this two-parter.
+
+2025-03-19 8:20am
+Murder Maps
+WWI veteran John Christie later turned to a life of crime and killed at least eight women. Hear how his murderous spree ended at the gallows.
+
+2025-03-19 9:10am
+Conviction: Murder at the Station
+Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
+
+2025-03-19 10:15am
+Dark Waters of Crime
+Investigators have devised extraordinary measures to solve crimes involving water.
+
+2025-03-19 11:05am
+Dark Waters of Crime
+New information forces the opening of a years old accidental death case.
+
+2025-03-19 12:00pm
+Conviction: Murder in Suburbia
+Series 1 Episode 1
+
+2025-03-19 1:08pm
+Almost Unsolved
+After a front desk worker at a North Dakota motel is found brutally murdered, the search for their killer will span decades over several states and employ new techniques.
+
+2025-03-19 1:57pm
+Almost Unsolved
+Two teenagers are executed in a lover's lane, and over sixty years later technology finally catches up to help track down their mysterious killer.
+
+2025-03-19 2:46pm
+Almost Unsolved
+When a young couple is discovered murdered, It will take almost 40 years to uncover the killer of childhood sweethearts.
+
+2025-03-19 3:35pm
+The FBI Files
+A man robs Wells Fargo Bank in Albuquerque, N.M., on Aug. 10, 1999, claiming the money would be used to feed poor Mexican children.
+
+2025-03-19 4:34pm
+The FBI Files
+FBI agents and police track down a gang that specialises in armoured-car takedowns. As the robberies grow more violent, they launch a complex sting.
+
+2025-03-19 5:32pm
+The FBI Files
+After two serial bank robbers escape from police custody, FBI agents familiar with the bandits believe that they would attempt a grand-scale heist.
+
+2025-03-19 6:30pm
+The FBI Files
+When an employee at an armoured van company receives a call about a money shipment that did not arrive, an FBI search for the missing van begins.
+
+2025-03-19 7:29pm
+The Unperfect Crime
+Documentary exploring the 1997 Loomis-Fargo armoured car heist in North Carolina and the serio-comic fates of its underdog perpetrators. who fell victim to avarice, mutual betrayals and false romantic promises.
+
+2025-03-19 9:23pm
+	The Feared: Irish Gangsters
+True crime author Bernard O'Mahoney returns to his home country to shine a light on the Irish underworld. With exclusive access to high-profile Irish `faces', he enters uncharted territory when he discovers that there may be more to these crimes than meets the eye. He travels around the country through the workings of a dark criminal underworld with stories of extreme violence, poverty, and ultimately, the devastating consequences they bring.
+
+2025-03-19 11:08pm
+Dark Waters of Crime
+Following the gruesome discovery of a skeleton on an island in New Brunswick, detectives seek to unravel the mystery of the woman with no name.
+
+2025-03-20 12:00am
+Dark Waters of Crime
+For criminals, water is a perfect accomplice for the perfect murder, it erases, engulfs and takes away bodies, weapons and clues. This explains why within two years, seven disembodied feet wash up on various beaches in southern British Columbia.
+
+2025-03-20 12:53am
+Conviction: Murder in Suburbia
+Series 1 Episode 1
+
+2025-03-20 2:00am
+Almost Unsolved
+After a front desk worker at a North Dakota motel is found brutally murdered, the search for their killer will span decades over several states and employ new techniques.
+
+2025-03-20 2:49am
+Almost Unsolved
+Two teenagers are executed in a lover's lane, and over sixty years later technology finally catches up to help track down their mysterious killer.
+
+2025-03-20 3:39am
+Almost Unsolved
+When a young couple is discovered murdered, It will take almost 40 years to uncover the killer of childhood sweethearts.
+
+2025-03-20 4:28am
+The FBI Files
+A man robs Wells Fargo Bank in Albuquerque, N.M., on Aug. 10, 1999, claiming the money would be used to feed poor Mexican children.
+
+2025-03-20 5:26am
+The FBI Files
+FBI agents and police track down a gang that specialises in armoured-car takedowns. As the robberies grow more violent, they launch a complex sting.
 

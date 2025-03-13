@@ -1,31 +1,3 @@
-2025-03-12 11:00pm
-Prisoner: Cell Block H
-Nola recruits Faye as her offsider but bashes her anyway to show she means business. She then goes after the rest of Maxine's gang, leaving Maxie terrified she is next.
-
-2025-03-13 12:00am
-Prisoner: Cell Block H
-Bea and Nola refuse to fight in the Library, since Joan set it up, and she is furious. Erica offers to restore buyup if Maxine lags on her attacker, but she refuses. Faye starts selling fags at high prices.
-
-2025-03-13 1:00am
-Bargain Loving Brits in the Sun
-Following Brits who have relocated to popular holiday destinations. In their search for sun, fun and low costs, the characters featured on the show reveal why they have chosen to move.
-
-2025-03-13 2:00am
-Bargain Loving Brits in the Sun
-Following Brits who have relocated to popular holiday destinations. In their search for sun, fun and low costs, the characters featured on the show reveal why they have chosen to move.
-
-2025-03-13 3:00am
-Cruising with Jane McDonald
-Jane finds herself centre stage at the Sydney Opera House, before embarking on a trip to New Zealand, including views of the spectacular Milford Sound, and visiting Dunedin, Christchurch and Marlborough, a region famous for its wines.
-
-2025-03-13 3:50am
-Entertainment News On 5
-A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
-
-2025-03-13 4:00am
-Teleshopping
-Shopping from home.
-
 2025-03-13 6:00am
 Teleshopping
 Shopping from home.
@@ -124,7 +96,7 @@ A daily round-up of showbiz news and gossip from around the world, focusing on c
 
 2025-03-14 4:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-03-14 6:00am
 Teleshopping
@@ -587,6 +559,102 @@ Entertainment News On 5
 A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
 
 2025-03-19 4:00am
+Teleshopping
+Shopping from home.
+
+2025-03-19 6:00am
+Teleshopping
+Shopping from home.
+
+2025-03-19 7:00am
+Teleshopping
+Shopping from home.
+
+2025-03-19 7:30am
+Teleshopping
+Shopping from home.
+
+2025-03-19 8:00am
+Cruise TV with LoveitBookit
+A definitive one-stop shop for all things cruise, bringing you the hottest destinations and the latest deals to ensure that your next cruise ship holiday is your greatest one yet.
+
+2025-03-19 9:00am
+World's Most Scenic Railway Journeys
+Telling the stories of epic train journeys through stunning landscapes all around the world, and meeting the characters who travel, work and live near them.
+
+2025-03-19 10:00am
+Cornwall: A Year By The Sea
+Exploring Cornwall as a thriving county all year round. There may be a bountiful tourism industry, but Cornwall's proud and hard-working locals still farm the land and fish the sea, coming together for traditional celebrations throughout the year.
+
+2025-03-19 11:00am
+Ben Fogle: New Lives in the Wild
+In Tuscany, Ben meets British couple George and Sophie who have breathed new life into a farmhouse. George's desire to live self-sufficiently lead to a lifelong project.
+
+2025-03-19 12:00pm
+Ben Fogle: New Lives in the Wild
+Ben spends time with Rob, someone he had previously encountered in Slab City, and learns about the challenges of living with a son on an island in the middle of an industrial river.
+
+2025-03-19 1:00pm
+The Yorkshire Vet
+Griff the terrier has swallowed a tennis ball, but is it safe to leave it there? Wendy the wallaby is under the weather, but Peter has trouble catching the crafty critter. Lawrence the bull's fertility is in question.
+
+2025-03-19 2:00pm
+The Yorkshire Vet
+Julian is called out to lovely llama Gus, while his beloved jack russell Emmie has an injury. Peter is asked to help relocate a young male deer and he also drops in on elderly farmers the Greens to care for their beloved lurcher Ruben.
+
+2025-03-19 3:00pm
+Murder, She Wrote
+When the remains of a private investigator are found 20 years after his death, Jessica discovers that Kennedy's death and the Mafia are linked to the murder.
+
+2025-03-19 4:00pm
+Columbo
+Fitness expert Milo Janus, the owner of a string of successful health spas, looks much younger than his 53 years. His financial accounts, however, are not in such good shape.
+
+2025-03-19 6:00pm
+World's Most Scenic Railway Journeys
+The El Chepe follows miles of spectacular scenery as it winds its way through the Copper Canyon.
+
+2025-03-19 7:00pm
+Ben Fogle: New Lives in the Wild
+Ben journeys into Zambia to live with a British family who have built a safari lodge on the edge of a national park, overcoming fire, flooding and dangerous wildlife.
+
+2025-03-19 8:00pm
+Ben Fogle: New Lives in the Wild
+Ben travels to the small remote island of Flores - home to Magnus, Lucy and one-year-old Frey, who live in an off-grid cottage on a steep sloped mountain.
+
+2025-03-19 9:00pm
+Prague With Michael Portillo
+Leaving his one-room hotel with its stunning view, Michael explores Prague's food scene, a secret bunker, and a centuries-old craft in 'the city of a hundred spires'.
+
+2025-03-19 10:00pm
+Menorca: Jewel Of The Med
+Exploring Menorca, with its stunning views, rich history, and a natural harbor. We explore Lithica, a former quarry, now a cultural heart, as well as the island's festivals.
+
+2025-03-19 11:00pm
+Prisoner: Cell Block H
+Bea realises that Nola and Maxine are working with Joan, and tearfully bashes Maxie to teach her a lesson. Lizzie is horrified, although Maxie forgives Bea and tells her she deserved it. Nevertheless, the women are turning against Bea.
+
+2025-03-20 12:00am
+Prisoner: Cell Block H
+Bea has had enough and tells the women to sort out their own problems from now on. She steals a spare officer's uniform, dyes her hair black, joins a group of trainee officers as they leave and walks right out of the prison gates.
+
+2025-03-20 1:00am
+The Madame Blanc Mysteries
+Judith's friend Nancy is shockingly kidnapped at Judith's surprise birthday party. Soon a photo arrives of Nancy bound with tape, a menacing knife pressed against her neck.
+
+2025-03-20 2:00am
+The Madame Blanc Mysteries
+Patrick tells Jean that 30 years ago he was responsible for identifying Sonny, a man sentenced to 30 years in prison. Can Jean solve a mystery before Sonny returns to take revenge?
+
+2025-03-20 3:00am
+The Madame Blanc Mysteries
+Sally Lindsay returns as sleuth Jean White for a festive mystery. Jean suspects foul play after a puppeteer's death on Christmas Eve, and investigates those close to him.
+
+2025-03-20 3:50am
+Entertainment News On 5
+A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
+
+2025-03-20 4:00am
 Teleshopping
 Shopping from home.
 
