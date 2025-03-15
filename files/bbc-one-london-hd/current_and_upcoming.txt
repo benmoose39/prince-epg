@@ -1,55 +1,3 @@
-2025-03-14 10:40pm
-	Romeo & Juliet
-Oscar-nominated and BAFTA-winning version of Shakespeare's tale of a doomed love affair. Updated in setting to Verona Beach, where the gangs of the corporate dynasties, the Capulets and Montagues, battle with guns as much as knives.
-
-2025-03-15 12:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-15 12:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-15 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-15 1:30am
-TechXplore
-Paul Carter explores snowy Sapporo and subtropical Fukuoka, uncovering cutting-edge hydrogen, groundbreaking greenhouses, smart water saving and next-gen recycling.
-
-2025-03-15 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-15 2:30am
-Influential with Katty Kay
-Legendary musician Wynton Marsalis sits down with Katty Kay to talk about his early fame, his commitment to jazz, and his philosophy on music and life.
-
-2025-03-15 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-15 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-03-15 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-15 4:30am
-The Travel Show
-The Travel Show marks 75 years of the van that became a symbol of freedom and independence when it was adopted by the hippie generation: the VW Transporter, which later became the Camper or Kombi.
-
-2025-03-15 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-15 5:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
 2025-03-15 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -981,4 +929,96 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-21 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-21 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-21 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-21 10:45am
+Crimewatch Live
+The Police Service of Northern Ireland appeal for information about Lisa Dorrian, who went missing in Ballyhalbert in February 2005. And how members of an organised crime group supplying drugs across south Wales were caught and jailed.
+
+2025-03-21 11:30am
+Homes Under the Hammer
+Tommy is in Norwich to see a Grade II listing with bags of charm and potential. Martin is in Folkestone to visit a two-bed maisonette taken on by a builder with an interesting hobby. Dion heads to Wigan to see a three-bed terrace that's riddled with damp but has great development potential.
+
+2025-03-21 12:15pm
+Bargain Hunt
+Charlie Ross is in Somerset for today's show. Two mums team up with their children and delve into the antiques and collectibles at the Bath & West Showground in Shepton Mallet. Experts Phillip Serrell and Tim Weeks are on hand to guide the reds and blues as they try to bag the most profitable items to take to auction. While the minutes tick away on the teams shopping, Charlie gets to see the workings of a clock that has kept time for the people of Wells for hundreds of years.
+
+2025-03-21 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-21 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-21 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-21 2:00pm
+Shakespeare and Hathaway: Private Investigators
+Frank and Lu are drawn into Stratford's Silicon Valley when Spider calls upon their help to expose a mole within tech company Forosa.
+
+2025-03-21 2:45pm
+Antiques Road Trip
+We've arrived in country number three on this road trip rumpus between experts Natasha Raskin Sharp and James Braxton. We're in Scotland for their final shopping expedition, so though Natasha has a bit of a home turf advantage, James isn't giving up without a fight. There's also one last outing for James's harvest jug. What sweet treats lurk within today?
+
+2025-03-21 3:15pm
+Escape to the Country
+Jules Hudson prepares himself for a beautiful but bracing property adventure in the lowlands of Scotland as he travels around the Lothians.
+
+2025-03-21 3:45pm
+Make It at Market
+Newly trained blacksmith Clare needs to start making money to buy her first home with her partner, and baker Gavin wants to use his cakes to help him move out of his mum's house.
+
+2025-03-21 4:30pm
+The Finish Line
+Roman Kemp, assisted by Sarah Greene, hosts the quiz show where knowledge equals speed. Adam, Mabel, Jason, Darsie and Helen race in moving podiums across the studio floor to try to win £5,000.
+
+2025-03-21 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-03-21 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-21 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-21 7:00pm
+Comic Relief
+Red Nose Day is back, and it's coming live from Media City UK, Salford - a huge night of comedy and entertainment celebrating 40 years of fundraising and fun with a birthday party not to be missed!
+
+2025-03-21 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-21 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-21 10:40pm
+Comic Relief
+Emma Willis and Asim Chaudhry keep the 40th birthday party jumping with a retro romp full of red nose-talgia that looks back at Comic Relief's greatest hits.
+
+2025-03-21 11:40pm
+	Beetlejuice
+Ghosts Adam and Barbara try to scare off the new owners of their home with their new-found powers, but get more than they bargained for when the new family appear to enjoy being haunted. Desperate, the pair enlist the help of a demonic phantom, despite having been strongly advised against it.
+
+2025-03-22 1:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-22 1:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 
