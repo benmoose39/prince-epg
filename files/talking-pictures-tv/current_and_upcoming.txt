@@ -1,27 +1,3 @@
-2025-03-16 10:55pm
-	Jekyll & Hyde
-A Victorian scientist's experiments into the dual nature of man yield a personality-splitting drug that he tests on himself, changing him into an uninhibited brute who seeks violent and undignified pleasures.
-
-2025-03-17 12:50am
-The Heritage Chart Show
-'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
-
-2025-03-17 1:50am
-	The Lost City
-After surviving a helicopter crash in the uncharted South African wilderness, two young men, a girl and a renegade thief discover an ancient city unknown to civilisation.
-
-2025-03-17 3:45am
-	Passenger to London
-A British agent, carrying important papers, is murdered on a passenger train. Before his death, he plants to papers in the trunk of a female passenger.
-
-2025-03-17 4:55am
-The Texan
-Longley attempts to escort Yancey Lewis, a bank robber sentenced to spend five years in prison in a distant town.
-
-2025-03-17 5:30am
-The Larkins
-After a thrilling night at the cinema, at home there are screams, a bomb scare and talk of a mysterious 'Gregory'.
-
 2025-03-17 6:00am
 	Dusty Ermine
 Going `straight' after being in jail, Jim is suspected when forged notes start circulating in the area.
@@ -513,4 +489,100 @@ Tony and Timmy must rescue an old friend's daughter from an East German prison; 
 2025-03-23 5:30am
 Out of Town
 Jack Hargreaves takes us for a walk along ancient tracks and reflects on centuries of change. In Cumbria he looks at the Fell Ponies of the Eden Valley.
+
+2025-03-23 6:00am
+	Old Mother Riley, Headmistress
+A laundress rises to become the headmistress of an exclusive girls school, and the laughs begin.
+
+2025-03-23 7:35am
+	Rogue's Yarn
+Dissatisfied with the widower's explanation, an insurance investigator probes the boating death of a rich invalid.
+
+2025-03-23 9:10am
+	Battle of the Railways
+The story of French railway workers during World War II.
+
+2025-03-23 10:50am
+What's on TPTV with Noel
+Founder of Talking Pictures TV and one half of the Footage Detectives, Noel Cronin, shares shows and films not to be missed throughout March.
+
+2025-03-23 11:05am
+The Beverly Hillbillies
+The Clampetts are feeling homesick. They are mostly all alone in Beverly Hills and none of their neighbours are visiting them. So they decide to go visit their new neighbours.
+
+2025-03-23 11:40am
+	Man on the Run
+An Army deserter moves from town to town looking for peace and quiet, only to become involved in more trouble.
+
+2025-03-23 1:20pm
+Cinebox Memories
+A delightful trip down memory lane, bringing forth the golden era of music and entertainment.
+
+2025-03-23 1:25pm
+Batman
+Gangstress Ma Parker and her fiendish brood - sons Pretty Boy, Mad Dog and Machine Gun and daughter Legs - have invaded Gotham City and begin their wave of crime by disrupting Gotham's Ladies Auxiliary's Mother of the Year awards ceremony and robbing the entire audience.
+
+2025-03-23 2:00pm
+	Abilene Town
+Marshal Dan Mitchell contends with unruly cattlemen and a group of determined homesteaders intending to settle on government land bordering the town. Hoping to rid the town of the farmers, the cowboys set fire to their camp.
+
+2025-03-23 3:45pm
+Look at Life
+An intriguing look at the changing social scene that is taking place in Britain's pubs.
+
+2025-03-23 4:00pm
+The Adventures of Robin Hood
+After an odd, harp-playing knight narrowly escapes death, Robin attempts to protect him his attacker.
+
+2025-03-23 4:30pm
+Out of Town
+Jack explains the intricacies of the universal troop saddle and, on the longest day of the year, he watches endurance riding in the New Forest.
+
+2025-03-23 5:00pm
+The Footage Detectives
+We have a short film of Peter Sellers featuring Graham Stark, Dick Emery and Raymond Francis! Then it's off to 1969 for 'new' scientific discoveries. And do you remember Archie Andrews ice lollies?
+
+2025-03-23 6:00pm
+	Smokescreen
+An assessor investigates a car crash in which he suspects potential insurance fraud.
+
+2025-03-23 7:30pm
+Tell Me Another
+Dick Hills tells personal anecdotes.
+
+2025-03-23 8:00pm
+Gideon's Way
+The Commander of Scotland Yard juggles solving crime and staying present for his family.
+
+2025-03-23 9:05pm
+The Wheeltappers and Shunters Social Club
+Elaine Delmar sings 'You Are the Sunshine of My Life' and Alvin Stardust performs 'My Coo Ca Choo' and 'Jealous Mind'. The Vernons and Paul Daniels also star.
+
+2025-03-23 9:55pm
+Budgie
+Series 1 Episode 6: Could Do Better
+
+2025-03-23 11:00pm
+	The Best of Benny Hill
+Taken from the popular British television show featuring comedian Benny Hill, this is a collection of some of the best skits from these raunchy and vulgar but funny episodes.
+
+2025-03-24 12:40am
+The Heritage Chart Show
+'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
+
+2025-03-24 1:45am
+	Fuzz
+Boston detectives Steve Carella and Meyer Meyer are on the case of an enigmatic crime lord known only as Deaf Man, notorious for bombing local politicians. Along with colleagues Bert Kling and Eileen McHenry, the team must prevent Deaf Man from future attacks while maintaining order on the streets of the city, which turns out to be no small task, as a group of depraved teens begin lighting bums on fire for fun.
+
+2025-03-24 3:35am
+	Final Appointment
+Reporters investigate threats against a retired army officer and discover links to a series of murders that occurred during the war.
+
+2025-03-24 4:55am
+The Texan
+Longley's old friend, pretty ranch owner Martha Driscoll, negotiates a highly successful sale at the end of a cattle drive.
+
+2025-03-24 5:30am
+The Larkins
+Ada plays matchmaker when she discovers Miss Fiona Finch is in love with the vicar, but Alf looks to sabotage the plans.
 
