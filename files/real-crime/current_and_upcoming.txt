@@ -1,27 +1,3 @@
-2025-03-17 11:19pm
-Conviction: Murder at the Station
-Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
-
-2025-03-18 12:24am
-Conviction: Murder at the Station
-Louise investigates a case, looking for evidence that could present grounds to bring an appeal, and ultimately overturn the conviction of a Southampton man in prison for the murder of his secret lover.
-
-2025-03-18 1:30am
-Police: Suspect No. 1
-In Norfolk, an otherwise unassuming summer evening is shaken by an armed robbery. A vehicle is stolen and innocent people are shot.
-
-2025-03-18 2:21am
-Police: Suspect No. 1
-Detective Inspector Burgess of Norwich CID has a problem as the number of home burglaries has rocketed. Looking at the evidence, officers suspect that one man is potentially responsible for a large part of the spike in residential crime.
-
-2025-03-18 3:13am
-DNA: The End of Crime
-In the United States, hundreds of unsolved cases are solved thanks to genetic genealogy. In France, the law provides greater protection for private data and limits the use of this new investigative technique.
-
-2025-03-18 4:16am
-CSI on Trial
-Based on expert testimony from bloodstain pattern analysts, a jury convicted former state trooper David Camm of killing his family. Years later, he was exonerated when new evidence came to light.
-
 2025-03-18 5:16am
 CSI on Trial
 As a young sailor, Keith Harward was convicted of a vicious assault based on bitemark analysis. After 33 years in prison, DNA testing exonerated him and proved that the bite evidence was junk science.
@@ -557,4 +533,92 @@ Documentary exploring the 1997 Loomis-Fargo armoured car heist in North Carolina
 2025-03-24 5:28am
 Escape From Death Row
 How did six murderers hatch an elaborate plan to escape from the first death row prison, thought to be escape-proof?
+
+2025-03-24 7:17am
+	Dangerous Company
+A couple of Kentucky blue bloods team up to form a front for their drug smuggling business. As the operation grows, so too does the paranoia and betrayal.
+
+2025-03-24 9:05am
+24 Hours Police
+Programme about Police activities.
+
+2025-03-24 9:59am
+24 Hours Police
+Programme about Police activities.
+
+2025-03-24 10:52am
+Conviction: Murder in Suburbia
+Series 1 Episode 1
+
+2025-03-24 12:00pm
+CIA Declassified
+The tell-all series probes the agency's links with Khalifa Haftar - a Libyan general who led a failed CIA-backed rebellion against Muammar Gaddafi in the 80s.
+
+2025-03-24 12:58pm
+CIA Declassified
+The astonishing true story of how two CIA operatives teamed up with Special Ops to quell a Taliban uprising in Afghanistan, despite being outnumbered 100-1.
+
+2025-03-24 1:55pm
+CIA Declassified
+The startling truth about the 15-year hunt for the most wanted man on the planet: Osama bin Laden.
+
+2025-03-24 2:53pm
+CIA Declassified
+Che Guevara was a revolutionary hero to some, but public enemy number one in the US. Find out how top CIA agent Felix Rodriguez captured the guerilla leader.
+
+2025-03-24 3:50pm
+The FBI Files
+The story of drug gangs that are terrorising New York. NYPD detectives and FBI agents form a special task force called C-11 to catch them.
+
+2025-03-24 4:50pm
+The FBI Files
+The decapitation of a young male leads police and FBI agents to a notorious cult, where agents convince a member to betray the charismatic leader.
+
+2025-03-24 5:49pm
+French Connection: Inside the New Mafias
+5:49pm
+
+2025-03-24 6:52pm
+	The Feared: Irish Gangsters
+True crime author Bernard O'Mahoney returns to his home country to shine a light on the Irish underworld. With exclusive access to high-profile Irish `faces', he enters uncharted territory when he discovers that there may be more to these crimes than meets the eye. He travels around the country through the workings of a dark criminal underworld with stories of extreme violence, poverty, and ultimately, the devastating consequences they bring.
+
+2025-03-24 8:37pm
+Mafia's Greatest Hits
+The chilling secrets of the Mafia's most notorious kingpins are exposed in this compelling series. Mobster Sam Giancana was associated with the Kennedys, Frank Sinatra and the CIA.
+
+2025-03-24 9:34pm
+Mafia's Greatest Hits
+Lucky Luciano's crimes with the Mafia, including bribing high-ranking officials, got him 50 years in jail. However, when WWII broke out, the USA needed Luciano's help.
+
+2025-03-24 10:30pm
+Mafia's Greatest Hits
+Lifting the lid on notorious mobsters. Joe Colombo loved fame and money and took on the FBI in the 70s, with his Italian-American Civil Rights League campaigning against harassment.
+
+2025-03-24 11:26pm
+Mafia's Greatest Hits
+Ambitious John Gotti became the boss of the Gambino family by ordering the death of the group's former head and earned the nickname 'Teflon Don' after three acquittals.
+
+2025-03-25 12:28am
+CIA Declassified
+The tell-all series probes the agency's links with Khalifa Haftar - a Libyan general who led a failed CIA-backed rebellion against Muammar Gaddafi in the 80s.
+
+2025-03-25 1:26am
+CIA Declassified
+The astonishing true story of how two CIA operatives teamed up with Special Ops to quell a Taliban uprising in Afghanistan, despite being outnumbered 100-1.
+
+2025-03-25 2:24am
+CIA Declassified
+The startling truth about the 15-year hunt for the most wanted man on the planet: Osama bin Laden.
+
+2025-03-25 3:21am
+CIA Declassified
+Che Guevara was a revolutionary hero to some, but public enemy number one in the US. Find out how top CIA agent Felix Rodriguez captured the guerilla leader.
+
+2025-03-25 4:19am
+The FBI Files
+The story of drug gangs that are terrorising New York. NYPD detectives and FBI agents form a special task force called C-11 to catch them.
+
+2025-03-25 5:19am
+The FBI Files
+The decapitation of a young male leads police and FBI agents to a notorious cult, where agents convince a member to betray the charismatic leader.
 
