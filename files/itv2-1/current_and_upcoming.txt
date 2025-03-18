@@ -140,10 +140,6 @@ Besotted Marcus tries to impress Cynthia by befriending the stray cat she has re
 
 2025-03-19 4:00am
 Teleshopping
-Backtrace:
-
-2025-03-19 4:00am
-Teleshopping
 Shopping from home.
 
 2025-03-19 7:00am
