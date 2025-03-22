@@ -1,51 +1,3 @@
-2025-03-21 11:40pm
-	Beetlejuice
-Ghosts Adam and Barbara try to scare off the new owners of their home with their new-found powers, but get more than they bargained for when the new family appear to enjoy being haunted. Desperate, the pair enlist the help of a demonic phantom, despite having been strongly advised against it.
-
-2025-03-22 1:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-22 1:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-22 1:30am
-The Interview
-Acclaimed author Chimamanda Ngozi Adichie talks to Emma Barnett about her childhood, her powerful storytelling and exploration of themes such as identity, feminism and culture. Adichie's groundbreaking works, including Half of a Yellow Sun and Americanah, have captivated readers worldwide. Adichie delves into her literary journey, personal experiences and the inspirations behind her writing.
-
-2025-03-22 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-22 2:30am
-Influential with Katty Kay
-Author Ann Patchett tells Katty Kay about her writing process, the resilience needed to succeed, and the unexpected joy of owning a bookstore in Nashville.
-
-2025-03-22 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-22 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-03-22 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-22 4:30am
-The Travel Show
-Rob Bell and mechanic Steve Green attempt to drive Cecil the VW Camper - a battered but beloved part of Steve's family in Cornwall - all the way back to its birthplace in Central Germany.
-
-2025-03-22 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-22 5:30am
-Unspun World with John Simpson
-Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing. The BBC's world affairs editor, John Simpson, brings his experience and expertise to bear on the most important international stories. In discussion with the BBC's unparalleled range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
 2025-03-22 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -941,4 +893,112 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-28 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-03-28 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-28 9:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-03-28 10:45am
+Fraud Squad
+Following the investigators tracking down crooks who steal billions of pounds a year.
+
+2025-03-28 11:15am
+Homes Under the Hammer
+The new owner of a terrace in Crewe isn't put off by the numerous safety bolts on the front door. The seasoned developer turns it into a smart HMO (house in multiple occupation), while a father-and-daughter team modernise a semi in Doncaster. A former estate agent takes two years to extend and transform a Gravesend house into a smart, boutique-style HMO.
+
+2025-03-28 12:15pm
+Bargain Hunt
+Stephanie Connell and Gary Pe lead two teams around an antiques fair in Nottinghamshire while the clock ticks down to the auction in Derby with James Lewis.
+
+2025-03-28 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-28 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-28 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-03-28 2:00pm
+Shakespeare and Hathaway: Private Investigators
+Frank and Lu enter the competitive world of ballroom dancing, brimming with passion and jealousy, and learn the dangers of falling in love with your dance partner.
+
+2025-03-28 2:45pm
+Antiques Road Trip
+Antiques experts travel across the nation to search for hidden treasures, from household items to one-of-a kind collectibles. The experts then head to auction to battle it out and make the biggest profit from their items.
+
+2025-03-28 3:15pm
+Escape to the Country
+A south London couple have high hopes of escaping the rat race and finding their dream home in the High Weald with the help of Alistair Appleton. The pair have a hearty budget of £950,000 to find a property suitable for multiple generations of the family. Alistair also discovers an exotic side to the region when he visits a wildlife reserve in the Kent countryside.
+
+2025-03-28 3:45pm
+Make It at Market
+Mosaic artist Dionne from Bedfordshire and animal head embroiderer Alan from Derby are both hoping to make their dreams of a creative career come true. After 20 years of trying to earn a living from mosaics but having to rely on other work to help pay the bills, Dionne is more than ready to do whatever it takes to have a full-time art career. To do this, her mentor Sharon wants to push her out of her comfort zone, but after a few setbacks, will she have the confidence to put herself out there.
+
+2025-03-28 4:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Maria, Paul, Said, Max and Albert race in moving podiums across the studio floor to try to win £5,000.
+
+2025-03-28 5:15pm
+Pointless
+Alexander Armstrong is joined by co-host Phil Wang for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-03-28 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-03-28 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-28 7:00pm
+The One Show
+Alex Jones and JB Gill bring you the stories that matter from across the country.
+
+2025-03-28 7:30pm
+The Travelling Auctioneers
+Will Kirk and Christina Trevanion take their mobile auction house on the road.
+
+2025-03-28 8:00pm
+Beyond Paradise
+When a body is found in the river on the county border, Humphrey and Esther are brought face to face with their Cornish counterparts.
+
+2025-03-28 9:00pm
+Death in Paradise
+Mervin is about to fly home but finds himself at the centre of a murder investigation when a body is discovered in his shack. As Mervin professes his innocence, the team cannot work out how the victim ended up inside a locked building.
+
+2025-03-28 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-03-28 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-03-28 10:40pm
+Paranormal: Britain's Last Witch
+Tian Eleri investigates the story of Scottish medium Helen Duncan, who in 1944 became the last person convicted and imprisoned under the Witchcraft Act. As the Blitz rained down on London, Helen went on trail at the Old Bailey.
+
+2025-03-28 11:10pm
+Paranormal: Britain's Last Witch
+There's an unnerving breakthrough in Sian's investigation into a woman who claimed to summon spirits of the dead when she finds an audio recording of a Helen Duncan seance. Not only is a gravelly male 'spirit' heard to speak, but the people gathered comment that they see and recognise him. How is this possible? Sian tests out different theories - was it someone else speaking?
+
+2025-03-28 11:40pm
+	Get Out
+A young photographer uncovers a dark secret when he meets his girlfriend's seemingly friendly parents for the first time at their posh estate.
+
+2025-03-29 1:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-03-29 1:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 
