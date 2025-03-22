@@ -20,7 +20,7 @@ TCC.
 
 2025-03-23 2:00am
 TCC
-Backtrace:
+TCC.
 
 2025-03-23 6:00am
 TCC
