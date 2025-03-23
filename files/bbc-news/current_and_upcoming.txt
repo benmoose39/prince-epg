@@ -1,55 +1,3 @@
-2025-03-22 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-03-23 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 12:30am
-Special Olympics: The World in Turin
-Competitors from over 100 nations take part in the Special Olympics World Winter Games. Joe Wilson is in Turin to find out how sport can transform the lives of athletes with intellectual disabilities.
-
-2025-03-23 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 1:30am
-The Interview
-Ione Wells talks to Daniel Noboa, Ecuador's president, about his plans to combat criminal gangs, his tough stance on violence, and the upcoming election.
-
-2025-03-23 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 2:30am
-The Interview
-Acclaimed author Chimamanda Ngozi Adichie talks to Emma Barnett about her childhood, her powerful storytelling and exploration of themes such as identity, feminism and culture. Adichie's groundbreaking works, including Half of a Yellow Sun and Americanah, have captivated readers worldwide. Adichie delves into her literary journey, personal experiences and the inspirations behind her writing.
-
-2025-03-23 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 3:30am
-The Balkans: Europe's Forgotten Frontier
-The BBC's Europe editor, Katya Adler, travels to Croatia, Bosnia, and Albania. Thirty years since the Yugoslav wars of independence, she discovers a beautiful region undergoing rapid change.
-
-2025-03-23 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 4:30am
-Click
-From robots and exoskeletons to brain-computer interfaces, Lara Lewington explores how technology and AI are transforming what it means to be human.
-
-2025-03-23 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-23 5:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
 2025-03-23 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1225,4 +1173,160 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-03-29 5:30am
 Unspun World with John Simpson
 Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing. The BBC's world affairs editor, John Simpson, brings his experience and expertise to bear on the most important international stories. In discussion with the BBC's unparalleled range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-03-29 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-03-29 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 10:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 11:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 11:30am
+Amol Rajan Interviews
+Lord Alan Sugar, a man famed for his straight-talking and no-nonsense approach to interviews, sits down with Amol Rajan to discuss the future of Britain and his own incredible career. Arguably the UK's most famous rags to riches story, he was the working-class kid from Hackney who went on to become a billionaire with a seat in the Lords and his face all over television.
+
+2025-03-29 12:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 12:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 1:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 1:30pm
+Eye Investigations
+BBC Eye investigation into police abuse of psychiatric detention in China. In 2012, China introduced a law to curb the widespread abuse of psychiatric hospitals by the authorities, but it hasn't worked.
+
+2025-03-29 2:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 2:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-03-29 3:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 3:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 3:45pm
+Newswatch
+Viewers' opinions on the coverage of events by BBC News, addressed by the editors and decision makers in charge.
+
+2025-03-29 4:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 4:30pm
+The Balkans: Europe's Forgotten Frontier
+Katya Adler travels to Romania, where she visits what will be Nato's largest European base, Kosovo, Europe's youngest country, and Serbia, where she discovers an international battle for power.
+
+2025-03-29 5:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 6:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 6:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-03-29 7:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 7:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-03-29 8:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 8:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-03-29 9:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 10:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-29 11:30pm
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-03-30 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-30 12:30am
+Life at 50 Degrees
+The first in a new series of `Life at 50°C' looks at pollution and biodiversity.
+
+2025-03-30 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-30 1:30am
+Amol Rajan Interviews
+Lord Alan Sugar, a man famed for his straight-talking and no-nonsense approach to interviews, sits down with Amol Rajan to discuss the future of Britain and his own incredible career. Arguably the UK's most famous rags to riches story, he was the working-class kid from Hackney who went on to become a billionaire with a seat in the Lords and his face all over television.
+
+2025-03-30 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-30 2:30am
+Eye Investigations
+BBC Eye investigation into police abuse of psychiatric detention in China. In 2012, China introduced a law to curb the widespread abuse of psychiatric hospitals by the authorities, but it hasn't worked.
+
+2025-03-30 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-30 3:30am
+The Balkans: Europe's Forgotten Frontier
+Katya Adler travels to Romania, where she visits what will be Nato's largest European base, Kosovo, Europe's youngest country, and Serbia, where she discovers an international battle for power.
+
+2025-03-30 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-03-30 4:30am
+Tech Now
+Can we clean up air travel? Adrienne Murray takes to the skies in Sweden to explore developments in electric flight. Joe Tidy visits Zambia to see how Bitcoin is helping electricity projects.
+
+2025-03-30 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
