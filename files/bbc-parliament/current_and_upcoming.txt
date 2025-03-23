@@ -2,75 +2,75 @@
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 19 March.
 
-2025-03-23 11:00am
+2025-03-23 10:55am
 House of Lords
-Coverage of a debate in the House of Lords.
+Debate in the House of Lords on the support offered to people bereaved as a result of Covid-19, on Thursday 20 March.
 
-2025-03-23 11:45am
+2025-03-23 11:40am
 Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
+Debate in the Welsh Parliament on renewable energy, from Wednesday 19 March.
 
-2025-03-23 12:50pm
+2025-03-23 1:50pm
 Scottish Parliament
-Coverage of a debate in the Scottish Parliament.
+Coverage of questions in the Scottish Parliament to the cabinet secretary for education and skills, Jenny Gilruth, from Thursday 20 March.
 
-2025-03-23 1:40pm
+2025-03-23 2:15pm
 House of Commons
-Coverage of the day's proceedings in the House of Commons.
+Debate on knife crime among children and young people, from Thursday 20 March.
 
-2025-03-23 2:25pm
-House of Lords
-Coverage of an urgent question in the House of Lords.
-
-2025-03-23 3:05pm
+2025-03-23 4:10pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 19 March.
 
-2025-03-23 3:40pm
+2025-03-23 4:50pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 20 March.
 
-2025-03-23 4:25pm
+2025-03-23 5:35pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 18 March.
 
-2025-03-23 5:15pm
+2025-03-23 6:25pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 17 March.
+Coverage of questions in the Northern Ireland Assembly in Stormont to the first minister, Michelle O'Neill, from Tuesday 18 March.
 
-2025-03-23 6:00pm
+2025-03-23 7:10pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Business and Trade select committee session on industrial strategy, from Tuesday 18 March.
+
+2025-03-23 10:00pm
+Select Committees
+Home Affairs select committee session on asylum accommodation, from Tuesday 18 March.
+
+2025-03-24 12:10am
+Ten Minute Rule Bill
+Coverage of the introduction to the House of Commons of a bill, tabled by Labour MP Rachel Taylor, on freight crime, from Tuesday 18 March.
 
 2025-03-24 12:20am
 House of Commons
 Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 20 March.
 
-2025-03-24 1:00am
-House of Commons
-Coverage of questions in the House of Commons to Lucy Rigby, the solicitor general, on Thursday 20 March.
-
-2025-03-24 1:20am
+2025-03-24 1:05am
 House of Commons
 Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 19 March.
 
-2025-03-24 1:50am
+2025-03-24 1:30am
 House of Commons
 Coverage of questions in the House of Commons to Ed Miliband, the energy security and net zero secretary, and his team of ministers on Tuesday 18 March.
 
-2025-03-24 2:50am
+2025-03-24 2:35am
 House of Commons
 Coverage of questions in the House of Commons to Liz Kendall, the work and pensions secretary, and her team of ministers on Monday 17 March.
 
-2025-03-24 3:50am
+2025-03-24 3:40am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 18 March.
 
-2025-03-24 4:40am
+2025-03-24 4:35am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 20 March.
 
-2025-03-24 5:25am
+2025-03-24 5:20am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 19 March.
 
@@ -78,19 +78,19 @@ Coverage of questions in the House of Commons to Keir Starmer, the prime ministe
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 20 March.
 
-2025-03-24 9:05am
+2025-03-24 9:00am
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 17 March.
+Coverage of questions in the Northern Ireland Assembly in Stormont to the first minister, Michelle O'Neill, from Tuesday 18 March.
 
-2025-03-24 9:50am
+2025-03-24 9:45am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 18 March.
 
-2025-03-24 10:40am
+2025-03-24 10:35am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 20 March.
 
-2025-03-24 11:25am
+2025-03-24 11:20am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 19 March.
 
@@ -100,7 +100,7 @@ Coverage of the proceedings in the Northern Ireland Assembly including members' 
 
 2025-03-24 2:00pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 17 March.
+Coverage of questions in Stormont to infrastructure minister Liz Kimmins, on Monday 24 March.
 
 2025-03-24 2:30pm
 House of Commons
@@ -124,7 +124,7 @@ Coverage of the day's proceedings in the House of Commons on Monday 24 March.
 
 2025-03-24 10:30pm
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 17 March.
+Coverage of questions in Stormont to infrastructure minister Liz Kimmins, on Monday 24 March.
 
 2025-03-24 11:15pm
 Lords Questions
@@ -240,7 +240,7 @@ Highlights of proceedings in the House of Commons from Tuesday 25 March.
 
 2025-03-26 9:30am
 Select Committees
-Coverage of select committee proceedings on Wednesday 26 March.
+Coverage of the Health and Social Care select committee session on the work of NHS England, on Wednesday 26 March.
 
 2025-03-26 11:30am
 House of Commons
@@ -319,14 +319,6 @@ House of Commons
 Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 27 March.
 
 2025-03-27 11:30am
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Thursday 27 March.
-
-2025-03-27 12:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Thursday 27 March.
-
-2025-03-27 1:30pm
 Select Committees
 Coverage of the day's proceedings in the House of Commons on Thursday 27 March.
 
@@ -428,37 +420,81 @@ Highlights from the Welsh Parliament.
 
 2025-03-29 4:30am
 Northern Ireland Assembly
-Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 17 March.
+Coverage of questions in Stormont to infrastructure minister Liz Kimmins, on Monday 24 March.
 
 2025-03-29 5:15am
 Northern Ireland Assembly
 Highlights from the Northern Ireland Assembly.
 
 2025-03-29 6:00am
-To Be Announced
-6:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Tuesday 25 March.
 
-2025-03-29 10:00am
-To Be Announced
-10:00am
+2025-03-29 11:00am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 26 March.
 
-2025-03-29 2:00pm
-To Be Announced
-2:00pm
+2025-03-29 11:35am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 27 March.
+
+2025-03-29 12:20pm
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 25 March.
+
+2025-03-29 1:10pm
+Northern Ireland Assembly
+Coverage of questions in Stormont to infrastructure minister Liz Kimmins, on Monday 24 March.
+
+2025-03-29 1:55pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2025-03-29 2:40pm
+House of Lords
+Coverage of a debate in the House of Lords.
+
+2025-03-29 3:25pm
+Scottish Parliament
+Coverage of a debate in the Scottish Parliament.
+
+2025-03-29 4:15pm
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2025-03-29 5:20pm
+House of Lords
+Coverage of an urgent question in the House of Lords.
 
 2025-03-29 6:00pm
-To Be Announced
-6:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2025-03-29 10:00pm
-To Be Announced
-10:00pm
+2025-03-30 12:20am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 26 March.
 
-2025-03-30 1:00am
-To Be Announced
-1:00am
+2025-03-30 12:55am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 27 March.
+
+2025-03-30 1:40am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 25 March.
+
+2025-03-30 2:30am
+House of Commons
+Coverage of questions in the House of Commons to John Healey, the defence secretary, and his team of ministers on Monday 24 March.
+
+2025-03-30 3:30am
+House of Commons
+Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 25 March.
+
+2025-03-30 4:30am
+House of Commons
+Coverage of questions in the House of Commons to Peter Kyle, the science, innovation and technology secretary, and his team of ministers on Wednesday 26 March.
 
 2025-03-30 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Wednesday 26 March.
 

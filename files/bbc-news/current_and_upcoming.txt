@@ -19,8 +19,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-23 11:30am
-The President's Path
-Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
+Unspun World with John Simpson
+Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing. The BBC's world affairs editor, John Simpson, brings his experience and expertise to bear on the most important international stories. In discussion with the BBC's unparalleled range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
 
 2025-03-23 12:00pm
 BBC News
@@ -59,8 +59,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-23 4:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+The Interview
+Ione Wells talks to Daniel Noboa, Ecuador's president, about his plans to combat criminal gangs, his tough stance on violence, and the upcoming election.
 
 2025-03-23 5:00pm
 BBC News
@@ -99,8 +99,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-03-23 10:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-03-23 11:00pm
 BBC News
@@ -1292,7 +1292,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-03-30 12:30am
 Life at 50 Degrees
-The first in a new series of `Life at 50°C' looks at pollution and biodiversity.
+Colombian energy giant Ecopetrol has polluted hundreds of sites with oil, including water sources, the BBC World Service has found. Ecopetrol says it fully complies with the law.
 
 2025-03-30 1:00am
 BBC News
