@@ -40,7 +40,7 @@ Tamara finds a dilapidated house in a sought-after neighbourhood; she works with
 
 2025-03-24 4:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-03-24 6:00am
 Teleshopping
