@@ -1,23 +1,3 @@
-2025-03-23 11:13pm
-Conviction: Murder in Suburbia
-Series 1 Episode 1
-
-2025-03-24 12:36am
-The FBI Files
-FBI agents and police track down a gang that specialises in armoured-car takedowns. As the robberies grow more violent, they launch a complex sting.
-
-2025-03-24 1:35am
-The FBI Files
-After two serial bank robbers escape from police custody, FBI agents familiar with the bandits believe that they would attempt a grand-scale heist.
-
-2025-03-24 2:34am
-The FBI Files
-When an employee at an armoured van company receives a call about a money shipment that did not arrive, an FBI search for the missing van begins.
-
-2025-03-24 3:33am
-The Unperfect Crime
-Documentary exploring the 1997 Loomis-Fargo armoured car heist in North Carolina and the serio-comic fates of its underdog perpetrators. who fell victim to avarice, mutual betrayals and false romantic promises.
-
 2025-03-24 5:28am
 Escape From Death Row
 How did six murderers hatch an elaborate plan to escape from the first death row prison, thought to be escape-proof?
@@ -601,4 +581,108 @@ Enforcer Tony `The Ant' Spilotro left dozens of bodies in his wake as he protect
 2025-03-30 5:18am
 Mafia's Greatest Hits
 Tales of real-life crime told by the FBI. Vito Genovese dealt with disloyalty ruthlessly and rose through the Mafia ranks, but he was to cause his own downfall with a massive error.
+
+2025-03-30 6:17am
+Mafia's Greatest Hits
+Carmine Galante took the Mob into the world of heroin and even when locked up in jail, Galente still managed to control the streets and profit from his drug empire.
+
+2025-03-30 7:14am
+Great Crimes and Trials
+The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
+
+2025-03-30 7:46am
+Miami Swat
+Jeff Chagrin exposes Miami's criminal underbelly, tracking the Special Response Team.
+
+2025-03-30 8:36am
+Miami Swat
+Jeff Chagrin rides with the Special Response Team as they patrol some of America's meanest streets.
+
+2025-03-30 9:28am
+Miami Swat
+Jeff Chagrin earns his stripes with the Special Response Team as they obliterate crime in Miami.
+
+2025-03-30 10:19am
+Miami Swat
+The team are called out as a young man threatens suicide, having barricaded himself in at home. They evacuate the area and employ a negotiation team to try and talk him down.
+
+2025-03-30 11:09am
+Miami Swat
+Jeff Chagrin captures all the action as the Special Response Team continue their fight.
+
+2025-03-30 12:00pm
+Miami Swat
+The team targets notorious gangsters and drug dealers while carrying out seven tactical assaults, and more than 100 suspects are brought into custody as a result.
+
+2025-03-30 12:53pm
+The New Detectives
+A father is suspected of murdering his family in hopes of claiming his disabled son's trust fund worth over a million dollars.
+
+2025-03-30 1:52pm
+The New Detectives
+Investigates partners who commit crimes, including two cab drivers, and a new DNA technique that can extract clues from four-year-old evidence.
+
+2025-03-30 2:53pm
+The New Detectives
+Explores three murder cases in which investigators secured convictions from trace evidence, including fingerprinting, fibre analysis and DNA testing.
+
+2025-03-30 3:52pm
+CIA Declassified
+The tell-all series probes the agency's links with Khalifa Haftar - a Libyan general who led a failed CIA-backed rebellion against Muammar Gaddafi in the 80s.
+
+2025-03-30 4:49pm
+CIA Declassified
+The astonishing true story of how two CIA operatives teamed up with Special Ops to quell a Taliban uprising in Afghanistan, despite being outnumbered 100-1.
+
+2025-03-30 5:47pm
+CIA Declassified
+The startling truth about the 15-year hunt for the most wanted man on the planet: Osama bin Laden.
+
+2025-03-30 6:44pm
+CIA Declassified
+Che Guevara was a revolutionary hero to some, but public enemy number one in the US. Find out how top CIA agent Felix Rodriguez captured the guerilla leader.
+
+2025-03-30 7:42pm
+CIA Declassified
+In 1985, CIA director William Casey allegedly ordered the killing of a Lebanese cleric who he thought was the head of militant group Hezbollah.
+
+2025-03-30 8:39pm
+CIA Declassified
+After the bombing of the US embassy in Nairobi, the CIA bribe warlords to track down suspected Al-Qaeda fighters.
+
+2025-03-30 9:37pm
+CIA Declassified
+CIA agent Tony Mendez helps extricate six American diplomats from Iran in a January 1980 covert operation that inspired the award-winning film `Argo'.
+
+2025-03-30 10:34pm
+CIA Declassified
+A revealing look at the hunt for the Al-Qaeda mastermind responsible for the attack on the USS Cole in 2000, in which 17 sailors died.
+
+2025-03-30 11:31pm
+CIA Declassified
+Discussing the remarkable tale of how the CIA tried to kill Fidel Castro by turning his 19-year-old lover into an assassin.
+
+2025-03-31 12:28am
+Miami Swat
+The team targets notorious gangsters and drug dealers while carrying out seven tactical assaults, and more than 100 suspects are brought into custody as a result.
+
+2025-03-31 1:21am
+The New Detectives
+A father is suspected of murdering his family in hopes of claiming his disabled son's trust fund worth over a million dollars.
+
+2025-03-31 2:20am
+The New Detectives
+Investigates partners who commit crimes, including two cab drivers, and a new DNA technique that can extract clues from four-year-old evidence.
+
+2025-03-31 3:22am
+The New Detectives
+Explores three murder cases in which investigators secured convictions from trace evidence, including fingerprinting, fibre analysis and DNA testing.
+
+2025-03-31 4:21am
+CIA Declassified
+The tell-all series probes the agency's links with Khalifa Haftar - a Libyan general who led a failed CIA-backed rebellion against Muammar Gaddafi in the 80s.
+
+2025-03-31 5:19am
+CIA Declassified
+The astonishing true story of how two CIA operatives teamed up with Special Ops to quell a Taliban uprising in Afghanistan, despite being outnumbered 100-1.
 
