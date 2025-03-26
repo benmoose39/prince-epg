@@ -400,7 +400,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-03-28 5:30am
 Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
+Backtrace:
 
 2025-03-28 6:00am
 BBC News
