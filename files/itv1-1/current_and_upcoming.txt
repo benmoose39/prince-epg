@@ -1,23 +1,3 @@
-2025-03-26 11:45pm
-Peston
-Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
-
-2025-03-27 12:40am
-Premiership Rugby Unleashed
-Action from the 12th round of the 2024-25 Gallagher Premiership season featuring Northampton Saints v Leicester Tigers, Bath v Gloucester, Saracens v Harlequins, Bristol Bears v Exeter Chiefs and Newcastle Falcons v Sale Sharks.
-
-2025-03-27 1:10am
-Teleshopping
-Shopping from home.
-
-2025-03-27 4:00am
-Tonight
-If we stay on our current trajectory, more than half of us will be classed as overweight or obese by 2050 - with demand for weight loss injections soaring, reporter Ranvir Singh investigates who is getting them and whether tighter restrictions on online prescribing will work.
-
-2025-03-27 4:25am
-The Dry
-Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
-
 2025-03-27 4:55am
 Unwind with ITV
 Your daily escape designed to calm the mind and encourage relaxation and reflection.
@@ -577,4 +557,104 @@ Your daily escape designed to calm the mind and encourage relaxation and reflect
 2025-04-02 5:05am
 Alan Titchmarsh's Gardening Club
 Camilla Bassett-Smith visits a breathtaking garden in Yorkshire, Huw Richards shares practical eco-gardening techniques, Anna Greenland answers a viewer's gardening query, and Jason Williams explores a unique indoor community garden in Liverpool.
+
+2025-04-02 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-04-02 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-04-02 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-04-02 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-04-02 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-04-02 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-02 2:00pm
+Celebrity Catchphrase
+Stephen Mulhern hosts a celebrity special of the classic game show as James Buckley, Mark Labbett, and Mwaksy Mudenda all try to 'say what they see' as they guess well-known phrases for the chance to win a 50,000-pound jackpot for their chosen charity.
+
+2025-04-02 3:00pm
+Jeopardy!
+Stephen Fry hosts the unique quiz as two new players, Susan and Sanjay, hope they have what it takes to usurp the reigning `Jeopardy!' champion and claim the title for themselves.
+
+2025-04-02 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-04-02 5:00pm
+The Chase
+Kahlum from Aberdeenshire, Izzy from Hertfordshire, James from Cardiff and Janet from London team up in the hope that they can take on a Chaser as a team and leave with thousands of pounds.
+
+2025-04-02 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-02 6:20pm
+Party Political Broadcast
+A Party Political Broadcast on behalf of the Liberal Democrats.
+
+2025-04-02 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-04-02 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-04-02 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-04-02 9:00pm
+The Real Ruth Ellis
+A documentary looking at Ruth Ellis's turbulent life, her love affair with David Blakely, and the infamous crime that led to her being the last woman hanged in Britain.
+
+2025-04-02 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-04-02 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-02 10:45pm
+Peston
+Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
+
+2025-04-02 11:40pm
+Premiership Rugby Unleashed
+Action from the 13th round of the 2024-25 Gallagher Premiership season featuring Exeter Chiefs v Newcastle Falcons, Gloucester v Bristol Bears, Leicester Tigers v Saracens, Bath v Harlequins and Sale Sharks v Northampton Saints.
+
+2025-04-03 12:05am
+Teleshopping
+Shopping from home.
+
+2025-04-03 3:00am
+Tonight
+With stretched local authorities across the country proposing restrictions on weekly bin collections, Joe Crowley investigates fears that a reduction in collections has already contributed to increasing problems with littering and fly-tipping.
+
+2025-04-03 3:25am
+The Dry
+Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
+
+2025-04-03 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-03 5:05am
+Wheel of Fortune
+Graham Norton welcomes office manager Shirley, financial management assistant Cameron, and police investigation officer Adele as they take on puzzles and the iconic Wheel for a possible 50,000 pounds.
 
