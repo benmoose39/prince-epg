@@ -1,23 +1,3 @@
-2025-03-27 11:20pm
-ITV News
-The latest national and international news.
-
-2025-03-27 11:50pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2025-03-28 12:05am
-The 1% Club
-Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
-
-2025-03-28 1:00am
-Teleshopping
-Shopping from home.
-
-2025-03-28 4:00am
-Emergency Nurses: A+E Stories
-Nurses Charlie and Hazel battle to prevent a patient from falling into a diabetic coma while nurse practitioner Jack treats a man with an amputated thumb.
-
 2025-03-28 4:50am
 Unwind with ITV
 Your daily escape designed to calm the mind and encourage relaxation and reflection.
@@ -593,4 +573,88 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-04-03 5:05am
 Wheel of Fortune
 Graham Norton welcomes office manager Shirley, financial management assistant Cameron, and police investigation officer Adele as they take on puzzles and the iconic Wheel for a possible 50,000 pounds.
+
+2025-04-03 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-04-03 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-04-03 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-04-03 1:00pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-04-03 1:20pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-03 1:30pm
+
+Ed Chamberlin presents coverage of six races on the opening day of the 2025 Grand National meeting - the event begins with four superb Grade One races, including the Betfair Bowl and the Aintree Hurdle, before the amateur riders are in action over the Grand National fences in the Randox Foxhunters' Chase.
+
+2025-04-03 5:00pm
+The Chase
+When four people who have never met before - Rob from Wigan, Viv from Newcastle, Moira from Stratford-upon-Avon and Jordan from Borehamwood - take on a Chaser while Bradley Walsh guides the contestants through a battle of wits.
+
+2025-04-03 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-03 6:20pm
+Party Election Broadcast
+A party election broadcast by the Green Party for the local elections on 1 May.
+
+2025-04-03 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-04-03 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-04-03 8:30pm
+Tonight
+After the Princess of Wales revealed her cancer diagnosis in 2024, cancer is no longer regarded as just an illness of the elderly. Rebecca Barry delves into the causes behind the rise in cancer diagnoses among younger adults in the UK.
+
+2025-04-03 9:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-04-03 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-04-03 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-03 10:45pm
+Bradley and Barney Walsh: Breaking Dad
+The boys kick off their trip in Japan's capital, Tokyo, where they try the national sport of Sumo and Brad's fear of heights is put to the test on a terrifying hanging bridge.
+
+2025-04-03 11:10pm
+Kate Garraway's Life Stories
+Kate Garraway is joined by broadcaster Jeremy Kyle and explores the personal challenges that shaped him, including his battles with gambling and testicular cancer, as well as the public scrutiny he faced after his show's cancellation.
+
+2025-04-04 12:15am
+Teleshopping
+Shopping from home.
+
+2025-04-04 3:00am
+Emergency Nurses: A+E Stories
+Emergency nurse Ben battles to shock a patient's heart. Nurse Kerryn manipulates a leg fracture.
+
+2025-04-04 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-04 5:05am
+Ant and Dec's Limitless Win
+Married couple Arj and Charlotte are back to continue their game before the turn of best friends from Northern Ireland Phil and Arainn sees them play a thrilling game.
 
