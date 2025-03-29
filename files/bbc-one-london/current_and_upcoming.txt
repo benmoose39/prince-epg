@@ -1,51 +1,3 @@
-2025-03-28 11:40pm
-	Get Out
-A young photographer uncovers a dark secret when he meets his girlfriend's seemingly friendly parents for the first time at their posh estate.
-
-2025-03-29 1:20am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-29 1:25am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-29 1:30am
-Eye Investigations
-BBC Eye investigation into police abuse of psychiatric detention in China. In 2012, China introduced a law to curb the widespread abuse of psychiatric hospitals by the authorities, but it hasn't worked.
-
-2025-03-29 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-29 2:30am
-Influential with Katty Kay
-Chef Yotam Ottolenghi tells Katty Kay about his journey from academia to culinary fame, as well as the communal power of food in a divided world.
-
-2025-03-29 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-29 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-03-29 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-29 4:30am
-The Travel Show
-Train enthusiast Francis Bourgeois travels to Malaysia to explore a railway network dating back 140 years.
-
-2025-03-29 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-29 5:30am
-Unspun World with John Simpson
-Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing. The BBC's world affairs editor, John Simpson, brings his experience and expertise to bear on the most important international stories. In discussion with the BBC's unparalleled range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
 2025-03-29 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -983,6 +935,122 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-04-04 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-04 8:30am
+Morning Live
+Joining Gethin Jones, Helen Skelton, Michelle Ackerley and their family of experts for topical content, engaging conversations, and guidance.
+
+2025-04-04 9:45am
+Fraud Squad
+Following the investigators tracking down crooks who steal billions of pounds a year.
+
+2025-04-04 10:15am
+Homes Under the Hammer
+Dion follows progress on a project to create student accommodation in Liverpool which could net the developers a cool two million pound profit, while developers in Snodland and Normanton face challenges bringing unloved homes back to life.
+
+2025-04-04 11:15am
+Bargain Hunt
+Christina Trevanion is in the Lancashire seaside town of Blackpool to present a show all about holidays and travel-related collectables. Christina delves into the archive to remember items bought by teams at antiques fairs and centres around the UK.
+
+2025-04-04 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-04 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-04 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-04 1:00pm
+Shakespeare and Hathaway: Private Investigators
+It's not all plain sailing when Frank and Lu are hired to look into the drowning of a former Miss Stratford-upon-Avon, as they begin to uncover the beauty queen's dark past.
+
+2025-04-04 1:45pm
+Clive Myrie's Caribbean Adventure
+It's a family reunion for Clive. On the Western tip of Jamaica, he meets up with cousins he hasn't seen in decades. He doesn't have time to kick back as he's in the kitchen preparing a classic island dish of curry goat for all the guests.
+
+2025-04-04 2:15pm
+Escape to the Country
+Wanting to swap their home in London for a new one in the Berkshire countryside, today's couple have a whopping £1 million budget, and Alistair Appleton is here to help them spend it. Alistair also takes time out to visit a restaurant and theatre in an old mill on the River Thames, where he meets the actor and playwright Simon Williams.
+
+2025-04-04 2:45pm
+Make It at Market
+Dom Chinea works with a team of business and craft experts to help a group of budding entrepreneurs make a living from their crafting hobby.
+
+2025-04-04 3:30pm
+The Finish Line
+Ajay, Austin, Dan, Melissa, and Katherine battle across a series of fast-paced qualifiers and head-to-head races where the aim of the game is simple: make it to the finish line before your rivals.
+
+2025-04-04 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Phil Wang for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-04-04 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-04-04 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-04 5:55pm
+Party Election Broadcast
+A party election broadcast by Reform UK for the local elections on 1 May.
+
+2025-04-04 6:00pm
+The One Show
+Vernon Kay and Clara Amfo bring you the stories that matter from across the country.
+
+2025-04-04 6:30pm
+The Travelling Auctioneers
+After years of being cash-strapped and in mourning, Nicola is finally ready to sell her late mum's belongings, including a painting that could be a lost masterpiece and an album with rare stamps.
+
+2025-04-04 7:00pm
+Beyond Paradise
+An old friend of Kelby's starts to receive malicious messages from an unknown source. Before danger strikes, can the team uncover who's hiding behind the screen?
+
+2025-04-04 8:00pm
+Have I Got News for You
+Alexander Armstrong is host, with guest panellists broadcaster Steph McGovern and comedian Phil Wang joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-04-04 8:30pm
+Austin
+Within hours of best-selling children's author Julian Hartswood being cancelled for reposting a white supremacist, he discovers he has a neurodivergent son called Austin. Meanwhile, Julian's wife and work partner Ingrid calculate that Austin was conceived when she and Julian were first dating.
+
+2025-04-04 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-04-04 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-04 9:40pm
+Paranormal: Britain's Last Witch
+There's only a handful of mediums worldwide who claim to do anything close to what Helen Duncan said she could and physically manifest spirits into a room. For Sian, the only way to fully understand what was happening at Helen's séances is to witness this for herself, so she tracks one of these rare mediums down in the Netherlands. Sian arrives at the Dutch monastery and is greeted by a host who takes Sian on a private tour of the séance room, where the medium will work that evening.
+
+2025-04-04 10:10pm
+Paranormal: Britain's Last Witch
+Sian's mission to get to the truth behind Helen Duncan's apparently supernatural abilities draws to a close - but a secret package sent from Helen's granddaughter in America leaves Sian with what appears to be the smoking gun she has been waiting for. The package contains what seems to be unexplainable proof that a 'spirit' revealed the sinking of a second warship during one of Helen's séances.
+
+2025-04-04 10:40pm
+	Us
+Accompanied by her husband, son and daughter, Adelaide Wilson returns to the beachfront home where she grew up as a child. Haunted by a traumatic experience from the past, Adelaide grows increasingly concerned that something bad is going to happen. Her worst fears soon become a reality when four masked strangers descend upon the house, forcing the Wilsons into a fight for survival. When the masks come off, the family is horrified to learn that each attacker takes the appearance of one of them.
+
+2025-04-05 12:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-05 12:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-05 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
