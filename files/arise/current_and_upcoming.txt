@@ -52,6 +52,10 @@ On Screen
 
 2025-03-30 5:00am
 Arise Newsnight
+Backtrace:
+
+2025-03-30 5:00am
+Arise Newsnight
 Breaking news and headlines, local weather forecasts, sports and traffic reports.
 
 2025-03-30 8:00am
