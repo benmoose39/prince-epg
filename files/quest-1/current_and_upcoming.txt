@@ -1,7 +1,3 @@
-2025-03-31 9:00pm
-Shed & Buried: Classic Cars
-Henry and Fuzz head to Kent to visit Martin's eclectic collection. There's a classic Jaguar XJ, but a Cold War-era VEB Trabant steals their attention.
-
 2025-03-31 10:00pm
 MotoGP
 All the action from Group three of the MotoGP 2025 motorcycle racing World Championship at the Circuit Of The Americas in the US.
@@ -48,7 +44,7 @@ Shopping from home.
 
 2025-04-01 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-04-01 6:00am
 Junkyard Empire
