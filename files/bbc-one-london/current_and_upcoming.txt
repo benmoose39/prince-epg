@@ -1,67 +1,3 @@
-2025-03-30 11:10pm
-The Women's Football Show
-Highlights from Women's Super League as West Ham United take the short trip across London to face Chelsea. Manchester United host Everton, and Leicester City welcome Tottenham Hotspur to the King Power Stadium. The other fixtures are Brighton & Hove Albion v Manchester City, Crystal Palace v Arsenal and Liverpool v Aston Villa.
-
-2025-03-31 12:00am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-03-31 12:05am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-03-31 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-31 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-03-31 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-31 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-31 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-03-31 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-31 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-31 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-03-31 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-03-31 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-03-31 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-03-31 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-03-31 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-03-31 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1011,6 +947,174 @@ Tech Now
 Marc Cieslak has the highlights from the Game Developer Conference in San Francisco, where thousands in the industry come together to share the latest innovation and emerging trends.
 
 2025-04-06 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-06 6:40am
+Match of the Day
+Gary Lineker presents highlights of the day's five Premier League games, including the battle for Champions League places between Aston Villa and Nottingham Forest.
+
+2025-04-06 8:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2025-04-06 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2025-04-06 9:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2025-04-06 10:30am
+Celebration Kitchen
+Saturday Kitchen's Matt Tebbutt hosts a special edition of the BBC's live cookery show in celebration of the Jewish festival of Passover.
+
+2025-04-06 11:30am
+Bargain Hunt
+Charlie Ross oversees today's Bargain Hunt, which comes from the Royal Welsh Showground in Builth Wells. Philip Serrell and Thomas Plant help the reds and blues spend £300 on three items they think will make them a profit at auction in Cardiff.
+
+2025-04-06 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-06 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-06 12:15pm
+Songs of Praise
+Pam Rhodes is in Northumberland to meet older Christians inspired by their faith to take on new challenges and to encourage others in their senior years.
+
+2025-04-06 12:50pm
+Gladiators
+Gladiators ready! Bradley and Barney Walsh host the second of the semi-finals as four determined Contenders take on the superhuman Gladiators in five brutal events before going head-to-head in the gruelling Eliminator. Who has the will and the skill to conquer the infamous Travelator and win a coveted place in the grand final?
+
+2025-04-06 1:55pm
+Wallace & Gromit: The Wrong Trousers
+Wallace and his canine companion become embroiled in a bizarre jewellery heist after a mysterious penguin takes up residence in their house.
+
+2025-04-06 2:25pm
+	Shrek 2
+Ogre Shrek and his new wife Fiona are surprised to discover a letter from her parents, inviting them over for dinner. Fiona is eager to show off her new husband, but her parents don't yet know she's an ogre. Taking Donkey along, they set off for Far Far Away to visit them, but the trip is hampered by the jealousy of a wicked fairy godmother and her hired assassin, Puss in Boots.
+
+2025-04-06 3:50pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-06 4:05pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-06 4:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-06 4:15pm
+Countryfile
+Adam Henson and Charlotte Smith are in the Cairngorms National Park, home to a quarter of the UK's rare and endangered species.
+
+2025-04-06 5:15pm
+The Americas
+The Gulf Coast, where swamps and wetlands shelter black bears and alligators; manatees gather in freshwater springs, burrowing owls look for love in the suburbs and a rare ocelot raises her kittens in Texas' thornscrub.
+
+2025-04-06 6:00pm
+Antiques Roadshow
+The roadshow comes from Ebrington Square in Derry/Londonderry in the west of Northern Ireland, where Lennox Cato discovers a table made from the gifts bestowed by a Chinese emperor, while a stunning amethyst pendant catches Susan Rumfitt's eye.
+
+2025-04-06 7:00pm
+Ten Pound Poms
+Secrets and lies unfold when Annie, Terry, Kate and Robbie take a trip to the Blue Mountains.
+
+2025-04-06 8:00pm
+This City Is Ours
+Chaos ensues in the aftermath of a shocking death. Michael takes control, and the gang agree to smuggle the body back to Liverpool. Aboard the ferry, tension and suspicion runs rife.
+
+2025-04-06 9:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-06 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-06 9:30pm
+Match of the Day 2
+Mark Chapman presents highlights from a bumper Sunday of Premier League action, featuring the always-enthralling clash between Manchester United and Manchester City.
+
+2025-04-06 10:45pm
+Match of the Day: Top 10
+Gary Lineker, Alan Shearer and Micah Richards swap stories and reflect on the good, the bad and the ugly from the Champions League.
+
+2025-04-06 11:15pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-06 11:20pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-06 11:30pm
+The Balkans: Europe's Forgotten Frontier
+In this episode, we're in Romania, where Katya Adler is on the track of Count Dracula's most famous living descendent.
+
+2025-04-07 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-07 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-07 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-07 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-07 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-07 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-07 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-07 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-07 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-07 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-07 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-07 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-07 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-07 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-07 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
