@@ -1,19 +1,3 @@
-2025-03-31 11:00pm
-Teleshopping
-Shopping from home.
-
-2025-04-01 2:00am
-The Undercover Police Scandal: Love and Lies Exposed
-The women take legal action as pressure piles onto the Metropolitan Police.
-
-2025-04-01 2:55am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-01 4:05am
-Judi Love's Culinary Cruise
-The penultimate stop on Judi's culinary cruise is the largest of the Greek islands Kefalonia, known for its pies. Judi visits a family-run restaurant where the queen of pies Mirela makes Judi the famous Kreatopita pie.
-
 2025-04-01 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -555,6 +539,94 @@ Prue Leith's Cotswold Kitchen
 Visiting the home of Prue Leith and her husband John as she, friends and her husband cook mouth-watering dishes and explore the joys of their Cotswold home and local area.
 
 2025-04-07 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-04-07 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-04-07 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-04-07 11:30am
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-04-07 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-04-07 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-07 1:00pm
+Alan Titchmarsh's Gardening Club
+Alan and his Gardening Club team return with more seasonal advice, tips and inspiration as Camilla Bassett-Smith visits a striking Welsh garden. Claire Lowrie offers her houseplant styling essentials to help us get creative indoors.
+
+2025-04-07 2:00pm
+Jeopardy!
+Stephen Fry hosts the quiz based on a hit US show where players are presented with clues in the form of answers and must phrase their responses in the form of a question.
+
+2025-04-07 3:00pm
+Tipping Point
+Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.
+
+2025-04-07 4:00pm
+The Chase
+Caroline from Nottingham, Matthew from Cardiff, Lizzy from Newcastle and Graham from Loughton team up in the hope that they can take on The Chaser and leave with thousands of pounds. But who will they be in battle against?
+
+2025-04-07 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-07 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-04-07 6:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-04-07 7:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-04-07 8:00pm
+Celebrity Big Brother
+A fresh group of VIPs are set to embark on the iconic social experiment, moving into the `Big Brother' house. How will they handle the constant surveillance of Big Brother?
+
+2025-04-07 9:30pm
+ITV News
+The latest national and international news.
+
+2025-04-07 10:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-07 10:15pm
+The Real Ruth Ellis
+A documentary looking at Ruth Ellis's turbulent life, her love affair with David Blakely, and the infamous crime that led to her being the last woman hanged in Britain.
+
+2025-04-07 11:10pm
+Teleshopping
+Shopping from home.
+
+2025-04-08 2:00am
+Twisted Twins
+True crime documentary series. Lyn Dawson has been missing since 1982 when a investigative podcast leads to the case being reopened and her husband Chris being accused of murder.
+
+2025-04-08 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-08 4:05am
+Judi Love's Culinary Cruise
+An inspirational series following Judi Love on a food exploration and travel adventure - the stop this time is the archaeological site of Delphi. Judi visits its famous ruins and decides which goddess she would be, then it's off to a bee farm where Judi braces herself as she gets to meet the bees and taste their majestic honey. Judi also visits Itea and a family-run bakery.
+
+2025-04-08 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 
