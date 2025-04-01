@@ -102,10 +102,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Only God Forgives
 In Thailand, a drug trafficker's icy mother sends him on a mission to avenge his older brother, who was killed for beating an underage prostitute to death.
 
-2025-04-02 12:15am
-	Bunraku
-A drifter arrives in a mysterious town with the intention of ending the Woodcutter, a murderous crime lord's, violent reign.
-
 2025-04-02 1:10am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
@@ -230,19 +226,19 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Son of a Gun
 JR, a small-time, teenage criminal finds himself locked up for a minor crime and forced to adapt to the harsh realities of prison life. Fellow prisoner and Australia's most notorious criminal, Brendan Lynch, offers JR protection, but it comes at a price. Upon release, JR must help secure Lynch's freedom by staging a daring prison break.
 
-2025-04-03 12:30am
+2025-04-03 1:30am
 Great! Movie News Extra
 From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-03 12:40am
-	Hours
-Drama (2013)
 
 2025-04-03 1:35am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
 2025-04-03 1:37am
+	Hours
+Drama (2013)
+
+2025-04-03 1:40am
 	Hours
 Drama (2013)
 
@@ -361,10 +357,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-04-03 11:35pm
 	Renegades
 In the war-torn Bosnian capital of Sarajevo, US Navy Seal Matt Barnes leads a band of renegades on a covert operation to rescue treasure from the bottom of a lake.
-
-2025-04-04 12:50am
-	Crisis Point
-A criminal psychologist must negotiate the release of her sister from kidnappers.
 
 2025-04-04 1:45am
 Great! Movie News
@@ -489,10 +481,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-04-04 11:20pm
 	The Shanghai Job
 A failing private security agent is hired to escort a precious Chinese antique out of Shanghai but is ambushed on the way.
-
-2025-04-05 12:20am
-	Stratton
-After the death of his American counterpart, an MI6 agent and his team must race against time to stop a madman from unleashing stolen chemical weapons.
 
 2025-04-05 1:15am
 Great! Movie News
@@ -629,10 +617,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-04-05 11:20pm
 	Nocebo
 A fashion designer suffers from a mysterious illness that confounds her doctors and frustrates her husband. Help arrives in the form of a Filipino nanny who uses traditional folk healing to reveal a horrifying truth.
-
-2025-04-06 12:30am
-	Kill Command
-In the near future, a training exercise leads to a fight for survival when Marines encounter advanced military robots on a remote island.
 
 2025-04-06 1:25am
 Great! Movie News
@@ -893,10 +877,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-04-07 11:35pm
 	Cash
 A stroke of good luck turns lethal for Sam Phelan and his wife Leslie when they are faced with a life-changing decision that brings strange and sinister Pyke Kubic to their doorstep.
-
-2025-04-08 12:55am
-	Hidden Truth
-The murder of a teenage girl in a California town forces one woman to jump to the defence of her brother.
 
 2025-04-08 1:50am
 Great! Movie News

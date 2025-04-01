@@ -110,18 +110,6 @@ BBC One joins the BBC's rolling news channel for a night of news.
 The Media Show
 Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
-2025-04-02 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-02 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-02 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
 2025-04-02 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
@@ -273,18 +261,6 @@ Detailed weather forecast.
 2025-04-02 11:45pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-03 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-03 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-03 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-04-03 1:00am
 Newsday
@@ -442,18 +418,6 @@ BBC One joins the BBC's rolling news channel for a night of news.
 Amol Rajan Interviews
 Lord Alan Sugar, a man famed for his straight-talking and no-nonsense approach to interviews, sits down with Amol Rajan to discuss the future of Britain and his own incredible career. Arguably the UK's most famous rags to riches story, he was the working-class kid from Hackney who went on to become a billionaire with a seat in the Lords and his face all over television.
 
-2025-04-04 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-04 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-04 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
 2025-04-04 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
@@ -607,20 +571,16 @@ Sian's mission to get to the truth behind Helen Duncan's apparently supernatural
 Accompanied by her husband, son and daughter, Adelaide Wilson returns to the beachfront home where she grew up as a child. Haunted by a traumatic experience from the past, Adelaide grows increasingly concerned that something bad is going to happen. Her worst fears soon become a reality when four masked strangers descend upon the house, forcing the Wilsons into a fight for survival. When the masks come off, the family is horrified to learn that each attacker takes the appearance of one of them.
 
 2025-04-05 12:30am
+To Be Announced
+12:30am
+
+2025-04-05 1:30am
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2025-04-05 12:35am
+2025-04-05 1:35am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-05 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-05 1:30am
-Discovering the World's Table
-Food writer Nick Kwek journeys to his ancestral homeland of Sabah in Malaysian Borneo, exploring its rich culinary heritage shaped by tribal traditions and global influences.
 
 2025-04-05 2:00am
 BBC News
@@ -737,14 +697,6 @@ Detailed weather forecast.
 2025-04-05 11:40pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-06 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 12:30am
-Talking Movies
-To mark the 35th anniversary of the fall of the Berlin Wall in November 1989, Talking Movies has travelled to the German capital to look at how that momentous event affected film-makers. The programme reviews Good Bye, Lenin!, a film which dealt very imaginatively with the impact of the wall coming down on one East Berlin family.
 
 2025-04-06 1:00am
 BBC News
@@ -889,18 +841,6 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2025-04-06 11:30pm
 The Balkans: Europe's Forgotten Frontier
 In this episode, we're in Romania, where Katya Adler is on the track of Count Dracula's most famous living descendent.
-
-2025-04-07 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-07 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-07 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-04-07 1:00am
 Newsday
@@ -1051,24 +991,16 @@ The Hit List
 It's a star-studded celebrity special of The Hit List and some famous faces are put through their musical paces! The famous faces joining Rochelle and Marvin Humes in this addictive, play-along music quiz are CBBC presenter Rhys Stephenson and dancer Karen Hauer, soap stars Nick Pickard and Danielle Harold, and pop duo Jedward - who will get the chance to win £10,000 for their chosen charity?
 
 2025-04-08 12:10am
+To Be Announced
+12:10am
+
+2025-04-08 1:10am
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2025-04-08 12:15am
+2025-04-08 1:15am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-08 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-08 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-08 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
 
 2025-04-08 1:30am
 Business Today
