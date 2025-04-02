@@ -146,11 +146,11 @@ Questions in the Scottish Parliament to John Swinney, the first minister, on Thu
 Scottish Parliament
 Highlights from the Scottish Parliament.
 
-2025-04-05 1:00am
+2025-04-05 12:00am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 April.
 
-2025-04-05 1:50am
+2025-04-05 12:50am
 Senedd Cymru - Welsh Parliament
 Highlights from the Welsh Parliament.
 
@@ -214,13 +214,13 @@ Coverage of questions in the House of Commons to Keir Starmer, the prime ministe
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 3 April.
 
+2025-04-06 12:40am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 April.
+
 2025-04-06 1:30am
 House of Commons
 Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 31 March.
-
-2025-04-06 1:40am
-Welsh First Minister's Questions
-Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 April.
 
 2025-04-06 2:30am
 House of Commons
@@ -286,13 +286,17 @@ Recorded coverage of select committee proceedings.
 House of Commons
 Coverage of questions in the House of Commons to Lisa Nandy, the culture, media and sport secretary, and her team of ministers on Thursday 3 April.
 
-2025-04-07 1:00am
+2025-04-07 12:00am
 House of Commons
 Coverage of questions in the House of Commons to the Church Commissioners, the House of Commons Commission, the Public Accounts Commission, the Restoration and Renewal Client Board and the Speaker's Committee on the Electoral Commission, on Thursday 3 April.
 
-2025-04-07 1:20am
+2025-04-07 12:20am
 House of Commons
 Coverage of questions in the House of Commons to Hilary Benn, the Northern Ireland secretary, and his team of ministers on Wednesday 2 April.
+
+2025-04-07 12:50am
+House of Commons
+Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 1 April.
 
 2025-04-07 1:50am
 House of Commons
@@ -366,11 +370,11 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 Northern Ireland Assembly
 Coverage of the proceedings in the Northern Ireland Assembly including members' statements, on Monday 7 April.
 
-2025-04-08 1:00am
+2025-04-08 12:15am
 Northern Ireland Assembly
 Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 31 March.
 
-2025-04-08 1:15am
+2025-04-08 1:00am
 Northern Ireland Assembly
 Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 31 March.
 
