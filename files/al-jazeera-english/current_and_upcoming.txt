@@ -1,51 +1,3 @@
-2025-04-01 11:30pm
-Counting the Cost
-The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
-
-2025-04-02 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-02 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-04-02 1:00am
-A Reel War
-1:00am
-
-2025-04-02 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-02 2:30am
-The Listening Post
-We unpack the Türkiye protests with voices from both sides of a split political and media landscape.
-
-2025-04-02 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-02 3:30am
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-04-02 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-02 4:30am
-A Sense of Community
-Outer Hebrides, Scotland
-
-2025-04-02 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-02 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-04-02 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -1011,6 +963,166 @@ News
 World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-04-08 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-08 6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 6:30am
+Africa Direct
+African stories by African filmmakers. Perspectives from a diverse continent; storytelling in the hands of local talent.
+
+2025-04-08 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 8:30am
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-04-08 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 9:30am
+The Listening Post
+Providing key news and information to understand ever-more complex global events through in-depth analysis.
+
+2025-04-08 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-08 12:00pm
+Al Jazeera World
+Showcasing films from across the Al Jazeera Network.
+
+2025-04-08 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 2:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-04-08 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 4:30pm
+Studio B: The AI Series
+Nobel peace prize Laureate Maria Ressa discusses AI with Professor Michael Wooldridge and how far the technology has come.
+
+2025-04-08 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-08 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 7:30pm
+The Bottom Line
+Discussions on US politics and policies.
+
+2025-04-08 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-08 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-08 10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 10:30pm
+Apocalypse Maybe
+Many believe we are living in the 'end times' due to climate change, a digital revolution and international conflict.
+
+2025-04-08 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-08 11:30pm
+Counting the Cost
+The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
+
+2025-04-09 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-09 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-09 1:00am
+	iHuman
+With unique access to the booming artificial intelligence industry, filmmaker Tonje Hessen Schei explores how the most powerful technology of all time is changing society and the future.
+
+2025-04-09 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-09 2:30am
+The Listening Post
+Providing key news and information to understand ever-more complex global events through in-depth analysis.
+
+2025-04-09 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-09 3:30am
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-04-09 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-09 4:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-04-09 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-09 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
