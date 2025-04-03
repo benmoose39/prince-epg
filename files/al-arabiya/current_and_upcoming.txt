@@ -92,7 +92,7 @@ A news program.
 
 2025-04-04 5:35am
 Special Mission
-Researching and uncovering some trending problems and issues in the world.
+Backtrace:
 
 2025-04-04 6:00am
 Al Arabiya News
