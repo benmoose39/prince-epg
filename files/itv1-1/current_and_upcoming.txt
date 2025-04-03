@@ -1,27 +1,3 @@
-2025-04-02 11:40pm
-Premiership Rugby Unleashed
-Action from the 13th round of the 2024-25 Gallagher Premiership season featuring Exeter Chiefs v Newcastle Falcons, Gloucester v Bristol Bears, Leicester Tigers v Saracens, Bath v Harlequins and Sale Sharks v Northampton Saints.
-
-2025-04-03 12:05am
-Teleshopping
-Shopping from home.
-
-2025-04-03 3:00am
-Tonight
-With stretched local authorities across the country proposing restrictions on weekly bin collections, Joe Crowley investigates fears that a reduction in collections has already contributed to increasing problems with littering and fly-tipping.
-
-2025-04-03 3:25am
-The Dry
-Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
-
-2025-04-03 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-03 5:05am
-Wheel of Fortune
-Graham Norton welcomes office manager Shirley, financial management assistant Cameron, and police investigation officer Adele as they take on puzzles and the iconic Wheel for a possible 50,000 pounds.
-
 2025-04-03 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -545,4 +521,104 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-04-09 5:05am
 Alan Titchmarsh's Gardening Club
 Alan and his Gardening Club team return with more seasonal advice, tips and inspiration as Camilla Bassett-Smith visits a striking Welsh garden. Claire Lowrie offers her houseplant styling essentials to help us get creative indoors.
+
+2025-04-09 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-04-09 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-04-09 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-04-09 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-04-09 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-04-09 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-09 2:00pm
+Celebrity Catchphrase
+Stephen Mulhern hosts a contemporary remake of the iconic '80s game show where contestants have to identify a familiar catchphrase represented by a piece of animation.
+
+2025-04-09 3:00pm
+Jeopardy!
+Stephen Fry hosts the quiz based on a hit US show where players are presented with clues in the form of answers and must phrase their responses in the form of a question.
+
+2025-04-09 4:00pm
+Tipping Point
+Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning a cash jackpot.
+
+2025-04-09 5:00pm
+The Chase
+All that stands between Michael from Paisley, Anna from Pontyclun, Guy from Liverpool, Kate from Guildford and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains. Bradley Walsh asks the questions, but do they have the answers?
+
+2025-04-09 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-09 6:20pm
+Party Election Broadcast
+A party election broadcast by the Labour Party for the local elections on 1 May.
+
+2025-04-09 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-04-09 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-04-09 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-04-09 9:00pm
+Celebrity Big Brother
+Famous housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house - the most unpopular housemates face a public vote with the loser being removed from the house in a live eviction show.
+
+2025-04-09 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-04-09 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-09 10:45pm
+The Trial of Louise Woodward
+The courtroom battle over Louise Woodward, a British nanny accused of murdering an American baby in her care, stunned the world as it played out live on TV. Neary 25 years later, revisiting the gripping and controversial trial, which continues to divide medical and legal opinion today, and features revelatory interviews with the lead defence lawyer as well as with key expert witnesses on both sides.
+
+2025-04-09 11:40pm
+Olivia Attwood's Bad Boyfriends
+It's Rotate-a-Date time as Olivia shakes things up by pairing the boys with different girlfriends who give them a good grilling during a revealing round of dates - Sapphia clashes with Bayley, Ryan's flirty antics with Liily get him in hot water, and the boys are put to the test with a shopping challenge where Ruben's present choice leaves Liily stunned.
+
+2025-04-10 12:30am
+Teleshopping
+Shopping from home.
+
+2025-04-10 3:00am
+Tonight
+After the Princess of Wales revealed her cancer diagnosis in 2024, cancer is no longer regarded as just an illness of the elderly. Rebecca Barry delves into the causes behind the rise in cancer diagnoses among younger adults in the UK.
+
+2025-04-10 3:25am
+The Dry
+Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
+
+2025-04-10 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-10 5:05am
+Wheel of Fortune
+Graham Norton welcomes events assistant Alex, weight loss coach Jennifer, and business owner Chris as they face each other to solve puzzles and beat the Wheel for a possible 50,000 pounds.
 
