@@ -1,7 +1,3 @@
-2025-04-03 11:00pm
-6 Music Festival
-Featuring Ezra Collective, Mogwai, Kae Tempest, English Teacher, Fat Dog and Perfume Genius.
-
 2025-04-04 5:00am
 6 Music Festival
 Featuring Ezra Collective, Mogwai, Kae Tempest, English Teacher, Fat Dog and Perfume Genius.
@@ -193,4 +189,24 @@ Football highlights.
 2025-04-10 5:15am
 UEFA Champions League Football
 Football highlights.
+
+2025-04-10 11:15am
+UEFA Champions League Football
+Football highlights.
+
+2025-04-10 5:15pm
+UEFA Champions League Football
+Football highlights.
+
+2025-04-10 9:00pm
+6 Music Festival
+Featuring Ezra Collective, Mogwai, Kae Tempest, English Teacher, Fat Dog and Perfume Genius.
+
+2025-04-11 3:00am
+6 Music Festival
+Featuring Ezra Collective, Mogwai, Kae Tempest, English Teacher, Fat Dog and Perfume Genius.
+
+2025-04-11 5:00am
+6 Music Festival
+Featuring Ezra Collective, Mogwai, Kae Tempest, English Teacher, Fat Dog and Perfume Genius.
 
