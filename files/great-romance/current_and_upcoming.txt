@@ -1,8 +1,4 @@
-2025-04-04 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-04 6:30am
+2025-04-04 5:00am
 Teleshopping
 Shopping from home.
 
@@ -142,23 +138,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-05 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-05 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-05 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-05 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-05 6:30am
 Teleshopping
 Shopping from home.
 
@@ -302,23 +282,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-06 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-06 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-06 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-06 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-06 6:30am
 Teleshopping
 Shopping from home.
 
@@ -378,11 +342,11 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	A Royal Christmas Ball
 Dateless for the Christmas ball, bachelor King Charles of Baltania tracks down Allison, his American college sweetheart, only to discover she has never been married, yet raised a 17-year-old daughter, Lily, who mathematically might be Charles' child.
 
-2025-04-06 4:00pm
+2025-04-06 4:02pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-06 4:02pm
+2025-04-06 4:04pm
 	A Royal Christmas Ball
 Dateless for the Christmas ball, bachelor King Charles of Baltania tracks down Allison, his American college sweetheart, only to discover she has never been married, yet raised a 17-year-old daughter, Lily, who mathematically might be Charles' child.
 
@@ -454,23 +418,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-07 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-07 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-07 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-07 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-07 6:30am
 Teleshopping
 Shopping from home.
 
@@ -602,23 +550,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-08 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-08 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-08 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-08 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-08 6:30am
 Teleshopping
 Shopping from home.
 
@@ -698,6 +630,14 @@ When an executive is sent to a small town to acquire a local diner, she discover
 	Love's Second Chance
 When Rose inherits her grandmother's vintage dress shop, she runs into her high school crush, Cole, who convinces her to restore the store.
 
+2025-04-08 7:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-08 8:00pm
+	Love's Second Chance
+When Rose inherits her grandmother's vintage dress shop, she runs into her high school crush, Cole, who convinces her to restore the store.
+
 2025-04-08 9:00pm
 	The Soulmate Search
 When Lindsay gets the chance to sign up to the notoriously exclusive dating service Eternity, she clashes with Will, her first date. They mutually agree that the dating service is a complete bust and make a deal to get their money back.
@@ -742,23 +682,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-09 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-09 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-09 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-09 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-09 6:30am
 Teleshopping
 Shopping from home.
 
@@ -782,13 +706,9 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	A Tail of Love
 When Bella discovers the funding for her dog rescue centre is being discontinued, she turns to JR, a caring soldier who becomes attached to one of her rescues and her.
 
-2025-04-09 10:05am
+2025-04-09 10:10am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-04-09 10:10am
-	A Tail of Love
-When Bella discovers the funding for her dog rescue centre is being discontinued, she turns to JR, a caring soldier who becomes attached to one of her rescues and her.
 
 2025-04-09 11:05am
 	Rome in Love
