@@ -1,51 +1,3 @@
-2025-04-04 11:30pm
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-04-05 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-05 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-04-05 1:00am
-	iHuman
-With unique access to the booming artificial intelligence industry, filmmaker Tonje Hessen Schei explores how the most powerful technology of all time is changing society and the future.
-
-2025-04-05 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-05 2:30am
-People and Power
-A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
-
-2025-04-05 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-05 3:30am
-101 East
-Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
-
-2025-04-05 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-05 4:30am
-UpFront
-Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
-
-2025-04-05 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-05 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-04-05 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -1007,6 +959,170 @@ News
 World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-04-11 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-11 6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 6:30am
+All Hail The Planet
+Our Plastic Problems Are Worse Than You Think
+
+2025-04-11 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 8:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-04-11 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 9:30am
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-04-11 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-11 12:00pm
+The Bottom Line
+Evan Davis explores if working the traditional five day week could be replaced by working four, eight hour days. Could working more efficiently benefit employees and bosses? With Joe Ryle, director of the 4 Day Week Campaign, Claire Daniels, CEO.
+
+2025-04-11 12:30pm
+Africa Direct
+African stories by African filmmakers. Perspectives from a diverse continent; storytelling in the hands of local talent.
+
+2025-04-11 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 2:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-04-11 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 4:30pm
+Apocalypse Maybe
+Many believe we are living in the 'end times' due to climate change, a digital revolution and international conflict.
+
+2025-04-11 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-11 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 7:30pm
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-04-11 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-11 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-04-11 10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 10:30pm
+Counting the Cost
+The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
+
+2025-04-11 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-11 11:30pm
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-04-12 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-12 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-04-12 1:00am
+Capturing water
+In 2018, Cape Town narrowly averted completely running out of drinking water. In a country sitting 29th on the list of water-scarce places in the world, this became a ghastly harbinger of things to come. The city council committed to take urgent.
+
+2025-04-12 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-12 2:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-04-12 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-12 3:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-04-12 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-12 4:30am
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-04-12 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-04-12 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
