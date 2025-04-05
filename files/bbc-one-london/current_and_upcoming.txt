@@ -60,7 +60,7 @@ Romesh Ranganathan is back quizzing eight celebrities who are all after a potent
 
 2025-04-05 7:20pm
 Pointless Celebrities
-A celebrity special edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman and featuring Matt Evers, Patsy Palmer, Marky Luther, Meesh Ven, Naomi Wilkinson, Steve Backshall, Katie Zelem and Mary Earps.
+A celebrity special edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman, and featuring Matt Evers, Patsy Palmer, Marky Luther, Meesh Ven, Naomi Wilkinson, Steve Backshall, Katie Zelem and Mary Earps.
 
 2025-04-05 8:10pm
 Casualty
@@ -78,15 +78,15 @@ The latest weather forecast.
 Match of the Day
 Gary Lineker presents highlights of the day's five Premier League games, including the battle for Champions League places between Aston Villa and Nottingham Forest.
 
-2025-04-05 10:35pm
+2025-04-05 10:30pm
 Ashley Cain: Into the Danger Zone
 Brazil's favelas are considered extremely dangerous, making them one of the world's most deadly places to grow up. As a result of poverty and a lack of government and police control, many young men here resort to drug dealing and gang crime under the control of the drug cartels. In other neighbourhoods, heavily armed criminal militia groups control day-to-day life with an iron grip, extorting residents - fail to pay or cross them, and the consequences can be deadly.
 
-2025-04-05 11:35pm
+2025-04-05 11:30pm
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2025-04-05 11:40pm
+2025-04-05 11:35pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
@@ -134,7 +134,7 @@ Marc Cieslak has the highlights from the Game Developer Conference in San Franci
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
-2025-04-06 6:40am
+2025-04-06 6:45am
 Match of the Day
 Gary Lineker presents highlights of the day's five Premier League games, including the battle for Champions League places between Aston Villa and Nottingham Forest.
 
@@ -884,7 +884,7 @@ Every May, around 100 motorcycle road racers from across the world make the pilg
 
 2025-04-10 10:40pm
 Pointless Celebrities
-A celebrity special edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman and featuring Matt Evers, Patsy Palmer, Marky Luther, Meesh Ven, Naomi Wilkinson, Steve Backshall, Katie Zelem and Mary Earps.
+A celebrity special edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman, and featuring Matt Evers, Patsy Palmer, Marky Luther, Meesh Ven, Naomi Wilkinson, Steve Backshall, Katie Zelem and Mary Earps.
 
 2025-04-10 11:30pm
 Weather for the Week Ahead
@@ -1053,6 +1053,50 @@ Detailed weather forecast.
 2025-04-11 11:25pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-11 11:30pm
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-04-12 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-12 12:30am
+Tech Now
+Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
+
+2025-04-12 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-12 1:30am
+Discovering the World's Table
+Food lover and journalist Nick Kwek travels to the Aegean peninsula of Izmir, one of Turkey's most vibrant food scenes, where a boutique wine scene is blossoming and traditional seasonal ingredients are reinvented for modern menus.
+
+2025-04-12 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-12 2:30am
+This Cultural Life
+Sir Salman Rushdie talks to John Wilson about his formative creative influences and experiences.
+
+2025-04-12 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-12 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-04-12 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-12 4:30am
+The Travel Show
+Thirty years after the Dayton Accords finally ended the war in Bosnia, Rajan Datar travels to the country to explore the legacy that the conflict left behind as it tries to attract more tourists.
 
 2025-04-12 5:00am
 Breakfast
