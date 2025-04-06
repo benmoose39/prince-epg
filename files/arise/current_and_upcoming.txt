@@ -104,10 +104,6 @@ Breaking news and headlines, local weather forecasts, sports and traffic reports
 
 2025-04-07 5:00am
 Arise Newsnight
-Backtrace:
-
-2025-04-07 5:00am
-Arise Newsnight
 Breaking news and headlines, local weather forecasts, sports and traffic reports.
 
 2025-04-07 8:00am
