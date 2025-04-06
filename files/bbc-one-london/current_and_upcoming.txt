@@ -1,47 +1,3 @@
-2025-04-05 11:35pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-06 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 12:30am
-Talking Movies
-To mark the 35th anniversary of the fall of the Berlin Wall in November 1989, Talking Movies has travelled to the German capital to look at how that momentous event affected film-makers. The programme reviews Good Bye, Lenin!, a film which dealt very imaginatively with the impact of the wall coming down on one East Berlin family.
-
-2025-04-06 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 1:30am
-Is Greenland for Sale?
-US president Donald Trump says he wants the US to take over Greenland. The country is part of the Kingdom of Denmark, and Mr Trump says Denmark should 'give it up' for the defence of the free world. Many people think it will never happen. But could it? If so, how? In this programme, we hear what Mr Trump has said. We gauge the reaction in Greenland and Denmark. And we ask why the US might want greater control over Greenland, and how likely it is to happen.
-
-2025-04-06 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 2:30am
-The Big Cases
-The shocking story of Elianne Andam, a 15-year-old schoolgirl who was stabbed to death at a bus stop outside a shopping centre in Croydon, south London, in a row about a teddy bear.
-
-2025-04-06 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 3:30am
-The Balkans: Europe's Forgotten Frontier
-In this episode, we're in Romania, where Katya Adler is on the track of Count Dracula's most famous living descendent.
-
-2025-04-06 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-06 4:30am
-Tech Now
-Marc Cieslak has the highlights from the Game Developer Conference in San Francisco, where thousands in the industry come together to share the latest innovation and emerging trends.
-
 2025-04-06 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1011,6 +967,138 @@ The Travel Show
 Thirty years after the Dayton Accords finally ended the war in Bosnia, Rajan Datar travels to the country to explore the legacy that the conflict left behind as it tries to attract more tourists.
 
 2025-04-12 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-12 8:30am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Tom Parker Bowles and Nisha Parmar with special guests Billy Porter and Marisha Wallace. Drinks expert Helen McGinn picks the wines to go with the studio dishes.
+
+2025-04-12 10:00am
+Football Focus
+Alex Scott and guests look ahead to the weekend's football action, which includes Liverpool v West Ham United and Nottingham Forest v Everton. And it's back to domestic action for Arsenal, who meet Brentford.
+
+2025-04-12 10:45am
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-12 10:55am
+BBC Weather
+The latest weather forecast.
+
+2025-04-12 11:00am
+
+Live coverage of the Women's FA Cup semi-final between Chelsea and Liverpool.
+
+2025-04-12 1:30pm
+Escape to the Country
+There are grand ambitions in Norfolk as Alistair Appleton helps an opera singer and his husband find a house with space inside to hold small concerts and a garden big enough to keep a couple of pigs. During his time in the county, Alistair also meets a former fashion editor from London who uses social media to share the joys of her country life from her beautiful Georgian home.
+
+2025-04-12 2:05pm
+	Shrek the Third
+Shrek is just starting to settle down in his beloved swamp with his wife Fiona, but their mucky bliss doesn't last for long as word arrives that the ogre's froggy father-in-law is about to croak. The very last thing Shrek wants is to become King, but with no other heir in sight, it looks like the grumpy green one is destined never to live quietly in the swamp again. A glimmer of hope appears in the form of heir Artie.
+
+2025-04-12 3:30pm
+Final Score
+Jason Mohammad presents the football results show, with reports and reaction from all the big games. The afternoon's Premier League fixtures include Nottingham Forest v Everton.
+
+2025-04-12 4:30pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-12 4:40pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-12 4:45pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-12 4:50pm
+Gladiators
+Contenders Ready? Bradley and Barney Walsh as the Gladiators bring their A-game to the grand final. Everything comes down to this for the final four contenders as they battle it out to be crowned Gladiators Champion 2024.
+
+2025-04-12 5:50pm
+Doctor Who
+When robots from outer space kidnap nurse Belinda Chandra, the Doctor embarks on an epic intergalactic quest to get his new friend back home to Earth.
+
+2025-04-12 6:35pm
+The Weakest Link
+Romesh Ranganathan is back quizzing eight celebrities who are all after a potential prize pot of £50,000 for their charity. Initially working together, the celebrities must vote off the weakest link each round until just two remain in the head-to-head. But only one can claim the prize. The celebrity contestants are Keith Duffy, Rachel Riley, Amy Gledhill, Ching He Huang, Konan, Rory Bremner, Bonnie Langford and Chris Harris.
+
+2025-04-12 7:25pm
+Pointless Celebrities
+The celebrities aiming to lift the Pointless trophy are Charlie Baker, Nathan Caton, Gordon Buchanan, Michaela Strachan, Priya Gopaldas, Dr Hilary Jones MBE, Kate Lawler, and Saffron Barker.
+
+2025-04-12 8:10pm
+Casualty
+Stevie walks into danger as the identity of her stalker is revealed, Ngozi is on edge when her secret is exposed, and Flynn finds a solution to the department's money problems.
+
+2025-04-12 9:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-12 9:15pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-12 9:20pm
+Match of the Day
+Gary Lineker introduces highlights from the day's Premier League games, which will impact both ends of the table. Champions League-chasing Nottingham Forest host Everton, while Arsenal faced Brentford at the Emirates. Last year's champions Manchester City play Crystal Palace, Leicester City are at Brighton, and Aston Villa travel to Southampton.
+
+2025-04-12 10:30pm
+Ashley Cain: Into the Danger Zone
+South Africa has for years battled the scourge of rhino poaching, fuelled by insatiable demand for their horns in Asia. Ashley embarks on a mission to find out who is behind these brutal acts, discovering how the challenges young men face growing up in deprived rural communities can lead to illegal poaching. Hanging out with men from KwaZulu-Natal - or Zululand - he earns their trust and joins them on a legal hunt for bushmeat in order to understand what day-to-day life is like here.
+
+2025-04-12 11:30pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-12 11:35pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-13 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-13 12:30am
+World's Greatest Train Journeys
+Marking the 60th anniversary of Japan's famous Shinkansen, rail enthusiast Paul Carter ventures along a new coastal rail route. Following Paul's travels from Tokyo, as he stops at the mountain springs of Unizakeonsen, sees Kanazawa, and more.
+
+2025-04-13 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-13 1:30am
+Nightclubs: Is The Party Over?
+Since 2020 a third of Britain's nightclubs have shut down. We speak to DJs, club owners and party-goers, to find out why Britain's club scene is changing and discover those who are making sure it will be part of the British culture for years to come.
+
+2025-04-13 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-13 2:30am
+Life at 50 Degrees
+Colombian energy giant Ecopetrol has polluted hundreds of sites with oil, including water sources, the BBC World Service has found. Ecopetrol says it fully complies with the law.
+
+2025-04-13 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-13 3:30am
+The Balkans: Europe's Forgotten Frontier
+In this episode, Katya Adler visits Kosovo and Serbia and finds that the scars of 1998's war of independence are far from healed.
+
+2025-04-13 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-13 4:30am
+Tech Now
+Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
+
+2025-04-13 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

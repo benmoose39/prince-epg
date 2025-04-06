@@ -1,39 +1,3 @@
-2025-04-05 10:00pm
-Inspector Morse
-There is an unexpected culture shock for Morse and Lewis when the search for an ex-supergrass takes them from the dreaming spires of Oxford to the rough-and-ready outback of Australia.
-
-2025-04-05 11:50pm
-Joanna Lumley's Home Sweet Home: Travels in My Own Land
-Starting at Tilbury Docks in Essex, Joanna Lumley heads north, making a nostalgic return to Coronation Street before ending the journey in Whitby.
-
-2025-04-06 12:50am
-On the Buses
-When a beautiful young woman begins training at the depot, nobody realises that she is Blakey's niece.
-
-2025-04-06 1:15am
-On the Buses
-Stan and Jack try to convince the inspector to buy Arthur's old motorbike, but the test drive does not go quite as they planned.
-
-2025-04-06 1:40am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-06 2:00am
-Teleshopping
-Shopping from home.
-
-2025-04-06 3:30am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-06 4:00am
-Teleshopping
-Shopping from home.
-
-2025-04-06 5:00am
-Never the Twain
-Virtuous characteristics come to light when Simon, Oliver, Mrs Sadler and Banks are held at gunpoint by two desperate criminals.
-
 2025-04-06 5:30am
 Lewis
 When an ambitious Oxford student is found dead in her hotel room after inviting a reformed computer hacker to speak at the Union, Lewis and Hathaway are called in to investigate. The pair are soon drawn into a case driven by celebrity, ambition and dangerous sexual politics, which strikes alarming chords with Lewis.
@@ -577,4 +541,64 @@ Stan turns up to work drunk after sampling too much home-made beer.
 2025-04-12 5:30am
 Lewis
 A North Oxford housewife is found hanged in her home and the initial investigation suggests suicide. Rachel Mallory leaves behind her devastated husband Hugh and her two young daughters, but Lewis' instincts tell him that something is wrong with the suicide verdict. He strikes up a friendship with the Mallory's neighbour, Stephanie Fielding, who points him in the direction of a key piece of information.
+
+2025-04-12 7:45am
+Lewis
+A rape case appears to be solved when the chief suspect is murdered. However, nothing is what it seems, and soon Lewis and Hathaway find the upper echelons of Oxford society closing ranks.
+
+2025-04-12 9:55am
+Rosemary and Thyme
+Rosemary's maternal side is revealed when she and Laura find an abandoned baby under a gooseberry bush. They take care of him while they try to find out who his mother is and why she deserted her baby. Then a neighbouring artist is found murdered - is he connected? Will they be able to reunite mother and son? Will Rosemary remain enchanted by the prospect of raising a child?
+
+2025-04-12 11:00am
+Rosemary and Thyme
+Laura and Rosemary join Laura's son Matthew and his friends on their annual tennis holiday at a camp in southern Spain. When one of the players is found dead after a night out, everyone assumes it was a drunken accident - but the girls suspect foul play. As they immerse themselves in Spanish culture, they soon come to realise that the value of property seems to be the driving force for evil in the idyllic resort.
+
+2025-04-12 12:00pm
+Endeavour
+A funfair on Cowley Green turns sinister when bus conductress Jeannie Hearne is spirited away in the night, without any explanation. When her body is found next morning in the Oxfordshire countryside, the case comes to the attention of Oxford City Police. Endeavour is still suspended from duty, but when Jeannie's body is found close to where he is living, the unexplained details prove too pressing to ignore and Endeavour begins a covert investigation of his own.
+
+2025-04-12 2:00pm
+Agatha Christie's Marple
+After the arrival of beautiful young American Bridget Conway, several inhabitants of the village of Wychwood-under-Ashe die unexpectedly. No one suspects that a killer is at work, but as the deaths continue Miss Marple joins forces with the handsome Luke Fitzwilliam to investigate. They gradually unearth a secret so shocking that it cannot be forgotten.
+
+2025-04-12 4:00pm
+Midsomer Murders
+When a pub landlady is crushed to death during a magic show in Midsomer Oaks, Barnaby and Nelson uncover conflict between the village church and ancient pagan traditions. Is famous magician Gideon Latimer to blame or is he the target?
+
+2025-04-12 6:00pm
+Midsomer Murders
+The crime drama returns for a new series. The unveiling of a newly-discovered novel by deceased Midsomer crime-writer George Summersbee at the Luxton Deeping Crime Festival is jeopardised when the manuscript is stolen and a woman is fatally electrocuted by a booby-trapped roulette wheel. Can new dad Barnaby untangle a web of jealousy and obsession to find the killer?
+
+2025-04-12 8:00pm
+Vera
+When the body of a missing 18-year-old is discovered buried on the moors, Vera delves beyond the original enquiry and into the life and the secrets of the victim.
+
+2025-04-12 10:00pm
+Inspector Morse
+Morse and Lewis find themselves in a terrifying world of devil worship as they hunt a violent rapist on the run from prison.
+
+2025-04-12 11:55pm
+	The Magnificent Two
+When a pair of travelling salesmen get caught up in a South American rebellion, they decide to join the military life.
+
+2025-04-13 1:30am
+On the Buses
+Stan turns up to work drunk after sampling too much home-made beer.
+
+2025-04-13 2:00am
+Teleshopping
+Shopping from home.
+
+2025-04-13 3:30am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-13 4:00am
+Teleshopping
+Shopping from home.
+
+2025-04-13 5:00am
+Lewis
+Lewis and Hathaway investigate the murder of a German history professor who had a fascination with local underworld boxing bouts. When they learn that one of his students was the latest winner of such a fight, they suspect the murder may have had underworld connections.
 
