@@ -1,27 +1,3 @@
-2025-04-06 11:30pm
-House of Commons
-Coverage of questions in the House of Commons to Hilary Benn, the Northern Ireland secretary, and his team of ministers on Wednesday 2 April.
-
-2025-04-06 11:55pm
-House of Commons
-Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 1 April.
-
-2025-04-07 1:10am
-House of Commons
-Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 31 March.
-
-2025-04-07 2:20am
-Welsh First Minister's Questions
-Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 1 April.
-
-2025-04-07 3:20am
-Scottish First Minister's Questions
-Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 3 April.
-
-2025-04-07 4:10am
-Prime Minister's Questions
-Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 2 April.
-
 2025-04-07 4:50am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 3 April.
@@ -187,6 +163,22 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-04-13 5:00am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-13 11:00am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-13 5:00pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-13 11:00pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-14 5:00am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 

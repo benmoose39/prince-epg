@@ -1,27 +1,3 @@
-2025-04-06 10:00pm
-Vera
-DCI Vera Stanhope investigates the murder of a promising university student, who falls to his death in suspicious circumstances.
-
-2025-04-06 11:55pm
-Protection
-A life hangs in the balance, and Liz feels the blame directed at her. Not trusting the others, she takes matters into her own hands, with surprising consequences. However, her enemies will do anything to cover their tracks.
-
-2025-04-07 12:50am
-Protection
-Isolated and with nothing to lose, Liz goes even further down her path of transgression in her desperate pursuit of the truth. She tries to uncover the conspiracy before corrupt forces stop her.
-
-2025-04-07 1:45am
-Never the Twain
-Virtuous characteristics come to light when Simon, Oliver, Mrs Sadler and Banks are held at gunpoint by two desperate criminals.
-
-2025-04-07 2:10am
-On the Buses
-When Edna the clippie is thrown out of her lodgings, Stan takes her in - and lives to regret it.
-
-2025-04-07 2:35am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
 2025-04-07 8:00pm
 Midsomer Murders
 The crime drama returns for a new series. The unveiling of a newly-discovered novel by deceased Midsomer crime-writer George Summersbee at the Luxton Deeping Crime Festival is jeopardised when the manuscript is stolen and a woman is fatally electrocuted by a booby-trapped roulette wheel. Can new dad Barnaby untangle a web of jealousy and obsession to find the killer?
@@ -121,4 +97,36 @@ When a pair of travelling salesmen get caught up in a South American rebellion, 
 2025-04-13 2:30am
 On the Buses
 Stan turns up to work drunk after sampling too much home-made beer.
+
+2025-04-13 8:00pm
+Doc Martin
+PC Penhale is delighted when his beloved older brother Sam comes to visit. When Sam offers to re-paint the surgery, Martin observes him and concludes that he may have a rare genetic disease, but a blood test discloses something unexpected which could alter the brothers' bond forever. Meanwhile, Al acts on some relationship advice from Bert but things go from bad to worse with Pauline.
+
+2025-04-13 9:00pm
+Belgravia: The Next Chapter
+Emily confronts Clara about the painting, worried about the potential scandal for their family. Frederick moves forward with his investment in the silver mine, but Ross begins to grow suspicious of the Marquise.
+
+2025-04-13 10:00pm
+Vera
+With her caustic wit and singular charm, DCI Vera Stanhope and her trusted right-hand man face a series of captivating murder mysteries set against the breathtaking Northumberland landscape.
+
+2025-04-13 11:50pm
+A Cruel Love: The Ruth Ellis Story
+When Ruth Ellis is arrested following the shooting of her lover David Blakely, we learn how the two became embroiled in a relationship.
+
+2025-04-14 12:50am
+A Cruel Love: The Ruth Ellis Story
+Ruth is on trial for murder as the court hears how she came to kill David Blakely and why a woman who seemingly had it all did so.
+
+2025-04-14 1:45am
+On the Buses
+Stan's household is thrown into disarray when he decides to do a spot of home-decorating.
+
+2025-04-14 2:10am
+On the Buses
+Stan and Jack are assigned to take a school party on an outing.
+
+2025-04-14 2:35am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
