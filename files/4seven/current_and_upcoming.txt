@@ -100,10 +100,6 @@ Shopping from home.
 
 2025-04-10 5:00am
 Teleshopping
-Backtrace:
-
-2025-04-10 5:00am
-Teleshopping
 Shopping from home.
 
 2025-04-10 8:00am
