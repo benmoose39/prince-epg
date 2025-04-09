@@ -1,71 +1,3 @@
-2025-04-08 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-09 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-09 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-09 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-09 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-09 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-09 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-09 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-09 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-09 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-09 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-09 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-09 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-09 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-09 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-09 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-09 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-04-09 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -1231,6 +1163,218 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-15 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-15 6:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 6:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-15 7:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 7:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-15 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-04-15 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-04-15 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-15 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-04-15 1:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-15 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-04-15 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-04-15 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-04-15 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-04-15 3:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-15 3:45pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-04-15 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-04-15 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-04-15 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-15 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-04-15 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-04-15 7:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-04-15 7:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-04-15 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-04-15 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-04-15 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-04-15 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2025-04-15 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-04-15 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-15 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-04-16 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-16 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-16 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-16 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-16 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-16 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-16 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-16 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-16 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-16 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-16 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-16 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-16 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-16 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-16 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-16 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 

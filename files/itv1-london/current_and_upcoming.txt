@@ -1,19 +1,3 @@
-2025-04-08 11:10pm
-Teleshopping
-Shopping from home.
-
-2025-04-09 2:00am
-Emergency Nurses: A+E Stories
-Emergency nurse Kat treats an air ambulance patient who's fallen from ten feet up, Alex nurses a cyclist with an open fracture, and Hazel tends to a toddler.
-
-2025-04-09 2:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-09 4:05am
-Alan Titchmarsh's Gardening Club
-Alan and his Gardening Club team return with more seasonal advice, tips and inspiration as Camilla Bassett-Smith visits a striking Welsh garden. Claire Lowrie offers her houseplant styling essentials to help us get creative indoors.
-
 2025-04-09 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -583,6 +567,102 @@ Wheel of Fortune
 Graham Norton returns to ITV with a brand-new series of the game show where three players must spin the wheel, solve puzzles, and avoid bankrupts along the way to win a possible 50,000 pounds!
 
 2025-04-15 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-04-15 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-04-15 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-04-15 11:30am
+Loose Women
+Loose Women as they chat about news, issues and life in general.
+
+2025-04-15 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-04-15 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-15 1:00pm
+Celebrity Catchphrase
+Stephen Mulhern hosts a celebrity special with Les Dennis, Rebecca Sarker, and Jordan Stephens all trying to 'say what they see' as they guess well-known phrases for the chance to win a 50,000-pound jackpot for their chosen charity.
+
+2025-04-15 2:00pm
+Jeopardy!
+Stephen Fry hosts the unique quiz as two new players - Diane and Ed - hope they have what it takes to usurp the reigning Jeopardy! champion and claim the title for themselves.
+
+2025-04-15 3:00pm
+Tipping Point
+S14/Ep84 - Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.
+
+2025-04-15 4:00pm
+The Chase
+Rod from Chesterfield, Laura from Wirral, Antonio from London and Kiera from Borehamwood join forces in the hope of winning thousands of pounds. Hosted by Bradley Walsh.
+
+2025-04-15 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-15 5:25pm
+Party Election Broadcast
+A party election broadcast.
+
+2025-04-15 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-04-15 6:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-04-15 7:00pm
+Bradley and Barney Walsh: Breaking Dad
+The Walshes reach Osaka as they explore the city in go-karts, learn how to become ninjas, and have a go at the quirky yet growing Japanese sport of pillow fighting.
+
+2025-04-15 7:30pm
+For the Love of Dogs with Alison Hammond
+Alison meets an over-friendly golden retriever in desperate need of some social skills, falls head over heels for a stray lurcher with a fractured leg but a big heart, and puts a pair of portly Jack Russells who need to shed a few pounds through boot camp.
+
+2025-04-15 8:00pm
+Celebrity Big Brother
+Famous housemates live under 24-hour surveillance as they attempt to avoid eviction from the Big Brother house - the most unpopular housemates face a public vote with the loser being removed from the house in a live eviction show.
+
+2025-04-15 9:30pm
+ITV News
+The latest national and international news.
+
+2025-04-15 10:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-04-15 10:15pm
+The Millennium Dome Heist with Ross Kemp
+Ross reveals the untold story of a nine-month cat and mouse game between the police and a criminal gang intent on stealing diamonds worth 350 million pound from the Millennium Dome in London in November 2000.
+
+2025-04-15 11:05pm
+Teleshopping
+Shopping from home.
+
+2025-04-16 2:00am
+99 to Beat
+To avoid being eliminated, contestants must find and sit down on an exercise ball whilst blindfolded, successfully stack a slinky on their forehead without using their hands, balance a drinks can at a 45-degree angle, and more.
+
+2025-04-16 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-16 4:05am
+Alan Titchmarsh's Gardening Club
+Alan and his Gardening Club team share more insights and inspiration for gardeners of all levels - in this episode of the programme, Errol Reuben Fernandes explores a community project in Hertfordshire, Camilla Bassett-Smith tours a bold garden in Gloucestershire, Huw Richards returns with eco-friendly tips from Wales, and Claire Lowrie opens up her houseplant diaries once more.
+
+2025-04-16 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 
