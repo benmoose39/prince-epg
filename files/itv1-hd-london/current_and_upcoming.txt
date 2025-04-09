@@ -1,7 +1,3 @@
-2025-04-09 11:30am
-Loose Women
-A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
-
 2025-04-09 12:30pm
 ITV Lunchtime News
 The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
@@ -85,6 +81,10 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-04-10 4:05am
 Wheel of Fortune
 Graham Norton welcomes events assistant Alex, weight loss coach Jennifer, and business owner Chris as they face each other to solve puzzles and beat the Wheel for a possible 50,000 pounds.
+
+2025-04-10 5:00am
+Good Morning Britain
+Backtrace:
 
 2025-04-10 5:00am
 Good Morning Britain
