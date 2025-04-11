@@ -1,8 +1,4 @@
-2025-04-11 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-11 6:30am
+2025-04-11 5:00am
 Teleshopping
 Shopping from home.
 
@@ -110,23 +106,23 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	The Wedding in the Hamptons
 Jenna is a fashion designer who works for her friend's boutique, and their failing business was saved by an influencer. When Jenna comes to a Hamptons wedding, she is mistaken for that influencer, but she decides to go along to save the business.
 
-2025-04-11 10:50pm
+2025-04-11 10:55pm
 	Stop the Wedding
 A woman finds out her aunt is getting married to a TV star known as much for his failed marriages as his acting career. She teams up with his son to try stop the wedding.
 
-2025-04-11 11:45pm
+2025-04-11 11:50pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-11 11:50pm
+2025-04-11 11:52pm
 	Stop the Wedding
 A woman finds out her aunt is getting married to a TV star known as much for his failed marriages as his acting career. She teams up with his son to try stop the wedding.
 
-2025-04-12 12:45am
+2025-04-12 12:50am
 Great! Movie News Extra
 From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
-2025-04-12 12:55am
+2025-04-12 1:00am
 Highway to Heaven
 Mark briefly re-joins his old precinct and is paired with an old friend whom he discovers is a racist.
 
@@ -146,23 +142,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-12 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-12 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-12 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-12 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-12 6:30am
 Teleshopping
 Shopping from home.
 
@@ -186,7 +166,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	Sweet Home Carolina
 An overworked single mother from Los Angeles inherits a house in rural South Carolina.
 
-2025-04-12 10:00am
+2025-04-12 9:59am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
@@ -306,23 +286,7 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-04-13 4:30am
-Teleshopping
-Shopping from home.
-
 2025-04-13 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-13 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-13 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-13 6:30am
 Teleshopping
 Shopping from home.
 
@@ -354,15 +318,15 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Wedding Cake Dreams
 Carrie is convinced that she has met the man of her dreams at her sister's wedding, so she decides to contact an expert in romantic relationships online.
 
-2025-04-13 11:05am
+2025-04-13 11:00am
 	Wedding of Dreams
 Debbie turns her back on the music business and finds true love. When her manager tries to pull her back into the limelight, she must decide whether music or love comes first.
 
-2025-04-13 12:00pm
+2025-04-13 11:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-13 12:02pm
+2025-04-13 12:00pm
 	Wedding of Dreams
 Debbie turns her back on the music business and finds true love. When her manager tries to pull her back into the limelight, she must decide whether music or love comes first.
 
@@ -374,13 +338,9 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	Sealed With a Kiss
 Sparks fly when an engaged country-music star reconnects with a childhood friend.
 
-2025-04-13 2:05pm
+2025-04-13 2:10pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-04-13 2:10pm
-	Sealed With a Kiss
-Sparks fly when an engaged country-music star reconnects with a childhood friend.
 
 2025-04-13 3:05pm
 	Two Chefs and a Wedding Cake
