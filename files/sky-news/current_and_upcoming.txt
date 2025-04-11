@@ -1,11 +1,3 @@
-2025-04-11 3:30pm
-Business Live
-Business news programme.
-
-2025-04-11 4:00pm
-The News Hour With Jonathan Samuels
-A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.
-
 2025-04-11 4:30pm
 The News Hour With Jonathan Samuels
 A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.
@@ -256,7 +248,7 @@ All the big stories of the morning, with news making interviews, human interest 
 
 2025-04-13 5:30am
 Breakfast with Anna Jones
-All the big stories of the morning, with news making interviews, human interest stories, newspaper review and the latest sports update.
+Backtrace:
 
 2025-04-13 6:00am
 Breakfast with Anna Jones
