@@ -1,63 +1,3 @@
-2025-04-10 11:35pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-11 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-11 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-11 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-11 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-11 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-11 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-11 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-11 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-11 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-11 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-11 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-11 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-11 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-11 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-04-11 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -995,6 +935,174 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-04-17 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-17 8:30am
+Rip-Off Britain
+Gloria Hunniford, Julia Somerville and Louise Minchin come to the aid of people stuck with paying a monthly contract for expensive smartphones that were never delivered, and their phone companies don't seem to want to help.
+
+2025-04-17 9:15am
+Dr Xand's Con or Cure
+Ashley John-Baptiste investigates how we can protect ourselves against the scandal of companies legally taking money from your bank account. The side effects of a prescription medication to help with hair loss. And does a brandy help us stay warm?
+
+2025-04-17 9:45am
+The Moment of Proof
+A plot to extort thousands of pounds from a casino is foiled by a high-stakes sting operation. Investigators hatch a plan to lure the suspects back onto British soil in order to arrest them. Also, a discarded cigarette butt helps convict a man of indecent assault, nine years after the crime was committed.
+
+2025-04-17 10:15am
+Homes Under the Hammer
+Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family, while developers in Birkenhead and Ilkeston both manage to create additional bedrooms in their properties by rejigging existing layouts.
+
+2025-04-17 11:15am
+Bargain Hunt
+Eric Knowles visits Kings Lynn, with experts Caroline Hawley and Mark Stacey on hand to assist the reds and blues as they compete to see who can make the most profit on three items purchased at Norfolk's largest antiques centre. Eric also chats to Caroline about her personal collection of favourite things.
+
+2025-04-17 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-17 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-17 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-17 1:00pm
+Policing Paradise
+A compilation episode that follows life for the British police officers who have relocated to the island paradise of Bermuda and made it their home.
+
+2025-04-17 1:30pm
+Clive Myrie's Caribbean Adventure
+For 11 months of the year, the city of La Vega is well off the tourist track. But each February, it bursts into life. Over the course of four weekends, it's loud, hot and colourful as visitors from all over the world arrive to join in the famous street carnivals.
+
+2025-04-17 2:00pm
+Escape to the Country
+Hoping to escape to the dramatic countryside of north Wales, Jules Hudson's buyers want to find a new home with at least an acre of land where they can create a yoga and wellbeing retreat. It's lucky Jules has a good head for heights... as he'll need it for a visit to the Menai Suspension Bridge, which is being renovated in time for the 200th anniversary of its opening.
+
+2025-04-17 2:45pm
+The Bidding Room
+First through the doors is Molly, hoping the dealers will make life a picnic for her. The 1950s picnic hamper she's brought along has been loved and used by her, but now it's time to sell it on to raise some funds for a beekeeping course. Will the dealers offer her enough money to make some honey? Next in are Sue and Dave, with a pair of lamps that has caused division at home. The 1970s fat lava lamps appealed to Dave, but Sue is not a fan.
+
+2025-04-17 3:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Gordon, June, Jemma, Amanda and Ikenna race in moving podiums across the studio to try to win £5,000.
+
+2025-04-17 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Mel Giedroyc for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-04-17 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-04-17 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-17 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-04-17 6:30pm
+EastEnders
+Nicola meddles in a situation, and Nigel continues to dismiss concerns.
+
+2025-04-17 7:00pm
+Interior Design Masters
+The nine remaining designers get down to business as they transform shipping containers into offices in Bristol for creative start-ups. They are further tested on their ingenuity to find sustainable design solutions using recycled and repurposed materials. Michelle and eco-designer Max McMurdo decide who will win Stand Out Space and which designer will go home.
+
+2025-04-17 8:00pm
+The Apprentice
+The finalists have one last chance to convince Lord Sugar to make them his business partner and take home the £250,000 investment. Familiar faces return to help create brands and advertising campaigns, before the final two deliver the pitch of their lives to industry experts, and the boss himself. Who will win the process and become Lord Sugar's next business partner?
+
+2025-04-17 9:00pm
+The Apprentice: You're Fired
+The Apprentice has a winner! Tom Allen hears from Lord Sugar's newest business partner and the candidate who narrowly missed out on his investment. Tom will also be joined by Baroness Karren Brady and Tim Campbell MBE.
+
+2025-04-17 9:30pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-04-17 10:00pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-17 10:10pm
+Stacey Dooley
+Stacey heads to Bedfordshire to the private site where 23-year-old Chantelle lives with her husband, Swayley. Chantelle prides herself in keeping with the old Gypsy values her granny Rita taught her and sharing them on social media.
+
+2025-04-17 10:55pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-17 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-17 11:30pm
+This Cultural Life
+Sir Salman Rushdie talks to John Wilson about his formative creative influences and experiences.
+
+2025-04-18 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-18 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-18 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-18 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-18 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-18 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-18 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-18 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-18 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-18 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-18 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-18 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-18 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-18 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-18 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
