@@ -1,47 +1,3 @@
-2025-04-11 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-04-12 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-12 12:30am
-Tech Now
-Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
-
-2025-04-12 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-12 1:30am
-Discovering the World's Table
-Food lover and journalist Nick Kwek travels to the Aegean peninsula of Izmir, one of Turkey's most vibrant food scenes, where a boutique wine scene is blossoming and traditional seasonal ingredients are reinvented for modern menus.
-
-2025-04-12 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-12 2:30am
-This Cultural Life
-Sir Salman Rushdie talks to John Wilson about his formative creative influences and experiences.
-
-2025-04-12 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-12 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-12 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-12 4:30am
-The Travel Show
-Thirty years after the Dayton Accords finally ended the war in Bosnia, Rajan Datar travels to the country to explore the legacy that the conflict left behind as it tries to attract more tourists.
-
 2025-04-12 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -999,6 +955,110 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-04-18 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-18 8:30am
+Rip-Off Britain
+The team help a couple who paid thousands of pounds to terminate their timeshare membership, only to leave them fearing they'd been scammed. As another suspicious operator offers to help, the team are there to challenge his claims.
+
+2025-04-18 9:15am
+Dr Xand's Con or Cure
+Ashley John-Baptiste investigates the dodgy world of cut-price cosmetic surgery. Dr Xand learns how to brush his teeth properly as he looks into electric toothbrushes. And can stress really turn our hair grey?
+
+2025-04-18 9:45am
+Gareth Malone's Messiah
+Gareth Malone selects and trains eight amateur singers for the biggest performance of their lives, taking on Handel's Messiah alongside world-class singers and musicians in Cardiff.
+
+2025-04-18 10:45am
+Homes Under the Hammer
+Properties in Sittingbourne in Kent, Ferryhill in County Durham and Poplar in London that have been bought at property auctions are renovated by developers hoping to make a profit, either by renting out or selling on.
+
+2025-04-18 11:15am
+Bargain Hunt
+At Ardingly antiques fair in West Sussex, Charlie Ross has a mysterious sweet-smelling gadget to show to shoppers. It's shaped like a little barrel and made of hard wood with holes at each end, but what is it?
+
+2025-04-18 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-18 12:15pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-18 12:30pm
+Shakespeare and Hathaway: Private Investigators
+Lu infiltrates a local slimming club to uncover their secrets, but she gets more than she bargained for when she realises her sister is a member.
+
+2025-04-18 1:15pm
+Clive Myrie's Caribbean Adventure
+Clive heads to one of the Dominican Republic's most northerly provinces to the beautiful city of Puerto Plata. He learns about the incredible story of the Jewish refugees that found shelter in this country during World War II.
+
+2025-04-18 1:45pm
+Escape to the Country
+A new house in the Hampshire countryside is needed for a young couple and their two dogs, and Sonali Shah is on hand to show them the best properties the county has to offer for their £500k budget. Whilst there, Sonali visits a contemporary and stylish family home and discovers why and how its energy bills are virtually nonexistent.
+
+2025-04-18 2:45pm
+The Bidding Room
+Nigel Havers presides as five sellers aim to get the best price for their items, including a wedding dress, silver dressing table set, a radio, a lathe lamp and a knife polisher.
+
+2025-04-18 3:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Rupert, Elaine, Rickesh, Todd and Nina race in moving podiums across the studio to try to win £5,000.
+
+2025-04-18 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Mel Giedroyc for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-04-18 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-04-18 5:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-18 5:30pm
+The One Show
+Clara Amfo and Scott Mills bring you the stories that matter from across the country.
+
+2025-04-18 6:00pm
+Attenborough and the Giant Sea Monster
+Sir David Attenborough investigates the discovery of a lifetime: the giant skull of a pliosaur. He joins two of the UK's most intrepid fossil hunters on their perilous expedition to excavate the skull from its resting place on a cliff face.
+
+2025-04-18 7:00pm
+Beyond Paradise
+An old sailing rivalry resurfaces at the regatta when a sailor collapses mid-race. A tampered smoothie is identified as the cause, casting suspicion on Martha.
+
+2025-04-18 8:00pm
+Have I Got News for You
+Katherine Parkinson is host, with guest panellists comedian Julian Clary and journalist Jemima Kelly joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-04-18 8:30pm
+Austin
+On a bonding tour with Austin, Julian covertly starts making a documentary film about 'father and neurodivergent son quality time' in order to spring-clean his image.
+
+2025-04-18 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-04-18 9:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-18 9:30pm
+	Fall
+After Dan dies climbing the Rocky Mountains, his girlfriend Becky and her friend Hunter decide to climb a huge 1,000-foot communications tower and dump Dan's ashes.
+
+2025-04-18 11:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-18 11:15pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-19 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
