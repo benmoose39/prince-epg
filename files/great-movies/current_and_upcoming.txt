@@ -366,27 +366,27 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	A Good Year
 A London banker inherits his uncle's vineyard in Provence, then meets a long-lost cousin from America who claims the property is hers.
 
-2025-04-15 10:35pm
+2025-04-15 10:30pm
 	Manhattan Night
 A seductive femme fatale recruits a New York City tabloid writer to investigate the unsolved murder of her filmmaker husband.
 
-2025-04-15 11:30pm
+2025-04-15 11:25pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-15 11:32pm
+2025-04-15 11:27pm
 	Manhattan Night
 A seductive femme fatale recruits a New York City tabloid writer to investigate the unsolved murder of her filmmaker husband.
 
-2025-04-16 1:00am
+2025-04-16 12:55am
 	The Air I Breathe
 An ancient Chinese proverb breaks life down into four emotional cornerstones: happiness, pleasure, sorrow and love. Four tales based on each of these emotions cleverly intertwine.
 
-2025-04-16 1:55am
+2025-04-16 1:50am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-16 1:57am
+2025-04-16 1:52am
 	The Air I Breathe
 An ancient Chinese proverb breaks life down into four emotional cornerstones: happiness, pleasure, sorrow and love. Four tales based on each of these emotions cleverly intertwine.
 
@@ -566,6 +566,14 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	Goosebumps
 A young kid teams up with the niece of young adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Greendale, Maryland.
 
+2025-04-17 9:45am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-17 9:47am
+	Goosebumps
+A young kid teams up with the niece of young adult horror author R.L. Stine after the writer's imaginary demons are set free on the town of Greendale, Maryland.
+
 2025-04-17 11:00am
 Britain's Busiest Airport: Heathrow
 Storm Imogen causes chaos on the runways and in the terminals. Manager Sunita looks after passengers whose flight to Delhi has been cancelled.
@@ -594,15 +602,19 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	I Do, or Die: A Killer Arrangement
 Drama (2020)
 
-2025-04-17 4:00pm
+2025-04-17 3:55pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-17 4:05pm
 	Garage Sale Mystery: Guilty Until Proven Innocent
 Drama about an amateur sleuth and expert bargain hunter. Antiques expert Jennifer is on the case when an old college friend becomes the prime suspect in a murder inquiry.
 
-2025-04-17 4:55pm
+2025-04-17 5:00pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-17 4:57pm
+2025-04-17 5:02pm
 	Garage Sale Mystery: Guilty Until Proven Innocent
 Drama about an amateur sleuth and expert bargain hunter. Antiques expert Jennifer is on the case when an old college friend becomes the prime suspect in a murder inquiry.
 
@@ -689,10 +701,6 @@ King of the passenger experience manager, Demi, deals with some disgruntled pass
 2025-04-18 8:30am
 	10 Year Reunion
 Four women return home for their high school reunion and uncover details surrounding the death of their friend 10 years prior.
-
-2025-04-18 9:25am
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
 2025-04-18 9:27am
 	10 Year Reunion
