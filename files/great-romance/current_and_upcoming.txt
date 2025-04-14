@@ -1,47 +1,3 @@
-2025-04-13 10:55pm
-	My Boss' Wedding
-Sparks fly when a personal assistant finds herself planning her boss's wedding with the groom's handsome nephew.
-
-2025-04-13 11:50pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-04-13 11:52pm
-	My Boss' Wedding
-Sparks fly when a personal assistant finds herself planning her boss's wedding with the groom's handsome nephew.
-
-2025-04-14 12:50am
-Highway to Heaven
-Jonathan, now a mortal, turns his back on everything and everyone, including Mark. A young woman offers him shelter and with the power of love helps him to recover his lost faith and hope.
-
-2025-04-14 1:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-14 2:00am
-	Make Me a Match
-Vivi enlists the help of matchmaker Raina to change her fate in love. However, Raina's son, Bhumesh, may just be the change she needed all along.
-
-2025-04-14 3:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-14 4:00am
-Teleshopping
-Shopping from home.
-
-2025-04-14 4:30am
-Teleshopping
-Shopping from home.
-
-2025-04-14 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-14 5:30am
-Teleshopping
-Shopping from home.
-
 2025-04-14 6:00am
 Teleshopping
 Shopping from home.
@@ -975,6 +931,166 @@ Teleshopping
 Shopping from home.
 
 2025-04-20 5:30am
+Teleshopping
+Shopping from home.
+
+2025-04-20 6:00am
+Teleshopping
+Shopping from home.
+
+2025-04-20 6:30am
+Teleshopping
+Shopping from home.
+
+2025-04-20 7:00am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-20 7:10am
+	Love, Fall & Order
+A woman heads back to her hometown on a mission to help save her father's annual Fall Fest, which is held on her family's pumpkin farm.
+
+2025-04-20 8:05am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 8:10am
+	Love, Fall & Order
+A woman heads back to her hometown on a mission to help save her father's annual Fall Fest, which is held on her family's pumpkin farm.
+
+2025-04-20 9:05am
+	The Irresistible Blueberry Farm
+An attorney decides to hand-deliver a letter from her late grandmother to her childhood sweetheart, finding love, purpose and a simpler life along the way.
+
+2025-04-20 10:00am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 10:02am
+	The Irresistible Blueberry Farm
+An attorney decides to hand-deliver a letter from her late grandmother to her childhood sweetheart, finding love, purpose and a simpler life along the way.
+
+2025-04-20 11:00am
+	Autumn in the Vineyard
+A man and woman with a strained history discover that they share ownership of a vineyard. They learn to trust each other and create a more fruitful partnership.
+
+2025-04-20 11:55am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 12:00pm
+	Autumn in the Vineyard
+A man and woman with a strained history discover that they share ownership of a vineyard. They learn to trust each other and create a more fruitful partnership.
+
+2025-04-20 12:55pm
+	Under the Autumn Moon
+An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
+
+2025-04-20 1:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 1:52pm
+	Under the Autumn Moon
+An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
+
+2025-04-20 2:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-20 3:00pm
+	October Kiss
+When commitment-phobe Poppy is offered a job as a nanny by workaholic widower Ryan, she wins his children over and soon finds her way into his heart.
+
+2025-04-20 3:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 4:00pm
+	October Kiss
+When commitment-phobe Poppy is offered a job as a nanny by workaholic widower Ryan, she wins his children over and soon finds her way into his heart.
+
+2025-04-20 4:55pm
+	Autumn Dreams
+Years after the annulment of their spontaneous marriage a couple discovers a mistake in the paperwork that means they are still husband and wife.
+
+2025-04-20 5:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 5:52pm
+	Autumn Dreams
+Years after the annulment of their spontaneous marriage a couple discovers a mistake in the paperwork that means they are still husband and wife.
+
+2025-04-20 6:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-20 7:00pm
+	Sweet Autumn
+A young woman and a maple farmer uncover the secret behind their inheritance of a candy shop.
+
+2025-04-20 7:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 8:00pm
+	Sweet Autumn
+A young woman and a maple farmer uncover the secret behind their inheritance of a candy shop.
+
+2025-04-20 9:00pm
+	Pumpkin Pie Wars
+Despite their families' bitter, long-standing rivalry over a pumpkin pie contest, Casey and Sam find themselves falling in love.
+
+2025-04-20 9:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 10:00pm
+	Pumpkin Pie Wars
+Despite their families' bitter, long-standing rivalry over a pumpkin pie contest, Casey and Sam find themselves falling in love.
+
+2025-04-20 10:55pm
+	Under the Autumn Moon
+An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
+
+2025-04-20 11:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-20 11:52pm
+	Under the Autumn Moon
+An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
+
+2025-04-21 12:50am
+Highway to Heaven
+Mark and Jonathan join the campaign of a friend of Mark, who's highly honest. But his less than honest opponent is doing what he can to tarnish his reputation.
+
+2025-04-21 1:45am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-21 1:55am
+	Love Locks
+A woman returns to Paris after twenty years and begins a journey of romance and rediscovery when she reconnects with her first love.
+
+2025-04-21 3:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-21 4:00am
+Teleshopping
+Shopping from home.
+
+2025-04-21 4:30am
+Teleshopping
+Shopping from home.
+
+2025-04-21 5:00am
+Teleshopping
+Shopping from home.
+
+2025-04-21 5:30am
 Teleshopping
 Shopping from home.
 

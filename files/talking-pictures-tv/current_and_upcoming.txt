@@ -1,27 +1,3 @@
-2025-04-13 11:45pm
-The Heritage Chart Show
-'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
-
-2025-04-14 12:50am
-	Every Day's a Holiday
-Comedy about a group of people who come together in a holiday camp, and enjoy fun and friendly rivalry over matters of music and romance. However, circumstances conspire against them entering a televised talent contest.
-
-2025-04-14 2:40am
-	It Happened in Soho
-Murder drama set in Soho involving a police inspector, a newspaper reporter and a country girl.
-
-2025-04-14 3:40am
-Cinebox Memories
-A delightful trip down memory lane, bringing forth the golden era of music and entertainment.
-
-2025-04-14 3:45am
-The Texan
-Wylie Ames, a big gruff widower, has been corresponding with a lonely woman whose personal ad he saw in an out-of town paper.
-
-2025-04-14 4:20am
-The Larkins
-The Major's told that he'll be kicked out unless he pays the rent he owes, Ada insists on providing a home for Alf's teenage tearaway nephew and Hetty offers her notice as soon as the boy walks through the back door.
-
 2025-04-14 5:00am
 	Minesweeper
 An Annapolis graduate discharged for gambling rejoins the Navy and helps uncover a new type of Japanese mine.
@@ -541,4 +517,92 @@ A display of vintage farm machinery is found at the annual Appleby Fair. Jack Ha
 2025-04-20 5:00am
 	Once A Sinner
 A lowly bank clerk marries a good time girl but she two-times him for her old crooked boyfriend.
+
+2025-04-20 6:40am
+	The Greed of William Hart
+A story of body snatchers in Edinburgh, based on Burke and Hare.
+
+2025-04-20 8:10am
+	Master Spy
+A double agent is used to expose a traitor responsible for passing British nuclear research secrets to Moscow.
+
+2025-04-20 9:35am
+The Beverly Hillbillies
+Sonny and Elly are getting more serious. Sonny loves Elly's character and tells her how she makes him feel superior. But Jed worries about this courtship.
+
+2025-04-20 10:10am
+	Stagecoach
+Stagecoach passengers face attacks by Indians, dangerous outlaws and the unexpected birth of a baby on a long journey.
+
+2025-04-20 12:25pm
+Batman
+Egghead finds out the city is owned and lease by the Mohicans to the city government. He secretly signs a lease with the Mohican Chief to act as his legal representative if and when the time on the lease runs out.
+
+2025-04-20 1:00pm
+Look at Life
+Featuring short documentary films of which over 500 were produced between 1959 and 1969, originally shot on 35mm colour film stock, depicting `modern' daily life in the United Kingdom.
+
+2025-04-20 1:10pm
+	Alice in Wonderland
+Adaptation of Lewis Carroll's classic novel Alice's Adventures in Wonderland. Starring Ann-Marie Mallik, Michael Redgrave and Peter Sellers. Directed by Jonathan Miller.
+
+2025-04-20 2:40pm
+	Where Strangers Meet
+2:40pm
+
+2025-04-20 3:00pm
+The Adventures of Robin Hood
+A foreigner poses as one of Robin's outlaws, robbing several people as they wander through Sherwood, but when Robin learns the man's identity he realises he owes the man a debt.
+
+2025-04-20 3:30pm
+Out of Town
+A display of vintage farm machinery is found at the annual Appleby Fair. Jack Hargreaves goes fly-fishing on a Dorset chalk stream owned by Greg Lake.
+
+2025-04-20 4:00pm
+The Footage Detectives
+We watch the lost films from the Ovaltine factory's heyday, and we have a special guest with some rare items. The Easter Bunny is here! And we have a reel of England's 'rebirth' after the war.
+
+2025-04-20 5:00pm
+	Sherlock Holmes: The Sign of Four
+Sherlock Holmes and Dr Watson help a young woman solve the mystery surrounding the theft of her late father's fortune.
+
+2025-04-20 7:00pm
+Gideon's Way
+There is corruption and murderous cover up in the building industry by the co-owner of the building company.
+
+2025-04-20 8:05pm
+The Wheeltappers and Shunters Social Club
+Kenny Ball sings 'So Do I', Cool Breeze perform 'Reach Out Your Hand', Howard Keel performs 'No Business Like Showbusiness' and 'Oh What A Beautiful Morning'.
+
+2025-04-20 8:55pm
+Budgie
+Series 1 Episode 10: Fiddler on the Hoof: Part 1
+
+2025-04-20 10:00pm
+	Ten Little Indians
+Unwary houseguests meet their deaths when they are invited by an unknown host to a secluded mountain mansion.
+
+2025-04-20 11:50pm
+The Heritage Chart Show
+'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
+
+2025-04-21 12:55am
+	Double X
+An American's vacation in Scotland is interrupted by a mission to rescue a young woman from kidnappers.
+
+2025-04-21 2:50am
+A Good Read with Mike Read
+Gentlemen and Players. Immerse yourself in the next classic story, where Raffles and Bunny Manders are invited to play in a country house cricket match, but there is more to it than meets the eye.
+
+2025-04-21 3:45am
+The Texan
+A crooked gambler with a Kentucky-born thoroughbred prods a drunken rancher into betting his entire spread and all the money he has in the bank on a horse race.
+
+2025-04-21 4:20am
+The Larkins
+Alf arranges a friendly darts match, but he's forgotten that it's on the same day as his wedding anniversary.
+
+2025-04-21 5:00am
+	Fighting Mad
+Muscles Tanner, a boxer, gives up the ring after two fatalities and immigrates to Canada and gets involved with two crooked lumbermen.
 
