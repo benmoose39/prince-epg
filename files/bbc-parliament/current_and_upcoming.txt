@@ -8,6 +8,10 @@ BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-04-16 5:00am
 Joins BBC News
+Backtrace:
+
+2025-04-16 5:00am
+Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-04-16 11:00am
