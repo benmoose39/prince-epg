@@ -1,35 +1,3 @@
-2025-04-14 10:50pm
-Endeavour
-Following the great traditions of `Inspector Morse' and the unexplored realms of Oxford life.
-
-2025-04-15 12:40am
-Where the Heart Is
-Vic's first love returns to Skelthwaite, causing some concern for Peggy. An old flame of Patricia's comes home from New Zealand.
-
-2025-04-15 1:35am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-15 2:00am
-Teleshopping
-Shopping from home.
-
-2025-04-15 3:30am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-15 4:00am
-Teleshopping
-Shopping from home.
-
-2025-04-15 5:00am
-Classic Emmerdale
-Tom announces he intends to marry Rosemary on Christmas Day. Grayson has to hide the truth when Perdy suggests he call the police, and Belle gets into yet more trouble at school.
-
-2025-04-15 5:30am
-Classic Emmerdale
-Perdy tells Matthew the secret Rosemary is harbouring, while Terry is on the receiving end of Jean's anger as he continues his quest for revenge. Zak tries to teach Belle at home.
-
 2025-04-15 6:00am
 Classic Coronation Street
 Shelley lies to Bev about her night with Charlie, claiming they didn't sleep together. Claire struggles to hide her labour pains, thinking she's experiencing another false alarm.
@@ -533,4 +501,88 @@ Mildred learns George needs more life insurance.
 2025-04-21 5:35am
 George and Mildred
 Mildred's snooty sister and her meek husband visit.
+
+2025-04-21 6:05am
+George and Mildred
+George resents Mildred's affection for her puppy.
+
+2025-04-21 6:35am
+George and Mildred
+Misfortune follows when George takes a neighbour's ladder.
+
+2025-04-21 7:05am
+On the Buses
+An outing on the number 14 goes horribly wrong.
+
+2025-04-21 7:40am
+On the Buses
+Stan's attempts to woo the inspector's niece at a dinner party end in disaster.
+
+2025-04-21 8:10am
+	Bless This House
+A not-so-ordinary wedding turns out to be a chaotic event when everything that can possibly go wrong does.
+
+2025-04-21 9:55am
+	Carry on Loving
+Chaos is ensured when the `Carry On' gang run a bogus marriage bureau. The proprietors, Sid and Sophie Bliss, seem set on matching the most unlikely couples possible. What's more, they're living a lie, pretending to be married themselves.
+
+2025-04-21 11:50am
+	Carry on at Your Convenience
+A somewhat workshy shop steward finds himself at loggerheads with the management at a lavatory factory. Much to his horror, his daughter is dating the boss's son, but his mood improves when he discovers that his hitherto mute budgie has a very special and potentially lucrative talent - tipping race horses.
+
+2025-04-21 1:40pm
+	Carry on Abroad
+The `Carry On' regulars embark on a package holiday to the Spanish resort of Elsbels. The revellers find that the Palace Hotel hardly lives up to its name - not least because the builders have not yet finished erecting the place.
+
+2025-04-21 3:25pm
+	Carry on Girls
+In one of the later `Carry On' comedies, a local businessman convinces the town council of a seaside resort to stage a beauty contest, persuading them that it will be a marvellous publicity stunt, but the idea meets with fervent opposition from the local Women's Liberation group, led by a fearsome woman councillor.
+
+2025-04-21 5:10pm
+	Carry on Behind
+Professor Crump enlists a band of students to investigate the remains of a Roman encampment in Britain.
+
+2025-04-21 7:00pm
+Midsomer Murders
+When wealthy landowner Gregory Lancaster's body goes missing on the night of his death, a sinister web of secrets and lies is exposed in the village of Little Malton. DCI Barnaby, DS Nelson and new forensic pathologist Kam Karimore are drawn into a macabre world of body-snatching as they seek to identify the culprit.
+
+2025-04-21 9:00pm
+Foyle's War
+Sam and Adam are now running a dilapidated local guest house where Mandy Dean is one of the residents. Disowned by her family, she is a young, vulnerable mother all alone because of the hostility levelled against her and her mixed-race baby. Her ex-boyfriend returns hoping to win her back, but then she is found murdered and the finger of suspicion points to a black GI at the nearby US military base - the father of her child.
+
+2025-04-21 10:50pm
+Inspector Morse
+Morse and Lewis find themselves in a terrifying world of devil worship as they hunt a violent rapist on the run from prison.
+
+2025-04-22 12:50am
+On the Buses
+An outing on the number 14 goes horribly wrong.
+
+2025-04-22 1:15am
+On the Buses
+Stan's attempts to woo the inspector's niece at a dinner party end in disaster.
+
+2025-04-22 1:40am
+Unwind with ITV
+Your daily escape designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-22 2:00am
+Teleshopping
+Shopping from home.
+
+2025-04-22 3:30am
+Unwind with ITV
+Your daily escape designed to calm the mind and encourage relaxation and reflection.
+
+2025-04-22 4:00am
+Teleshopping
+Shopping from home.
+
+2025-04-22 5:00am
+Classic Emmerdale
+Tom warns Chas that Carl will never forgive her betrayal of the family, while Kelly learns Jimmy can't access company money. A frustrated Jack demands the truth from Diane.
+
+2025-04-22 5:30am
+Classic Emmerdale
+Marlon and Donna learn Lilith's children have gone missing, while Lisa takes charge of Belle's education. Tom suspects Chas of involvement in an arson attack on his property.
 
