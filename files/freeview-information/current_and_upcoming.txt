@@ -12,10 +12,6 @@ Freeview Information
 
 2025-04-17 5:00am
 Freeview Information
-Backtrace:
-
-2025-04-17 5:00am
-Freeview Information
 5:00am
 
 2025-04-17 1:00pm

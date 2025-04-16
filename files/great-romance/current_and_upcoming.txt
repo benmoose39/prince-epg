@@ -622,33 +622,21 @@ Shopping from home.
 Teleshopping
 Shopping from home.
 
-2025-04-20 5:30am
-Teleshopping
-Shopping from home.
-
-2025-04-20 6:00am
-Teleshopping
-Shopping from home.
-
-2025-04-20 6:30am
-Teleshopping
-Shopping from home.
-
 2025-04-20 7:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-20 7:10am
 	Love, Fall & Order
 A woman heads back to her hometown on a mission to help save her father's annual Fall Fest, which is held on her family's pumpkin farm.
 
-2025-04-20 8:05am
+2025-04-20 7:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-20 8:10am
+2025-04-20 8:00am
 	Love, Fall & Order
 A woman heads back to her hometown on a mission to help save her father's annual Fall Fest, which is held on her family's pumpkin farm.
+
+2025-04-20 8:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-04-20 9:05am
 	The Irresistible Blueberry Farm
@@ -730,31 +718,31 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Sweet Autumn
 A young woman and a maple farmer uncover the secret behind their inheritance of a candy shop.
 
-2025-04-20 9:00pm
+2025-04-20 8:55pm
 	Pumpkin Pie Wars
 Despite their families' bitter, long-standing rivalry over a pumpkin pie contest, Casey and Sam find themselves falling in love.
 
-2025-04-20 9:55pm
+2025-04-20 9:50pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-04-20 10:00pm
+2025-04-20 9:52pm
 	Pumpkin Pie Wars
 Despite their families' bitter, long-standing rivalry over a pumpkin pie contest, Casey and Sam find themselves falling in love.
 
-2025-04-20 10:55pm
+2025-04-20 10:50pm
 	Under the Autumn Moon
 An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
+
+2025-04-20 11:45pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
 2025-04-20 11:50pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-04-20 11:52pm
 	Under the Autumn Moon
 An adventure company worker discovers a renewed love of the outdoors when she scouts a dude ranch for the company.
 
-2025-04-21 12:50am
+2025-04-21 12:45am
 Highway to Heaven
 Mark and Jonathan join the campaign of a friend of Mark, who's highly honest. But his less than honest opponent is doing what he can to tarnish his reputation.
 

@@ -663,8 +663,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-19 1:30pm
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
 
 2025-04-19 2:00pm
 BBC News
@@ -755,16 +755,16 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-20 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-04-20 3:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-20 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+Weather: Beyond the Forecast
+Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
 
 2025-04-20 4:00am
 BBC News
@@ -819,8 +819,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-20 1:30pm
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Interview
+David Hockney is one of the world's most successful and influential artists of our time. At 11, he wanted to be an artist. At 87, he's still creating new works. Happiest when making "joyful" art, and always innovating with his iPad, his art has sold for millions. Ahead of his biggest show ever opening in Paris, the Bradford-born star talks to Katie Razzall about growing old, a recent visit from the King, and his two big loves - smoking and painting.
 
 2025-04-20 2:00pm
 BBC News
@@ -863,8 +863,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-20 7:30pm
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
 
 2025-04-20 8:00pm
 BBC News
@@ -891,8 +891,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-04-20 11:30pm
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+Weather: Beyond the Forecast
+Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
 
 2025-04-21 12:00am
 BBC News

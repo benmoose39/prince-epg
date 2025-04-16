@@ -95,12 +95,8 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-04-22 5:00am
-To Be Announced
-5:00am
-
-2025-04-22 9:00am
-To Be Announced
-9:00am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-04-22 1:30pm
 House of Commons
