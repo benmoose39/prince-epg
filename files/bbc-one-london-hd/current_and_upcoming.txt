@@ -1,63 +1,3 @@
-2025-04-16 11:35pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-17 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-17 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-17 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-17 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-17 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-17 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-17 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-17 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-17 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-17 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-17 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-17 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-17 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-17 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-04-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -995,6 +935,178 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-04-23 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-23 8:30am
+Rip-Off Britain
+Gloria Hunniford, Julia Somerville and Louise Minchin investigate the case of a girl who suffered severe burns after using a nail glue she bought online. The team expose the other products that pose a risk - and explain how to avoid them. And the wealth management firm that set aside millions of pounds in compensation after receiving a staggering number of customer complaints.
+
+2025-04-23 9:15am
+Dr Xand's Con or Cure
+As 200 people in Scotland call for a public enquiry into their mistreatment by a surgeon, Dr Xand asks what we can do to check out the medical professionals who treat us. With 25 per cent of all childhood deafness caused by a little-known condition, Dr Xand hears the simple tips that can help pregnant mothers and their babies to reduce the risks during pregnancy. And does muscle turn into fat when we stop exercising?
+
+2025-04-23 9:45am
+Animal Park
+Cute critters and caring keepers. Kate Humble and Ben Fogle explore Longleat Safari Park, meeting a host of exotic, fascinating animals and the people who look after them.
+
+2025-04-23 10:15am
+Homes Under the Hammer
+A former chapel in rural Hethersgill in Cumbria is converted into a glorious holiday home, while developers in Southall and South Norwood create lovely homes from worn-out property auction buys.
+
+2025-04-23 11:15am
+Bargain Hunt
+Christina Trevanion is in Leominster with experts Kate Bliss and Jonathan Pratt and the red and blue teams. Christina also reveals a menacing-looking mystery antique with a surprising use.
+
+2025-04-23 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-23 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-23 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-04-23 1:00pm
+Scam Interceptors
+Rav Wilding and Nick Stapleton work with ethical hackers to hunt down the scammers plaguing our lives - in real time.
+
+2025-04-23 1:30pm
+Expert Witness
+A twisted killer throws two suitcases containing severed remains into a canal and it's down to a 3D scanning expert to uncover the crucial evidence needed to convict him.
+
+2025-04-23 2:00pm
+Escape to the Country
+With the recent arrival of grandchildren, today's globetrotting escapees are returning home for good from Malaysia and want to put down permanent roots in the Herefordshire countryside. Nicki Chapman is on hand with some great property options plus her expert advice to help plant them firmly in this lovely county.
+
+2025-04-23 2:45pm
+The Bidding Room
+Nigel Havers presides as five sellers aim to get the best price for their items, including a Durham quilt, an Italian chair, a last supper carving, pendant lights and a WWI ladder.
+
+2025-04-23 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-04-23 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Mel Giedroyc for the brainy quiz where the contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2025-04-23 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-04-23 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-23 5:55pm
+Party Election Broadcast
+A party election broadcast by Reform UK for the local elections on 1 May.
+
+2025-04-23 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-04-23 6:30pm
+EastEnders
+Nigel and Phil have a heart-to-heart.
+
+2025-04-23 7:00pm
+The Repair Shop
+Julyan utilises his skills to fix a piece of folk history belonging to a celebrated musician, and a pair of childhood chairs that hold memories of the Tanzanian wild are restored.
+
+2025-04-23 8:00pm
+Race Across the World
+Five intrepid duos are tasked with undertaking the trip of a lifetime, racing over 14,000km across the world's largest continent, Asia, taking in three of its nations - China, Nepal and India.
+
+2025-04-23 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-04-23 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-23 9:40pm
+How to Win the Champions League
+Fascinating, first-hand insights from one of the most iconic managers in football history as he reflects on how he twice won the biggest prize in European club football.
+
+2025-04-23 10:25pm
+Pointless Celebrities
+The celebrities aiming to lift the Pointless trophy are JJ Chalmers, Jeanette Kwakye MBE, Gareth Locke, Ollie Locke, Josh Jones, Fatiha El-Ghorri, Georgie Barrat, and Josie d'Arby.
+
+2025-04-23 11:10pm
+Blankety Blank
+The comedy quiz game everyone can play at home.
+
+2025-04-23 11:45pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-23 11:50pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-24 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-24 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-24 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-24 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-24 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-24 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-24 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-24 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-24 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-24 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-04-24 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-24 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-24 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-24 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-04-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
