@@ -1,47 +1,3 @@
-2025-04-18 11:45pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-04-18 11:50pm
-	Valentine in the Vineyard
-Winemakers plan a wedding while also executing a high-stakes business expansion.
-
-2025-04-19 12:45am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-19 12:55am
-Highway to Heaven
-A man is mistakenly reincarnated to disrupt his son's marriage.
-
-2025-04-19 1:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-19 2:00am
-	Made for You With Love
-The owner of a used wedding gown business makes dreams come true for impoverished brides. But when she meets her own perfect match, she's afraid to give her heart a second chance at love.
-
-2025-04-19 3:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-04-19 4:00am
-Teleshopping
-Shopping from home.
-
-2025-04-19 4:30am
-Teleshopping
-Shopping from home.
-
-2025-04-19 5:00am
-Teleshopping
-Shopping from home.
-
-2025-04-19 5:30am
-Teleshopping
-Shopping from home.
-
 2025-04-19 6:00am
 Teleshopping
 Shopping from home.
@@ -983,6 +939,162 @@ Teleshopping
 Shopping from home.
 
 2025-04-25 5:30am
+Teleshopping
+Shopping from home.
+
+2025-04-25 6:00am
+Teleshopping
+Shopping from home.
+
+2025-04-25 6:30am
+Teleshopping
+Shopping from home.
+
+2025-04-25 7:00am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-25 7:10am
+	Hello, It's Me
+A young widow is wary when she falls for another man, but after receiving a message from beyond the grave, she realises she can learn to love again.
+
+2025-04-25 8:05am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 8:10am
+	Hello, It's Me
+A young widow is wary when she falls for another man, but after receiving a message from beyond the grave, she realises she can learn to love again.
+
+2025-04-25 9:05am
+	Love, Take Two
+The producer of a wedding-themed reality show returns to her college town to film three new couples as they plan their weddings. However, she finds herself reliving old dreams when her ex-boyfriend is cast as one of the grooms-to-be.
+
+2025-04-25 10:00am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 10:02am
+	Love, Take Two
+The producer of a wedding-themed reality show returns to her college town to film three new couples as they plan their weddings. However, she finds herself reliving old dreams when her ex-boyfriend is cast as one of the grooms-to-be.
+
+2025-04-25 11:00am
+	Just for Showmance
+Hoping to boost her career, a celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met. She soon tries to track him down to clarify that the marriage is just for show.
+
+2025-04-25 11:55am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 12:00pm
+	Just for Showmance
+Hoping to boost her career, a celebrity agrees to go on a reality TV show to marry her perfect match, a man she's never met. She soon tries to track him down to clarify that the marriage is just for show.
+
+2025-04-25 1:00pm
+	Love Off the Page
+Romantic comedy (2022)
+
+2025-04-25 1:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 2:00pm
+	Love Off the Page
+Romantic comedy (2022)
+
+2025-04-25 2:55pm
+	Meet Me in New York
+Kelly, a young, ambitious events planner in New York City, quickly gains a reputation as the best at her craft. When she's hired by Joe, a stubborn web designer, to plan his daughter's 10th birthday party, Kelly sees she may have met her match.
+
+2025-04-25 3:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 3:52pm
+	Meet Me in New York
+Kelly, a young, ambitious events planner in New York City, quickly gains a reputation as the best at her craft. When she's hired by Joe, a stubborn web designer, to plan his daughter's 10th birthday party, Kelly sees she may have met her match.
+
+2025-04-25 4:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-25 5:00pm
+	Love Finds You in Valentine
+Romance about a Californian woman who inherits a ranch in Valentine, Nebraska. There she finds out about her family, and also more about herself.
+
+2025-04-25 5:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 6:00pm
+	Love Finds You in Valentine
+Romance about a Californian woman who inherits a ranch in Valentine, Nebraska. There she finds out about her family, and also more about herself.
+
+2025-04-25 7:00pm
+	Christmas With a Crown
+When a successful woman returns to her hometown to revive her family's Christmas festival, she meets a dashing stranger who's on a quest to find the holidays' true spirit.
+
+2025-04-25 7:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 8:00pm
+	Christmas With a Crown
+When a successful woman returns to her hometown to revive her family's Christmas festival, she meets a dashing stranger who's on a quest to find the holidays' true spirit.
+
+2025-04-25 9:00pm
+	Once Upon a Holiday
+When a princess escapes her entourage to explore New York over Christmas, she meets a young man who shows the beautiful stranger his side of the city.
+
+2025-04-25 9:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 10:00pm
+	Once Upon a Holiday
+When a princess escapes her entourage to explore New York over Christmas, she meets a young man who shows the beautiful stranger his side of the city.
+
+2025-04-25 10:55pm
+	Meet Me in New York
+Kelly, a young, ambitious events planner in New York City, quickly gains a reputation as the best at her craft. When she's hired by Joe, a stubborn web designer, to plan his daughter's 10th birthday party, Kelly sees she may have met her match.
+
+2025-04-25 11:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-04-25 11:52pm
+	Meet Me in New York
+Kelly, a young, ambitious events planner in New York City, quickly gains a reputation as the best at her craft. When she's hired by Joe, a stubborn web designer, to plan his daughter's 10th birthday party, Kelly sees she may have met her match.
+
+2025-04-26 12:50am
+Highway to Heaven
+A teenage girl tells school reporters that the driver came on to her right before the bus got into an accident until the validity of her claim comes under scrutiny.
+
+2025-04-26 1:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-26 2:00am
+	Mix Up in the Mediterranean
+A small-town cook impersonates his sibling, a high-flying New York chef, to compete in a culinary contest and finds himself falling for the organiser.
+
+2025-04-26 3:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-04-26 4:00am
+Teleshopping
+Shopping from home.
+
+2025-04-26 4:30am
+Teleshopping
+Shopping from home.
+
+2025-04-26 5:00am
+Teleshopping
+Shopping from home.
+
+2025-04-26 5:30am
 Teleshopping
 Shopping from home.
 
