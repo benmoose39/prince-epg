@@ -188,7 +188,7 @@ Shopping from home.
 
 2025-04-22 5:00am
 Minder
-Arthur arranges a safe house for his friend Sidney who's on the run from a murder. Unfortunately, the safe house turns out to be Dave's sister's caravan.
+Backtrace:
 
 2025-04-22 6:00am
 The Sweeney
