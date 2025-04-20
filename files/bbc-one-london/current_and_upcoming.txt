@@ -1,47 +1,3 @@
-2025-04-19 11:45pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-20 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 12:30am
-The Interview
-David Hockney is one of the world's most successful and influential artists of our time. At 11, he wanted to be an artist. At 87, he's still creating new works. Happiest when making "joyful" art, and always innovating with his iPad, his art has sold for millions. Ahead of his biggest show ever opening in Paris, the Bradford-born star talks to Katie Razzall about growing old, a recent visit from the King, and his two big loves - smoking and painting.
-
-2025-04-20 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 1:30am
-Panorama
-Current affairs programme, featuring interviews and investigative reports on all aspects of life in Britain.
-
-2025-04-20 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 2:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-20 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 3:30am
-Weather: Beyond the Forecast
-Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
-
-2025-04-20 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 4:30am
-Tech Now
-Can we clean up air travel? Adrienne Murray takes to the skies in Sweden to explore developments in electric flight. Joe Tidy visits Zambia to see how Bitcoin is helping electricity projects.
-
 2025-04-20 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1023,6 +979,134 @@ The Travel Show
 From the architectural wonders of ancient Egypt to the mountain gorillas of Rwanda - Africa is a continent of incredible contrasts, wildlife, stories and cultures. Join the Travel Show team as they relive some of their favourite African adventures.
 
 2025-04-26 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-26 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Elliott Grover, Seema Pankhania, and Adam Woodyatt, and by special guests Marisha Wallace and Billy Porter. Drinks expert Helen McGinn picks the wines to go with the studio dishes.
+
+2025-04-26 10:30am
+Mary Berry - Love to Cook
+Mary teams up with her daughter Annabel as they head to Carmarthen Bay to meet forager Craig Evans. Armed with his vast knowledge of edible plants, they indulge in their two loves - the great outdoors and cooking.
+
+2025-04-26 11:00am
+Football Focus
+Alex Scott and guests discuss the biggest stories from the world of football and look ahead to the FA Cup semi-final between Crystal Palace and Aston Villa at Wembley.
+
+2025-04-26 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-26 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-26 12:15pm
+London Marathon
+Gabby Logan looks ahead to the forty-fifth London Marathon, one of the most eagerly anticipated events on the sporting calendar, and meets some of the athletes who make it so special.
+
+2025-04-26 12:45pm
+World Championship Snooker
+Coverage of the eighth day of the World Snooker Championship from the Crucible Theatre.
+
+2025-04-26 3:25pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-26 3:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-04-26 3:40pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-26 3:45pm
+
+Join Gary Lineker for live coverage of the FA Cup semi-final between Crystal Palace and seven-time winners Aston Villa at Wembley, with a place in the 144th FA Cup final at stake. Gary is joined in the studio by Glenn Murray, Micah Richards and Wayne Rooney, while commentary comes from Steve Wilson and two-time FA Cup finalist Alan Shearer.
+
+2025-04-26 6:20pm
+Doctor Who
+Far in the future, on a tough, brutal planet, a devastated mining colony has only one survivor. To discover the truth, the Doctor and Belinda must face absolute terror.
+
+2025-04-26 7:05pm
+Blankety Blank
+Bradley Walsh is joined by Roisin Conaty, Sandi Toksvig, Fire, Desiree Burch, Paddy McGuinness, and Joe Pasquale.
+
+2025-04-26 7:40pm
+Pointless Celebrities
+A celebrity special edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman, and featuring Eva Fontaine, Nigel Boyle, Tom Basden, Tim Key, Natalie O'Leary, Dev Griffin, Milly Zero and Natalie Anderson.
+
+2025-04-26 8:25pm
+Casualty
+Surgery brings fresh dangers for Rida, Indie takes risks, and Flynn endeavours to win over the team.
+
+2025-04-26 9:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-04-26 9:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-04-26 9:30pm
+Match of the Day
+Mark Chapman brings you all the goals, reaction and analysis from the day's five Premier League games, including Newcastle United's clash with Ipswich Town at St James' Park.
+
+2025-04-26 10:40pm
+Ashley Cain: Into the Danger Zone
+Colombia has become synonymous with one major illegal export, cocaine, but now there's another equally lucrative product that's funding the powerful and deadly organised crime groups that control much of rural Colombia: gold.
+
+2025-04-26 11:40pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-04-26 11:45pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-04-27 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 12:30am
+Talking Movies
+The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
+
+2025-04-27 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 1:30am
+I Was There
+On a summer morning in 2010 taxi driver Derrick Bird went on a shooting spree in Cumbria which left 12 dead. We hear from survivors whose lives were changed forever by a crazed gunman.
+
+2025-04-27 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-04-27 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-04-27 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 4:30am
+Tech Now
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
+
+2025-04-27 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

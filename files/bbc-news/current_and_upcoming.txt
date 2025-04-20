@@ -1,47 +1,3 @@
-2025-04-19 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-20 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 12:30am
-The Interview
-David Hockney is one of the world's most successful and influential artists of our time. At 11, he wanted to be an artist. At 87, he's still creating new works. Happiest when making "joyful" art, and always innovating with his iPad, his art has sold for millions. Ahead of his biggest show ever opening in Paris, the Bradford-born star talks to Katie Razzall about growing old, a recent visit from the King, and his two big loves - smoking and painting.
-
-2025-04-20 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 1:30am
-Panorama
-Current affairs programme, featuring interviews and investigative reports on all aspects of life in Britain.
-
-2025-04-20 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 2:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-20 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 3:30am
-Weather: Beyond the Forecast
-Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.
-
-2025-04-20 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-20 4:30am
-Tech Now
-Can we clean up air travel? Adrienne Murray takes to the skies in Sweden to explore developments in electric flight. Joe Tidy visits Zambia to see how Bitcoin is helping electricity projects.
-
 2025-04-20 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1271,6 +1227,166 @@ The Travel Show
 From the architectural wonders of ancient Egypt to the mountain gorillas of Rwanda - Africa is a continent of incredible contrasts, wildlife, stories and cultures. Join the Travel Show team as they relive some of their favourite African adventures.
 
 2025-04-26 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-04-26 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 10:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-04-26 11:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 11:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 12:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 12:30pm
+Talking Movies
+The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
+
+2025-04-26 1:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 1:30pm
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-04-26 2:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 2:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 2:45pm
+Newswatch
+Viewers' opinions on the coverage of events by BBC News, addressed by the editors and decision makers in charge.
+
+2025-04-26 3:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 3:30pm
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-04-26 4:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 5:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-26 6:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 6:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-04-26 7:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 7:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-04-26 8:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 9:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 10:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 10:30pm
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-04-26 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-26 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-04-27 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 12:30am
+Talking Movies
+The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
+
+2025-04-27 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 1:30am
+I Was There
+On a summer morning in 2010 taxi driver Derrick Bird went on a shooting spree in Cumbria which left 12 dead. We hear from survivors whose lives were changed forever by a crazed gunman.
+
+2025-04-27 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-04-27 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-04-27 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-04-27 4:30am
+Tech Now
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
+
+2025-04-27 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
