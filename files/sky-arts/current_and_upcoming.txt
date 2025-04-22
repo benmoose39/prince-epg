@@ -1,23 +1,3 @@
-2025-04-21 11:10pm
-Cirque Du Soleil: Zaia
-The colourful world-famous human circus presents a young girl's breathtaking dream of a journey through space and infinity, featuring fantastic out-of-this-world creatures.
-
-2025-04-22 12:10am
-Wuthering Heights
-Recorded at the Bristol Old Vic's 255-year-old Georgian theatre, witness Emma Rice's intoxicating adaptation of the Brontë classic performed in November 2021.
-
-2025-04-22 3:00am
-Play In A Day
-Newly graduated and deprived of opportunities, budding young performers backed by creative teams are given 24 hours to stage a 15 minute production.
-
-2025-04-22 4:00am
-Inside Art
-A look at a unique body of British and Irish visual art dedicated to self-portraiture, consisting of the very best work of the twentieth-century and more contemporary pieces.
-
-2025-04-22 4:30am
-Inside Art
-Bringing together 500 years of art, the `Rules of Art?' exhibition showcases a breadth of historic and contemporary artworks.
-
 2025-04-22 5:00am
 Cirque du Soleil: Alegria
 From the world-renowned human circus comes a jubilant celebration of youth, old age and the passage of time, featuring contortionists, fire dancers and stunning aerial acrobatics.
@@ -641,4 +621,108 @@ Simon Butteriss examines how a quarrel over the cost of carpet proved fatal to G
 2025-04-28 5:30am
 Peter And The Wolf
 Narrated by acclaimed actress Miriam Margolyes, the Adelaide Symphony Orchestra, with Principal Conductor Nicholas Carter, presents Sergei Prokofiev's classic children's tale.
+
+2025-04-28 7:00am
+The Joy of Painting with Bob Ross
+Bob demonstrates his unique wet-on-wet technique by painting a warm sky and clouds on a black canvas.
+
+2025-04-28 7:30am
+The Joy of Painting with Bob Ross
+Bob reveals his world of natural beauty as he conjures up snow-covered peaks and evergreens that loom over lush green pastures.
+
+2025-04-28 8:00am
+Tales of the Unexpected
+Yves's marriage has gone stale and his young mistress has announced that she is pregnant. But he then makes a decision which changes everyone's lives forever.
+
+2025-04-28 8:30am
+Tales of the Unexpected
+When pretty hotel worker Elly is charmed by a guest, archaeologist Max Kelada, it seems that the Mr Know-All professor might not be the man he claims to be.
+
+2025-04-28 9:00am
+Alfred Hitchcock Presents
+An old, unemployed actor (Herbert Marshall) uses an even older ploy to get a part in a play. With Tom Helmore and Julia Adams.
+
+2025-04-28 9:30am
+Alfred Hitchcock Presents
+The relationship between an alcoholic plantation owner and his partner is tested when one awakens with a venomous snake in their bed.
+
+2025-04-28 10:00am
+The Art Of Architecture
+A look at London's mammoth Battersea Power Station, brought back to life after 30 years of dereliction with designs from architect Jim Eyre.
+
+2025-04-28 11:00am
+Landscape Artist of the Year
+New. Blackpool Rollercoasters: The competition continues as the contestants arrive in Blackpool - home to the UK's tallest rollercoaster. (S8, ep 3)
+
+2025-04-28 12:00pm
+Tales of the Unexpected
+A flamboyant stranger goads a young man into taking a frightening bet whilst on holiday in Jamaica.
+
+2025-04-28 12:25pm
+Tales of the Unexpected
+An unfaithful wife tries to explain away her lover's gift of an expensive mink coat without arousing her husband's suspicions.
+
+2025-04-28 12:50pm
+	Mary Cassatt: Painting the Modern Woman
+Revisit the career of Mary Cassatt through prints, pastels and paintings, exploring the often-overlooked Impressionist's influence on how women appear in art.
+
+2025-04-28 2:00pm
+The Art of Architecture
+An in-depth look at Japanese architect Kengo Kuma's first UK project, the magnificent V&A Dundee, including the huge challenges behind its construction.
+
+2025-04-28 3:00pm
+Discovering Film
+A look at the life and career of filmmaker behind Easy Rider, his acclaimed directional debut. He also starred in Apocalypse Now, Super Mario Bros and Blue Velvet.
+
+2025-04-28 4:00pm
+Landscape Artist of the Year
+The competition continues as the contestants take a trip to Ascot to capture the glamorous racegoers at the Royal Enclosure Picnic.
+
+2025-04-28 5:00pm
+Tales of the Unexpected
+A man continues to dominate his wife even after his death by persuading a surgeon to perform a macabre experiment.
+
+2025-04-28 5:30pm
+Tales of the Unexpected
+The mysterious murder weapon used to kill a young policeman can't be found.
+
+2025-04-28 6:00pm
+Alfred Hitchcock Presents
+A couple (Biff McGuire, Cloris Leachman) on a train promise their son money if he doesn't interrupt a cowboy's (Chill Wills) story.
+
+2025-04-28 6:30pm
+Alfred Hitchcock Presents
+Newspaperman Bradley's propensity for practical jokes puts morgue attendant Pop Henderson at risk of losing his job.
+
+2025-04-28 7:00pm
+Andre Rieu: And the Waltz Goes On
+Renowned violinist Andre Rieu performs live in concert.
+
+2025-04-28 10:10pm
+Len Phillips Swing Orchestra's 100 Years Of Big Bands
+A tour deforce, featuring the UK's finest jazz musicians in concert at London's Cadogan Hall.
+
+2025-04-28 11:25pm
+The Lost Music Of Auschwitz
+11:25pm
+
+2025-04-29 12:55am
+Wuthering Heights
+Recorded at the Bristol Old Vic's 255-year-old Georgian theatre, witness Emma Rice's intoxicating adaptation of the Brontë classic performed in November 2021.
+
+2025-04-29 2:05am
+D.H. Lawrence: Sex, Exile And Greatness
+Documentary exploring the life and work of the novelist, poet, social critic and self-proclaimed 'outsider', who was often persecuted for his explicit subject matter.
+
+2025-04-29 3:05am
+The Art Of Architecture
+How did Santiago Calatrava's World Trade Center Transportation Hub come to be?
+
+2025-04-29 4:00am
+The Art Of Architecture
+A look at London's mammoth Battersea Power Station, brought back to life after 30 years of dereliction with designs from architect Jim Eyre.
+
+2025-04-29 5:00am
+Anne Sophie Mutter, John Williams & Friends: A Celebration
+Superstar violinist Anne-Sophie Mutter celebrates her 60th birthday year with a performance she created with her friends and musical colleagues.
 
