@@ -1,11 +1,3 @@
-2025-04-22 11:00pm
-Hobby Maker REPEATS
-11:00pm
-
-2025-04-23 12:00am
-Hobby Maker REPEATS
-12:00am
-
 2025-04-23 1:00am
 Hobby Maker REPEATS
 1:00am
@@ -177,4 +169,8 @@ To Be Announced
 2025-04-28 9:00pm
 To Be Announced
 9:00pm
+
+2025-04-29 7:00am
+To Be Announced
+7:00am
 
