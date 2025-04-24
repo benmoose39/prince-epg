@@ -28,6 +28,10 @@ A drug-addled, manipulative misanthrope begins to suffer from increasingly sever
 
 2025-04-25 2:50am
 Teleshopping
+Backtrace:
+
+2025-04-25 2:50am
+Teleshopping
 Shopping from home.
 
 2025-04-25 6:50am
