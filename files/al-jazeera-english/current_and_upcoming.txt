@@ -1,51 +1,3 @@
-2025-04-24 11:30pm
-Generation Change
-Racial justice activists in the US discuss the tools they are using to end police brutality.
-
-2025-04-25 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-25 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-04-25 1:00am
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-04-25 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-25 2:30am
-Mindset
-Argentina / Iceland
-
-2025-04-25 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-25 3:30am
-People and Power
-A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
-
-2025-04-25 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-25 4:30am
-The Stream
-The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
-
-2025-04-25 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-04-25 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-04-25 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -1011,6 +963,166 @@ News
 World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-05-01 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-01 6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 6:30am
+First Nation Frontline
+Black Butterflies: The Cost of Going Green
+
+2025-05-01 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 8:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-05-01 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 9:30am
+The Bottom Line
+Discussions on US politics and policies.
+
+2025-05-01 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-01 12:00pm
+Israelism
+Delving into the generational divide over Jewish identity and the Israel-Palestine conflict.
+
+2025-05-01 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 2:30pm
+The Listening Post
+Providing key news and information to understand ever-more complex global events through in-depth analysis.
+
+2025-05-01 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 4:30pm
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-05-01 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-01 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 7:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-05-01 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-01 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-01 10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 10:30pm
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-05-01 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-01 11:30pm
+Generation Change
+Racial justice activists in the US discuss the tools they are using to end police brutality.
+
+2025-05-02 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-02 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-02 1:00am
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-05-02 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-02 2:30am
+Mindset
+South Africa / South Korea
+
+2025-05-02 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-02 3:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-05-02 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-02 4:30am
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-05-02 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-02 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
