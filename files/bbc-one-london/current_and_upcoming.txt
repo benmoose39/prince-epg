@@ -1,47 +1,3 @@
-2025-04-25 11:35pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-26 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-26 12:30am
-Tech Now
-Marc Cieslak has the highlights from the Game Developer Conference in San Francisco, where thousands in the industry come together to share the latest innovation and emerging trends.
-
-2025-04-26 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-26 1:30am
-Scams & Scandals
-An investigation into one of the UK's most high-profile art heists: the theft of a £5m golden toilet from Blenheim Palace. How was the crime carried out and where is the gold?
-
-2025-04-26 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-26 2:30am
-This Cultural Life
-Composer, producer, guitarist and founding member of Chic Nile Rodgers talks to John Wilson about his cultural influences.
-
-2025-04-26 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-26 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-04-26 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-26 4:30am
-The Travel Show
-From the architectural wonders of ancient Egypt to the mountain gorillas of Rwanda - Africa is a continent of incredible contrasts, wildlife, stories and cultures. Join the Travel Show team as they relive some of their favourite African adventures.
-
 2025-04-26 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -931,6 +887,114 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-02 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-02 8:30am
+Rip-Off Britain
+The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.
+
+2025-05-02 9:15am
+Dr Xand's Con or Cure
+How to fall safely, the pros and cons of milk alternatives, and how a private ADHD diagnosis does not guarantee access to the necessary medications on the NHS.
+
+2025-05-02 9:45am
+Animal Park
+The keepers are nervously waiting for a new arrival - a capybara, the largest rodent in the world. He's in a lovely new home, and after a month's mandatory quarantine, he's allowed out into his very spacious enclosure. But this isn't without risk. The keepers must ensure that every inch of the fence line is secure, because they want the capybara to explore his enclosure - not the rest of the Longleat estate.
+
+2025-05-02 10:15am
+Homes Under the Hammer
+Tommy struggles for headroom at an Essex mid-terrace, while in south London, Jacqui has to watch her step at a ground floor flat. Owain is in South Wales, where he is excited by the potential on offer.
+
+2025-05-02 11:15am
+Bargain Hunt
+The red and blue teams shop in West Sussex, and Charlie Ross meets Brenda Mathews, whose collection of more than 4,500 hankies is not to be sniffed at.
+
+2025-05-02 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-02 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-02 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-02 1:00pm
+Election 2025
+Laura Kuenssberg is your guide as the results of the local elections continue to come in. Reeta Chakrabarti will crunch the numbers at her giant screen, and BBC political correspondents will be at all the most important counts. Professor Sir John Curtice, the 'expert's expert', will be on hand to offer his vast psephological knowledge and insights. And representatives of all the main political parties will give their reaction to the emerging political landscape.
+
+2025-05-02 3:00pm
+The Bidding Room
+Nigel Havers hosts as five dealers battle each other to buy items brought in by the public including some soda syphons, a `Carry On' film poster, and two 1930's suitcases.
+
+2025-05-02 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-05-02 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-05-02 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-02 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-02 6:00pm
+The One Show
+Clara Amfo and Roman Kemp bring you the stories that matter from across the country.
+
+2025-05-02 6:30pm
+The Travelling Auctioneers
+A vast and valuable collection curated over a lifetime needs to be cleared. Pensioner David has decided to sell his rare and unique circus memorabilia and put the money raised towards a good cause: entertaining locals with his clown and variety act.
+
+2025-05-02 7:00pm
+Beyond Paradise
+This spin-off from Death in Paradise follows DI Humphrey Goodman and his fiancée, Martha, as they leave London to start a new life on the Devon coast.
+
+2025-05-02 8:00pm
+Have I Got News for You
+Sue Perkins is host, with guest panellists comedian Michelle Wolf and journalist Tom Peck joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-05-02 8:30pm
+Austin
+Austin organises a bespoke celebrity bus tour, while Julian contemplates hiring someone to 'scrub' his image. Ingrid decides to expand her career, combining her illustrating career with writing.
+
+2025-05-02 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-02 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-02 9:40pm
+Man Like Mobeen
+Mobeen's plan to get to Aqsa goes wrong, but before he can accept Uncle Shady's drastic solution, a familiar face shows up with an offer of their own.
+
+2025-05-02 10:05pm
+Man Like Mobeen
+Nida offers to get Mobeen a fake passport if he can steal something from the Turks. Will help from Uncle Shady and his big drill be enough to pull it off?
+
+2025-05-02 10:30pm
+	The Gift
+A young couple's lives spiral into a harrowing tailspin when an acquaintance from the husband's past leads to the revelation of a terrible secret that's been buried for more than 20 years.
+
+2025-05-03 12:15am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-03 12:20am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-03 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
