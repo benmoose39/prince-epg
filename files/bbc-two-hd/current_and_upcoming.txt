@@ -1,8 +1,8 @@
-2025-04-27 5:20am
+2025-04-27 5:10am
 Countryfile
 John Craven and Vick Hope celebrate new life on the Wembury Coast, from high up on the clifftop to the bed of its natural harbour.
 
-2025-04-27 6:15am
+2025-04-27 6:05am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
@@ -82,7 +82,7 @@ Dougie visits the cliffs and beaches of Caithness, and Rosie is at St Andrews We
 Match of the Day 2
 Mark Chapman introduces highlights of the day's two Premier League games, with runaway leaders Liverpool hosting Spurs and Manchester United travelling to Bournemouth. The Cherries are unbeaten in three previous meetings between the sides, and Andoni Iraola's men are vying to complete a first ever league double over United after winning 3-0 at Old Trafford earlier this season.
 
-2025-04-28 7:40am
+2025-04-28 7:45am
 Match of the Day
 Mark Chapman introduces highlights of the two FA Cup semi-finals at Wembley. Manchester City face Nottingham Forest, while Crystal Palace take on Aston Villa.
 
@@ -547,8 +547,8 @@ Gardeners' World
 Joe Swift and Rachel de Thame are in the North Wessex Downs spending the day at Malverleys, a stunning garden transformed in just 14 years by a very talented head gardener. Spring is a busy time and there's plenty for them to muck in with.
 
 2025-05-03 9:00am
-To Be Announced
-9:00am
+
+Coverage of the 15th day of the World Snooker Championship from the Crucible Theatre.
 
 2025-05-03 11:35am
 Marcus Wareing's Tales from a Kitchen Garden
@@ -575,8 +575,8 @@ The Secret Genius of Modern Life
 Hannah Fry uncovers the secrets behind the miraculous technologies of the modern world.
 
 2025-05-03 6:00pm
-To Be Announced
-6:00pm
+World Championship Snooker
+The second semi-final reaches its climax, and by booking their place in the final, the winner will pocket at least £200,000 in prize money. Seema Jaswal introduces live action from the Crucible Theatre in Sheffield.
 
 2025-05-03 9:00pm
 	The Commitments
@@ -594,7 +594,7 @@ Michael and Jamie agree to a winner-takes-all fight to decide who leads the gang
 This Is BBC TWO
 Preview of upcoming programmes from BBC Two.
 
-2025-05-04 5:15am
+2025-05-04 5:20am
 Countryfile
 Margherita Taylor and Joe Crowley are in the Forest of Bowland for a sensory spring feast - soaking up the sights, sounds and flavours of the season.
 

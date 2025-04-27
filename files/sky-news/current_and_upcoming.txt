@@ -127,8 +127,8 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-04-27 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-04-28 12:00am
 Sky News
@@ -295,8 +295,8 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-04-28 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-04-29 12:00am
 Sky News
@@ -463,8 +463,8 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-04-29 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-04-30 12:00am
 Sky News
@@ -631,8 +631,8 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-04-30 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-05-01 12:00am
 Sky News
@@ -759,12 +759,12 @@ The News Hour With Mark Austin
 Join Mark Austin for a comprehensive take on the big stories of the day with reports and analysis from Sky News correspondents around the world.
 
 2025-05-01 6:00pm
-Politics Hub with Sophy Ridge
-Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-05-01 6:30pm
-Politics Hub with Sophy Ridge
-Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-05-01 7:00pm
 UK Tonight With Sarah-Jane Mee
@@ -799,28 +799,28 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-05-01 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 12:00am
-Sky News
-All the top stories as they break, with live reports and updates.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 1:00am
-Sky News
-All the top stories as they break, with live reports and updates.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 2:00am
-Sky News
-All the top stories as they break, with live reports and updates.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 3:00am
-Sky News
-All the top stories as they break, with live reports and updates.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 4:00am
-Sky News
-All the top stories as they break, with live reports and updates.
+Local Elections Results
+Jonathan Samuels presents a special programme with results as they happen and live analysis following local elections in England and Wales.
 
 2025-05-02 5:00am
 Breakfast
@@ -855,28 +855,28 @@ Breakfast with Anna Jones
 All the big stories of the morning, with news making interviews, human interest stories, newspaper review and the latest sports update.
 
 2025-05-02 9:00am
-Sky News Today with Sam Washington
-Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
+Sky News Today
+Colin Brazier and Jayne Secker present a round-up of all the main news of the morning from the UK and around the world.
 
 2025-05-02 9:30am
-Sky News Today with Sam Washington
-Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
+Sky News Today
+Colin Brazier and Jayne Secker present a round-up of all the main news of the morning from the UK and around the world.
 
 2025-05-02 10:00am
-Sky News Today with Sam Washington
-Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
+Sky News Today
+Colin Brazier and Jayne Secker present a round-up of all the main news of the morning from the UK and around the world.
 
 2025-05-02 10:30am
 Sky News Today with Sam Washington
 Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
 
 2025-05-02 11:00am
-Sky News Today with Sam Washington
-Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
+Sky News Today
+Colin Brazier and Jayne Secker present a round-up of all the main news of the morning from the UK and around the world.
 
 2025-05-02 11:30am
-Sky News Today with Sam Washington
-Catch up with all the latest breaking news stories, featuring reports and analysis from Sky News correspondents across the UK and around the world.
+Sky News Today
+Colin Brazier and Jayne Secker present a round-up of all the main news of the morning from the UK and around the world.
 
 2025-05-02 12:00pm
 Sky News Today
@@ -927,28 +927,24 @@ The News Hour With Jonathan Samuels
 A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.
 
 2025-05-02 6:00pm
-Sky News
-All the top stories as they break, with live reports and updates.
+Politics Hub with Sophy Ridge
+Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
 
 2025-05-02 6:30pm
-Sky News
-All the top stories as they break, with live reports and updates.
+Politics Hub with Sophy Ridge
+Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
 
 2025-05-02 7:00pm
-Sky News
-All the top stories as they break, with live reports and updates.
+Politics Hub with Sophy Ridge
+Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
 
 2025-05-02 7:30pm
-Sky News
-All the top stories as they break, with live reports and updates.
+Politics Hub with Sophy Ridge
+Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.
 
 2025-05-02 8:00pm
-Sky News
-All the top stories as they break, with live reports and updates.
-
-2025-05-02 8:30pm
-Sky News
-All the top stories as they break, with live reports and updates.
+Ten Years Of Darkness: Isis & The Yazidis
+...The Yazidis. Alex Crawford investigates the 2014 Yazidi genocide, uncovering daring rescues, emotional reunions, and the unbreakable spirit of survivors.
 
 2025-05-02 9:00pm
 Sky News At 10 With Gillian Joseph
@@ -967,8 +963,8 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-05-02 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-05-03 12:00am
 Sky News
@@ -1103,12 +1099,8 @@ Politics Hub
 The 'Politics Hub' focuses on the COVID-19 inquiry as key figures from Boris Johnson's premiership give evidence today into the government response to the pandemic.
 
 2025-05-03 7:00pm
-Sky News
-All the top stories as they break, with live reports and updates.
-
-2025-05-03 7:30pm
-UK Tonight Highlights
-Another chance to see this week's big interviews on 'UK Tonight', with Sarah-Jane Mee.
+Ten Years Of Darkness: Isis & The Yazidis
+...The Yazidis. Alex Crawford investigates the 2014 Yazidi genocide, uncovering daring rescues, emotional reunions, and the unbreakable spirit of survivors.
 
 2025-05-03 8:00pm
 Sky News
@@ -1135,8 +1127,12 @@ Press Preview
 A full review of the best stories in tomorrow's national newspapers.
 
 2025-05-03 11:00pm
-Sky News on the Hour
-The latest home and international news, financial updates, sporting headlines and weather.
+Sky News
+All the top stories as they break, with live reports and updates.
+
+2025-05-04 12:00am
+Sky News
+All the top stories as they break, with live reports and updates.
 
 2025-05-04 1:00am
 Sky News
@@ -1147,6 +1143,10 @@ Sky News
 All the top stories as they break, with live reports and updates.
 
 2025-05-04 3:00am
+Sky News
+All the top stories as they break, with live reports and updates.
+
+2025-05-04 4:00am
 Sky News
 All the top stories as they break, with live reports and updates.
 

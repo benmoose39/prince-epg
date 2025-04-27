@@ -962,10 +962,6 @@ Twenty-four hours a day, the latest national and international stories as they b
 Election 2025
 Laura Kuenssberg is your guide as the results of the local elections begin to flood in. Professor Sir John Curtice, the 'expert's expert' will be on hand to offer his vast psephological knowledge and insights. And representatives of all the main political parties will give their reaction to the emerging political landscape.
 
-2025-05-01 11:00pm
-Election 2025
-Laura Kuenssberg is your guide as the results of the local elections begin to flood in. Professor Sir John Curtice, the 'expert's expert' will be on hand to offer his vast psephological knowledge and insights. And representatives of all the main political parties will give their reaction to the emerging political landscape.
-
 2025-05-02 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
@@ -1160,7 +1156,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-05-03 12:30am
 Tech Now
-Tech Now reflects on how artificial intelligence is impacting our everyday lives. Paul Carter checks out a new AI powered hotel in Las Vegas.
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
 
 2025-05-03 1:00am
 BBC News
@@ -1352,7 +1348,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-05-04 4:30am
 Tech Now
-Tech Now reflects on how artificial intelligence is impacting our everyday lives. Paul Carter checks out a new AI powered hotel in Las Vegas.
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
 
 2025-05-04 5:00am
 Breakfast

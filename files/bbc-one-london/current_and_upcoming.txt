@@ -2,9 +2,13 @@
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
-2025-04-27 6:15am
+2025-04-27 6:05am
 Match of the Day
 Mark Chapman brings you all the goals, reaction and analysis from the day's five Premier League games, including Newcastle United's clash with Ipswich Town at St James' Park.
+
+2025-04-27 7:20am
+Match of the Day
+Highlights of the first of this year's FA Cup semi-finals at Wembley, between Crystal Palace and Aston Villa.
 
 2025-04-27 7:30am
 
@@ -74,7 +78,7 @@ News, sport and weather from London.
 Match of the Day 2
 Mark Chapman introduces highlights of the day's two Premier League games, with runaway leaders Liverpool hosting Spurs and Manchester United travelling to Bournemouth. The Cherries are unbeaten in three previous meetings between the sides, and Andoni Iraola's men are vying to complete a first ever league double over United after winning 3-0 at Old Trafford earlier this season.
 
-2025-04-27 10:20pm
+2025-04-27 10:25pm
 Match of the Day
 Mark Chapman introduces highlights of the two FA Cup semi-finals at Wembley. Manchester City face Nottingham Forest, while Crystal Palace take on Aston Villa.
 
@@ -876,7 +880,7 @@ BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-03 12:30am
 Tech Now
-Tech Now reflects on how artificial intelligence is impacting our everyday lives. Paul Carter checks out a new AI powered hotel in Las Vegas.
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
 
 2025-05-03 1:00am
 BBC News
@@ -1044,7 +1048,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-05-04 4:30am
 Tech Now
-Tech Now reflects on how artificial intelligence is impacting our everyday lives. Paul Carter checks out a new AI powered hotel in Las Vegas.
+Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
 
 2025-05-04 5:00am
 Breakfast
