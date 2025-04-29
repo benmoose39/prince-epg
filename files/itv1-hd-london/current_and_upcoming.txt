@@ -1,19 +1,3 @@
-2025-04-28 11:10pm
-Teleshopping
-Shopping from home.
-
-2025-04-29 2:00am
-Bali 2002
-Series 1 Episode 2: From the Ashes
-
-2025-04-29 2:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-04-29 4:05am
-Wheel of Fortune
-Graham Norton welcomes three new players - cleaner Fillie, business manager Craig, and university graduate Becky - as they spin the Wheel while solving puzzles to win cash prizes.
-
 2025-04-29 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -591,6 +575,102 @@ Prue Leith's Cotswold Kitchen
 Visiting the home of Prue Leith and her husband John as she, friends and her husband cook mouth-watering dishes and explore the joys of their Cotswold home and local area.
 
 2025-05-05 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-05-05 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-05-05 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-05-05 11:30am
+Loose Women
+Loose Women as they chat about news, issues and life in general.
+
+2025-05-05 12:45pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-05-05 12:50pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-05 1:00pm
+Alan Titchmarsh's Gardening Club
+Alan and the team share more insights and inspiration with a visit to the world-famous Hampton Court Gardens. Martha Swales shows us the latest seasonal interest in her kitchen garden. Henry Agg provides a master-class.
+
+2025-05-05 2:00pm
+Jeopardy!
+New contestants Kai and Natasha take on the returning Jeopardy! champion and hope to claim the crown for themselves, but winning on this show is never easy...
+
+2025-05-05 3:00pm
+Deal or No Deal
+Stephen Mulhern hosts a celebrity special of the iconic game show as Coronation Street legend Simon Gregson goes head-to-head with the infamous Banker - supported on the wings by his family, friends and a few famous faces, Simon must choose the right boxes and resist the Banker's tempting cash offers until just the right moment in order to take home a fortune for his chosen charity.
+
+2025-05-05 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-05-05 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-05 5:10pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-05-05 5:30pm
+The Chase: Celebrity Special
+One Chaser is all that stands between actress Catherine Tyldesley, entrepreneur Levi Roots, comedian Chris McCausland and rock legend Rick Wakeman and thousands of pounds for their chosen charities. Bradley Walsh hosts.
+
+2025-05-05 6:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-05-05 7:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-05-05 8:00pm
+Malpractice
+Pressure mounts on Dr Ford as the investigation continues. When another traumatic incident occurs in the unit, James clashes with colleagues and the hospital Trust and leaves the future of the unit in doubt.
+
+2025-05-05 9:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-05-05 9:20pm
+The 1% Club
+Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
+
+2025-05-05 10:10pm
+The Essex Millionaire Murders
+The first part of a two-part documentary series. Easter Sunday, 2023 - a wealthy couple in their 60s are found dead by their daughter on Mersea Island in Essex. Carol and Stephen Baxter are in their armchairs with no sign of a struggle as police rule out carbon monoxide poisoning.
+
+2025-05-05 11:05pm
+The Essex Millionaire Murders
+The concluding part of a two-part documentary series. Detectives raid Luke D'Wit's home and seize a huge stash of prescription drugs - including fentanyl and antihistamine - that are both found in the Baxters' postmortem as police press Luke to explain his relationship to Carol Baxter's mysterious American physician Dr Andrea Bowden. Luke has been mixing 'medicinal' drinks for Carol on Dr Bowden's instructions, but detectives can find no trace of her existence.
+
+2025-05-05 11:55pm
+Teleshopping
+Shopping from home.
+
+2025-05-06 2:00am
+Bali 2002
+Australian and Indonesian investigators work together to track down the perpetrators of the Bali bombings as injured survivors and their loved ones try to piece their shattered lives back together.
+
+2025-05-06 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-06 4:05am
+Wheel of Fortune
+Graham Norton hosts as engineer John, safeguarding coordinator Roxy, and content writer Lewis all try to claim a possible 50,000 pounds by spinning the Wheel and solving puzzles.
+
+2025-05-06 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 

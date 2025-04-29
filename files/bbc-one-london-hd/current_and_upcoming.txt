@@ -1,63 +1,3 @@
-2025-04-28 11:45pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-04-29 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-29 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-29 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-29 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-29 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-29 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-29 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-29 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-29 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-29 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-04-29 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-04-29 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
-
-2025-04-29 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-04-29 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-04-29 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -951,6 +891,150 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-05 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-05 8:25am
+	The Boy, the Mole, the Fox and the Horse
+The unlikely friendship of a boy, a mole, a fox, and a horse travelling together in the boy's search for home.
+
+2025-05-05 9:00am
+Animal Park
+There have been many successful newborns at the park over the years, but today we find out why breeding programmes are not always easy. There's a race to stop one of the park's most important breeding programmes from falling apart. Last year, the park joined a red squirrel breeding programme, and they have already had babies. However, those babies are already nearly adults, they're squabbling, and they can't live together.
+
+2025-05-05 9:30am
+VE Day 80
+The first day of the VE Day 80 celebrations begins with a military procession and flypast to honour the Second World War generation. Presented by Sophie Raworth.
+
+2025-05-05 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-05 1:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-05 1:30pm
+Planet Earth III
+David Attenborough reveals the extraordinary ways in which animals battle to survive the elements in a world of extremes. These remote places are rarely visited, yet the animals that survive there are some of the most resilient on Earth.
+
+2025-05-05 2:30pm
+Escape to the Country
+Steve Brown is on hand to help a couple of newlyweds looking to escape South London and set down roots in the stunning countryside of Cumbria. They've already discounted a dozen properties, so the pressure is on for Steve.
+
+2025-05-05 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-05-05 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-05-05 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-05 5:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-05 5:30pm
+The One Show
+Alex Jones and Roman Kemp host a special-hour long episode of the show to celebrate the 80th anniversary of VE Day. Sophie Raworth joins them to share all you need to know about the week's events, we hear moving stories from around the UK.
+
+2025-05-05 6:30pm
+EastEnders
+Follow the latest dramas of the residents of Albert Square in London's East End as they deal with life, love and loss.
+
+2025-05-05 7:00pm
+	Darkest Hour
+With the German Army now just across the Channel, newly-appointed Prime Minister Winston Churchill must decide between negotiating a peace treaty with Hitler or standing firm. With the King, the public and his own political party all questioning his wisdom, the hard-drinking Churchill has to survive his own darkest hour and rally the country behind him.
+
+2025-05-05 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-05 9:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-05 9:30pm
+Have I Got a Bit More News for You
+Sue Perkins is host, with guest panellists comedian Michelle Wolf and journalist Tom Peck joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-05-05 10:15pm
+Just Act Normal
+Tanika encounters a police officer who raises concerns about their mother. Escaping the pressure, Tiana enjoys a night out with Shanice, but at home, things begin to fall apart.
+
+2025-05-05 11:00pm
+Just Act Normal
+When Tanika goes missing, Tiana, Tionne and Feelgood rally to find her. The siblings are finally forced to confront their situation, leaving Tiana with a big decision.
+
+2025-05-05 11:40pm
+Blankety Blank
+The legendary Blankety Blank is back! Bradley Walsh hosts as a panel of six celebrities fill in the missing blanks and help win some brilliant prizes for some very lucky contestants. This week, he's joined by Rob Beckett, Jordan Banjo, Emma Barton, Joe Swash, Joanne McNally and Su Pollard.
+
+2025-05-06 12:15am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-06 12:20am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-06 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-06 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-06 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-06 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-06 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-06 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-06 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-06 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-06 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-06 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-06 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-06 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-06 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-06 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
