@@ -104,7 +104,7 @@ Shopping from home.
 
 2025-05-01 6:00am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-01 6:30am
 Teleshopping
@@ -220,7 +220,7 @@ Shopping from home.
 
 2025-05-02 6:30am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-02 7:00am
 Teleshopping
@@ -247,12 +247,8 @@ Teleshopping
 Shopping from home.
 
 2025-05-02 10:00am
-Teleshopping
-Shopping from home.
-
-2025-05-02 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.
 
 2025-05-02 11:00am
 Garden Rescue
@@ -328,7 +324,7 @@ Shopping from home.
 
 2025-05-03 6:00am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-03 6:30am
 Teleshopping
@@ -359,12 +355,8 @@ Teleshopping
 Shopping from home.
 
 2025-05-03 10:00am
-Teleshopping
-Shopping from home.
-
-2025-05-03 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.
 
 2025-05-03 11:00am
 Garden Rescue
@@ -440,7 +432,7 @@ Shopping from home.
 
 2025-05-04 6:30am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-04 7:00am
 Teleshopping
@@ -467,12 +459,8 @@ Teleshopping
 Shopping from home.
 
 2025-05-04 10:00am
-Teleshopping
-Shopping from home.
-
-2025-05-04 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.
 
 2025-05-04 11:00am
 Garden Rescue
@@ -548,7 +536,7 @@ Shopping from home.
 
 2025-05-05 6:00am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-05 6:30am
 Teleshopping
@@ -579,12 +567,8 @@ Teleshopping
 Shopping from home.
 
 2025-05-05 10:00am
-Teleshopping
-Shopping from home.
-
-2025-05-05 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.
 
 2025-05-05 11:00am
 Garden Rescue
@@ -676,7 +660,7 @@ Shopping from home.
 
 2025-05-06 6:30am
 Teleshopping
-Shopping from home.
+Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.
 
 2025-05-06 7:00am
 Teleshopping
@@ -703,12 +687,8 @@ Teleshopping
 Shopping from home.
 
 2025-05-06 10:00am
-Teleshopping
-Shopping from home.
-
-2025-05-06 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.
 
 2025-05-06 11:00am
 Garden Rescue
