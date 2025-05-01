@@ -1,27 +1,3 @@
-2025-04-30 10:55pm
-Genius Game
-A reality game show where David Tennant guides 11 players with exceptional abilities through a series of mind-bending games - players need to work together to be successful in the game, but only one player can ultimately win. In this episode, the players take on their first Main Match Gold Heist which is a group game - if they win the game, they are safe as they will receive a Token of Life and can choose another player to save.
-
-2025-04-30 11:55pm
-Teleshopping
-Shopping from home.
-
-2025-05-01 2:00am
-Tonight
-UK households have been hit by a wave of increasing bills, from council tax, gas and electricity going up to water companies raising prices by more than 25 per cent on average - Paul Brand reports on what impact this will have on customers stretched by the cost of living crisis and what we can do to soften the blow.
-
-2025-05-01 2:25am
-The Dry
-Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
-
-2025-05-01 2:55am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-01 4:10am
-99 to Beat
-36 players remain to guess the decade of a music track at a very special disco, compete in a massive game of bin skittles and more.
-
 2025-05-01 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -595,6 +571,102 @@ Alan Titchmarsh's Gardening Club
 Alan and the team share more insights and inspiration with a visit to the world-famous Hampton Court Gardens. Martha Swales shows us the latest seasonal interest in her kitchen garden. Henry Agg provides a master-class.
 
 2025-05-07 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-05-07 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-05-07 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-05-07 11:30am
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-05-07 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-05-07 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-07 1:00pm
+Celebrity Catchphrase
+Lucrezia Millarini, Judi Love and Ben Miller all try to guess the well-known phrases from the animated clues. If they can 'say what they see' they could get the chance to win a 50,000 pound jackpot for their chosen charity.
+
+2025-05-07 2:00pm
+Jeopardy!
+Stephen welcomes new players Richard and Sabina as they hope that they have what it takes to defeat the returning Jeopardy! champion and claim the prestigious title for themselves.
+
+2025-05-07 3:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-05-07 4:00pm
+The Chase
+Belinda from Manchester, Dan from Grays, Paul originally from Norwich and Sabine from Exmouth join forces in the hope of winning thousands of pounds.
+
+2025-05-07 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-07 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-05-07 6:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-05-07 7:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-05-07 8:00pm
+Genius Game
+Having said goodbye to another player, nine return for their third Main Match and compete to try to crack a ten-letter code word.
+
+2025-05-07 9:15pm
+ITV News
+The latest national and international news.
+
+2025-05-07 9:45pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-07 10:00pm
+Peston
+Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
+
+2025-05-07 10:55pm
+British Touring Car Championship
+Steve Rider presents the best of the action from the opening round of the 2025 British Touring Car Championship at Donington Park - Jake Hill won last season's championship in dramatic fashion in the final round at Brands Hatch and returns with the Laser Tools Racing and MB Motorsport team to defend his title, while other drivers looking to be in contention for the title will be last year's runner-up Tom Ingram and four-time BTCC champion Ash Sutton.
+
+2025-05-08 12:10am
+Teleshopping
+Shopping from home.
+
+2025-05-08 2:00am
+Tonight
+After one of the most devastating and costliest wildfire disasters in Californian history, Romilly Weeks returns to Los Angeles to revisit the people and places she met in the immediate aftermath.
+
+2025-05-08 2:25am
+The Dry
+Following the attempts of a woman to remain sober when she returns to Dublin after years of partying in London.
+
+2025-05-08 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-08 4:05am
+99 to Beat
+26 players remain to find a baby's dummy in a jelly whilst blindfolded, swing a ball from their hips to move a tin can and more.
+
+2025-05-08 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 

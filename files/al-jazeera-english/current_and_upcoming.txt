@@ -1,51 +1,3 @@
-2025-04-30 11:30pm
-First Nation Frontline
-Black Butterflies: The Cost of Going Green
-
-2025-05-01 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-01 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-05-01 1:00am
-Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
-
-2025-05-01 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-01 2:30am
-The Stream
-The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
-
-2025-05-01 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-01 3:30am
-Mindset
-South Africa / South Korea
-
-2025-05-01 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-01 4:30am
-Generation Change
-Racial justice activists in the US discuss the tools they are using to end police brutality.
-
-2025-05-01 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-01 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-05-01 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -1011,6 +963,166 @@ News
 World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-05-07 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-07 6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 6:30am
+Counting the Cost
+The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
+
+2025-05-07 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 8:30am
+Mindset
+Mindset asks if Denmark's tech industry and Jamaica's psychedelic therapy retreats are a glimpse into the future of mental health treatment.
+
+2025-05-07 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 9:30am
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-05-07 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-07 12:00pm
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-05-07 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 2:30pm
+Talk to Al Jazeera
+A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+
+2025-05-07 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 4:30pm
+Generation Change
+Two UK activists put their bodies on the line to force a transition to a green economy, and to try to stop arms factories.
+
+2025-05-07 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-07 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 7:30pm
+Africa Direct
+African stories by African filmmakers. Perspectives from a diverse continent; storytelling in the hands of local talent.
+
+2025-05-07 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-07 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-07 10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 10:30pm
+Fault Lines
+American doctors who volunteered in Gaza report witnessing a disturbing pattern of children being shot by the Israeli military.
+
+2025-05-07 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-07 11:30pm
+First Nations Frontline
+The native communities of USA challenge the effects of climate change on their sacred land - a road trip of discovery of tradition and science.
+
+2025-05-08 12:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-08 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-08 1:00am
+Al Jazeera World
+Showcasing films from across the Al Jazeera Network.
+
+2025-05-08 2:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-08 2:30am
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-05-08 3:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-08 3:30am
+Mindset
+Mindset asks if Denmark's tech industry and Jamaica's psychedelic therapy retreats are a glimpse into the future of mental health treatment.
+
+2025-05-08 4:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-08 4:30am
+Generation Change
+Two UK activists put their bodies on the line to force a transition to a green economy, and to try to stop arms factories.
+
+2025-05-08 5:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-08 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
