@@ -1,51 +1,3 @@
-2025-05-02 11:30pm
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-05-03 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-03 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-05-03 1:00am
-Israelism
-Delving into the generational divide over Jewish identity and the Israel-Palestine conflict.
-
-2025-05-03 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-03 2:30am
-People and Power
-A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
-
-2025-05-03 3:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-03 3:30am
-101 East
-Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
-
-2025-05-03 4:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-03 4:30am
-UpFront
-Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
-
-2025-05-03 5:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2025-05-03 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-05-03 6:00am
 News
 World news from Al Jazeera's Kuala Lumpur news centre.
@@ -1007,6 +959,170 @@ News
 World news from Al Jazeera's Kuala Lumpur news centre.
 
 2025-05-09 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-09 6:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 6:30am
+Generation Change
+Two UK activists put their bodies on the line to force a transition to a green economy, and to try to stop arms factories.
+
+2025-05-09 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 8:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 8:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-05-09 9:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 9:30am
+Witness
+A 24-hr funeral parlour in Manila becomes a window into the lives and deaths shaping Philippine President Duterte's 'war on drugs'.
+
+2025-05-09 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 11:00am
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-09 12:00pm
+The Bottom Line
+Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world.
+
+2025-05-09 12:30pm
+Africa Direct
+African stories by African filmmakers. Perspectives from a diverse continent; storytelling in the hands of local talent.
+
+2025-05-09 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 2:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 2:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-05-09 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 4:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 4:30pm
+Mindset
+Mindset asks if Denmark's tech industry and Jamaica's psychedelic therapy retreats are a glimpse into the future of mental health treatment.
+
+2025-05-09 5:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-09 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 7:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 7:30pm
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-05-09 8:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-09 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-05-09 10:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 10:30pm
+Counting the Cost
+The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
+
+2025-05-09 11:00pm
+News
+World news from Al Jazeera's Kuala Lumpur news centre.
+
+2025-05-09 11:30pm
+Witness
+A 24-hr funeral parlour in Manila becomes a window into the lives and deaths shaping Philippine President Duterte's 'war on drugs'.
+
+2025-05-10 12:00am
+News
+The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-10 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-05-10 1:00am
+	Eleven Days in May
+The horror and misery of the Gaza conflict is reflected upon the death of over 60 children in May of 2021. A sobering look at these 11 days of bombings over the Palestinian territory of Gaza.
+
+2025-05-10 2:00am
+News
+The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-10 2:30am
+Fault Lines
+American doctors who volunteered in Gaza report witnessing a disturbing pattern of children being shot by the Israeli military.
+
+2025-05-10 3:00am
+News
+The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-10 3:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-05-10 4:00am
+News
+The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-10 4:30am
+UpFront
+Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
+
+2025-05-10 5:00am
+News
+The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-10 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 

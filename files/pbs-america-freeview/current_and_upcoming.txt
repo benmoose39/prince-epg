@@ -1,43 +1,3 @@
-2025-05-02 12:00pm
-America the Bountiful
-A pear orchard owned by a Japanese American family whose founders were held captive in an internment camp during World War II; different ways that pears can be prepared.
-
-2025-05-02 12:35pm
-Bronze Age Apocalypse
-Exploring the mysterious and catastrophic collapse of ancient civilisations during the late Bronze Age, revealing the tumultuous events that brought an end to a thriving era of human history.
-
-2025-05-02 1:35pm
-Symbols of Evil
-Symbols have always been used to rally people in the pursuit of a common goal. Examining the symbols under which people have been hounded and killed.
-
-2025-05-02 2:50pm
-Her Name Was Grace Kelly
-Chronicling the life and career of Grace Kelly through family archives, starting in 1932 with home movies shot by her father and with film later shot by Grace and Prince Rainier themselves.
-
-2025-05-02 4:00pm
-Witness to A Massacre: Nanjing 1937
-The brave and incredible efforts of the remaining foreigners are explored, bringing the massacre to light.
-
-2025-05-02 5:10pm
-Bronze Age Apocalypse
-Exploring the mysterious and catastrophic collapse of ancient civilisations during the late Bronze Age, revealing the tumultuous events that brought an end to a thriving era of human history.
-
-2025-05-02 6:15pm
-Symbols of Evil
-Symbols have always been used to rally people in the pursuit of a common goal. Examining the symbols under which people have been hounded and killed.
-
-2025-05-02 7:30pm
-Her Name Was Grace Kelly
-Chronicling the life and career of Grace Kelly through family archives, starting in 1932 with home movies shot by her father and with film later shot by Grace and Prince Rainier themselves.
-
-2025-05-02 8:40pm
-Witness to A Massacre: Nanjing 1937
-The brave and incredible efforts of the remaining foreigners are explored, bringing the massacre to light.
-
-2025-05-02 9:50pm
-Symbols of Evil
-Symbols have always been used to rally people in the pursuit of a common goal. Examining the symbols under which people have been hounded and killed.
-
 2025-05-03 12:00pm
 	The Endurance: Shackleton's Legendary Antarctic Expedition
 Explorer Ernest Shackleton and his team become stranded for nearly two years in severe antarctic conditions. Narrated by Liam Neeson.
@@ -265,4 +225,40 @@ Occupation
 2025-05-08 9:55pm
 A Cold War of Spies
 In the 1960s, both countries have a grip on nuclear weapons, but the imbalance between US and Soviet missiles is staggering. A fledgling communist government in Cuba provides the perfect opportunity for Nikita Khrushchev to position missiles.
+
+2025-05-09 12:00pm
+America the Bountiful
+Foraging for ramps in the West Virginian hills; celebrating the self-sufficient nature of Appalachian culture at a few seasonal ramp dinners and festivals.
+
+2025-05-09 12:35pm
+King Arthur's Britain: The Truth Unearthed
+In the fifth century, the future of Britain hung in the balance, after four centuries of straight roads and hot and cold running water the Romans upped and left, called back to support their own ailing Empire. The country quickly descended into chaos, plunging the native population into poverty and instability as their livelihoods, many dependent on the Romans, disappeared almost overnight. The nation was vulnerable and it didn't take long for Anglo-Saxon invaders to take advantage.
+
+2025-05-09 1:55pm
+A Cold War of Spies
+At the close of WWII, the West views Stalin's government as a threat to democracy, while Stalin sees America as an obstacle in winning the `hearts and minds' of oppressed people everywhere. Communist leaders try to shut down so-called freedom radios.
+
+2025-05-09 2:55pm
+Playing to Survive: Von Cramm vs Hitler
+Gottfried von Cramm, a tennis champion, defied the Nazi regime and faced immense pressure, including threats from Hitler himself. Despite his athletic achievements, he was persecuted for being gay, imprisoned, and sent to fight on the Eastern Front.
+
+2025-05-09 5:05pm
+King Arthur's Britain: The Truth Unearthed
+In the fifth century, the future of Britain hung in the balance, after four centuries of straight roads and hot and cold running water the Romans upped and left, called back to support their own ailing Empire. The country quickly descended into chaos, plunging the native population into poverty and instability as their livelihoods, many dependent on the Romans, disappeared almost overnight. The nation was vulnerable and it didn't take long for Anglo-Saxon invaders to take advantage.
+
+2025-05-09 6:20pm
+A Cold War of Spies
+At the close of WWII, the West views Stalin's government as a threat to democracy, while Stalin sees America as an obstacle in winning the `hearts and minds' of oppressed people everywhere. Communist leaders try to shut down so-called freedom radios.
+
+2025-05-09 7:20pm
+Playing to Survive: Von Cramm vs Hitler
+Gottfried von Cramm, a tennis champion, defied the Nazi regime and faced immense pressure, including threats from Hitler himself. Despite his athletic achievements, he was persecuted for being gay, imprisoned, and sent to fight on the Eastern Front.
+
+2025-05-09 9:25pm
+A Cold War of Spies
+At the close of WWII, the West views Stalin's government as a threat to democracy, while Stalin sees America as an obstacle in winning the `hearts and minds' of oppressed people everywhere. Communist leaders try to shut down so-called freedom radios.
+
+2025-05-09 10:30pm
+America the Bountiful
+Foraging for ramps in the West Virginian hills; celebrating the self-sufficient nature of Appalachian culture at a few seasonal ramp dinners and festivals.
 

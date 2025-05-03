@@ -1,51 +1,3 @@
-2025-05-02 10:30pm
-	The Gift
-A young couple's lives spiral into a harrowing tailspin when an acquaintance from the husband's past leads to the revelation of a terrible secret that's been buried for more than 20 years.
-
-2025-05-03 12:15am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-03 12:20am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-03 12:30am
-Tech Now
-Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
-
-2025-05-03 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-03 1:30am
-Panorama
-Catrin Nye reports on how some baby food in plastic pouches are worryingly low in essential vitamins and minerals, while others contain more sugar than the NHS recommends for infants.
-
-2025-05-03 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-03 2:30am
-The Big Cases
-The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
-
-2025-05-03 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-03 3:30am
-The Media Show
-The Media Show's Amol Rajan talks to the editor of the Daily Mirror, Alison Phillips.
-
-2025-05-03 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-03 4:30am
-The Travel Show
-It's all aboard as The Travel Show team look back at some of their favourite adventures at sea - from whale-watching off the coast of Seattle to learning to surf in the Dominican Republic.
-
 2025-05-03 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -927,6 +879,118 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-09 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-09 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-05-09 9:45am
+Dr Xand's Con or Cure
+From cons to cures, scams to scares and sifting fakes from facts. Dr Xand van Tulleken and Ashley John-Baptiste's health consumer show, dedicated to righting the wrongs of `bad medicine'.
+
+2025-05-09 10:15am
+Homes Under the Hammer
+In Nottingham, we see a Victorian town house with an unusual back garden, a couple hope to transform a dilapidated mid-terrace in Bournemouth, and a one-bedroom flat becomes an ultra-modern two-bedroom in north London. Dion, Martin and Tommy meet the successful bidders as we follow three unique renovations.
+
+2025-05-09 11:15am
+Bargain Hunt
+The teams shop at a huge antiques centre in the Norfolk port town of King's Lynn with their experts, David Fergus and Caroline Hawley.
+
+2025-05-09 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-09 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-09 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-09 1:00pm
+Shakespeare and Hathaway: Private Investigators
+Investigating a death at a Shakespeare-for-hire agency, Frank and Lu discover more backstabbing and tragedy behind the scenes than there is in the performances.
+
+2025-05-09 1:45pm
+Escape to the Country
+A couple from urban Hertfordshire with a £550,000 budget have their sights set on moving to the Somerset countryside, where Jules Hudson has some splendid properties lined up to tempt them.
+
+2025-05-09 2:45pm
+The Bidding Room
+Nigel Havers presides as five sellers aim for the best price for their items, including an extending dining table, fishing rods, a lamp stand, a teddy bear and butcher's scales.
+
+2025-05-09 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-05-09 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-05-09 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-09 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-09 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-05-09 6:30pm
+Lost and Found in the Lakes
+The intrepid Lost and Found team take on a desperate search to find two beloved rings. A local crafter is challenged to transform abandoned scrap, giving it a new lease of life. After a valuable chance find during one of their underwater searches, social media detective Mui tries to track down the owner.
+
+2025-05-09 7:00pm
+Interior Design Masters
+The designers head to Allianz Stadium Twickenham, the iconic home of England rugby, to do up hospitality suites. They must create a premium experience for diehard rugby fans by producing a swanky bar for serving pre-match drinks and a stylish dining area for putting on a generous spread. Restaurateur Nisha Katona helps Michelle decide who will win a place in the quarter-final.
+
+2025-05-09 8:00pm
+Have I Got News for You
+David Tennant is host, with guest panellists including actor and comedian Miles Jupp joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-05-09 8:30pm
+Austin
+When Julian gets fired from his publisher and told his remaining books are to be pulped, Austin leads the charge to break into the warehouse to rescue whatever's left.
+
+2025-05-09 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-09 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-09 9:40pm
+Eurovision Song Contest
+Graham Norton meets girl band Remember Monday, the UK's act for Eurovision 2025, as the three best friends prepare for the biggest performance of their lives in Basel, Switzerland.
+
+2025-05-09 9:55pm
+Man Like Mobeen
+Tensions run high as the gang debate what to do with the stolen money. Jerry reveals his true colours, Emre investigates the theft, and Uncle Shady offers Mobeen a lifeline.
+
+2025-05-09 10:20pm
+Man Like Mobeen
+On a plane alone, Mobeen recounts how it all started, with his teenage memories of the first job he did for Khan and the beginning of his brotherhood with Nate and Eight.
+
+2025-05-09 10:45pm
+	Highlander
+From the Scottish Highlands of the 16th century to present-day New York, immortal Connor MacLeod is unable to escape his destiny and must battle against his fellow warriors.
+
+2025-05-10 12:40am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-10 12:45am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-10 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
