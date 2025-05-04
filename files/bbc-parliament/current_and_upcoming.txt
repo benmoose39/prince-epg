@@ -2,77 +2,77 @@
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 30 April.
 
-2025-05-04 10:00am
-House of Lords
-Coverage of a statement in the House of Lords.
-
-2025-05-04 10:45am
-Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
-
-2025-05-04 11:45am
-Scottish Parliament
-Coverage of a debate in the Scottish Parliament.
-
-2025-05-04 12:35pm
+2025-05-04 9:30am
 House of Commons
-Coverage of a statement in the House of Commons.
+The debate in the House of Commons on the second reading of the Football Governance Bill, which will introduce a new independent regulator for the football leagues, from Monday 28 April.
 
-2025-05-04 1:20pm
-House of Lords
-Coverage of a debate in the House of Lords.
-
-2025-05-04 2:05pm
+2025-05-04 2:40pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 30 April.
 
-2025-05-04 2:40pm
+2025-05-04 3:15pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 1 May.
 
-2025-05-04 3:25pm
+2025-05-04 4:00pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 29 April.
 
-2025-05-04 4:15pm
+2025-05-04 4:55pm
 Northern Ireland Assembly
 Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 28 April.
 
-2025-05-04 5:00pm
+2025-05-04 5:40pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Women and Equalities select committee session on misogyny among young men and boys with evidence from Jack Thorne, creator and writer and executive producer of Adolescence, Emily Feller, executive producer of Adolescence, Jane Peckham, deputy general secretary of NASUWT, Dr Daniel McGuinness, co-founder and managing director of Beyond Equality, Matt Pinkett, misogyny and gender equity specialist at Engendering Change and English teacher, from Tuesday 29 April.
 
-2025-05-04 11:20pm
+2025-05-04 7:50pm
+Select Committees
+Coverage of the Justice select committee session on the work of the Criminal Cases Review Commission with evidence from Karen Kneller, chief executive of the Criminal Cases Review Commission (CCRC) and Amanda Pearce, casework operations director at the CCRC, from Tuesday 29 April.
+
+2025-05-04 10:00pm
+Scottish Parliament
+Coverage of the debate in the Scottish Parliament, tabled by the Scottish Conservatives, on protecting Scotland's fishing industry, from Wednesday 30 April.
+
+2025-05-04 11:05pm
 House of Commons
 Coverage of questions in the House of Commons to Jonathan Reynolds, the business and trade secretary, and his team of ministers on Thursday 1 May.
 
-2025-05-05 12:20am
+2025-05-05 12:05am
 House of Commons
 Coverage of questions in the House of Commons to Jo Stevens, the Welsh secretary, and her team of ministers on Wednesday 30 April.
 
-2025-05-05 12:50am
+2025-05-05 12:35am
 House of Commons
 Coverage of questions in the House of Commons to Ed Miliband, the energy security and net zero secretary, and his team of ministers on Tuesday 29 April.
 
-2025-05-05 1:50am
+2025-05-05 1:40am
 House of Commons
 Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 28 April.
 
-2025-05-05 2:50am
+2025-05-05 2:45am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 29 April.
 
-2025-05-05 3:40am
+2025-05-05 3:35am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 1 May.
 
-2025-05-05 4:25am
+2025-05-05 4:20am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 30 April.
 
 2025-05-05 5:00am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 1 May.
+
+2025-05-05 6:35am
+Select Committees
+Joint Human Rights Committee session on forced labour in UK supply chains, with evidence from the Anti-Slavery Commissioner, the National Crime Agency, and Border Force, on Wednesday 23 April.
+
+2025-05-05 7:50am
+House of Lords
+Business in the House of Lords on Wednesday 30 April.
 
 2025-05-05 8:05am
 Northern Ireland Assembly
@@ -90,25 +90,65 @@ Questions in the Scottish Parliament to John Swinney, the first minister, on Thu
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 30 April.
 
-2025-05-05 11:00am
+2025-05-05 11:05am
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Education select committee session on 'solving the SEND crisis' and the provision of special educational needs and disabilities support, from Tuesday 29 April.
 
-2025-05-05 5:00pm
-Select Committees
-Recorded coverage of select committee proceedings.
+2025-05-05 1:05pm
+House of Lords
+Business in the House of Lords on Thursday 1 May.
 
-2025-05-05 11:00pm
-Select Committees
-Recorded coverage of select committee proceedings.
+2025-05-05 3:15pm
+House of Lords
+Business in the House of Lords on Thursday 1 May.
 
-2025-05-06 5:00am
-Select Committees
-Recorded coverage of select committee proceedings.
+2025-05-05 5:15pm
+House of Lords
+Business in the House of Lords on Thursday 1 May.
 
-2025-05-06 11:00am
+2025-05-05 7:25pm
+House of Lords
+Business in the House of Lords on Thursday 1 May.
+
+2025-05-05 8:15pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of select committee proceedings on Tuesday 29 April.
+
+2025-05-05 10:15pm
+Select Committees
+Coverage of the Women and Equalities select committee session on misogyny among young men and boys with evidence from Jack Thorne, creator and writer and executive producer of Adolescence, Emily Feller, executive producer of Adolescence, Jane Peckham, deputy general secretary of NASUWT, Dr Daniel McGuinness, co-founder and managing director of Beyond Equality, Matt Pinkett, misogyny and gender equity specialist at Engendering Change and English teacher, from Tuesday 29 April.
+
+2025-05-06 12:25am
+Select Committees
+Coverage of the Home Affairs select committee session on asylum accommodation, from Tuesday 29 April.
+
+2025-05-06 2:25am
+Select Committees
+Coverage of the Justice select committee session on the work of the Criminal Cases Review Commission with evidence from Karen Kneller, chief executive of the Criminal Cases Review Commission (CCRC) and Amanda Pearce, casework operations director at the CCRC, from Tuesday 29 April.
+
+2025-05-06 4:35am
+House of Commons
+Coverage of the day's proceedings in the House of Commons on Wednesday 30 April.
+
+2025-05-06 5:25am
+House of Commons
+Debate in the House of Commons on an urgent question on the government's approach to reducing energy prices for energy intensive industries, on Thursday 1 May.
+
+2025-05-06 5:55am
+Select Committees
+Lords International Relations and Defence Committee session on the work of the Foreign Office, with evidence from the secretary of state, David Lammy, on Wednesday 30 April.
+
+2025-05-06 7:30am
+Select Committees
+Coverage of the Education select committee session on 'solving the SEND crisis' and the provision of special educational needs and disabilities support, from Tuesday 29 April.
+
+2025-05-06 9:30am
+House of Commons
+Coverage of the day's proceedings in the House of Commons on Thursday 1 May.
+
+2025-05-06 11:20am
+House of Commons
+Highlights of proceedings in the House of Commons from Thursday 1 May.
 
 2025-05-06 12:30pm
 Welsh First Minister's Questions
@@ -126,22 +166,6 @@ Coverage of questions in the House of Commons to Wes Streeting, the health and s
 Select Committees
 Coverage of the day's proceedings in the House of Commons on Tuesday, 6 May 2025.
 
-2025-05-06 3:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Tuesday, 6 May 2025.
-
-2025-05-06 4:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Tuesday, 6 May 2025.
-
-2025-05-06 5:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Tuesday, 6 May 2025.
-
-2025-05-06 6:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Tuesday, 6 May 2025.
-
 2025-05-06 9:30pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 6 May.
@@ -154,26 +178,6 @@ Questions in the House of Lords to government ministers on Tuesday 6 May.
 Select Committees
 Coverage of business in the House of Lords on Tuesday, 6 May 2025.
 
-2025-05-07 12:05am
-House of Lords
-Coverage of business in the House of Lords on Tuesday, 6 May 2025.
-
-2025-05-07 1:05am
-House of Lords
-Coverage of business in the House of Lords on Tuesday, 6 May 2025.
-
-2025-05-07 2:05am
-House of Lords
-Coverage of business in the House of Lords on Tuesday, 6 May 2025.
-
-2025-05-07 3:05am
-House of Lords
-Coverage of business in the House of Lords on Tuesday, 6 May 2025.
-
-2025-05-07 4:05am
-House of Lords
-Business in the House of Lords on Tuesday 6 May.
-
 2025-05-07 6:00am
 Select Committees
 Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 6 May.
@@ -182,7 +186,7 @@ Coverage of questions in the House of Commons to Wes Streeting, the health and s
 Select Committees
 Highlights of the proceedings in the House of Commons on Tuesday, 6 May 2025.
 
-2025-05-07 8:30am
+2025-05-07 9:00am
 Select Committees
 Coverage of select committee proceedings on Wednesday 7 May.
 
@@ -195,18 +199,6 @@ Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 7 May.
 
 2025-05-07 11:35am
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Wednesday, 7 May 2025.
-
-2025-05-07 12:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Wednesday, 7 May 2025.
-
-2025-05-07 1:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Wednesday, 7 May 2025.
-
-2025-05-07 2:30pm
 Select Committees
 Coverage of the day's proceedings in the House of Commons on Wednesday, 7 May 2025.
 
@@ -223,26 +215,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Wednesday 7 May.
 
 2025-05-07 10:20pm
-House of Lords
-Business in the House of Lords on Wednesday 7 May.
-
-2025-05-07 11:20pm
-House of Lords
-Business in the House of Lords on Wednesday 7 May.
-
-2025-05-08 12:20am
-House of Lords
-Business in the House of Lords on Wednesday 7 May.
-
-2025-05-08 1:20am
-House of Lords
-Business in the House of Lords on Wednesday 7 May.
-
-2025-05-08 2:20am
-House of Lords
-Business in the House of Lords on Wednesday 7 May.
-
-2025-05-08 3:20am
 House of Lords
 Business in the House of Lords on Wednesday 7 May.
 
@@ -274,14 +246,6 @@ Coverage of the announcement of future Commons business and questions to Lucy Po
 Select Committees
 Coverage of the day's proceedings in the House of Commons on Thursday, 8 May 2025.
 
-2025-05-08 11:30am
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Thursday, 8 May 2025.
-
-2025-05-08 12:30pm
-Select Committees
-Coverage of the day's proceedings in the House of Commons on Thursday, 8 May 2025.
-
 2025-05-08 4:30pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 8 May.
@@ -291,30 +255,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Thursday 8 May.
 
 2025-05-08 6:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-08 7:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-08 8:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-08 9:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-08 10:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-08 11:00pm
-House of Lords
-Business in the House of Lords on Thursday 8 May.
-
-2025-05-09 12:00am
 House of Lords
 Business in the House of Lords on Thursday 8 May.
 
@@ -371,30 +311,82 @@ Northern Ireland Assembly
 Highlights from the Northern Ireland Assembly.
 
 2025-05-10 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Tuesday 6 May.
 
-2025-05-10 9:00am
-To Be Announced
-9:00am
+2025-05-10 10:00am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 7 May.
 
-2025-05-10 1:00pm
-To Be Announced
-1:00pm
+2025-05-10 10:35am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 8 May.
+
+2025-05-10 11:20am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 6 May.
+
+2025-05-10 12:10pm
+Northern Ireland Assembly
+Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Monday 28 April.
+
+2025-05-10 12:55pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2025-05-10 1:40pm
+House of Lords
+Coverage of a statement in the House of Lords.
+
+2025-05-10 2:25pm
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2025-05-10 3:10pm
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2025-05-10 4:15pm
+House of Lords
+Coverage of a debate in the House of Lords.
 
 2025-05-10 5:00pm
-To Be Announced
-5:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2025-05-10 9:00pm
-To Be Announced
-9:00pm
+2025-05-10 11:20pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 7 May.
 
-2025-05-11 1:00am
-To Be Announced
-1:00am
+2025-05-10 11:55pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 8 May.
+
+2025-05-11 12:40am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 6 May.
+
+2025-05-11 1:30am
+Select Committees
+Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 6 May.
+
+2025-05-11 2:30am
+Select Committees
+Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 7 May.
+
+2025-05-11 3:00am
+Select Committees
+Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 8 May.
+
+2025-05-11 3:40am
+Select Committees
+Coverage of questions in the House of Commons to Lucy Rigby, the solicitor general, on Thursday 8 May.
+
+2025-05-11 4:00am
+Select Committees
+Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 8 May.
 
 2025-05-11 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Wednesday 7 May.
 
