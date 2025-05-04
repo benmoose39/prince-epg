@@ -1,47 +1,3 @@
-2025-05-03 11:45pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-04 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-04 12:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-05-04 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-04 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-05-04 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-04 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-05-04 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-04 3:30am
-Trump: The First 100 Days
-Donald Trump's return to the White House has seen sweeping change in the US and far beyond. From tariffs to Ukraine and much more, there have been dozens of new policies. So what does it all mean?
-
-2025-05-04 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-04 4:30am
-Tech Now
-Tech Now revisits stories about technology that's helping the planet, including the Sydney-based startup using robotics to clean up waterways and a community in Svalbard shifting to clean energy.
-
 2025-05-04 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -931,6 +887,138 @@ The Travel Show
 Sixty years on from the famous march for equal voting rights in Selma, Reece Parkinson travels through America's Deep South to discover how the civil rights movement is remembered and its impact.
 
 2025-05-10 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-10 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Emily English and Niklas Ekstedt, and by special guest Liz Carr. Drinks expert Helen McGinn picks the wines to go with the studio dishes.
+
+2025-05-10 10:30am
+Football Focus
+Alex Scott and guests discuss the biggest stories from the world of football and look forward to an intriguing set of fixtures this weekend that features Liverpool against Arsenal.
+
+2025-05-10 11:15am
+Homes Under the Hammer
+Dion heads to Crewe in Cheshire to see a four-bed terrace with tonnes of original character and charm. Martel is in Accrington, Lancashire, visiting a two-bed mid-terrace that is a bit dark and dingy in places. Tommy is in Norwich, where a three-bed terrace takes him back to the 1970s.
+
+2025-05-10 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-10 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-10 12:15pm
+Bargain Hunt
+As the red and blue teams weave their way around an antiques arcade in Hungerford, Caroline Hawley tries her hand at weaving willow. In the workshop of Erica Adams, she learns about the history of wicker and its resurgence as a sustainable material.
+
+2025-05-10 1:00pm
+To Be Announced
+1:00pm
+
+2025-05-10 3:30pm
+Final Score
+Jason Mohammad presents all the latest scores, results and reaction from the day's football fixtures across the UK.
+
+2025-05-10 4:20pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-10 4:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-10 4:35pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-10 4:40pm
+Bridge of Lies
+Ross Kemp presents the high-stakes quiz where a team of celebrities faces the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2025-05-10 5:25pm
+The Hit List
+It's time for the stars to shine in another celebrity special. The famous faces joining Rochelle and Marvin Humes in this episode of the addictive music quiz are comedians Ivo Graham and Emmanuel Sonubi, musician Toyah Willcox and ex-footballer Pat Nevin, and EastEnders stars Natalie Cassidy and Jamie Borthwick. Who will guess the song titles first and get the chance to win £10,000 for their chosen charity?
+
+2025-05-10 6:10pm
+Doctor Who
+In Lagos, the mysterious Barber reigns supreme. The Doctor discovers a world where stories have power, but can he stop the Spider and its deadly web of revenge?
+
+2025-05-10 7:00pm
+Blankety Blank
+The legendary Blankety Blank is back! Bradley Walsh hosts as a panel of six celebrities fill in the missing blanks and help win some brilliant prizes for some very lucky contestants. This week, he's joined by Josh Widdicombe, Judi Love, Aisling Bea, Kojey Radical, Jedward and Michelle Collins.
+
+2025-05-10 7:35pm
+Pointless Celebrities
+A special Comedy edition of the general knowledge quiz in which four teams try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman, and featuring Geoff Norcott, Danny John-Jules, Ninia Benjamin, Ed Byrne, Olivia Lee, Kerry Howard, Clair Buckley and James Buckley.
+
+2025-05-10 8:20pm
+Casualty
+Rida exposes instances of misconduct within the ED, Indie dodges distractions, and Rash questions Flynn's leadership.
+
+2025-05-10 9:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-10 9:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-10 9:30pm
+Match of the Day
+Gary Lineker brings you all the goals, reaction and analysis from the day's five Premier League games, including the clash for European football between Bournemouth and Aston Villa. Villa are attempting to reach the Champions League in back-to-back seasons, and they take on a Bournemouth side with European aspirations. In the day's other matches, Fulham boss Marco Silva faces former club Everton, Ipswich Town play Brentford, Manchester City travel to Southampton and Wolves host Brighton.
+
+2025-05-10 10:40pm
+The Women's Football Show
+Highlights from the finalweekend of the Women's Super League 2024/25 season as Chelsea host Liverpool, Manchester United travel to Arsenal and Manchester City welcome Crystal Palace. The other fixtures are Aston Villa v Brighton & Hove Albion, Everton v Tottenham Hotspur and Leicester City v West Ham United.
+
+2025-05-10 11:30pm
+Ashley Cain: Into the Danger Zone
+Ashley heads to the Philippines to find out if joining a gang is the only way to survive in the slum districts of the capital, Manila. Ashley explores how gang life has changed in the Philippines and what factors still drive young men to join them.
+
+2025-05-11 12:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-11 12:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-11 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-11 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-05-11 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-11 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-05-11 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-11 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-05-11 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-11 4:30am
+Tech Now
+Paul Carter explores how one of the world's fastest supercomputers is shaping climate research. Laura Goodwin finds out how scientists from around the world are mapping the cosmos.
+
+2025-05-11 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
