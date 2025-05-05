@@ -1,23 +1,3 @@
-2025-05-04 10:00pm
-Vera
-With her caustic wit and singular charm, DCI Vera Stanhope and her trusted right-hand man face a series of captivating murder mysteries set against the breathtaking Northumberland landscape.
-
-2025-05-04 11:50pm
-Agatha Christie's Poirot
-When Poirot suspects that the son of an old friend and his fashion-model girlfriend are in danger, his investigation is helped by Hastings' new hobby of photography.
-
-2025-05-05 12:50am
-The Bay
-Julie's life starts to implode when Craig's lies begin to unravel as he explains his whereabouts on the night of Hannah's death.
-
-2025-05-05 1:45am
-The Bay
-A vital clue leads the MIU to take a closer look at another of Hannah's family members.
-
-2025-05-05 2:35am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
 2025-05-05 8:00pm
 Midsomer Murders
 The discovery of a Saint's bones at an archaeological dig causes a stir in the village of Midsomer Cicely. But when the leader of the dig is murdered, DCI Barnaby and DS Nelson soon realise that it is not only skeletons that have been long buried in the hallowed ground.
@@ -165,4 +145,32 @@ The busmen decide to get fit after reading an article which states that drivers 
 2025-05-11 2:30am
 Unwind with ITV
 Your daily escape designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-11 8:00pm
+Doc Martin
+Rumours are rife about Martin's plans to leave Portwenn and take up a surgeon's job in London. An insecure Pauline confronts him about her future and Martin offers to write her a reference, but it all ends in tears. At the surgery, a worried Joan Norton brings in Ted to be examined, suspecting he may have had a heart attack, and Martin attends a medical conference at a hotel where Edith is giving a key speech.
+
+2025-05-11 9:00pm
+Doc Martin
+The preparations for Martin's departure are nearly complete, and he is surprised by the number of patients coming to see him on the last day before his surgery closes. Edith visits to say she will see him in London. Taxi driver Tommy is complaining of migraines, but Martin does not realise the significance until Tommy's wife Tasha collapses with the same symptoms during the Harbour Day celebrations.
+
+2025-05-11 10:00pm
+Vera
+DCI Vera Stanhope must unravel the circumstances of self-styled entrepreneur Freddie Gill's death when his body is found by bailiffs, attempting to repossess his house. Freddie is estranged from his wife and son who have returned to living with her formidable mother Tina, her volatile brother Lee and her taciturn uncle Darren at the family's beloved pub. Matters are further complicated when it's revealed Freddie was with someone the night he died and there may be a witness to the crime.
+
+2025-05-11 11:50pm
+Agatha Christie's Poirot
+A would-be thriller writer hopes Poirot will solve a fictional murder, but when a real killing takes place at the local manor house, Poirot finds himself drawn into the world of the supernatural.
+
+2025-05-12 12:50am
+The Bay
+It's all change in the MIU, when a new SIO is called in to lead the team.
+
+2025-05-12 1:45am
+The Bay
+When crucial evidence in the case is found, Jenn and the team discover someone close to Hannah has been withholding vital information.
+
+2025-05-12 2:35am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
