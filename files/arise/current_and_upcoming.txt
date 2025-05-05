@@ -88,7 +88,7 @@ Breaking news and headlines, local weather forecasts, sports and traffic reports
 
 2025-05-06 5:00am
 Arise 360
-5:00am
+Backtrace:
 
 2025-05-06 6:00am
 Arise News Now
