@@ -1,27 +1,3 @@
-2025-05-05 11:10pm
-The Essex Millionaire Murders
-The first part of a two-part documentary series. Easter Sunday, 2023 - a wealthy couple in their 60s are found dead by their daughter on Mersea Island in Essex. Carol and Stephen Baxter are in their armchairs with no sign of a struggle as police rule out carbon monoxide poisoning.
-
-2025-05-06 12:05am
-The Essex Millionaire Murders
-The concluding part of a two-part documentary series. Detectives raid Luke D'Wit's home and seize a huge stash of prescription drugs - including fentanyl and antihistamine - that are both found in the Baxters' postmortem as police press Luke to explain his relationship to Carol Baxter's mysterious American physician Dr Andrea Bowden. Luke has been mixing 'medicinal' drinks for Carol on Dr Bowden's instructions, but detectives can find no trace of her existence.
-
-2025-05-06 12:55am
-Teleshopping
-Shopping from home.
-
-2025-05-06 3:00am
-Bali 2002
-Australian and Indonesian investigators work together to track down the perpetrators of the Bali bombings as injured survivors and their loved ones try to piece their shattered lives back together.
-
-2025-05-06 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-06 5:05am
-Wheel of Fortune
-Graham Norton hosts as engineer John, safeguarding coordinator Roxy, and content writer Lewis all try to claim a possible 50,000 pounds by spinning the Wheel and solving puzzles.
-
 2025-05-06 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -577,4 +553,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-05-12 5:05am
 Prue Leith's Cotswold Kitchen
 Prue is joined in her kitchen by designers Vin and Omi, the people responsible for putting her on a catwalk in a latex dress. John pays a visit to a butcher and learns how to twist sausages before buying the meat that Prue needs for a barbeque.
+
+2025-05-12 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-05-12 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-05-12 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-05-12 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-05-12 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-05-12 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-12 2:00pm
+Alan Titchmarsh's Gardening Club
+Alan shares what's thriving in his kitchen garden, garden designer Lucy Willcox offers practical planting design tips for spring, Camilla Bassett-Smith explores the history and horticulture of an Arts and Crafts garden in the Midlands, and Errol Reuben Fernandes heads to London to help a community green space plant its first-ever micro forest.
+
+2025-05-12 3:00pm
+Jeopardy!
+Stephen welcomes new challengers Michael and Rachel as they hope that their impressive quiz skills and quick reactions will be enough to defeat the reigning Jeopardy! champion.
+
+2025-05-12 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-05-12 5:00pm
+The Chase
+Julie from Chesterfield, Aaron from Great Yarmouth, Elaine from Woking and Michael from New York take on one of the country's finest quiz brains. Hosted by Bradley Walsh.
+
+2025-05-12 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-12 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-05-12 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-05-12 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-05-12 9:00pm
+Malpractice
+With more questions than answers, the MIU are running out of time to piece together the truth. Dr Ford and the MIU discover witnesses unwilling to speak on record and hints of a wider conspiracy that leads far beyond the failing psychiatric unit.
+
+2025-05-12 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-05-12 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-12 10:45pm
+The Trial of Louise Woodward
+The courtroom battle over Louise Woodward, a British nanny accused of murdering an American baby in her care, stunned the world as it played out live on TV. Neary 25 years later, revisiting the gripping and controversial trial, which continues to divide medical and legal opinion today, and features revelatory interviews with the lead defence lawyer as well as with key expert witnesses on both sides.
+
+2025-05-12 11:45pm
+For the Love of Dogs with Alison Hammond
+Alison meets the most unlikely stray to be wandering the London streets in the form of a rare Romanian Mioritic Shepherd who has a fear of stairs and doorways. As Alison also helps a tiny Bichon control her bark, there is organised chaos when a van with seven Belgian shepherd cross puppies arrives from the RSPCA.
+
+2025-05-13 12:10am
+Teleshopping
+Shopping from home.
+
+2025-05-13 3:00am
+Bali 2002
+As some of the perpetrators stand trial, investigators hunt for the elusive mastermind who continues a bombing spree across Indonesia.
+
+2025-05-13 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-13 5:05am
+Wheel of Fortune
+Graham Norton welcomes three new players, business strategist Mubeen, theatre technician Emma, and ambulance controller Paddy, as they face off for the chance to win £50,000.
 
