@@ -1,23 +1,3 @@
-2025-05-06 11:15pm
-Martin Clunes' Islands of the Atlantic
-Martin Clunes explores the islands of West Africa from tropical jungles to grassland savannah - he encounters giant snails and helps to rescue endangered sea turtles in equatorial Sao Tome and Principe, which is also known as the African Galapagos.
-
-2025-05-07 12:10am
-Teleshopping
-Shopping from home.
-
-2025-05-07 3:00am
-Fake
-Writer Birdie hopes for a love story when she matches with wealthy grazier Joe on a dating app.
-
-2025-05-07 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-07 5:05am
-Alan Titchmarsh's Gardening Club
-Alan and the team share more insights and inspiration with a visit to the world-famous Hampton Court Gardens. Martha Swales shows us the latest seasonal interest in her kitchen garden. Henry Agg provides a master-class.
-
 2025-05-07 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -569,4 +549,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-05-13 5:05am
 Wheel of Fortune
 Graham Norton welcomes three new players, business strategist Mubeen, theatre technician Emma, and ambulance controller Paddy, as they face off for the chance to win £50,000.
+
+2025-05-13 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-05-13 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-05-13 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-05-13 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-05-13 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-05-13 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-13 2:00pm
+Celebrity Catchphrase
+Richard Blackwood, Julia Bradbury and Roman Kemp all try to 'say what they see', as they guess well-known phrases for the chance to win a 50,000 pound jackpot for their chosen charity.
+
+2025-05-13 3:00pm
+Jeopardy!
+Stephen Fry welcomes new contestants Justin and Sally as they hope that their intelligence and buzzer speed will be enough to steal the crown from the reigning Jeopardy! champion.
+
+2025-05-13 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-05-13 5:00pm
+The Chase
+Katherine from Leeds, Ore from Leeds, Sinclair from Southend-On-Sea and Cameron from Glasgow work together as a team to take on one of the country's finest quiz brains. Hosted by Bradley Walsh.
+
+2025-05-13 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-13 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-05-13 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-05-13 8:00pm
+Love Your Garden
+Alan and the team are in the Oxfordshire town of Bicester to transform the drab new-build garden of local community heroes Adam and Alice.
+
+2025-05-13 9:00pm
+Shock and Awe: Trump's Return
+America is reeling from the first months of Donald Trump's second term. Award-winning journalist Robert Moore travels from coast to coast to meet people whose lives are changing at an astounding rate.
+
+2025-05-13 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-05-13 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-05-13 10:45pm
+The 1% Club
+Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
+
+2025-05-13 11:40pm
+Martin Clunes' Islands of the Atlantic
+Martin Clunes takes on the mountains of Madeira as a rally car navigator and patrols the waters of the Azores on the look-out for sperm whales.
+
+2025-05-14 12:30am
+Teleshopping
+Shopping from home.
+
+2025-05-14 3:00am
+Fake
+Ahead of a trip Birdie shuts down a co-worker's offer of a background check on Joe.
+
+2025-05-14 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-14 5:05am
+Alan Titchmarsh's Gardening Club
+Alan shares what's thriving in his kitchen garden, garden designer Lucy Willcox offers practical planting design tips for spring, Camilla Bassett-Smith explores the history and horticulture of an Arts and Crafts garden in the Midlands, and Errol Reuben Fernandes heads to London to help a community green space plant its first-ever micro forest.
 

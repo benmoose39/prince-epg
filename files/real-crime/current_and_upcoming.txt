@@ -1,31 +1,3 @@
-2025-05-06 11:01pm
-The FBI Files
-In 1996, a group of political extremists twice robbed a bank in Washington, using home-made bombs and military precision to escape. The FBI learned that the robbers were part of a shadowy organisation.
-
-2025-05-07 12:00am
-The FBI Files
-When a boy and his mother were abducted by a drug cartel, agents worked in the field to penetrate the secretive drug underworld.
-
-2025-05-07 12:55am
-Dark Waters of Crime
-Following the gruesome discovery of a skeleton on an island in New Brunswick, detectives seek to unravel the mystery of the woman with no name.
-
-2025-05-07 1:48am
-Dark Waters of Crime
-After finding the body of a young girl in a stream, investigators strive to retrace a murderer who knew how to use water to his advantage.
-
-2025-05-07 2:41am
-Dark Waters of Crime
-A young girl savagely beaten by teenagers and later found dead in a river leads to a troubling inquiry whereby water causes complications as well as the solution to the case.
-
-2025-05-07 3:34am
-Dark Waters of Crime
-New information forces the opening of a years old accidental death case.
-
-2025-05-07 4:29am
-Jack The Ripper: The German Suspect
-Ripper detective Trevor Marriott presents convincing new evidence surrounding the identity of Jack The Ripper, enabling him to trace living descendents of the Whitechapel murderer.
-
 2025-05-07 5:28am
 Jack the Ripper: London's Most Notorious Killer
 Unmasking Jack the Ripper and his evil deeds with a presentation of both factual evidence and conspiracy theories.
@@ -613,4 +585,104 @@ Exploring the rise of Chicago's notorious organised crime outfit from its incept
 2025-05-13 5:29am
 The New Chicago Mob
 Exploring the rise of Chicago's notorious organised crime outfit from its inception.
+
+2025-05-13 6:38am
+Mafia Queens
+Married to boss Natale Dantese, Antonella leads the fiercest faction of the Ascione-Papale family.
+
+2025-05-13 7:31am
+Mafia Queens
+Cristina Pinto shoots better than any man, and gains the faith of the Perrella clan as its muscle.
+
+2025-05-13 8:24am
+The Krays: The Myth Behind the Legend
+Rivals and other contemporaries discuss gangsters Ronnie and Reggie Kray, who ran London's East End.
+
+2025-05-13 9:23am
+British Gangsters: Faces of the Underworld
+Focusing on renowned villains Eddie and Billy Blundell, this episode also delves into the murky world of rave culture and how it was outlawed, before being legalised.
+
+2025-05-13 10:17am
+British Gangsters: Faces of the Underworld
+Bernard O'Mahoney explores the injustices suffered by those who have somewhat unwittingly surrounded themselves by criminals, including Phil Berriman.
+
+2025-05-13 11:10am
+British Gangsters: Faces of the Underworld
+When innocent people are jailed for crimes they did not commit, what effect does it have on their lives and their loved ones? Bernard O'Mahoney finds out.
+
+2025-05-13 12:02pm
+Daring Capers
+The theft of $200 million worth of art from a Boston museum in 1990.
+
+2025-05-13 12:32pm
+Daring Capers
+A cat burglar who stole fine silver from celebrity homes is caught at a Walmart.
+
+2025-05-13 1:02pm
+Daring Capers
+Fed up with his $7-an-hour job, a security guard at an armoured car company makes off with $18.8 million, the largest heist in U.S. history.
+
+2025-05-13 1:32pm
+The Unperfect Crime
+Documentary exploring the 1997 Loomis-Fargo armoured car heist in North Carolina and the serio-comic fates of its underdog perpetrators. who fell victim to avarice, mutual betrayals and false romantic promises.
+
+2025-05-13 3:26pm
+The FBI Files
+After a series of bank robberies and murders in south Miami during the mid-1980s, eight agents attempted to apprehend the two suspects. What followed was the bloodiest shootout in FBI history, with the suspects and two agents dead, and five other agents seriously wounded.
+
+2025-05-13 4:24pm
+The FBI Files
+The prime suspect in a murder is caught robbing a bank before being sentenced to life. His subsequent prison escape leads to a huge FBI manhunt.
+
+2025-05-13 5:23pm
+The FBI Files
+Following a series of violent carjackings in 1992 in the Washington DC area, agents discover a pattern.
+
+2025-05-13 6:21pm
+Angel of Death
+As the number of deaths at a medical centre climbs, the night staff begins to suspect that someone is poisoning the patients.
+
+2025-05-13 8:11pm
+	The Perfect Victim
+Three women spend more than 30 years in prison for killing their abusive husbands. They fight the system that incarcerated them when a new law is passed and their cases are reheard.
+
+2025-05-13 9:43pm
+Escape From Death Row
+How did six murderers hatch an elaborate plan to escape from the first death row prison, thought to be escape-proof?
+
+2025-05-13 11:31pm
+Daring Capers
+A 1978 heist at the Lufthansa Air Cargo terminal at Kennedy Airport.
+
+2025-05-14 12:01am
+Daring Capers
+A bank robber becomes a folk hero after escaping a trial by climbing out a courtroom window.
+
+2025-05-14 12:31am
+Daring Capers
+The theft of $200 million worth of art from a Boston museum in 1990.
+
+2025-05-14 1:01am
+Daring Capers
+A cat burglar who stole fine silver from celebrity homes is caught at a Walmart.
+
+2025-05-14 1:31am
+Daring Capers
+Fed up with his $7-an-hour job, a security guard at an armoured car company makes off with $18.8 million, the largest heist in U.S. history.
+
+2025-05-14 2:01am
+The Unperfect Crime
+Documentary exploring the 1997 Loomis-Fargo armoured car heist in North Carolina and the serio-comic fates of its underdog perpetrators. who fell victim to avarice, mutual betrayals and false romantic promises.
+
+2025-05-14 3:55am
+The FBI Files
+After a series of bank robberies and murders in south Miami during the mid-1980s, eight agents attempted to apprehend the two suspects. What followed was the bloodiest shootout in FBI history, with the suspects and two agents dead, and five other agents seriously wounded.
+
+2025-05-14 4:53am
+The FBI Files
+The prime suspect in a murder is caught robbing a bank before being sentenced to life. His subsequent prison escape leads to a huge FBI manhunt.
+
+2025-05-14 5:52am
+The FBI Files
+Following a series of violent carjackings in 1992 in the Washington DC area, agents discover a pattern.
 
