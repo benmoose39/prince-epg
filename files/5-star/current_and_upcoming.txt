@@ -220,7 +220,7 @@ Shopping from home.
 
 2025-05-09 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-05-09 6:00am
 Teleshopping
