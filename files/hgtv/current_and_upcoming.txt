@@ -444,7 +444,7 @@ Shopping from home.
 
 2025-05-12 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-05-12 6:00am
 Building Alaska

@@ -522,6 +522,58 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2025-05-12 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-12 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-12 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-12 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-12 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-12 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-12 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-12 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-12 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-12 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-12 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-12 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-12 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
 2025-05-12 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -631,8 +683,52 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-05-13 12:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-13 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-13 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-13 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-13 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-13 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-13 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-13 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-13 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-13 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-13 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-13 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-13 5:00am
 Breakfast
@@ -737,6 +833,54 @@ Detailed weather forecast.
 2025-05-14 12:40am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-14 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-14 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-14 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-14 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-14 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-14 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-14 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-14 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-14 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-14 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-14 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-14 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-14 5:00am
 Breakfast
@@ -843,8 +987,56 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-05-15 12:30am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-15 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-15 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-15 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-15 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-15 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-15 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-15 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-15 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-15 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-15 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-15 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-15 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-15 5:00am
 Breakfast
