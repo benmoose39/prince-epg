@@ -120,10 +120,6 @@ Bugs Bunny plays streetball. Porky Pig puts a new spin on an old sport: ice skat
 
 2025-05-09 5:55am
 Mr Bean
-Backtrace:
-
-2025-05-09 5:55am
-Mr Bean
 Mr Bean is trying to impress some kids in the park with his football skills but winds up kicking their ball into a dilapidated, scary-looking house.
 
 2025-05-09 6:10am
