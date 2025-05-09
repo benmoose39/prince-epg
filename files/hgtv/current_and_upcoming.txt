@@ -336,7 +336,7 @@ Shopping from home.
 
 2025-05-12 5:00am
 Teleshopping
-Backtrace:
+Shopping from home.
 
 2025-05-12 6:00am
 Building Alaska
