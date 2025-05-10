@@ -48,10 +48,6 @@ Lazzaro, a good-hearted young peasant, and Tancredi, a young nobleman cursed by 
 
 2025-05-12 2:45am
 Teleshopping
-Backtrace:
-
-2025-05-12 2:45am
-Teleshopping
 Shopping from home.
 
 2025-05-12 6:45am
