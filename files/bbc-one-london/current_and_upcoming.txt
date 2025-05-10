@@ -1,43 +1,3 @@
-2025-05-09 11:15pm
-	Highlander
-From the Scottish Highlands of the 16th century to present-day New York, immortal Connor MacLeod is unable to escape his destiny and must battle against his fellow warriors.
-
-2025-05-10 1:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-10 1:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-10 1:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-05-10 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-10 2:30am
-On The Front Line
-A unique project in Bristol is helping cops catch dangerous offenders and identify young people at risk of sexual exploitation - with the help of street sex workers.
-
-2025-05-10 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-10 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-05-10 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-10 4:30am
-The Travel Show
-Sixty years on from the famous march for equal voting rights in Selma, Reece Parkinson travels through America's Deep South to discover how the civil rights movement is remembered and its impact.
-
 2025-05-10 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -947,6 +907,126 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-16 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-16 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-05-16 9:45am
+Dr Xand's Con or Cure
+From cons to cures, scams to scares and sifting fakes from facts. Dr Xand van Tulleken and Ashley John-Baptiste's health consumer show, dedicated to righting the wrongs of `bad medicine'.
+
+2025-05-16 10:15am
+Homes Under the Hammer
+Victorian splendour is how a couple in Whitstable hope to add sparkle to a run-down house just half a mile from the sea. Their passion project will be their home when the project's finished. There are also ambitious renovations in Bedworth and Torquay.
+
+2025-05-16 11:15am
+Bargain Hunt
+Charlie Ross learns how to restore old film footage, and two teams hunt for bargains at one of the UK's biggest antiques fairs, with expertsStephanie Connell and Nick Hall.
+
+2025-05-16 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-16 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-16 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-16 1:00pm
+Shakespeare and Hathaway: Private Investigators
+Frank and Lu investigate a case of paranormal activity when they are approached by a wealthy member of the local trainspotting community.
+
+2025-05-16 1:45pm
+Expert Witness
+The 2005 murder of a Glasgow woman goes cold, but 17 years on, can a Dutch soil expert help to finally bring the killer to justice?
+
+2025-05-16 2:15pm
+Escape to the Country
+Looking to leave London for Derbyshire, a couple with four children need some expert guidance from Denise Nurse, as she helps them navigate the county's rural housing market in search of the perfect family home. Denise also catches up with a past escapee who now runs a mobile refill shop which helps to reduce plastic waste.
+
+2025-05-16 2:45pm
+The Bidding Room
+Nigel Havers welcomes five more sellers to the Bidding Room, where they try to sell items to professional dealers who are on the lookout for interesting pieces, with help from expert Simon Bower. First to cartwheel through the doors are budding young actress Grace and her mum Leanne, with a gym horse. Used as a prop in a recent production of the musical, Matilda, they are selling on behalf of their local stage school to raise money for their next show.
+
+2025-05-16 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-05-16 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-05-16 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-16 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-16 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-05-16 6:30pm
+Lost and Found in the Lakes
+The scuba team dive to their greatest depth yet to search on behalf of heartbroken newlyweds. Crafter Lucy takes on a shattered teapot fished out of the water and attempts to make something truly special out of it. And social media detective Mui tries to get a phone full of memories back to its rightful owner.
+
+2025-05-16 7:00pm
+Would I Lie to You?
+Over the course of each show, a cast of celebrity guests reveal stories about themselves. But are they telling the truth, or are they making it all up? The guests joining Lee Mack and David Mitchell are Gabby Logan, Chris McCausland, Angela Scanlon and John Simm.
+
+2025-05-16 7:30pm
+Alison Hammond's Big Weekend
+Alison Hammond spends a big weekend with pop star Perrie Edwards. Perrie opens up about her home life, her struggles with anxiety and not being able to be alone.
+
+2025-05-16 8:00pm
+Have I Got News for You
+Stephen Mangan is host with guest panellists including comedian Chloe Petts joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-05-16 8:30pm
+Austin
+Ingrid discovers a former passion. Austin and Julian prepare for the first screening of the documentary, entitled: `The Greatest Man I Never Knew', that will hopefully rebrand Julian to the world.
+
+2025-05-16 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-16 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-16 9:40pm
+Man Like Mobeen
+In Turkey, Istanbul offers many distractions, and Mobeen struggles to keep the gang focused on their mission to rescue Aqsa and kill Khan.
+
+2025-05-16 10:05pm
+Man Like Mobeen
+Mobeen and the gang face Khan in a final showdown. Can Mobeen save Aqsa and his friends to get back home to the ends?
+
+2025-05-16 10:30pm
+	Bodies Bodies Bodies
+When a group of 20-somethings gets stuck at a remote mansion during a hurricane, a party game gone very, very wrong ends with a dead body on the ground and fake friends at every turn as they try to find the killer among them.
+
+2025-05-17 12:00am
+Bridge of Lies
+Ross Kemp presents the high-stakes quiz where a team of celebrities faces the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2025-05-17 12:45am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-17 12:50am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
