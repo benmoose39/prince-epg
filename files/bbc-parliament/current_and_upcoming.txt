@@ -55,23 +55,23 @@ Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 6 May.
 
 2025-05-11 1:30am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 6 May.
 
 2025-05-11 2:30am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 7 May.
 
 2025-05-11 3:00am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 8 May.
 
 2025-05-11 3:40am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Lucy Rigby, the solicitor general, on Thursday 8 May.
 
 2025-05-11 4:00am
-Select Committees
+House of Commons
 Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 8 May.
 
 2025-05-11 5:00am
@@ -119,23 +119,23 @@ Prime Minister's Questions
 Recorded coverage of select committee proceedings.
 
 2025-05-11 11:20pm
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 8 May.
 
 2025-05-12 12:00am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Lucy Rigby, the solicitor general, on Thursday 8 May.
 
 2025-05-12 12:20am
-Select Committees
+House of Commons
 Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 8 May.
 
 2025-05-12 1:20am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 7 May.
 
 2025-05-12 1:50am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 6 May.
 
 2025-05-12 2:50am
@@ -179,7 +179,7 @@ Northern Ireland Assembly
 Coverage of questions in Stormont to ministers in the Northern Ireland executive, on Tuesday 6 May.
 
 2025-05-12 1:30pm
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Liz Kendall, the work and pensions secretary, and her team of ministers on Monday 12 May.
 
 2025-05-12 2:30pm
@@ -235,7 +235,7 @@ House of Lords
 Business in the House of Lords on Monday 12 May.
 
 2025-05-13 6:00am
-Select Committees
+House of Commons
 Coverage of questions in the House of Commons to Liz Kendall, the work and pensions secretary, and her team of ministers on Monday 12 May.
 
 2025-05-13 7:00am
