@@ -1,47 +1,3 @@
-2025-05-10 11:30pm
-Ashley Cain: Into the Danger Zone
-Ashley heads to the Philippines to find out if joining a gang is the only way to survive in the slum districts of the capital, Manila. Ashley explores how gang life has changed in the Philippines and what factors still drive young men to join them.
-
-2025-05-11 12:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-11 12:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-11 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-11 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-05-11 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-11 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-05-11 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-11 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-05-11 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-11 4:30am
-Tech Now
-Paul Carter explores how one of the world's fastest supercomputers is shaping climate research. Laura Goodwin finds out how scientists from around the world are mapping the cosmos.
-
 2025-05-11 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -939,6 +895,82 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-17 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-17 9:00am
+Saturday Kitchen Live
+Host Donal Skehan is joined by chefs Tony Singh and Rukmini Iyer, and by special guest Ruth Jones. Drinks expert Olly Smith picks the wines to go with the studio dishes. There are also great moments from the BBC food archive.
+
+2025-05-17 10:30am
+Mary Berry - Love to Cook
+Mary cooks up four delicious recipes that prove watching the pennies does not mean having to sacrifice on flavour. She presents a sumptuous crab courgetti spaghetti dish which uses tinned fish at a fraction of the cost of fresh.
+
+2025-05-17 11:00am
+Football Focus
+Alex Scott is at Wembley to set the scene for the 144th FA Cup final, in which Crystal Palace are seeking a first major trophy at the expense of seven-time winners Manchester City. Alex and guests discuss how the game might be won and lost and bring you interviews and insight from both camps ahead of kick-off.
+
+2025-05-17 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-17 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-17 12:15pm
+Tiddler
+A little fish with a big imagination who entertains friends with tall tales. One day, Tiddler gets lost but is saved by his own storytelling.
+
+2025-05-17 12:40pm
+	Dinosaurs: The Final Day With David Attenborough
+Sir David Attenborough presents this landmark documentary which brings to life, in unprecedented detail, the lost world of the very last days of the dinosaurs. Searching in the hills of North Dakota, palaeontologist Robert DePalma makes an incredible discovery in a prehistoric graveyard known as Tanis - fossilised creatures, astonishingly well preserved like the bodies found at Pompeii.
+
+2025-05-17 2:05pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-17 2:15pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-17 2:20pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-17 2:25pm
+
+Gary Lineker introduces live coverage of the Wembley showpiece as serial winners Manchester City face a Crystal Palace side vying for the first major trophy in their history. Wayne Rooney and Micah Richards provide studio insight, while commentary comes from Guy Mowbray and Alan Shearer.
+
+2025-05-17 6:10pm
+Doctor Who
+The Doctor's quest to get Belinda back home to Earth leads to a space station hosting the famous song contest. But a harmless night of fun soon becomes a battle to survive.
+
+2025-05-17 7:00pm
+Eurovision Song Contest
+Girlband Remember Monday fly the flag for the UK with their song What The Hell Just Happened?, as Graham Norton provides his iconic commentary - live from Basel, Switzerland.
+
+2025-05-17 11:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-17 11:20pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-17 11:25pm
+Match of the Day
+All the goals and drama from Wembley on the most celebrated day of England's football calendar as Crystal Palace, seeking a first major trophy, faced much-decorated Manchester City. City are contesting the final for the third successive year, as many times as Palace have managed in their entire 120-year history. But with the attacking threat of Eberechi Eze, Ismaila Sarr and Jean-Philippe Mateta, can the Eagles soar to victory?
+
+2025-05-18 12:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-18 12:05am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-18 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
