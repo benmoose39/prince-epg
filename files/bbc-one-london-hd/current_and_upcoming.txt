@@ -894,6 +894,38 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2025-05-17 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-17 1:30am
+Inside Museums
+Join art critic Alastair Sooke on a journey of discovery to the world's most inspiring museums. This time he's in Doha, capital of the Gulf state of Qatar, to explore the Museum of Islamic Art. The collection tells the story of the blossoming of Islamic art in the region and beyond; influencing and cross-fertilising with diverse cultures and traditions in places as far afield as Spain and Indonesia.
+
+2025-05-17 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-17 2:30am
+Eye Investigations
+On June 25 2024, blood was spilt at Kenya's Parliament. Thousands of protestors headed there. En-route they met tear gas and even gunfire. At least three people were killed. Exposing the men who spilled blood on the grounds of Kenya's Parliament.
+
+2025-05-17 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-17 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-05-17 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-17 4:30am
+The Travel Show
+Reece Parkinson continues his journey through America's Deep South. In this episode, Reece heads to the city of Atlanta, Georgia, the birthplace of civil rights leader, Rev. Dr Martin Luther King Jr.
+
 2025-05-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -969,6 +1001,42 @@ Detailed weather forecast.
 2025-05-18 12:05am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-18 12:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-05-18 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-18 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-05-18 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-18 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-05-18 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-18 3:30am
+The Interview
+Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
+
+2025-05-18 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-18 4:30am
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
 
 2025-05-18 5:00am
 Breakfast

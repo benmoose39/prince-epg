@@ -470,18 +470,6 @@ Shopping from home.
 Teleshopping
 Shopping from home.
 
-2025-05-14 5:30am
-Teleshopping
-Shopping from home.
-
-2025-05-14 6:00am
-Teleshopping
-Shopping from home.
-
-2025-05-14 6:30am
-Teleshopping
-Shopping from home.
-
 2025-05-14 7:00am
 	Love Off the Page
 Romantic comedy (2022)
@@ -510,15 +498,15 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Blue Moon Ball
 Romance (2022)
 
-2025-05-14 11:05am
+2025-05-14 11:00am
 	Matching Hearts
 Romance (2020)
 
-2025-05-14 12:00pm
+2025-05-14 11:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-05-14 12:02pm
+2025-05-14 12:00pm
 	Matching Hearts
 Romance (2020)
 
@@ -550,17 +538,21 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Appetite for Love
 When an executive is sent to a small town to acquire a local diner, she discovers that its owner is an ex-boyfriend who refuses to sell it to her.
 
-2025-05-14 5:05pm
+2025-05-14 5:00pm
 	Love Struck Café
 An aspiring architect gets the opportunity of a lifetime when she's chosen to develop her home town's lake into an entertainment complex. Unfortunately, to complete the project, she must convince a lifelong friend to leave her family's home.
 
-2025-05-14 6:00pm
+2025-05-14 5:55pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-05-14 6:02pm
+2025-05-14 6:00pm
 	Love Struck Café
 An aspiring architect gets the opportunity of a lifetime when she's chosen to develop her home town's lake into an entertainment complex. Unfortunately, to complete the project, she must convince a lifelong friend to leave her family's home.
+
+2025-05-14 6:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-05-14 7:00pm
 	A Country Romance
@@ -649,10 +641,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-05-15 8:00am
 	The Clue to Love
 Audrey heads to Hope Cove to write about the special yet anonymous love advice column. She meets the editor-in-chief Morgan Cooper.
-
-2025-05-15 9:00am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-05-15 9:10am
 	Undercover Bridesmaid
