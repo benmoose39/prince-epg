@@ -32,6 +32,10 @@ After an elaborate heist goes south, reluctant criminal Chad must find a way to 
 
 2025-05-16 2:50am
 Teleshopping
+Backtrace:
+
+2025-05-16 2:50am
+Teleshopping
 Shopping from home.
 
 2025-05-16 6:50am
