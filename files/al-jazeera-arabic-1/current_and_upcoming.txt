@@ -1,7 +1,3 @@
-2025-05-15 7:30am
-The Observatory
-A weekly media-oriented show that closely monitors and features up-to-date Arab and world media issues.
-
 2025-05-15 8:00am
 This Day
 Stay on top of today's news with all the latest developments, including economic and sport.
@@ -244,7 +240,7 @@ A current affairs daily program looking at a major news story of the day.
 
 2025-05-17 5:00am
 News Bulletin
-International news with an emphasis on developments in the Arab world.
+Backtrace:
 
 2025-05-17 6:00am
 News Bulletin
