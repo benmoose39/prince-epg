@@ -886,29 +886,37 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Cell
 A graphic novelist begins a desperate search for his estranged wife and son after a mysterious cellphone signal transforms New Englanders into savage killers.
 
-2025-05-21 10:05pm
+2025-05-21 10:00pm
 	Kill Command
 In the near future, a training exercise leads to a fight for survival when Marines encounter advanced military robots on a remote island.
 
-2025-05-21 11:00pm
+2025-05-21 10:55pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-05-21 11:02pm
+2025-05-21 10:57pm
 	Kill Command
 In the near future, a training exercise leads to a fight for survival when Marines encounter advanced military robots on a remote island.
 
-2025-05-22 12:15am
+2025-05-22 12:00am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-05-22 12:10am
 	Personal Shopper
 A young American in Paris works as a personal shopper for a celebrity. She seems to have the ability to communicate with spirits, like her recently deceased twin brother. Soon, she starts to receive ambiguous messages from an unknown source.
 
-2025-05-22 1:10am
+2025-05-22 1:05am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-05-22 1:12am
+2025-05-22 1:07am
 	Personal Shopper
 A young American in Paris works as a personal shopper for a celebrity. She seems to have the ability to communicate with spirits, like her recently deceased twin brother. Soon, she starts to receive ambiguous messages from an unknown source.
+
+2025-05-22 2:20am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-05-22 2:30am
 Air Rescue
