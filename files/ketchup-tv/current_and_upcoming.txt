@@ -44,10 +44,6 @@ Ketchup TV.
 
 2025-05-19 5:00am
 Ketchup
-Backtrace:
-
-2025-05-19 5:00am
-Ketchup
 Ketchup TV.
 
 2025-05-19 9:00am
