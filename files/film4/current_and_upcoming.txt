@@ -72,6 +72,10 @@ A young black street-dweller is offered a chance to escape urban poverty and wor
 
 2025-05-19 2:35am
 Teleshopping
+Backtrace:
+
+2025-05-19 2:35am
+Teleshopping
 Shopping from home.
 
 2025-05-19 6:35am
