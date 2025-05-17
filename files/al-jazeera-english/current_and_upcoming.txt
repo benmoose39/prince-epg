@@ -84,7 +84,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-17 7:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-17 8:00pm
 News
@@ -152,7 +152,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-18 4:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-18 5:00am
 News
@@ -216,7 +216,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-18 2:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-18 3:00pm
 Newshour
@@ -348,7 +348,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-19 9:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-19 10:00am
 Newshour
@@ -456,7 +456,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-20 2:30am
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-20 3:00am
 News
@@ -696,7 +696,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-21 2:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities in order to provide a different perspectives and insights.
+Pakistan's Foreign Minister on Pakistan-India tensions, diplomacy, and regional instability as the two countries face renewed confrontation.
 
 2025-05-21 3:00pm
 Newshour
@@ -800,7 +800,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-22 5:30am
 Inside Story
-Backtrace:
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2025-05-22 6:00am
 News
