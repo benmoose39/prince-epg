@@ -35,7 +35,7 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-05-18 11:50am
-Women's FA Cup
+
 Live coverage of the Women's FA Cup final between Chelsea and Manchester United.
 
 2025-05-18 3:05pm
@@ -882,6 +882,42 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2025-05-24 12:30am
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
+
+2025-05-24 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-24 1:30am
+Inside Museums
+Join art critic Alastair Sooke on a journey of discovery to the world's most inspiring museums. This time he is in Turkey's biggest city Istanbul as he explores the recently built new home of Istanbul Modern. He finds out what makes the art born at this unique meeting point of cultures so special and learns about Turkish culture as seen through the eyes of the country's most acclaimed modern artists.
+
+2025-05-24 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-24 2:30am
+Scams & Scandals
+The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
+
+2025-05-24 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-24 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-05-24 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-24 4:30am
+The Travel Show
+Train enthusiast Francis Bourgeois travels to Malaysia to explore a railway network dating back 140 years.
+
 2025-05-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -993,6 +1029,38 @@ Detailed weather forecast.
 2025-05-25 12:55am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-25 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-25 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-05-25 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-25 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-05-25 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-25 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-05-25 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-25 4:30am
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
 
 2025-05-25 5:00am
 Breakfast

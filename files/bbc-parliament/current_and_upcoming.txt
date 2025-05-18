@@ -2,47 +2,63 @@
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 14 May.
 
-2025-05-18 10:00am
-House of Lords
-Coverage of a statement in the House of Lords.
+2025-05-18 9:30am
+House of Commons
+Coverage of questions in the House of Commons to Peter Kyle, the science, innovation and technology secretary, and his team of ministers on Wednesday 14 May.
 
-2025-05-18 10:45am
+2025-05-18 9:55am
+Lords Questions
+Questions in the House of Lords to government ministers on Thursday 15 May.
+
+2025-05-18 10:40am
 Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
+Coverage of the statement in the Senedd, the Welsh Parliament, by the cabinet secretary for health and social care on maternity and neonatal services at Swansea Bay University Health Board, from Tuesday 13 May.
+
+2025-05-18 11:30am
+Scottish Parliament
+Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 15 May.
 
 2025-05-18 11:50am
-Scottish Parliament
-Coverage of a statement in the Scottish Parliament.
+Northern Ireland Assembly
+Questions in Stormont to the Northern Ireland executive, with the education minister Paul Givan, on Monday 12 May.
 
 2025-05-18 12:35pm
 House of Commons
-Coverage of a statement in the House of Commons.
+Coverage of the day's proceedings in the House of Commons on Wednesday 14 May.
 
-2025-05-18 1:20pm
+2025-05-18 1:25pm
 House of Lords
-Coverage of a debate in the House of Lords.
+Business in the House of Lords on Wednesday 14 May.
 
-2025-05-18 2:05pm
+2025-05-18 2:10pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 14 May.
 
-2025-05-18 2:40pm
+2025-05-18 2:45pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 15 May.
 
-2025-05-18 3:25pm
+2025-05-18 3:35pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 13 May.
 
-2025-05-18 4:15pm
+2025-05-18 4:25pm
 Northern Ireland Assembly
 Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
 
-2025-05-18 5:00pm
+2025-05-18 5:10pm
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Women and Equalities select committee session on the health impacts of breast implants and other cosmetic procedures, from Wednesday 14 May.
 
-2025-05-18 11:20pm
+2025-05-18 7:10pm
+Select Committees
+Coverage of the Home Affairs select committee session on asylum accommodation, with evidence from Steve Lakey, managing director of Clearsprings Ready Homes, Claudia Sturt, prisons and immigration director at Serco UK and Europe, and Jason Burt, group director of Health safety and compliance at Mears Group, from Tuesday 13 May.
+
+2025-05-18 9:10pm
+Select Committees
+Coverage of select committee proceedings on Wednesday 14 May.
+
+2025-05-18 11:15pm
 House of Commons
 Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 15 May.
 
@@ -54,35 +70,35 @@ Coverage of questions in the House of Commons to Peter Kyle, the science, innova
 House of Commons
 Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 13 May.
 
-2025-05-19 1:50am
+2025-05-19 1:45am
 House of Commons
 Coverage of questions in the House of Commons to Liz Kendall, the work and pensions secretary, and her team of ministers on Monday 12 May.
 
-2025-05-19 2:50am
+2025-05-19 3:00am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 13 May.
 
-2025-05-19 3:40am
+2025-05-19 3:50am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 15 May.
 
-2025-05-19 4:25am
+2025-05-19 4:35am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 14 May.
 
-2025-05-19 5:00am
+2025-05-19 5:15am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 15 May.
 
-2025-05-19 8:00am
+2025-05-19 7:50am
 Northern Ireland Assembly
 Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
 
-2025-05-19 8:45am
+2025-05-19 8:40am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 13 May.
 
-2025-05-19 9:35am
+2025-05-19 9:30am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 15 May.
 
@@ -92,11 +108,11 @@ Coverage of questions in the House of Commons to Keir Starmer, the prime ministe
 
 2025-05-19 10:55am
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Women and Equalities select committee session on the health impacts of breast implants and other cosmetic procedures, from Wednesday 14 May.
 
 2025-05-19 1:00pm
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
+Coverage of questions in Stormont to ministers in the Northern Ireland executive.
 
 2025-05-19 1:30pm
 House of Commons
@@ -106,51 +122,15 @@ Coverage of questions in the House of Commons to John Healey, the defence secret
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Monday, 19 May 2025.
 
-2025-05-19 3:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 19 May 2025.
-
-2025-05-19 4:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 19 May 2025.
-
-2025-05-19 5:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 19 May 2025.
-
-2025-05-19 6:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday, 19 May 2025.
-
 2025-05-19 9:30pm
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
+Coverage of questions in Stormont to ministers in the Northern Ireland executive.
 
 2025-05-19 10:15pm
 Lords Questions
 Questions in the House of Lords to government ministers on Monday 19 May.
 
 2025-05-19 11:00pm
-House of Lords
-Business in the House of Lords on Monday 19 May.
-
-2025-05-20 12:00am
-House of Lords
-Business in the House of Lords on Monday 19 May.
-
-2025-05-20 1:00am
-House of Lords
-Business in the House of Lords on Monday 19 May.
-
-2025-05-20 2:00am
-House of Lords
-Business in the House of Lords on Monday 19 May.
-
-2025-05-20 3:00am
-House of Lords
-Business in the House of Lords on Monday 19 May.
-
-2025-05-20 4:00am
 House of Lords
 Business in the House of Lords on Monday 19 May.
 
@@ -162,7 +142,7 @@ Coverage of questions in the House of Commons to John Healey, the defence secret
 House of Commons
 Highlights of the proceedings in the House of Commons on Monday, 19 May 2025.
 
-2025-05-20 8:30am
+2025-05-20 9:00am
 Select Committees
 Coverage of select committee proceedings on Tuesday 20 May.
 
@@ -171,18 +151,6 @@ House of Commons
 Coverage of questions in the House of Commons to Rachel Reeves, the chancellor of the exchequer, and her team of ministers on Tuesday 20 May.
 
 2025-05-20 11:30am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday, 20 May 2025.
-
-2025-05-20 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday, 20 May 2025.
-
-2025-05-20 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday, 20 May 2025.
-
-2025-05-20 2:30pm
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Tuesday, 20 May 2025.
 
@@ -199,26 +167,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Tuesday 20 May.
 
 2025-05-20 10:35pm
-House of Lords
-Business in the House of Lords on Tuesday 20 May.
-
-2025-05-20 11:35pm
-House of Lords
-Business in the House of Lords on Tuesday 20 May.
-
-2025-05-21 12:35am
-House of Lords
-Business in the House of Lords on Tuesday 20 May.
-
-2025-05-21 1:35am
-House of Lords
-Business in the House of Lords on Tuesday 20 May.
-
-2025-05-21 2:35am
-House of Lords
-Business in the House of Lords on Tuesday 20 May.
-
-2025-05-21 3:35am
 House of Lords
 Business in the House of Lords on Tuesday 20 May.
 
@@ -246,14 +194,6 @@ Coverage of questions in the House of Commons to Keir Starmer, the prime ministe
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Wednesday, 21 May 2025.
 
-2025-05-21 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday, 21 May 2025.
-
-2025-05-21 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday, 21 May 2025.
-
 2025-05-21 6:30pm
 House of Lords
 Coverage of the day's proceedings in the House of Lords on Wednesday 21 May.
@@ -267,26 +207,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Wednesday 21 May.
 
 2025-05-21 10:20pm
-House of Lords
-Business in the House of Lords on Wednesday 21 May.
-
-2025-05-21 11:20pm
-House of Lords
-Business in the House of Lords on Wednesday 21 May.
-
-2025-05-22 12:20am
-House of Lords
-Business in the House of Lords on Wednesday 21 May.
-
-2025-05-22 1:20am
-House of Lords
-Business in the House of Lords on Wednesday 21 May.
-
-2025-05-22 2:20am
-House of Lords
-Business in the House of Lords on Wednesday 21 May.
-
-2025-05-22 3:20am
 House of Lords
 Business in the House of Lords on Wednesday 21 May.
 
@@ -318,14 +238,6 @@ Coverage of the announcement of future Commons business and questions to Lucy Po
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Thursday, 22 May 2025.
 
-2025-05-22 11:30am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday, 22 May 2025.
-
-2025-05-22 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday, 22 May 2025.
-
 2025-05-22 4:30pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 22 May.
@@ -335,30 +247,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Thursday 22 May.
 
 2025-05-22 6:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-22 7:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-22 8:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-22 9:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-22 10:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-22 11:00pm
-House of Lords
-Business in the House of Lords on Thursday 22 May.
-
-2025-05-23 12:00am
 House of Lords
 Business in the House of Lords on Thursday 22 May.
 
@@ -412,7 +300,7 @@ Highlights from the Welsh Parliament.
 
 2025-05-24 3:30am
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
+Coverage of questions in Stormont to ministers in the Northern Ireland executive.
 
 2025-05-24 4:15am
 Northern Ireland Assembly
@@ -436,7 +324,7 @@ Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesd
 
 2025-05-24 12:10pm
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 12 May.
+Coverage of questions in Stormont to ministers in the Northern Ireland executive.
 
 2025-05-24 12:55pm
 House of Commons
