@@ -1,31 +1,3 @@
-2025-05-18 11:05pm
-All Elite Wrestling: Dynamite
-Action from the American professional wrestling promotion founded in 2019. Featuring Will Ospreay, Kazuchika Okada, Jay White, Mercedes Mone, Toni Storm, and many more.
-
-2025-05-19 1:00am
-The Protectors
-A poodle has been kidnapped.
-
-2025-05-19 1:30am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-19 2:00am
-Teleshopping
-Shopping from home.
-
-2025-05-19 4:00am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-19 4:30am
-Teleshopping
-Shopping from home.
-
-2025-05-19 5:00am
-The Best of the 90s
-A look back at a selection of the wide variety of sports covered by ITV during the 1990s - from the 1990 World Cup to athletics, Euro 1996 to snooker - and including many iconic and memorable moments.
-
 2025-05-19 5:10am
 Minder
 Arthur's good deed towards an old friend spells trouble for Terry.
@@ -653,4 +625,96 @@ Harry delivers a case in Rome.
 2025-05-25 5:45am
 Motorsport Mundial
 The latest motorsport news and action from around the globe. From Superbikes to Formula 1, Motorsport Mundial has the latest action and talking points from the motorsport world.
+
+2025-05-25 6:15am
+Auto Mundial
+The latest news and reviews from the world of cars.
+
+2025-05-25 6:45am
+FIA World Rally Championship
+Round Five of the 2025 World Rally Championship is the WRC Vodafone Rally de Portugal - a founding round of the WRC back in 1973, the rally is ranked as one of its classic events with challenging gravel stages to the east and south of Porto. Varying road surfaces and changeable weather add to the task facing crews, but it's also extremely popular among fans with enthusiastic spectators following the action in their tens of thousands.
+
+2025-05-25 7:40am
+FIM Superbike World Championship Motorcycle Racing
+The 2025 World Superbike Championship continues with the Motul Czech Round - the 4.212km track at the Autodrom Most will push the riders to their very limits as they look to get points on the board. This circuit first appeared on the WorldSBK calendar in 2021 and has become an instant classic due to its quirky layout leading to incredible late-race fights - thanks to its attractive event line-up, it is a popular destination for many motor enthusiasts and their families from across Europe.
+
+2025-05-25 8:40am
+The Motorbike Show
+Henry Cole tours Majorca on a classic bike, begins the restoration of a vintage Harley-Davidson and visits Bike Shed in London, the home of the New Wave custom scene.
+
+2025-05-25 9:45am
+To Be Announced
+9:45am
+
+2025-05-25 4:50pm
+Snooker
+A selection of the best hot shots from ITV Sports' snooker coverage.
+
+2025-05-25 4:55pm
+The Motorbike Show
+Henry Cole and Sam Lovegrove continue their rebuild of a Harley WLC. In between trips to the shed, Henry runs a stall at Kempton auto jumble, visits the Norton factory at Donington and finds out about the iconic Sportster bike.
+
+2025-05-25 6:00pm
+	Clash of the Titans
+Perseus travels the underworld to defeat the evil god Hades, who seeks to overthrow Zeus and bring hell to Earth.
+
+2025-05-25 7:05pm
+FYI Daily
+News from the world of entertainment.
+
+2025-05-25 7:10pm
+	Clash of the Titans
+Perseus travels the underworld to defeat the evil god Hades, who seeks to overthrow Zeus and bring hell to Earth.
+
+2025-05-25 8:00pm
+English Football League Highlights
+All of the action from the League One Play-Off final at Wembley Stadium.
+
+2025-05-25 8:45pm
+	Dirty Harry
+A violent and uncompromising police officer hunts for a psychopath who holds the city of San Francisco to ransom. Although the officer's unorthodox methods do not endear him to his superiors, the mayor reluctantly agrees that Harry Callahan seems to be the right cop for the job.
+
+2025-05-25 9:45pm
+FYI Daily
+News from the world of entertainment.
+
+2025-05-25 9:50pm
+	Dirty Harry
+A violent and uncompromising police officer hunts for a psychopath who holds the city of San Francisco to ransom. Although the officer's unorthodox methods do not endear him to his superiors, the mayor reluctantly agrees that Harry Callahan seems to be the right cop for the job.
+
+2025-05-25 10:50pm
+The Saint
+The Saint investigates a racket in which illegal immigrants are smuggled into Britain. He probes the local yacht club and unearths a people importing racket of a larger scale than he ever suspected.
+
+2025-05-25 11:50pm
+Minder
+A friend of Arthur's who has been badly beaten up asks Terry to keep an eye on his antique shop.
+
+2025-05-26 12:50am
+The Professionals
+Assassins target Doyle as he and Bodie try to recover a top-secret, laser-targeted rifle they were ordered to test.
+
+2025-05-26 1:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-26 2:00am
+Teleshopping
+Shopping from home.
+
+2025-05-26 4:00am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-05-26 4:30am
+Teleshopping
+Shopping from home.
+
+2025-05-26 5:00am
+ITV Racing
+A selection of dramatic horse racing finishes from ITV Racing's coverage, featuring thrilling races from Cheltenham, Aintree, Ascot and York.
+
+2025-05-26 5:05am
+Minder
+A nine-year-old boy turns up claiming to be Terry's son.
 

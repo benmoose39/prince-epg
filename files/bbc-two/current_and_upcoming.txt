@@ -1,15 +1,3 @@
-2025-05-18 11:35pm
-Question Time
-Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
-
-2025-05-19 12:35am
-Unforgotten: The Bradford City Fire
-In 1985, a fire ripped through the wooden stands at Bradford City's Stadium. These are the personal stories of those who lived through that day and who won't let it be forgotten.
-
-2025-05-19 2:05am
-This Is BBC TWO
-Preview of upcoming programmes from BBC Two.
-
 2025-05-19 5:25am
 Inside Our Minds
 Chris helps a tour guide with ADHD reveal to his parents what's really going on inside his head, and a council worker come to terms with the mixed emotions of a late diagnosis.
@@ -621,4 +609,84 @@ Preview of upcoming programmes from BBC Two.
 2025-05-25 5:30am
 The A to Z of TV Gardening
 Carol Kirkwood visits the Hyacinth National Collection as she takes an alphabetical journey through gardening.
+
+2025-05-25 6:15am
+Life in a Cottage Garden with Carol Klein
+Winter has come, harsh frosts have shattered Carol's tulip pots, and her brick paths are ruined. Carol takes shelter in the potting shed and prepares her garlic for spring planting. On finer days, she begins pruning late-flowering clematis, and when the thaw comes she begins a major re-vamp in the borders.
+
+2025-05-25 6:45am
+Countryfile
+Charlotte Smith and Matt Baker are in Shropshire, where landscapes are being brought back to life - floodplains are being rewilded, meadows restored and ancient woodlands reimagined.
+
+2025-05-25 7:40am
+Beechgrove Garden
+Ruth and Brian keep on top of care and maintenance on projects that were started earlier in the series.
+
+2025-05-25 8:10am
+Landward
+Dougie is in Glen Clova to find out how a shooting estate is balancing biodiversity and flood resilience. Meanwhile, Anne joins a team of firefighters learning how to tackle wildfires with fire.
+
+2025-05-25 8:40am
+Saturday Kitchen Best Bites
+An array of recipes from Vivek Singh, Max Hally, Ravinder Bhogal and Philip Khoury. Meanwhile, Rick Stein and The Hairy Bikers head out and about across the UK and abroad.
+
+2025-05-25 10:10am
+This Farming Life
+It's early winter and although the weather is getting colder and darker, it's a time of year that brings new life on the farms. In the east of Scotland, Martin's sheds are full of pregnant cows - and there are two expectant mothers he's particularly concerned about. In Central Scotland near Loch Lomond, Anne and Bobby must gather in their remaining sheep from the mountains with very little daylight.
+
+2025-05-25 11:10am
+	Kelly's Heroes
+World War II adventure about an American soldier who captures a German officer and discovers that his prisoner knows the whereabouts of $16 million in Nazi gold. Getting the colonel drunk, he finds out where the bullion is - it's lying behind enemy lines. The soldier quickly gathers a crew of military misfits to help him with his unusual and daring robbery.
+
+2025-05-25 1:30pm
+	Where Eagles Dare
+World War II espionage thriller scripted by Alistair MacLean from his bestseller. An elite squad of commandos are dispatched to rescue an American general held by the Nazis in a castle fortress in the Bavarian Alps. From the moment they parachute behind enemy lines, however, it becomes apparent that they face not only the might of the German army, but also a traitor in their midst.
+
+2025-05-25 4:00pm
+Final Score
+Jason Mohammad presents all the latest scores, results and reaction from the final day of the Premier League season, including the game between Nottingham Forest and Chelsea.
+
+2025-05-25 5:30pm
+Flog It!
+The team are at Stockport Town Hall in Greater Manchester, and Paul Martin is joined by experts Mark Stacey and Philip Serrell. Philip spots a pair of charcoal drawings by Northern artist Trevor Grimshaw and Mark spies some gold European coins. Paul also takes time out to visit Manchester Art Gallery to admire the work of Pre-Raphaelite artist Ford Madox Brown.
+
+2025-05-25 6:00pm
+Test Cricket
+Day four highlights from the Test match between England and Zimbabwe.
+
+2025-05-25 7:00pm
+Top Gear
+In the first of a two-part special, Jeremy Clarkson, Richard Hammond and James May are in Africa with a simple mission - to find the definitive source of the Nile. Over the years many explorers claim to have already done just that, but the `Top Gear' trio believe that they can do better by travelling further and faster than any exploration team in history using only grit, ingenuity and three ageing estate cars.
+
+2025-05-25 8:00pm
+Scandinavia with Simon Reeve
+The second leg of Simon's journey takes him from the stunning fjords of Norway to Iceland - the original land of fire and ice.
+
+2025-05-25 9:00pm
+Later ... with Jools Holland
+With performances from Franz Ferdinand, Joy Crookes, Billy Nomates, ALT BLK ERA, Cameron Winter and Jackson Dean, and Jools chats to Beverley Knight and Holly Johnson.
+
+2025-05-25 9:45pm
+Radio 1's Big Weekend
+Radio 1 brings you an incredible weekend of performances from the biggest names in music.
+
+2025-05-25 10:45pm
+	What's Love Got to Do With It
+No-holds-barred account of Tina Turner's life, from her humble beginnings in a church choir to the status of world-famous rock star. The film's main focus is on the stormy relationship between Tina and husband Ike - roles which won Oscar nominations for Angela Bassett and Laurence Fishburne - and Tina's ultimate triumph over adversity.
+
+2025-05-26 12:40am
+Question Time
+Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
+
+2025-05-26 1:40am
+The Bombing of Pan Am 103
+In the weeks following the bombing, the pressure to make progress is immense. The joint Scottish-FBI investigation closes in on its first suspect.
+
+2025-05-26 2:35am
+This Is BBC TWO
+Preview of upcoming programmes from BBC Two.
+
+2025-05-26 5:30am
+Bargain Hunt
+The destination today is Newark, where Danny's in the hot seat of a restored passenger aircraft, learning how pilots, technicians and cabin crew train for a career in aviation.
 
