@@ -1,7 +1,3 @@
-2025-05-19 7:30pm
-Emmerdale
-In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
-
 2025-05-19 8:00pm
 Coronation Street
 The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
@@ -132,7 +128,7 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 
 2025-05-21 5:05am
 Alan Titchmarsh's Gardening Club
-Alan takes us through his wildflower meadow, Martha Swales shares a window box masterclass, Jason Williams explores one of Europe's most ambitious horticultural projects, Katy Watson shows how to create a border on a budget, and Lucy Willcox returns with more practical garden design tips.
+Backtrace:
 
 2025-05-21 6:00am
 Good Morning Britain
