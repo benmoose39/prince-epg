@@ -1,11 +1,3 @@
-2025-05-19 8:00pm
-	Son of a Gun
-JR, a small-time, teenage criminal finds himself locked up for a minor crime and forced to adapt to the harsh realities of prison life. Fellow prisoner and Australia's most notorious criminal, Brendan Lynch, offers JR protection, but it comes at a price. Upon release, JR must help secure Lynch's freedom by staging a daring prison break.
-
-2025-05-19 8:55pm
-This Week Back Then
-Taking the viewer back in time with a look at news headlines from this week, back then.
-
 2025-05-19 9:01pm
 	Son of a Gun
 JR, a small-time, teenage criminal finds himself locked up for a minor crime and forced to adapt to the harsh realities of prison life. Fellow prisoner and Australia's most notorious criminal, Brendan Lynch, offers JR protection, but it comes at a price. Upon release, JR must help secure Lynch's freedom by staging a daring prison break.
@@ -60,7 +52,7 @@ Shopping from home.
 
 2025-05-20 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-05-20 6:00am
 Teleshopping
