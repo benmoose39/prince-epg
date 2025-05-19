@@ -107,48 +107,32 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-20 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-20 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-20 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-20 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-20 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
 
 2025-05-20 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-20 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-20 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
 2025-05-20 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-20 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-20 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Eye Investigations
+On June 25 2024, blood was spilt at Kenya's Parliament. Thousands of protestors headed there. En-route they met tear gas and even gunfire. At least three people were killed. Exposing the men who spilled blood on the grounds of Kenya's Parliament.
 
 2025-05-20 4:00am
 BBC News
@@ -267,48 +251,32 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-21 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-21 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
 
 2025-05-21 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-21 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-21 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-21 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-21 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-21 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-21 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-21 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-21 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Interview
+Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
 
 2025-05-21 4:00am
 BBC News
@@ -423,48 +391,32 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-22 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-22 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Interview
+Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
 
 2025-05-22 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-22 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-22 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-22 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-22 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-22 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Eye Investigations
+On June 25 2024, blood was spilt at Kenya's Parliament. Thousands of protestors headed there. En-route they met tear gas and even gunfire. At least three people were killed. Exposing the men who spilled blood on the grounds of Kenya's Parliament.
 
 2025-05-22 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-22 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-22 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
 
 2025-05-22 4:00am
 BBC News
@@ -579,48 +531,32 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-23 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-23 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-23 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-23 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-23 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
 
 2025-05-23 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-23 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-23 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Interview
+Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
 
 2025-05-23 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-23 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-23 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-23 4:00am
 BBC News
