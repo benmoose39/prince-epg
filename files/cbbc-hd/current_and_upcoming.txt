@@ -1,11 +1,3 @@
-2025-05-19 9:35am
-Best in the World
-This time, futuristic basketball-playing robots and banana drama. Come and check it out.
-
-2025-05-19 9:55am
-Horrible Histories
-Comedian and space nerd Dara O'Briain joins Rattus as guest host for a special show that marks the anniversary of the 1969 moon landings. For generations, we have looked to the stars and wondered as to the mysteries they contain.
-
 2025-05-19 10:20am
 The Dengineers
 Joe and Meryl are joined by the Dengineers Designers to give a masterclass on creating your own dream space.
@@ -1276,5 +1268,5 @@ Join the CBBC crew for all your favourite programmes. Tune into CBBC every day f
 
 2025-05-26 1:58am
 This is CBBC!
-Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.
+Backtrace:
 
