@@ -244,6 +244,10 @@ Shopping from home.
 
 2025-05-21 5:00am
 Teleshopping
+Backtrace:
+
+2025-05-21 5:00am
+Teleshopping
 Shopping from home.
 
 2025-05-21 7:00am
