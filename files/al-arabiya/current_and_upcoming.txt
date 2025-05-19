@@ -1,11 +1,3 @@
-2025-05-19 8:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
-2025-05-19 9:00am
-Al Arabiya News
-Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.
-
 2025-05-19 9:30am
 Al Aswaq Al Arabiya 2
 9:30am
@@ -128,7 +120,7 @@ Be at the forefront of top stories, breaking news, current affairs and all there
 
 2025-05-20 5:00am
 Sabah Al Arabiya
-Backtrace:
+Arabic.
 
 2025-05-20 6:00am
 Sabah Al Arabiya
