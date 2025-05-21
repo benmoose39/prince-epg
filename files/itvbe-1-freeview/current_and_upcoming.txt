@@ -12,10 +12,6 @@ This is ITVBe+1
 
 2025-05-22 5:00am
 This is ITVBe+1
-Backtrace:
-
-2025-05-22 5:00am
-This is ITVBe+1
 5:00am
 
 2025-05-22 1:00pm
