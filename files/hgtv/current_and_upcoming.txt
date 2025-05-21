@@ -1,7 +1,3 @@
-2025-05-21 4:00pm
-Escape to the Country
-Today's house hunt is in North Wales where Jules Hudson is helping a pair of returning expats find their ideal country home for a budget of £350,000. Whilst in the region, Jules heads out with a local fisherman to gather wild mussels using an ancient method that's been used on Wales' northern coast for 200 years.
-
 2025-05-21 5:00pm
 The Great British Bake Off
 It's Bread Week, with the 10 bakers having much to prove with a fruity teatime Signature, a rather international-flavoured Technical, and an ambitious Showstopper.
@@ -56,7 +52,7 @@ Shopping from home.
 
 2025-05-22 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-05-22 6:00am
 Building Alaska
