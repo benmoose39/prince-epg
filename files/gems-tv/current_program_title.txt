@@ -1,1 +1,1 @@
-IF Diamonds
+Malagasy Ruby Showcase
