@@ -1,51 +1,3 @@
-2025-05-22 11:10pm
-Who Do You Think You Are?
-Comedian Aisling Bea finds moments of genuine connection in her family tree, with stories of female resilience and a relative who fought for Irish independence and culture.
-
-2025-05-23 12:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-23 12:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-23 12:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-05-23 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-23 1:30am
-Tech Now
-Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
-
-2025-05-23 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-23 2:30am
-The Interview
-Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
-
-2025-05-23 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-23 3:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-05-23 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-23 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-05-23 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -911,6 +863,162 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-29 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-29 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-05-29 9:45am
+Expert Witness
+When a woman is the victim of an acid attack in Brighton, an expert pieces together hours of CCTV footage to identify the suspect. And through pollen analysis, an expert witness helps police solve a murder case.
+
+2025-05-29 10:15am
+Homes Under the Hammer
+We see the culmination of a five year project in Cheshire, but will a couple be able to create their dream home? Martin meets a first-time developer in east London who has an inspiring attitude. Jacqui is fighting against overgrown shrubbery.
+
+2025-05-29 11:15am
+Bargain Hunt
+Danny Sebastian and the teams shop for antiques in Harrogate with experts Izzie Balmer and John Cameron before heading to auction in Beverley. Danny visits an exhibition about pioneering pilot Amy Johnson.
+
+2025-05-29 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-29 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-29 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-29 1:00pm
+Money for Nothing
+Katie faces the challenge of a lifetime. Will biscuit tins be rich tea or even millionaires' shortbread?
+
+2025-05-29 1:45pm
+Escape to the Country
+The focus is firmly on Wiltshire today as Jonnie Irwin helps a couple from London with a £550k budget to make a life-changing rural move to this beautiful county. Jonnie also meets a group of bicycling enthusiasts.
+
+2025-05-29 2:45pm
+Garden Rescue
+Charlie and Chris are in Penarth to transform Hannah and Gemma's overgrown and unloved plot into a Tulum Jungle Bar garden. They are hoping for a sophisticated and exotic space that echoes some of their travels, particularly their trips to Mexico. Can the Garden Rescue team achieve all this on a £5000 budget?
+
+2025-05-29 3:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2025-05-29 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-05-29 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-29 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-29 6:00pm
+The One Show
+Roman Kemp and Lauren Laverne bring you the stories that matter from across the country.
+
+2025-05-29 6:30pm
+EastEnders
+The fallout of events continues.
+
+2025-05-29 7:00pm
+Interior Design Masters
+The two finalists head to the whimsical village of Portmeirion in Wales to redesign two quirky cottages. Taking inspiration from colourful buildings and spectacular scenery, they show Michelle and guest judge Sophie Robinson everything they have learned over the last eight weeks before one of them wins Interior Design Masters and a major collaboration contract for a range with John Lewis.
+
+2025-05-29 8:00pm
+Ambulance
+Crews respond to a patient in traumatic cardiac arrest after being stabbed. With his life hanging in the balance, doctors have no choice but to operate on him at the roadside.
+
+2025-05-29 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-29 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-29 9:40pm
+Question Time
+Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
+
+2025-05-29 10:40pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-05-29 11:10pm
+The Hit List
+The music plays on in another celebrity special. Joining Marvin and Rochelle are presenter the Rev Kate Bottley and actor Denise Van Outen, musician Max George and actor Maisie Smith, and actor Sally Lindsay and comedian Eddie Kadi. They might be big names, but can they name the big hits for a chance to win £10,000 for their chosen charity?
+
+2025-05-29 11:55pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-05-30 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-30 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-30 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-30 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-30 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-30 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-30 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-30 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
