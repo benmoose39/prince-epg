@@ -123,8 +123,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-24 2:30am
-Scams & Scandals
-The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
+Inside the High Street Cyber-Attacks
+Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
 
 2025-05-24 3:00am
 BBC News
@@ -861,6 +861,58 @@ Detailed weather forecast.
 2025-05-29 12:20am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-05-29 12:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-29 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-29 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-29 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-29 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-29 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-05-29 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-29 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-29 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-05-29 5:00am
 Breakfast
