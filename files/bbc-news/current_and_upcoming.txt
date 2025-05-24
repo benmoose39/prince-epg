@@ -1,47 +1,3 @@
-2025-05-23 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-05-24 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-24 12:30am
-Tech Now
-Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
-
-2025-05-24 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-24 1:30am
-Inside Museums
-Join art critic Alastair Sooke on a journey of discovery to the world's most inspiring museums. This time he is in Turkey's biggest city Istanbul as he explores the recently built new home of Istanbul Modern. He finds out what makes the art born at this unique meeting point of cultures so special and learns about Turkish culture as seen through the eyes of the country's most acclaimed modern artists.
-
-2025-05-24 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-24 2:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
-
-2025-05-24 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-24 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-05-24 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-24 4:30am
-The Travel Show
-Train enthusiast Francis Bourgeois travels to Malaysia to explore a railway network dating back 140 years.
-
 2025-05-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1149,4 +1105,152 @@ Bringing the latest business news and up to date informed analysis from London a
 2025-05-30 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-30 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-05-30 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-05-30 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-05-30 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-05-30 1:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-05-30 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-05-30 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-05-30 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-05-30 3:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-05-30 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-05-30 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-05-30 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-30 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-05-30 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-05-30 7:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-05-30 7:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-05-30 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-05-30 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-05-30 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-05-30 9:30pm
+Newsnight
+Insights and global interviews on the news stories of the day. With Matt Chorley.
+
+2025-05-30 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-05-30 10:30pm
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
+
+2025-05-31 1:00am
+To Be Announced
+1:00am
+
+2025-05-31 3:00am
+To Be Announced
+3:00am
+
+2025-05-31 3:30am
+To Be Announced
+3:30am
+
+2025-05-31 4:00am
+To Be Announced
+4:00am
+
+2025-05-31 4:30am
+To Be Announced
+4:30am
+
+2025-05-31 5:00am
+To Be Announced
+5:00am
 
