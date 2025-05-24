@@ -248,7 +248,7 @@ Join the CBBC crew for all your favourite programmes. Tune into CBBC every day f
 
 2025-05-26 1:58am
 This is CBBC!
-Join the CBBC crew for all your favourite programmes. Tune into CBBC every day from 7.00am.
+Backtrace:
 
 2025-05-26 6:00am
 Shaun the Sheep
