@@ -259,36 +259,24 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-26 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-26 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
 2025-05-26 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-26 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-26 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
 
 2025-05-26 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-26 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-26 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-26 4:00am
 BBC News
@@ -411,48 +399,32 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-27 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-27 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-27 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-27 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-27 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
 
 2025-05-27 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-27 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-27 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
 2025-05-27 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-27 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-27 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-27 4:00am
 BBC News
@@ -563,48 +535,32 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-05-28 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-28 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
 
 2025-05-28 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-28 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-28 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-28 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-28 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-28 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-28 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-28 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-28 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Movies
+Tom Brook and the team are in France as Talking Movies reports from the 2025 Cannes Film Festival, widely regarded as the world's most prestigious movie gathering.
 
 2025-05-28 4:00am
 BBC News
@@ -719,48 +675,32 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-29 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-29 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Movies
+Tom Brook and the team are in France as Talking Movies reports from the 2025 Cannes Film Festival, widely regarded as the world's most prestigious movie gathering.
 
 2025-05-29 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-29 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-29 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-29 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Inside the High Street Cyber-Attacks
+Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
 
 2025-05-29 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-29 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
 
 2025-05-29 4:00am
 BBC News
@@ -875,48 +815,32 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-30 12:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-30 12:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-30 1:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-30 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-30 1:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Tech Now
+Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
 
 2025-05-30 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-30 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-30 2:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-05-30 3:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-30 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-05-30 3:45am
-Sportsday
-The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+Inside the High Street Cyber-Attacks
+Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
 
 2025-05-30 4:00am
 BBC News
