@@ -1,47 +1,3 @@
-2025-05-24 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-05-25 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 12:30am
-Talking Movies
-Tom Brook and the team are in France as Talking Movies reports from the 2025 Cannes Film Festival, widely regarded as the world's most prestigious movie gathering.
-
-2025-05-25 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-05-25 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-05-25 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-05-25 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 4:30am
-Tech Now
-Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
-
 2025-05-25 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1057,4 +1013,168 @@ To Be Announced
 2025-05-31 5:00am
 To Be Announced
 5:00am
+
+2025-05-31 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-31 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 10:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-05-31 11:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 11:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 12:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 12:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-05-31 1:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 1:30pm
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-05-31 2:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 2:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 2:45pm
+Newswatch
+Viewers' opinions on the coverage of events by BBC News, addressed by the editors and decision makers in charge.
+
+2025-05-31 3:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 3:30pm
+Scams & Scandals
+The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
+
+2025-05-31 4:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 5:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-31 6:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 6:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-05-31 7:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 7:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-05-31 8:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 9:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 10:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 10:30pm
+Political Thinking with Nick Robinson
+Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.
+
+2025-05-31 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-01 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 12:30am
+Take Me to the Opera
+Zeinab Badawi ventures into the English countryside to go behind the scenes at the historic opera venue of Glyndebourne. She asks how far Glyndebourne is leading the way in trying to make opera fit for the future through innovative initiatives.
+
+2025-06-01 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-06-01 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-06-01 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-06-01 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 4:30am
+Tech Now
+Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
+
+2025-06-01 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

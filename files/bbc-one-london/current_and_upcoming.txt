@@ -1,47 +1,3 @@
-2025-05-24 11:25pm
-	Retreat
-On an isolated island, a couple's attempt to recover from a personal tragedy is shattered when a stranger washes ashore with news of an airborne disease sweeping through Europe.
-
-2025-05-25 12:50am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-25 12:55am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-05-25 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-05-25 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-05-25 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-05-25 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-25 4:30am
-Tech Now
-Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
-
 2025-05-25 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -863,6 +819,118 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-31 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-05-31 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Anna Haugh and Mike Davies plus special guest Craig David. This week, drinks expert Olly Smith is picking the wines to go with the studio dishes, and we taste some BBQ beers with Jaega Wise. There are also great moments from the BBC food archive.
+
+2025-05-31 10:30am
+The Great Food Guys
+Nick Nairn and Dougie Vipond celebrate some Scottish favourites, making a haggis and pheasant pativier with green vegetables. Their special guest is singer and actress Barbara Dickson, who joins them in the kitchen for a chat and to try this week's food and drink combination.
+
+2025-05-31 11:00am
+Homes Under the Hammer
+A trio of terraces in Norfolk, Mid Glamorgan and Essex are transformed by seasoned developers who battle the rising cost of building materials to turn a profit on their auction buys.
+
+2025-05-31 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-31 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-31 12:15pm
+Bargain Hunt
+Roo Irvine quizzes fairgoers with another mystery object on Bargain Hunt from Oswestry Showground. As members of the public puzzle over its use, two teams dash around the stalls buying three items to sell at auction. In red, it's nurses Sheena and Yvonne, and guiding them is their expert, Philip Serrell. Over with the blues, Ben Cooper has his work cut out keeping the peace between sisters Rachel and Elaine. Which team will conquer at the auction near Wrexham?
+
+2025-05-31 1:00pm
+Escape to the Country
+Having recently returned from Bermuda, today's couple are bracing themselves for an exploration of Northamptonshire's property, people and places, guided by Steve Brown. Steve also meets a social media influencer and a local food producer.
+
+2025-05-31 1:35pm
+Garden Rescue
+Young couple Emily and Maurice's narrow new-build garden in Bristol leaves a lot to be desired. They dream of an elegant, Mediterranean-inspired space to rekindle happy holiday memories. With a £2,500 budget, Charlie and Chris create a stylish, contemporary spot that brings sunshine vibes to the couple's lives.
+
+2025-05-31 2:05pm
+Tabby McTat
+Busker Fred and his cat Tabby McTat entertain and delight passersby with music across London. One day Fred falls, injures his leg, and is whisked away in an ambulance, leaving Tabby alone on the city's streets.
+
+2025-05-31 2:30pm
+Deadly 60
+Steve goes in search of the deadliest cats in Africa in the carnivore capital of Zambia. He gets up close to the rulers of the savannah: the lions and leopards.
+
+2025-05-31 3:00pm
+Planet Earth III
+All around the world, there are heroes on the frontline of conservation who are risking everything in the fight to save wildlife. Sir David Attenborough introduces this programme saying, 'A new generation of remarkable people are stepping up to save wildlife. They're overcoming huge obstacles, travelling to dangerous places and sometimes even risking their lives. To me, they are true heroes! This is the story of some of them.'
+
+2025-05-31 4:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-31 4:10pm
+BBC London News
+News, sport and weather from London.
+
+2025-05-31 4:15pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-31 4:20pm
+Bridge of Lies
+Ross Kemp presents a celebrity special of the high-stakes quiz, featuring Rachel Riley, Les Dennis, Jordan Banjo and Mrs Brown's Boys actress Fiona O'Carroll.
+
+2025-05-31 5:05pm
+The Hit List
+It's another star-studded celebrity special of The Hit List. The three teams joining Marvin and Rochelle Humes are Loose Women Kéllé Bryan and Brenda Edwards, actor Layton Williams and presenter Angela Scanlon, and former rugby player James Haskell and presenter Mike Bushell. Who will hit the right note and get the chance to win £10,000 for their chosen charity?
+
+2025-05-31 5:50pm
+Doctor Who
+Battle rages across the skies as the Unholy Trinity unleash their deadly ambition. The Doctor, Belinda and Ruby have to risk everything in the quest to save one innocent life.
+
+2025-05-31 7:00pm
+Blankety Blank
+The legendary Blankety Blank is back! Bradley Walsh hosts as a panel of six celebrities fill in the missing blanks and help win some brilliant prizes for some very lucky contestants. This week, he's joined by Sue Perkins, Ashley Roberts, John Barnes, Richard Ayoade, Janet Street-Porter and Guz Khan.
+
+2025-05-31 7:30pm
+Casualty
+Loyalties are tested on the day of Faith and Iain's wedding.
+
+2025-05-31 8:20pm
+The Last Anniversary
+Sophie discards one unsuitable suitor, just as another enters her life; Grace continues to struggle with motherhood, and her own mother, Enigma; Sophie and Veronika make a big discovery in the Baby Munro mystery.
+
+2025-05-31 9:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-05-31 9:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-05-31 9:30pm
+Mrs Brown's Boys
+Series about an Irish matriarch, whose favourite pastime is meddling in the lives of her children.
+
+2025-05-31 10:00pm
+UEFA Champions League Football
+Gabby Logan presents all the goals, drama and in-depth analysis from the Champions League final as Paris Saint-Germain take on Internazionale in Munich for Europe's biggest prize. Luis Enrique's PSG cantered to their fourth successive French top-flight title this season with six games to spare, but major European success has so far proven elusive.
+
+2025-05-31 10:40pm
+	Scary Stories to Tell in the Dark
+The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It's in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah's spooky home.
+
+2025-06-01 12:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-01 12:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-01 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
