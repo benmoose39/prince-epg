@@ -2,27 +2,35 @@
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 21 May.
 
-2025-05-25 10:00am
-House of Lords
-Coverage of a statement in the House of Lords.
+2025-05-25 9:35am
+Scottish Parliament
+Coverage of the statement in the Scottish Parliament in response to the outcome of the UK-EU summit, from Tuesday 20 May.
 
-2025-05-25 10:45am
+2025-05-25 10:10am
+Scottish Parliament
+Coverage of questions in the Scottish Parliament to the cabinet secretary for net zero, energy and transport, Gillian Martin, from Thursday 22 May.
+
+2025-05-25 10:35am
+Scottish Parliament
+Coverage of the statement in the Scottish Parliament on the response to the housing emergency, from Thursday 22 May.
+
+2025-05-25 11:15am
 Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
+Coverage of the statement in the Senedd, the Welsh Parliament, on 'sustainable communities for learning', from Tuesday 20 May.
 
 2025-05-25 11:50am
-Scottish Parliament
-Coverage of a statement in the Scottish Parliament.
+Senedd Cymru - Welsh Parliament
+Coverage of the statement in the Senedd, the Welsh Parliament, on priorities for culture in Wales, from Tuesday 20 May.
 
-2025-05-25 12:35pm
-House of Commons
-Coverage of a statement in the House of Commons.
+2025-05-25 12:40pm
+Senedd Cymru - Welsh Parliament
+Coverage of the statement in the Senedd, the Welsh Parliament, updating members of the Senedd on major events, from Tuesday 20 May.
 
-2025-05-25 1:20pm
-House of Lords
-Coverage of a debate in the House of Lords.
+2025-05-25 1:15pm
+Northern Ireland Assembly
+Highlights from the Northern Ireland Assembly.
 
-2025-05-25 2:05pm
+2025-05-25 2:00pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 21 May.
 
@@ -42,23 +50,31 @@ Coverage of questions in Stormont to ministers in the Northern Ireland executive
 Select Committees
 Recorded coverage of select committee proceedings.
 
-2025-05-25 11:20pm
-House of Commons
-Coverage of questions in the House of Commons to Lisa Nandy, the culture, media and sport secretary, and her team of ministers on Thursday 22 May.
+2025-05-25 6:30pm
+Select Committees
+Coverage of select committee proceedings on Tuesday 20 May.
 
-2025-05-26 12:00am
-House of Commons
-Coverage of questions in the House of Commons to the Church Commissioners, the House of Commons Commission, the Public Accounts Commission, the Restoration and Renewal Client Board and the Speaker's Committee on the Electoral Commission, on Thursday 22 May.
+2025-05-25 8:20pm
+Select Committees
+Treasury committee session on building societies, with evidence from Nationwide, Yorkshire Building Society, Skipton Group and others, on Wednesday 21 May.
 
-2025-05-26 12:20am
+2025-05-25 10:10pm
+House of Lords
+Business in the House of Lords on Wednesday 21 May.
+
+2025-05-25 11:00pm
+House of Commons
+Coverage of the announcement of future Commons business and questions to Lucy Powell, the leader of the Commons, on Thursday 22 May.
+
+2025-05-26 12:10am
 House of Commons
 Coverage of questions in the House of Commons to Hilary Benn, the Northern Ireland secretary, and his team of ministers on Wednesday 21 May.
 
-2025-05-26 12:50am
+2025-05-26 12:35am
 House of Commons
 Coverage of questions in the House of Commons to Rachel Reeves, the chancellor of the exchequer, and her team of ministers on Tuesday 20 May.
 
-2025-05-26 1:50am
+2025-05-26 1:40am
 House of Commons
 Coverage of questions in the House of Commons to John Healey, the defence secretary, and his team of ministers on Monday 19 May.
 

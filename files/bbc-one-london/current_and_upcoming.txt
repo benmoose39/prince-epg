@@ -115,8 +115,8 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-05-26 1:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
 
 2025-05-26 2:00am
 Newsday
@@ -271,8 +271,8 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-27 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
 
 2025-05-27 3:00am
 Newsday
@@ -376,7 +376,7 @@ News, sport and weather from London.
 
 2025-05-27 9:40pm
 The Crime I Can't Forget
-For over two decades, the case of Jennifer Cardy's abduction while cycling to a nearby friend's house in 1981 remained unsolved. Then, in 2002, it was reopened and Detective Superintendent Raymond Murray led the investigation.
+When a promising young boxer is murdered in West Belfast, police must juggle the challenges of keeping the peace process on track while racing against the clock to solve the murder.
 
 2025-05-27 10:40pm
 Ambulance
@@ -539,16 +539,24 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 1:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-29 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 2:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-29 3:00am
 Newsday
@@ -671,8 +679,12 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-30 12:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-30 1:00am
 Newsday
@@ -695,8 +707,12 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-30 3:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-30 4:00am
 BBC News
@@ -818,6 +834,38 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2025-05-31 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 1:30am
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
+
+2025-05-31 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 2:30am
+Scams & Scandals
+The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
+
+2025-05-31 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-05-31 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 4:30am
+The Travel Show
+Emeline Nsingi Nkosi celebrates 125 years of the iconic Paris Metro - going behind the scenes to meet the people who keep the network running and finding out about a huge building project.
+
 2025-05-31 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -929,6 +977,42 @@ Detailed weather forecast.
 2025-06-01 12:25am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-01 12:30am
+Take Me to the Opera
+Zeinab Badawi ventures into the English countryside to go behind the scenes at the historic opera venue of Glyndebourne. She asks how far Glyndebourne is leading the way in trying to make opera fit for the future through innovative initiatives.
+
+2025-06-01 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-06-01 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 2:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-06-01 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 3:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-06-01 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-01 4:30am
+Tech Now
+Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
 
 2025-06-01 5:00am
 Breakfast

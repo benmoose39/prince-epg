@@ -35,8 +35,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-25 12:30pm
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-25 1:00pm
 BBC News
@@ -115,8 +115,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-25 11:30pm
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
 
 2025-05-26 12:00am
 BBC News
@@ -131,8 +131,8 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-26 1:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
 
 2025-05-26 2:00am
 Newsday
@@ -295,8 +295,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-26 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+Inside the High Street Cyber-Attacks
+Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
 
 2025-05-27 12:00am
 BBC News
@@ -319,8 +319,8 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-27 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
 
 2025-05-27 3:00am
 Newsday
@@ -663,16 +663,24 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 1:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 1:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-29 2:00am
 Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-29 2:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-29 2:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-29 3:00am
 Newsday
@@ -827,8 +835,12 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-30 12:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 12:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-30 1:00am
 Newsday
@@ -851,8 +863,12 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-05-30 3:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-30 3:45am
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
 
 2025-05-30 4:00am
 BBC News
@@ -990,29 +1006,53 @@ In-depth reports on the major international and US news of the day.
 The President's Path
 Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
 
+2025-05-30 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-30 11:30pm
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-05-31 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 12:30am
+Tech Now
+Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
+
 2025-05-31 1:00am
-To Be Announced
-1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 1:30am
+The Big Cases
+The shocking tale of a predator who went on the run for almost three decades. He lived a life in paradise while his victims wondered if they would ever get justice.
+
+2025-05-31 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-05-31 2:30am
+Scams & Scandals
+The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
 
 2025-05-31 3:00am
-To Be Announced
-3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-31 3:30am
-To Be Announced
-3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-05-31 4:00am
-To Be Announced
-4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-05-31 4:30am
-To Be Announced
-4:30am
-
-2025-05-31 5:00am
-To Be Announced
-5:00am
+The Travel Show
+Emeline Nsingi Nkosi celebrates 125 years of the iconic Paris Metro - going behind the scenes to meet the people who keep the network running and finding out about a huge building project.
 
 2025-05-31 5:00am
 Breakfast
