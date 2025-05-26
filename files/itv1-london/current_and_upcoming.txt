@@ -1,19 +1,3 @@
-2025-05-25 11:10pm
-Teleshopping
-Shopping from home.
-
-2025-05-26 2:00am
-Code of Silence
-Alison's risky tactics identify the gang's target, but her deception and the gang's escalating violence threaten to unravel her relationship with Liam.
-
-2025-05-26 2:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-26 4:05am
-Motorsport UK
-Richard John Neil presents MSUK from Brands Hatch GP with racing from The Vertu Motors MINI CHALLENGE and the Porsche Carrera Cup Great Britain.
-
 2025-05-26 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -565,4 +549,88 @@ World-renowned chef and author Raymond Blanc uncovers some of the most incredibl
 2025-06-01 5:30am
 James Martin's Saturday Morning
 James is back in the kitchen and is joined by singer Louise Redknapp while tasting mouth-watering recipes from chefs Francesco Mazzei and Tom Shepherd and cooking nettles with forager Alysia Greenwood.
+
+2025-06-01 7:25am
+Katie Piper's Weekend Escape
+Join Katie Piper and enter the space she's created for people to come and reset, retreat, relax, have some fun and hopefully learn some stuff along the way in - this is a one-stop shop for wellness needs, fitness, food, entertainment and celebrity access. As Katie and her guests submerse themselves into different activities in the glorious British countryside, there are also surprises with lots of furry friends and a look at guests of honour that are doing incredible things in their communities.
+
+2025-06-01 8:25am
+ITV News
+The latest national and international news.
+
+2025-06-01 8:30am
+Love Your Weekend with Alan Titchmarsh
+Joining Alan at Manor Farm this time are Anita Dobson, Tom Allen, and Amol Rajan to provide the cheer and the chat - horticulturalist Camilla Bassett-Smith opens the pages of her summer diary, we catch up with the brown bears currently residing at Jimmy's farm, Andy Clarke has the best in festival drinks and nibbles and we have a spot of camel racing too.
+
+2025-06-01 10:25am
+Alan Titchmarsh's Gardening Club
+Alan takes us through his wildflower meadow, Martha Swales shares a window box masterclass, Jason Williams explores one of Europe's most ambitious horticultural projects, Katy Watson shows how to create a border on a budget, and Lucy Willcox returns with more practical garden design tips.
+
+2025-06-01 11:30am
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-01 11:45am
+Jeremy Pang's Hong Kong Kitchen
+Jeremy invites best friend and chef Simon Rimmer on a trip down memory lane as he shows him the sights of his old family holidays and tastes of nostalgia.
+
+2025-06-01 12:45pm
+	Johnny English Strikes Again
+Johnny English springs back into action when a hacker reveals the identities of undercover agents in Britain. As a man with few skills and analogue methods, Johnny must overcome the challenges of modern technology to make this mission a success.
+
+2025-06-01 2:25pm
+	Goldfinger
+The powerful tycoon Auric Goldfinger has initiated Operation Grand Slam, a cataclysmic scheme to raid Fort Knox and obliterate the world economy. James Bond, armed with his specially equipped Aston Martin, must stop the plan by overcoming several outrageous adversaries.
+
+2025-06-01 4:35pm
+The Chase: Celebrity Special
+Actress Su Pollard, dancer Jordan Banjo, TV presenter AJ Odudu and TV legend Jonathan Ross take on the challenge hoping to win thousands of pounds for their chosen charities. Bradley Walsh hosts.
+
+2025-06-01 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-01 5:45pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-01 6:00pm
+Celebrity Catchphrase
+Stephen Mulhern hosts a celebrity special of the classic game show with Charlie Hedges, Luke Kempner, and Jeremy Vine all trying to guess well-known phrases from animated clues - if they can 'say what they see', they could get the chance to win.
+
+2025-06-01 7:00pm
+It'll Be Alright on the Night
+Classic collections of hilarious outtakes from the worlds of television, cinema and commercials. The highly-trained team of blooper-snoopers offer calamities, catastrophes and clangers salvaged from cutting room floors around the world.
+
+2025-06-01 8:00pm
+Code of Silence
+Alison faces dangerous crossroads as her feelings for Liam threaten to undermine the police's investigation. The gang led by Braden executes their plan to steal the Joshi necklace using chaos and Liam's hacking to breach security.
+
+2025-06-01 9:00pm
+ITV News
+The latest national and international news.
+
+2025-06-01 9:20pm
+	Minority Report
+A detective works for a police department that uses three infallible psychics to help convict murderers before they have actually committed their crimes. When the detective discovers that he has been identified as a future killer, he becomes a fugitive from his own colleagues.
+
+2025-06-01 11:45pm
+Teleshopping
+Shopping from home.
+
+2025-06-02 2:00am
+Code of Silence
+Alison faces dangerous crossroads as her feelings for Liam threaten to undermine the police's investigation. The gang led by Braden executes their plan to steal the Joshi necklace using chaos and Liam's hacking to breach security.
+
+2025-06-02 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-02 4:05am
+Motorsport UK
+Richard John Neil presents action from Donington Park with racing in the Vertu MINI CHALLENGE and the Porsche Sprint Challenge Great Britain.
+
+2025-06-02 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 
