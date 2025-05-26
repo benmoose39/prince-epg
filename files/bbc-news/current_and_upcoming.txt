@@ -1,7 +1,3 @@
-2025-05-26 1:45pm
-BBC News Now
-All the big stories, live as they happen, presented by Lucy Hockings.
-
 2025-05-26 2:00pm
 Verified Live
 Matthew Amroliwala presents all the latest global and UK news, live from London.
@@ -121,6 +117,10 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-05-27 4:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-05-27 5:00am
+Breakfast
+Backtrace:
 
 2025-05-27 5:00am
 Breakfast
