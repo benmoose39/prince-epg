@@ -192,10 +192,6 @@ Series 3 Episode 2
 
 2025-05-29 3:00am
 This Is BBC THREE
-Backtrace:
-
-2025-05-29 3:00am
-This Is BBC THREE
 BBC THREE: Refreshing TV for the digital age. Tune in daily from 7.00pm.
 
 2025-05-29 11:00am
