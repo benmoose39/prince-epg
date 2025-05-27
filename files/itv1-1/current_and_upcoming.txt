@@ -1,23 +1,3 @@
-2025-05-26 11:15pm
-Joanna Lumley's Danube
-The first leg of Joanna Lumley's epic adventure along the river Danube takes her from Germany's Black Forest into the wine valleys of Austria and on to Vienna.
-
-2025-05-27 12:05am
-Teleshopping
-Shopping from home.
-
-2025-05-27 3:00am
-Code of Silence
-Alison is invited onto a lavish trip where Liam insists on adopting false identities. She discovers that he is using her as a cover. Alison is convinced that she can walk the fine line between her duty to the police and their undeniable connection.
-
-2025-05-27 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-05-27 5:05am
-Wheel of Fortune
-Graham Norton invites AJ Odudu, Gok Wan and Charlotte Church to try their luck at the wheel.
-
 2025-05-27 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -557,4 +537,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-02 5:05am
 Motorsport UK
 Richard John Neil presents action from Donington Park with racing in the Vertu MINI CHALLENGE and the Porsche Sprint Challenge Great Britain.
+
+2025-06-02 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-02 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-02 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-02 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-02 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-02 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-02 2:00pm
+Alan Titchmarsh's Gardening Club
+Alan showcases the latest colour and seasonal highlights from his plot, Giovanna Fletcher invites us into her own patch for the first time, and Camilla Bassett-Smith explores a beautifully designed Italian-inspired space.
+
+2025-06-02 3:00pm
+Lingo
+Going up against each other are mother and son Elvira and Emmet from Bedford, London couple Charlie and Paul, and father and son Matt and Eddie from Wiltshire.
+
+2025-06-02 4:00pm
+Tipping Point
+Ben Shephard is back to host the thrilling quiz that sees three players take on an extraordinary machine - mystery prizes, game-changing Double Counters, and a 10,000-pound jackpot are all up for grabs.
+
+2025-06-02 5:00pm
+The Chase
+Phil from Widnes, Liz from York, Alex originally from Cumbria and Nicola from London take on a Chaser in a battle of wits as Bradley Walsh guides them through the show in the hope that they will go home with thousands of pounds.
+
+2025-06-02 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-02 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-02 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-02 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-06-02 9:00pm
+Code of Silence
+Suspenseful crime drama. Alison is reeling from Liam's betrayal and consumed with guilt over her role in the heist when her life is suddenly threatened by one of the gang.
+
+2025-06-02 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-02 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-02 10:45pm
+British Grandma on Death Row with Susanna Reid
+Susanna Reid travels to Texas to meet grandmother Linda Carty, the only British woman on Death Row anywhere in the Western World.
+
+2025-06-02 11:40pm
+Joanna Lumley's Danube
+In Slovakia, Joanna traces Danube tributaries up to the top of the snow-capped Tatras. In Budapest she explores the river by boat and rides a unique children's railway, as well as discovering the city's Jewish heritage.
+
+2025-06-03 12:30am
+Teleshopping
+Shopping from home.
+
+2025-06-03 3:00am
+Code of Silence
+Suspenseful crime drama. Alison is reeling from Liam's betrayal and consumed with guilt over her role in the heist when her life is suddenly threatened by one of the gang.
+
+2025-06-03 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-03 5:05am
+Wheel of Fortune
+Graham Norton invites celebrities Tom Allen, Michelle Visage and Eddie Kadi to spin the Wheel.
 
