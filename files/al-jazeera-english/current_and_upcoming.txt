@@ -52,7 +52,7 @@ The host presents information about the social, economic and political issues of
 
 2025-05-28 2:30pm
 Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities.
+Rohingya refugee artists preserve the memory of a people long persecuted in Myanmar, keeping their heritage alive through paint, song, and photos.
 
 2025-05-28 3:00pm
 Newshour
@@ -211,8 +211,8 @@ News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
 
 2025-05-29 2:30pm
-The Listening Post
-Providing key news and information to understand ever-more complex global events through in-depth analysis.
+The Full Report
+A magnitude 7.7 quake hits Myanmar in March as Al Jazeera, the only foreign broadcaster inside, reports from the epicenter amid devastation and survival.
 
 2025-05-29 3:00pm
 Newshour
@@ -261,6 +261,10 @@ A closer look at international news, events, current affairs, and exclusive stor
 2025-05-29 10:00pm
 News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-29 10:30pm
+101 East
+101 East investigates cross-border persecution and the killing of former Cambodian opposition MP, Lim Kimya, in Thailand.
 
 2025-05-29 11:00pm
 News
@@ -330,13 +334,17 @@ A closer look at international news, events, current affairs, and exclusive stor
 News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
 
+2025-05-30 8:30am
+101 East
+101 East investigates cross-border persecution and the killing of former Cambodian opposition MP, Lim Kimya, in Thailand.
+
 2025-05-30 9:00am
 News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
 
 2025-05-30 9:30am
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+The Full Report
+A magnitude 7.7 quake hits Myanmar in March as Al Jazeera, the only foreign broadcaster inside, reports from the epicenter amid devastation and survival.
 
 2025-05-30 10:00am
 Newshour
@@ -447,12 +455,16 @@ News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
 
 2025-05-31 2:30am
-Fault Lines
-From the heart of a superpower in crisis, Fault Lines digs deeper into what's driving the big stories in the USA.
+The Full Report
+A magnitude 7.7 quake hits Myanmar in March as Al Jazeera, the only foreign broadcaster inside, reports from the epicenter amid devastation and survival.
 
 2025-05-31 3:00am
 News
 The host presents information about the social, economic and political issues of the day and provides updates on current events.
+
+2025-05-31 3:30am
+101 East
+101 East investigates cross-border persecution and the killing of former Cambodian opposition MP, Lim Kimya, in Thailand.
 
 2025-05-31 4:00am
 News
@@ -908,7 +920,7 @@ The host presents information about the social, economic and political issues of
 
 2025-06-02 11:30pm
 101 East
-A current affairs programme that focuses on the big issues that impact Asia, its distinct cultures, and varying politics.
+101 East investigates cross-border persecution and the killing of former Cambodian opposition MP, Lim Kimya, in Thailand.
 
 2025-06-03 12:00am
 News
@@ -1104,7 +1116,7 @@ The host presents information about the social, economic and political issues of
 
 2025-06-04 4:30am
 101 East
-A current affairs programme that focuses on the big issues that impact Asia, its distinct cultures, and varying politics.
+101 East investigates cross-border persecution and the killing of former Cambodian opposition MP, Lim Kimya, in Thailand.
 
 2025-06-04 5:00am
 News
