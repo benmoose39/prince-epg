@@ -84,10 +84,6 @@ Shopping from home.
 
 2025-05-30 5:00am
 Teleshopping
-Backtrace:
-
-2025-05-30 5:00am
-Teleshopping
 Shopping from home.
 
 2025-05-30 7:00am
