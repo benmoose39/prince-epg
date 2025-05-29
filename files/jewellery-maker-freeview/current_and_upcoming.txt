@@ -1,15 +1,3 @@
-2025-05-28 11:00pm
-Jewellery Maker REPEATS
-11:00pm
-
-2025-05-29 12:00am
-Jewellery Maker REPEATS
-12:00am
-
-2025-05-29 1:00am
-Jewellery Maker REPEATS
-1:00am
-
 2025-05-29 5:00am
 Jewellery Maker REPEATS
 5:00am
@@ -159,6 +147,10 @@ To Be Announced
 9:00pm
 
 2025-06-03 7:00am
+To Be Announced
+7:00am
+
+2025-06-04 7:00am
 To Be Announced
 7:00am
 
