@@ -290,10 +290,6 @@ Shopping from home.
 Teleshopping
 Shopping from home.
 
-2025-06-01 6:30am
-Teleshopping
-Shopping from home.
-
 2025-06-01 7:00am
 Great! Movie News Extra
 From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
@@ -450,47 +446,35 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 Teleshopping
 Shopping from home.
 
-2025-06-02 4:30am
-Teleshopping
-Shopping from home.
-
 2025-06-02 5:00am
 Teleshopping
 Shopping from home.
 
-2025-06-02 5:30am
-Teleshopping
-Shopping from home.
-
-2025-06-02 6:00am
-Teleshopping
-Shopping from home.
-
-2025-06-02 6:30am
-Teleshopping
-Shopping from home.
-
 2025-06-02 7:00am
-	Christmas on Mistletoe Lake
-Interior designer Reilly finds herself this Christmas in the town of Mistletoe Lake with no place to stay. She accepts an offer from Ray to stay on his boat and helps him renovate it for the town's Christmas Harbor Festival.
+	Christmas With a View
+A ski resort is buzzing when a celebrity chef is named the new head chef. Clara isn't excited about her new boss, but with their paths constantly crossing, Clara realises that they have more in common than they first thought.
 
 2025-06-02 7:55am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
 2025-06-02 8:00am
-	Christmas on Mistletoe Lake
-Interior designer Reilly finds herself this Christmas in the town of Mistletoe Lake with no place to stay. She accepts an offer from Ray to stay on his boat and helps him renovate it for the town's Christmas Harbor Festival.
+	Christmas With a View
+A ski resort is buzzing when a celebrity chef is named the new head chef. Clara isn't excited about her new boss, but with their paths constantly crossing, Clara realises that they have more in common than they first thought.
 
-2025-06-02 9:00am
+2025-06-02 8:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-02 9:05am
 	Christmas Connection
 Sydney is tasked with looking after Leah, an unaccompanied minor. After Leah is safely delivered, Sydney finds a package Leah left behind and decides to deliver it. When she misses her connection, she is invited to spend the holidays with them.
 
-2025-06-02 9:55am
+2025-06-02 10:00am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-06-02 10:00am
+2025-06-02 10:02am
 	Christmas Connection
 Sydney is tasked with looking after Leah, an unaccompanied minor. After Leah is safely delivered, Sydney finds a package Leah left behind and decides to deliver it. When she misses her connection, she is invited to spend the holidays with them.
 
@@ -502,13 +486,17 @@ From red carpet glamour to Hollywood gossip, interviews with actors and other in
 	Christmas With a Prince
 A busy doctor reluctantly agrees to allow an injured prince to convalesce secretly in her ward.
 
-2025-06-02 12:00pm
+2025-06-02 11:59am
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
 2025-06-02 12:02pm
 	Christmas With a Prince
 A busy doctor reluctantly agrees to allow an injured prince to convalesce secretly in her ward.
+
+2025-06-02 12:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-06-02 1:00pm
 	A Bramble House Christmas
@@ -522,15 +510,19 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	A Bramble House Christmas
 While settling his father's estate, a man becomes suspicious as to why the man left his nurse $50,000 after knowing her for less than two months before he died.
 
-2025-06-02 2:55pm
+2025-06-02 2:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-02 3:00pm
 	Charming Christmas
 When a young businesswoman plays Mrs Claus at her family's department store over Christmas, her life begins to take some unexpected turns.
 
-2025-06-02 3:50pm
+2025-06-02 3:55pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-06-02 3:52pm
+2025-06-02 4:00pm
 	Charming Christmas
 When a young businesswoman plays Mrs Claus at her family's department store over Christmas, her life begins to take some unexpected turns.
 
@@ -550,6 +542,10 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Falling in Love at Christmas
 Business rivals who playfully despise each other develop unexpected feelings while working together on a holiday gift-giving app.
 
+2025-06-02 6:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
 2025-06-02 7:00pm
 	A Candlelit Christmas
 Ellie decides to go back home for Christmas and help her dad with his candle-making business - little does she know, however, that her father has charming writer Logan staying with him, who is looking for inspiration for his latest writings.
@@ -562,17 +558,21 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	A Candlelit Christmas
 Ellie decides to go back home for Christmas and help her dad with his candle-making business - little does she know, however, that her father has charming writer Logan staying with him, who is looking for inspiration for his latest writings.
 
-2025-06-02 8:55pm
+2025-06-02 8:50pm
 	A Christmas Break
 An unexpected romance develops between a single mother and a Hollywood actor as they work together to stop a town's school from closing right before Christmas Eve.
 
-2025-06-02 9:50pm
+2025-06-02 9:45pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-06-02 9:52pm
+2025-06-02 9:50pm
 	A Christmas Break
 An unexpected romance develops between a single mother and a Hollywood actor as they work together to stop a town's school from closing right before Christmas Eve.
+
+2025-06-02 10:45pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-06-02 10:55pm
 	The Christmas Ball
@@ -637,10 +637,6 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 2025-06-03 8:00am
 	A Joyous Christmas
 A successful motivational speaker learns the true meaning of Christmas when a stranger rescues her from a near-fatal accident.
-
-2025-06-03 8:55am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-06-03 9:05am
 	A Storybook Christmas
