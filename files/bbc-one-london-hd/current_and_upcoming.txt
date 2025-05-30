@@ -1,51 +1,3 @@
-2025-05-29 11:10pm
-The Hit List
-The music plays on in another celebrity special. Joining Marvin and Rochelle are presenter the Rev Kate Bottley and actor Denise Van Outen, musician Max George and actor Maisie Smith, and actor Sally Lindsay and comedian Eddie Kadi. They might be big names, but can they name the big hits for a chance to win £10,000 for their chosen charity?
-
-2025-05-29 11:55pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-05-30 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-30 12:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-05-30 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-30 1:30am
-Tech Now
-Lara Lewington explores a controversial new form of genetic testing which claims to predict how likely an unborn child is to develop diseases. Alasdair Keane meets an AI version of author Agatha Christie, created to give a course on crime writing. And Paul Carter has the latest developments in accessible gaming.
-
-2025-05-30 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-30 2:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-05-30 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-05-30 3:30am
-Inside the High Street Cyber-Attacks
-Who hacked M&S and Co-op? We go inside the cyber-attacks that shook the British high street and ask how flaws in digital defences were exposed. Why do criminals target companies in this way? We speak directly with the hackers behind the attacks and learn what data they've stolen. And what impact do these hacks have on a brand's reputation? We hear first-hand from the customers who were left scrambling and staff who had to deal with angry patrons.
-
-2025-05-30 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-05-30 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-05-30 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -907,6 +859,146 @@ Business Today USA
 The latest business news and up-to-date informed analysis from New York and around the world.
 
 2025-06-05 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-05 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-06-05 9:45am
+Expert Witness
+Soil on a spade helps catch the killer of a young woman from Swindon, who for years evaded justice and a stone stuck in the sole of a shoe helps solve a murder in Manchester.
+
+2025-06-05 10:15am
+Homes Under the Hammer
+Significant layout changes are in store for three properties in Merseyside, London and Rotherham. Will the new owners manage to transform their auction purchases on budget?
+
+2025-06-05 11:15am
+Bargain Hunt
+Eric Knowles and the teams shop for antiques in Nottinghamshire with experts Izzie Balmer and Nick Hall. Eric also visits a museum that has preserved the contents of an old village shop.
+
+2025-06-05 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-05 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-05 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-05 1:00pm
+Doorbell Detectives
+Matt Allwright meets the Doorbell Detectives whose pet camera snared a cat burglar, and another criminal is caught returning to the scene of a crime.
+
+2025-06-05 1:30pm
+Scam Interceptors
+Scammers pretending to be from Amazon have got a dental nurse on the line for thousands of pounds. Unable to get through on the phone, the ground interceptors chase across London to her place of work. Only problem is, she's not there. Can they find her in time to stop the scam?
+
+2025-06-05 2:00pm
+Escape to the Country
+Another property seeker looks for their ideal home in the countryside.
+
+2025-06-05 2:45pm
+Garden Rescue
+Linda desires a Japanese-inspired garden that exudes elegance. With a £6,000 budget, she envisions cloud-pruned trees, Japanese acers or contemplative water bowls. Designers Chris and Charlie aim to transform the tiny space into a statement garden.
+
+2025-06-05 3:30pm
+Bridge of Lies
+Ross Kemp presents the quiz show where a team of four - Mohsin, Gus, Amir and Ayoub - take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category.
+
+2025-06-05 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-06-05 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-05 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-05 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-06-05 6:30pm
+EastEnders
+Elaine struggles to contain her emotions, and Tommy is influenced by a friend.
+
+2025-06-05 7:00pm
+Dragons' Den
+Two brothers give the Dragons petrol-head vibes as they ride into the Den with their motorcycle clothing brand. Also hoping to rev up the Dragons' desire to invest are a matcha-based energy drink company and the entrepreneur behind an inclusive nail polish brand. And they've all got competition from a DIY tool that promises to provide measurements like no other and a multipurpose keyring.
+
+2025-06-05 8:00pm
+Ambulance
+Call handler Caelainn and her colleagues are sexually harassed by a persistent caller using a withheld number, which makes it hard to block his repeated calls.
+
+2025-06-05 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-05 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-05 9:40pm
+Question Time
+Fiona Bruce hosts an hour of topical debate, with a panel of politicians and other guests facing topical questions from an audience in different parts of the UK each week.
+
+2025-06-05 10:40pm
+Newscast
+Lighthearted discussion of the week's political events.
+
+2025-06-05 11:10pm
+Change Your Mind, Change Your Life
+Matt and Emma Willis take us inside the treatment rooms of leading therapists as they help breast cancer survivor Sarah tackle her feelings of guilt and Ben make sense of his ADHD diagnosis.
+
+2025-06-05 11:55pm
+Change Your Mind, Change Your Life
+Expert therapists help Philip, who is struggling with body image after losing both his legs, Hannah who lives in fear of vomit, and therapy sceptic Amanda, who is feeling overwhelmed.
+
+2025-06-06 12:45am
+Who Do You Think You Are?
+Will Young learns about his grandfather's time as a prisoner of war in World War II. Delving further back, Will finds a connection to one of medieval history's biggest villains, and a king.
+
+2025-06-06 1:45am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-06 1:50am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-06 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-06 2:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-06-06 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-06 3:30am
+Eye Investigations
+Eye Investigations examines evidence of targeted abductions and assassinations by the Iranian regime abroad, and the links to one man - Iranian organised crime boss Naji Sharfi Zindashti.
+
+2025-06-06 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-06 4:30am
+Business Today USA
+The latest business news and up-to-date informed analysis from New York and around the world.
+
+2025-06-06 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
