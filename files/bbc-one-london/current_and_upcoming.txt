@@ -1,11 +1,3 @@
-2025-06-01 9:00pm
-BBC Weekend News
-National and international news, followed by weather.
-
-2025-06-01 9:25pm
-BBC London News
-News, sport and weather from London.
-
 2025-06-01 9:30pm
 	Saving Private Ryan
 Oscar-winning World War II tale combining the story of an unusual rescue mission with an overwhelmingly powerful re-creation of the D-Day landings. A group of American soldiers are dispatched to locate one man among thousands, a US private whose three brothers have all been killed in action. The powers that be want to send him home to his family.
