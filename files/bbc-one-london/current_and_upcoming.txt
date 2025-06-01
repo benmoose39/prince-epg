@@ -1,51 +1,3 @@
-2025-05-31 10:40pm
-	Scary Stories to Tell in the Dark
-The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It's in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah's spooky home.
-
-2025-06-01 12:20am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-01 12:25am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-01 12:30am
-Take Me to the Opera
-Zeinab Badawi ventures into the English countryside to go behind the scenes at the historic opera venue of Glyndebourne. She asks how far Glyndebourne is leading the way in trying to make opera fit for the future through innovative initiatives.
-
-2025-06-01 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-06-01 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-06-01 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-06-01 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 4:30am
-Tech Now
-Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
-
 2025-06-01 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -871,6 +823,102 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-06-07 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-07 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Julius Roberts and Poppy O'Toole, and George Egg serves some snack hacks before the end of the show. Helen McGinn picks the wines to go with the studio dishes. There are also great moments from the BBC food archive.
+
+2025-06-07 10:30am
+The Great Food Guys
+Nick Nairn and Dougie Vipond embrace summer flavours, cooking new season Scottish asparagus with poached egg and Hollandaise Sauce. Their special guest is actor Moyo Akande, who joins them in the kitchen for a chat and to try this week's food and drink combination.
+
+2025-06-07 11:00am
+Homes Under the Hammer
+A major crack in a two-bedroom cottage in New Malden doesn't stop a fashion student from buying it or from giving the finished project the wow factor. Meanwhile, more seasoned developers in Leeds and Greater Manchester tackle issues in their terraces, with a view to turning a profit on their online auction buys.
+
+2025-06-07 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-07 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-07 12:15pm
+Bargain Hunt
+Christina Trevanion heads to west Wales, where experts Philip Serrell and Kate Bliss guide our red and blue teams in their search for the best items to sell at auction in Cardiff. Christina carves her own lovespoon as she learns about the Welsh tradition dating back to the 17th century.
+
+2025-06-07 1:00pm
+
+Mark Chapman is at Wembley, where Warrington Wolves and Hull Kingston Rovers meet in the final of rugby league's most iconic competition. The sides first met in the final 120 years ago, with Warrington lifting the trophy for the first time. The Wolves have gone on to win the cup on a further eight occasions but will still be smarting from losing last year's final to Wigan. Hull KR were themselves runners-up in 2023, agonisingly losing to Leigh on golden point.
+
+2025-06-07 4:30pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-07 4:40pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-07 4:45pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-07 4:50pm
+Bridge of Lies
+Ross Kemp presents a celebrity special of the high-stakes quiz, featuring actress and comedian Kerry Godliman, actors Greg McHugh and Kola Bokinni and comedian Ria Lina.
+
+2025-06-07 5:35pm
+The Hit List
+The music plays on in a celebrity special of the show. Joining Marvin and Rochelle are comedians Suzi Ruffell and Jessica Knappett, Chaser Paul Sinha and YouTuber Joe Sugg, and radio DJs Dean McCullough and Nikita Kanda. They might be big names, but can they name the big hits for a chance to win £10,000 for their chosen charity? Get ready to play along and shout out the answers at the telly!
+
+2025-06-07 6:20pm
+Pointless Celebrities
+A special edition of the general knowledge quiz in which four teams of celebrities try to come up with the answers that no-one else could think of. Presented by Alexander Armstrong and co-host Richard Osman, and featuring Jess Robinson, Danny Beard, Esther Manito, Rich Hall, Jane Hill, Ben Boulos, Wynne Evans, Joanna Page.
+
+2025-06-07 7:05pm
+Blankety Blank
+Bradley Walsh hosts as a panel of six celebrities fill in the missing blanks and help win some prizes for some very lucky contestants. This week, he's joined by Jenny Eclair, Jon Richardson, Tom Allen, Kiell Smith-Bynoe, Rustie Lee and Angela Scanlon.
+
+2025-06-07 7:40pm
+Casualty
+Rida bravely faces her worst nightmare when an ambulance crashes into the ED, Flynn seeks forgiveness, and Stevie is reunited with someone from her past.
+
+2025-06-07 8:30pm
+The Last Anniversary
+A DNA test brings answers about Enigma's parentage but the news pushes Rose further into her shell; Sophie explores her fling with Zeke and connects with Callum, while Grace tries to find some peace.
+
+2025-06-07 9:20pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-07 9:35pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-07 9:40pm
+Mrs Brown's Boys
+When their house is flooded, Agnes invites Winnie and Sharon to live with her while repairs are carried out. Meanwhile, she is asked do a eulogy and Buster has a secret to reveal.
+
+2025-06-07 10:10pm
+Doctor Who: Unleashed
+Go behind the scenes of the Time Lord's adventures.
+
+2025-06-07 11:10pm
+	BlacKkKlansman
+Ron Stallworth is the first African-American detective to serve in the Colorado Springs Police Department. Determined to make a name for himself, Stallworth bravely sets out on a dangerous mission: infiltrate and expose the Ku Klux Klan. The detective soon recruits a more seasoned colleague, Flip Zimmerman, into the undercover investigation of a lifetime. Together, they team up to take down the extremist hate group as the organization aims to sanitize its rhetoric to appeal to the mainstream.
+
+2025-06-08 1:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-08 1:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-08 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

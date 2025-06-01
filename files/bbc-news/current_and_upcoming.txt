@@ -1,47 +1,3 @@
-2025-05-31 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-01 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 12:30am
-Take Me to the Opera
-Zeinab Badawi ventures into the English countryside to go behind the scenes at the historic opera venue of Glyndebourne. She asks how far Glyndebourne is leading the way in trying to make opera fit for the future through innovative initiatives.
-
-2025-06-01 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-06-01 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-06-01 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 3:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-06-01 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-01 4:30am
-Tech Now
-Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
-
 2025-06-01 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -830,6 +786,10 @@ The best of the BBC's journalism from around the world.
 The World Today with Maryam Moshiri
 The best of the BBC's journalism from around the world.
 
+2025-06-05 6:55pm
+Talking Movies
+The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
+
 2025-06-05 7:00pm
 Context
 A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
@@ -839,8 +799,16 @@ Context
 A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
 
 2025-06-05 8:00pm
-Question Time
-Fiona Bruce hosts an hour of topical debate, with a panel of politicians and other guests facing topical questions from an audience in different parts of the UK each week.
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-05 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-05 8:55pm
+Talking Movies
+The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
 
 2025-06-05 9:00pm
 BBC News at Ten
@@ -1051,6 +1019,50 @@ To Be Announced
 4:30am
 
 2025-06-07 5:00am
+To Be Announced
+5:00am
+
+2025-06-07 8:00am
+To Be Announced
+8:00am
+
+2025-06-07 9:00am
+To Be Announced
+9:00am
+
+2025-06-07 1:00pm
+To Be Announced
+1:00pm
+
+2025-06-07 5:00pm
+To Be Announced
+5:00pm
+
+2025-06-07 9:00pm
+To Be Announced
+9:00pm
+
+2025-06-08 1:00am
+To Be Announced
+1:00am
+
+2025-06-08 3:00am
+To Be Announced
+3:00am
+
+2025-06-08 3:30am
+To Be Announced
+3:30am
+
+2025-06-08 4:00am
+To Be Announced
+4:00am
+
+2025-06-08 4:30am
+To Be Announced
+4:30am
+
+2025-06-08 5:00am
 To Be Announced
 5:00am
 

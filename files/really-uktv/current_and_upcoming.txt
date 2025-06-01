@@ -1,27 +1,3 @@
-2025-05-31 11:00pm
-Help! My House Is Haunted
-In Bristol, Emma notices the handprints of a former policeman appearing all over her home. However, he's been dead almost 20 years.
-
-2025-06-01 12:00am
-Help! My House Is Haunted
-A retired couple have lived in a house of horrors for years. During the investigation, the team learn the property is full of angry spirits with no way of escape.
-
-2025-06-01 1:00am
-Teleshopping
-Shopping from home.
-
-2025-06-01 3:00am
-Salvage Hunters
-Drew visits Leominster where he sees an incredible private garden, and also shows his metal at one of the country's last Brass Foundries, taking a chance on some unique containers.
-
-2025-06-01 4:00am
-Salvage Hunters
-In Kent, Drew visits an antiques emporium specialising in unusual European antiques, and indulges in 1940s nostalgia at a home front museum in South West Wales.
-
-2025-06-01 5:00am
-Fantasy Homes by the Sea
-Jenni Falconer takes a sojourn to the beautiful fishing port of Looe in Cornwall to help a couple who want to buy a dream property by the sea.
-
 2025-06-01 6:00am
 Cruise TV with LoveitBookit
 A definitive one-stop shop for all things cruise, bringing you the hottest destinations and the latest deals to ensure that your next cruise ship holiday is your greatest one yet.
@@ -564,5 +540,97 @@ Drew heads to Edinburgh, where he discovers an antique shop with a deluxe 1940s 
 
 2025-06-07 5:00am
 Fantasy Homes by the Sea
-Tania lives and breathes work but loves nothing more than escaping to the English seaside. Her favourite spot is the East Dorset coast. With a budget of £450,000, can Jenni Falconer find Tania's perfect seaside holiday home?
+Backtrace:
+
+2025-06-07 6:00am
+Cruise TV with LoveitBookit
+A definitive one-stop shop for all things cruise, bringing you the hottest destinations and the latest deals to ensure that your next cruise ship holiday is your greatest one yet.
+
+2025-06-07 7:00am
+Salvage Hunters
+Drew travels north on a road trip for an epic private house clearance in a remote part of Scotland. He also visits a historic cutlery factory in Sheffield.
+
+2025-06-07 8:00am
+Salvage Hunters
+Drew haggles with a windmill manager in Kent, visits a hip dealer in Manchester and seeks artefact redemption at a Somerset abbey. He also moves shop after ten years in the same place.
+
+2025-06-07 9:00am
+The Yorkshire Auction House
+For the first time at the auction house, Angus puts a gold disc under the gavel, before selling off memorabilia from a former Ryder Cup referee.?
+
+2025-06-07 10:00am
+The Yorkshire Auction House
+Angus and Jack clear one man's enormous personal collection of vintage oil cans. Plus, a former pub landlord sends a barrel-load of goodies to auction.
+
+2025-06-07 11:00am
+The Derbyshire Auction House
+Irita Marriott and her team use their expertise to launch Britain's newest saleroom. What hidden gems will they find, and will they sell at auction?
+
+2025-06-07 12:00pm
+Antiques Road Trip
+Antiquers Natasha Raskin Sharp and Steven Moore begin a Road Trip adventure, motoring through North Yorkshire and Tyne and Wear in grand style behind the wheel of a 1960s Rolls Royce. Steven flushes out a bargain while visiting the loo in one antiques shop, finding some 18th-century tea bowls hidden away by the toilet. A break from shopping sees Steven set sail to South Shields and learn about the incredible restoration of a quite remarkable lifeboat.
+
+2025-06-07 1:00pm
+Antiques Road Trip
+Auctioneer Natasha Raskin Sharp and ceramics expert Steven Moore are on a whistle-stop tour of Tyne and Wear before wandering north to Northumberland. Natasha wastes little time in the antiques shops, gambling her kitty like an 18th-century taverngoer buying some George III period gaming tokens. She ditches the 1960s Rolls Royce and sets off on a very unlikely safari to catch sight of an ancient creature that still roams the Northumberland plains.
+
+2025-06-07 2:00pm
+Antiques Road Trip
+Antiques experts Natasha Raskin Sharp and Steven Moore point their 1960s Rolls Royce north and to the Scottish Borders before heading on to Edinburgh for another auction. Natasha wastes little time when shopping, enchanted by a tobacco barrel manufactured by a quality maker. She also decides to buy a travel case, but only after she discovers the velvet-lined secret compartment it hides within.
+
+2025-06-07 3:00pm
+Antiques Road Trip
+With a swirl of tartan and a burst of the bagpipes, our Scottish tour continues in Fife with antiques experts Natasha Raskin Sharp and Steven Moore. The 1960s Rolls Royce glides the pair through countryside and town as they head from the east coast to central Scotland. Natasha's money reserves are dwindling, so she cautiously settles on a bargain piece of Scottish studio pottery. However, a canny buy of an arts and crafts-style lantern pays dividends at the auction in Hamilton.
+
+2025-06-07 4:00pm
+Antiques Road Trip
+It's the final instalment of Natasha Raskin Sharp and Steven Moore's Road Trip around Scotland. Natasha splashes out a three-figure sum on a single piece of silver. She also picks up buttons with a suffragist connection and a very charming brass tortoise. Shopping done, a hungry Natasha visits Cupar to find out why haggis has became a global delicacy synonymous with Scotland. To Steven's great joy, his first shop is a ceramics expert's dream.
+
+2025-06-07 5:00pm
+The Hotel Inspector
+Alex Polizzi is called to the rescue of Michelangelo's, a hotel and restaurant owned by Paolo Pieri, and operated with the help of his brother Giacomo.
+
+2025-06-07 6:00pm
+The Hotel Inspector
+Alex drops in to help 69-year-old Alan, who hoped that the Crown would set him up for retirement, but has found himself working all hours for no profit. Shocked by what she finds, Alex refuses to check herself in.
+
+2025-06-07 7:00pm
+Derelict Rescue
+Factory worker Rob tackles a myriad of difficulties after taking on the enormous one-man mission of transforming an abandoned concrete water tower into a luxury home with a value of £1,000,000.
+
+2025-06-07 8:00pm
+The Repair Shop
+Toy restorers Amanda and Julie have their work cut out reviving a sad dog that has been badly burned in a devastating house fire. The toy has been by owner Jody's side throughout her life, and when she saw her house being engulfed by flames, it was one of the first things on her mind. Now totally scorched, Jody would like her beloved toy to be restored so she can pass it on to her young son Noah.
+
+2025-06-07 9:00pm
+The Repair Shop
+Horologist Steve is tasked with fixing up a one-of-a-kind gigantic clock. Classic car fanatic Dominic brings an incredible toy car back to life.
+
+2025-06-07 10:00pm
+The Repair Shop
+Andrew Denly and his wife Sheila are hoping clockmaker Steve Fletcher can fix a vintage boy's toy with big memories attached. The antique toy cannon was handed down to Andrew from his grandfather, who bought it with his pocket money in 1907. Andrew's grandfather was his boyhood hero, and his little cannon much treasured, though it hasn't fired a shot for over 50 years.
+
+2025-06-07 11:00pm
+Help! My House Is Haunted
+Since age three, Noah has experienced creepy visions of a man hiding behind his bedroom curtains. Whilst growing up, the figure seemed like a protective spirit watching over him, but things have changed.
+
+2025-06-08 12:00am
+Help! My House Is Haunted
+An oppressive force has been tormenting Sonia and Baz ever since they extended their house. On the verge of splitting up, they desperately need help. The team must work quickly to bring peace to the property and save the relationship.
+
+2025-06-08 1:00am
+Teleshopping
+Shopping from home.
+
+2025-06-08 3:00am
+Salvage Hunters
+Drew travels north on a road trip for an epic private house clearance in a remote part of Scotland. He also visits a historic cutlery factory in Sheffield.
+
+2025-06-08 4:00am
+Salvage Hunters
+Drew haggles with a windmill manager in Kent, visits a hip dealer in Manchester and seeks artefact redemption at a Somerset abbey. He also moves shop after ten years in the same place.
+
+2025-06-08 5:00am
+Fantasy Homes by the Sea
+Michelle Ackerley takes over presenting duties as buyers search for coastal properties, beginning with award-winning children's author, Sally Gardner.
 
