@@ -227,54 +227,150 @@ Northern Ireland Assembly
 Highlights from the Northern Ireland Assembly.
 
 2025-06-07 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Tuesday 3 June.
 
-2025-06-07 9:00am
-To Be Announced
-9:00am
+2025-06-07 10:00am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 June.
 
-2025-06-07 1:00pm
-To Be Announced
-1:00pm
+2025-06-07 10:35am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 5 June.
+
+2025-06-07 11:20am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 3 June.
+
+2025-06-07 12:10pm
+Northern Ireland Assembly
+Coverage of questions in Stormont to the infrastructure minister, Liz Kimmins, on Monday 2 June.
+
+2025-06-07 12:55pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2025-06-07 1:40pm
+House of Lords
+Coverage of a statement in the House of Lords.
+
+2025-06-07 2:25pm
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2025-06-07 3:10pm
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2025-06-07 4:15pm
+House of Lords
+Coverage of a debate in the House of Lords.
 
 2025-06-07 5:00pm
-To Be Announced
-5:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2025-06-07 9:00pm
-To Be Announced
-9:00pm
+2025-06-07 11:20pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 June.
 
-2025-06-08 1:00am
-To Be Announced
-1:00am
+2025-06-07 11:55pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 5 June.
+
+2025-06-08 12:40am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 3 June.
+
+2025-06-08 1:30am
+House of Commons
+Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 2 June.
+
+2025-06-08 2:30am
+House of Commons
+Coverage of questions in the House of Commons to Shabana Mahmood, the justice secretary, and her team of ministers on Tuesday 3 June.
+
+2025-06-08 3:30am
+House of Commons
+Coverage of questions in the House of Commons to Ian Murray, the Scottish secretary, and his team of ministers on Wednesday 4 June.
+
+2025-06-08 4:00am
+House of Commons
+Coverage of questions in the House of Commons to Pat McFadden, the cabinet office minister, and his team on Thursday 5 June.
 
 2025-06-08 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Wednesday 4 June.
 
-2025-06-08 9:00am
-To Be Announced
-9:00am
+2025-06-08 10:00am
+House of Lords
+Coverage of a statement in the House of Lords.
 
-2025-06-08 1:00pm
-To Be Announced
-1:00pm
+2025-06-08 10:45am
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2025-06-08 11:50am
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2025-06-08 12:35pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2025-06-08 1:20pm
+House of Lords
+Coverage of a debate in the House of Lords.
+
+2025-06-08 2:05pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 June.
+
+2025-06-08 2:40pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 5 June.
+
+2025-06-08 3:25pm
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 3 June.
+
+2025-06-08 4:15pm
+Northern Ireland Assembly
+Coverage of questions in Stormont to the infrastructure minister, Liz Kimmins, on Monday 2 June.
 
 2025-06-08 5:00pm
-To Be Announced
-5:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2025-06-08 9:00pm
-To Be Announced
-9:00pm
+2025-06-08 11:20pm
+House of Commons
+Coverage of questions in the House of Commons to Pat McFadden, the cabinet office minister, and his team on Thursday 5 June.
 
-2025-06-09 1:00am
-To Be Announced
-1:00am
+2025-06-09 12:20am
+House of Commons
+Coverage of questions in the House of Commons to Ian Murray, the Scottish secretary, and his team of ministers on Wednesday 4 June.
+
+2025-06-09 12:50am
+House of Commons
+Coverage of questions in the House of Commons to Shabana Mahmood, the justice secretary, and her team of ministers on Tuesday 3 June.
+
+2025-06-09 1:50am
+House of Commons
+Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 2 June.
+
+2025-06-09 2:50am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 3 June.
+
+2025-06-09 3:40am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 5 June.
+
+2025-06-09 4:25am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 June.
 
 2025-06-09 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Thursday 5 June.
 
