@@ -1,51 +1,3 @@
-2025-06-01 9:30pm
-	Saving Private Ryan
-Oscar-winning World War II tale combining the story of an unusual rescue mission with an overwhelmingly powerful re-creation of the D-Day landings. A group of American soldiers are dispatched to locate one man among thousands, a US private whose three brothers have all been killed in action. The powers that be want to send him home to his family.
-
-2025-06-02 12:10am
-Doctor Who: Unleashed
-Go behind the scenes of the Time Lord's adventures.
-
-2025-06-02 12:40am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-02 12:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-02 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-02 1:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-06-02 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-02 2:30am
-Tech Now
-Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
-
-2025-06-02 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-02 3:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-02 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-02 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-02 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -827,6 +779,114 @@ Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-06-08 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-08 8:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2025-06-08 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2025-06-08 9:30am
+Pentecost
+A lively celebration of Pentecost, exploring the impact of the Holy Spirit through songs and stories, from Gas Street Church in Birmingham. Led by Tim Hughes.
+
+2025-06-08 10:30am
+Homes Under the Hammer
+Tommy's head is in the clouds with the stunning city views from a London high rise. His luck continues with a trip to the beautiful Norfolk coast. Martel is on home soil at a Perthshire maisonette.
+
+2025-06-08 11:30am
+Bargain Hunt
+The show comes from the Three Counties Showground in Malvern. The teams are scouring the fair in the hope that they will make a profit at auction. Providing a helping hand are Caroline Hawley and Thomas Plant, whilst presenter Eric Knowles is overseeing the proceedings.
+
+2025-06-08 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-08 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-08 12:15pm
+Songs of Praise
+In a programme packed with music, Pam Rhodes celebrates Pentecost through the hymns and songs that explore the meaning of the Holy Spirit and the birthday of the Christian church.
+
+2025-06-08 12:50pm
+Points of View
+Viewers have their say on BBC television programmes.
+
+2025-06-08 1:05pm
+Walking With Dinosaurs
+North Africa, 100 million years ago. A Spinosaurus father must embark on a dangerous voyage to feed his babies. To reach the destination, he must lead his young family across one of the deadliest environments in earth's history: a land crawling with ferocious predators. At the end of their journey, an extraordinary feast awaits - if he can run the gauntlet without his babies becoming someone else's meal.
+
+2025-06-08 1:55pm
+Zog
+A keen young dragon wants to learn how to fly, roar, and breathe fire in his first years at Dragon School. He is desperate to impress his teacher and win a golden star, but he is accident-prone and each year he has to be helped by a kind young girl.
+
+2025-06-08 2:20pm
+Zog and the Flying Doctors
+Zog and Gadabout try to rescue Princess Pearl, who has been locked up in her father's castle. Based on the book by Julia Donaldson and Axel Scheffler.
+
+2025-06-08 2:45pm
+	The Secret Life of Pets 2
+Max the terrier encounters canine-intolerant cows, hostile foxes and a scary turkey when he visits the countryside. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.
+
+2025-06-08 4:05pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-08 4:20pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-08 4:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-08 4:30pm
+Countryfile
+Matt Baker and Margherita Taylor are in Herefordshire to explore some of the latest - and most surprising - innovations in agriculture.
+
+2025-06-08 5:30pm
+Walking With Dinosaurs
+Utah, 130 million years ago. A band of armoured dinosaurs battle to reach adulthood, pursued by a group of Utahraptors: some of the most formidable predators that have ever lived. It's a deadly game of cat and mouse.
+
+2025-06-08 6:20pm
+Antiques Roadshow
+The team visit Brodie Castle in the north of Scotland. Fiona Bruce meets a Highland Games commentator who has brought along a collection of items including a weighty shot put, a heavy hammer and a brooch presented by Queen Victoria in 1848.
+
+2025-06-08 7:20pm
+Death Valley
+Janie and John disagree on how to investigate the untimely death of a best man. John goes against Janie's wishes and befriends the bride to gain insight into the wedding party.
+
+2025-06-08 8:00pm
+The Gold
+The police chase the other half of the stolen Brink's-Mat gold when it resurfaces. In Tenerife, John Palmer's successful timeshare business starts to attract unwanted attention.
+
+2025-06-08 9:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-08 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-08 9:30pm
+	Four Weddings and a Funeral
+Set in the UK, this is the tale of 8 friends, 5 priests, 11 wedding dresses, 16 parents-in-law, 2,000 champagne glasses and 2 people who belong together but insist on staying apart.
+
+2025-06-08 11:20pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-08 11:25pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-09 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

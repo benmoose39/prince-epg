@@ -1,23 +1,3 @@
-2025-06-01 10:20pm
-	Minority Report
-A detective works for a police department that uses three infallible psychics to help convict murderers before they have actually committed their crimes. When the detective discovers that he has been identified as a future killer, he becomes a fugitive from his own colleagues.
-
-2025-06-02 12:45am
-Teleshopping
-Shopping from home.
-
-2025-06-02 3:00am
-Code of Silence
-Alison faces dangerous crossroads as her feelings for Liam threaten to undermine the police's investigation. The gang led by Braden executes their plan to steal the Joshi necklace using chaos and Liam's hacking to breach security.
-
-2025-06-02 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-02 5:05am
-Motorsport UK
-Richard John Neil presents action from Donington Park with racing in the Vertu MINI CHALLENGE and the Porsche Sprint Challenge Great Britain.
-
 2025-06-02 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -525,4 +505,84 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-08 5:00am
 Gary Barlow's Food and Wine Tour: Australia
 Travel series. Gary meets old friend Andi Peters in South Australia to try barrel-making and meet the Willy Wonka of Wine.
+
+2025-06-08 6:00am
+In for a Penny
+Stephen Mulhern presents the pop-up gameshow based on the original `Saturday Night Takeaway' feature. The host takes their unique brand of games and quizzes to the streets, challenging unsuspecting members of the public for a chance to win.
+
+2025-06-08 6:30am
+James Martin's Saturday Morning
+James is back in the kitchen and looks forward to Soccer Aid 2025 with Harry Redknapp while cooking for classical singer Carly Paoli and enjoying recipes from chefs Sally Abe and Daniel Clifford.
+
+2025-06-08 8:25am
+Katie Piper's Weekend Escape
+Katie is joined by Joe Wicks to try South African dancing, Michael and Gen transform the show's first male guest of honour, and Aldo Zilli dishes up a delicious brunch.
+
+2025-06-08 9:25am
+ITV News
+The latest national and international news.
+
+2025-06-08 9:30am
+Love Your Weekend with Alan Titchmarsh
+Joining Alan this time are actress Barbara Flynn and The Repair Shop favourites Julie Tatchell and Amanda Middleditch, who are better known as the Teddy Bear Ladies - Alan also gets a masterclass in milking goats, surveys some vintage bicycles, and samples the best summer red wines.
+
+2025-06-08 11:25am
+Jeremy Pang's Hong Kong Kitchen
+Jeremy invites good friend and TV personality Tom Skinner to Hong Kong as they tuck into iconic breakfasts, sweet treats, and a good old cup of tea.
+
+2025-06-08 12:25pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-08 12:40pm
+Alan Titchmarsh's Gardening Club
+Alan shares the latest from his garden, Camilla explores a historic Scottish palace and gardens, Henry Agg builds a DIY pergola, Martha Swales offers a special allotment tour with her dad, and Errol Reuben Fernandes visits a unique Berkshire garden.
+
+2025-06-08 1:40pm
+	Jumanji
+Alan Parrish disappeared as a young boy. Nobody believes his friend's story that he was sucked into the game they were playing. Twenty-six years later, two children find the game in their attic, and when they start to play, Alan is released, but the game isn't over yet, and Alan must finish before he is really free.
+
+2025-06-08 3:40pm
+	You Only Live Twice
+When both Russian and American spaceships start disappearing, each country suspects the other is responsible, bringing the planet to the brink of WWIII - exactly what SPECTRE agent Ernst Blofeld, the architect of this international crisis, had in mind. James Bond is then sent to Japan to investigate.
+
+2025-06-08 6:00pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-08 6:15pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-08 6:30pm
+The 1% Club
+Lee Mack presents the game show where the questions aren't about general knowledge but logic, brainpower and common sense. 100 contestants begin each edition, who'll face the final question, which only 1 per cent of the population can get right.
+
+2025-06-08 7:30pm
+
+Mark Pougatch presents coverage of the 2025 UEFA Men's Nations League Final in Munich - this is the fourth edition of the UEFA Nations League Finals and the showpiece will be contested between the winners of the semi-finals as hosts Germany take on inaugural champions Portugal and defending champions Spain face France, who were the winners of this competition in 2021. Studio analysis comes from Karen Carney and Guillem Balague, and commentary is provided by Seb Hutchinson and Andros Townsend.
+
+2025-06-08 10:30pm
+ITV News
+The latest national and international news.
+
+2025-06-08 10:50pm
+Love Island: A Decade of Love
+Some of the most iconic Islanders from the past decade of Love Island are reuniting for an unmissable anniversary event - from explosive recouplings and shock bombshells to the love stories that captured the nation, watch as they relive the most unforgettable moments from the Villa and get an exclusive first look at never-before-seen audition clips.
+
+2025-06-09 12:15am
+Teleshopping
+Shopping from home.
+
+2025-06-09 3:00am
+Motorsport UK
+Richard John Neil presents action from Donington Park with racing from the Porsche Carrera Cup Great Britain and the Wera Tools F4 British Championship.
+
+2025-06-09 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-09 5:05am
+Jeremy Pang's Hong Kong Kitchen
+Chef Jeremy Pang invites good friend, actor, presenter and writer Mel Giedroyc to an unforgettable trip down memory lane in the city of Hong Kong.
 
