@@ -1,23 +1,3 @@
-2025-06-02 11:40pm
-Joanna Lumley's Danube
-In Slovakia, Joanna traces Danube tributaries up to the top of the snow-capped Tatras. In Budapest she explores the river by boat and rides a unique children's railway, as well as discovering the city's Jewish heritage.
-
-2025-06-03 12:30am
-Teleshopping
-Shopping from home.
-
-2025-06-03 3:00am
-Code of Silence
-Suspenseful crime drama. Alison is reeling from Liam's betrayal and consumed with guilt over her role in the heist when her life is suddenly threatened by one of the gang.
-
-2025-06-03 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-03 5:05am
-Wheel of Fortune
-Graham Norton invites celebrities Tom Allen, Michelle Visage and Eddie Kadi to spin the Wheel.
-
 2025-06-03 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -513,4 +493,88 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-09 5:05am
 Jeremy Pang's Hong Kong Kitchen
 Chef Jeremy Pang invites good friend, actor, presenter and writer Mel Giedroyc to an unforgettable trip down memory lane in the city of Hong Kong.
+
+2025-06-09 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-09 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-09 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-09 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-09 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-09 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-09 2:00pm
+Alan Titchmarsh's Gardening Club
+Alan shares more practical tips and seasonal highlights from his own patch, Anna Greenland explores the renowned dry garden at Hyde Hall in Essex and offers inspiration for planting in hot and dry conditions without compromising on beauty, and houseplant expert Claire Lowrie returns to tackle some of the most common indoor plant dilemmas.
+
+2025-06-09 3:00pm
+Lingo
+With mother and son Sharon and Sean from Norfolk, Nottingham siblings Amit and Alon, and Linda and her son-in-law Peter from Bromsgrove.
+
+2025-06-09 4:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-06-09 5:00pm
+The Chase
+All that stands between Kerry from Surrey, Ellena from the Wirral, Alex from Fife, Fraser from London and thousands of pounds is the not so small matter of one of the country's finest quiz brains. Bradley Walsh asks the questions, but do they have the answers?
+
+2025-06-09 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-09 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-09 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-09 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-06-09 9:00pm
+Shardlake
+During the dissolution of the monasteries in the Tudor era, Matthew Shardlake is sent by Thomas Cromwell to investigate the death of a commissioner in a remote town of Scarnsea.
+
+2025-06-09 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-09 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-09 10:45pm
+Love Island
+Love Island, the OG dating show, returns as a fresh batch of singles prepare for the summer of a lifetime in the ultimate search for love - host Maya Jama is the official CEO of Love and presiding over all of the in-Villa action as the class of 2025 get set for a summer full of twists and turns ranging from bombshell arrivals to surprise dumpings.
+
+2025-06-10 12:05am
+Teleshopping
+Shopping from home.
+
+2025-06-10 3:00am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-10 4:15am
+The British Soap Awards 2025
+The British Soap Awards honours the incredible achievements in the nation's biggest and most loved television shows. Coronation Street, Doctors, EastEnders, Emmerdale and Hollyoaks will once again go head to head to find out who will be going home with this year's coveted awards.
 
