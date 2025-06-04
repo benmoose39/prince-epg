@@ -1,47 +1,3 @@
-2025-06-03 11:10pm
-Ambulance
-Crews respond to a patient in traumatic cardiac arrest after being stabbed. With his life hanging in the balance, doctors have no choice but to operate on him at the roadside.
-
-2025-06-04 12:10am
-The Hit List
-It's another star-studded celebrity special of The Hit List. The three teams joining Marvin and Rochelle Humes are Loose Women Kéllé Bryan and Brenda Edwards, actor Layton Williams and presenter Angela Scanlon, and former rugby player James Haskell and presenter Mike Bushell. Who will hit the right note and get the chance to win £10,000 for their chosen charity?
-
-2025-06-04 12:55am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-04 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-04 1:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-04 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-04 2:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-04 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-04 3:30am
-Scams & Scandals
-The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
-
-2025-06-04 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-04 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-04 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -883,6 +839,146 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-06-10 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-10 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-06-10 9:45am
+Expert Witness
+A wrongful conviction is overturned by re-examining microscopic particles on a van seat and an attempted murder outside a nightclub is solved by a facial comparison expert.
+
+2025-06-10 10:15am
+Homes Under the Hammer
+Martel meets a former boy band member turned property developer in Darlington who is hoping to create a high-end house in multiple occupation. Dion's on home turf with an Aston Villa fan looking to turn around a Birmingham terrace. Martin is wading through the undergrowth at a plot of land in Kent.
+
+2025-06-10 11:15am
+Bargain Hunt
+Caroline Hawley heads to the Antiques, Vintage and Collectors Fair in Detling, Kent. With expert help on hand from Tim Weeks and Nick Hall, the red and blue teams go head-to-head to see who can buy the most profitable three items to take to auction. Meanwhile, Caroline has that shrinking feeling as she visits Bekonscot, the oldest model village in the world.
+
+2025-06-10 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-10 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-10 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-10 1:00pm
+Money for Nothing
+Kev's at it again, creating a money-making metal masterpiece, while JJ is saving decking - well, potentially falling through decking!
+
+2025-06-10 1:45pm
+Escape to the Country
+A couple from the largest town in Dorset want to escape the urban sprawl to establish a new country life in Devon, and Sonali Shah is on hand to help them kick-start their property search. Sonali also learns the importance of the role local newspapers play in keeping their communities connected and informed.
+
+2025-06-10 2:45pm
+Garden Rescue
+Lee's design for Shail and Cecilia's garden focuses on creating an entertainment space in the middle of the garden with a central patio featuring bespoke screens and L-shaped benches. Lee adds a homemade tandoor for the family to cook together.
+
+2025-06-10 3:30pm
+Bridge of Lies
+Family of four Angela, Lianne, Rachel and Nichola take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2025-06-10 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-06-10 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-10 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-10 6:00pm
+The One Show
+Featuring most talked-about stories in the UK and interactions with guests on the green sofa.
+
+2025-06-10 6:30pm
+EastEnders
+Junior shares a shocking secret, Kat voices her fears, and Amy shares information with Vicki.
+
+2025-06-10 7:00pm
+Who Do You Think You Are?
+Setting aside her clueless historian persona Philomena Cunk, Diane Morgan is unsettled and amused by having to genuinely go in search of the truth to reveal her family history.
+
+2025-06-10 8:00pm
+The Gold
+The proceeds from the stolen Brink's-Mat gold are laundered through growing international criminal networks. The police pick up the trail as their investigation spreads overseas.
+
+2025-06-10 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-10 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-10 9:40pm
+What It Feels Like for a Girl
+Byron is pulled into Liam's dangerous and intoxicating web, offering Byron a chance to reclaim power for themselves and make serious money in the process, but can Liam be trusted?
+
+2025-06-10 10:30pm
+What It Feels Like for a Girl
+Buzzing from the encounter with Liam, Byron goes out on the town with The Divas.
+
+2025-06-10 11:15pm
+Ambulance
+Call handler Caelainn and her colleagues are sexually harassed by a persistent caller using a withheld number, which makes it hard to block his repeated calls.
+
+2025-06-11 12:15am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-11 12:20am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-11 12:30am
+Tech Now
+Ione Wells has behind the scenes access to the Rubin Observatory in Chile's Atacama Desert, while Paul Carter visits an Amazon warehouse introducing a new robot with a sense of touch.
+
+2025-06-11 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-11 1:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-06-11 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-11 2:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-11 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-11 3:30am
+The Interview
+Up close, personal and in-depth with the biggest names.
+
+2025-06-11 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-11 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-11 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
