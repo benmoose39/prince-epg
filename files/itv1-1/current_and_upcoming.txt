@@ -1,31 +1,3 @@
-2025-06-04 10:55pm
-Peston
-Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
-
-2025-06-04 11:50pm
-Premiership Rugby Unleashed
-Action from the 18th round of the 2024-25 Gallagher Premiership season - the final fixtures before the playoffs - featuring Exeter Chiefs v Sale Sharks, Gloucester v Northampton Saints, Leicester Tigers v Newcastle Falcons, Bristol Bears v Harlequins and Saracens v Bath.
-
-2025-06-05 12:15am
-Teleshopping
-Shopping from home.
-
-2025-06-05 3:00am
-Tonight
-You may have seen it or even heard it - cars racing at speeds well over 100 miles per hour on public roads. This is street racing, also known as car cruising, when organised groups meet up to race, do tricks and even just spectate - however, these events can come at a huge cost with drivers and sometimes spectators getting injured and even being killed. Lewis Warner heads out into the night with car cruisers in the West Midlands playing cat and mouse with police forces.
-
-2025-06-05 3:25am
-The Jonathan Ross Show
-Amongst the very special guests featured with Jonathan in this show are Samuel L Jackson, Paul Rudd, Kirsten Dunst, Peter Crouch and Abbey Clancy, Millie Bobby Brown, Sir Michael Caine, Michael McIntyre and Maya Jama.
-
-2025-06-05 3:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-05 5:05am
-James Martin's Midweek Menu
-James Martin is at home in the Hampshire countryside and serving up recipes for minestrone soup made with some incredible organic vegetables, a delicious chicken dish from Dipna and Gulu Anand, and James teaching viewers some essential knife skills in another Masterclass and cooking a mouth-watering dish of halibut for his guests Matt and Nicola Baker with a little help from chefs Raymond Blanc and Daniel Clifford.
-
 2025-06-05 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -505,4 +477,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-11 5:05am
 Alan Titchmarsh's Gardening Club
 Alan shares more practical tips and seasonal highlights from his own patch, Anna Greenland explores the renowned dry garden at Hyde Hall in Essex and offers inspiration for planting in hot and dry conditions without compromising on beauty, and houseplant expert Claire Lowrie returns to tackle some of the most common indoor plant dilemmas.
+
+2025-06-11 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-11 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-11 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-11 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-11 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-11 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-11 2:00pm
+James Martin's Midweek Menu
+James Martin serves up some of his favourite recipes from his Saturday Morning series, including a pumpkin soup that he made for guests Carol Vorderman and singer Joss Stone.
+
+2025-06-11 3:00pm
+Tenable
+Quiz show hosted by Warwick Davis. Five teammates from Glasgow Rangers Women's FC get their chance to win some money for Soccer Aid for UNICEF.
+
+2025-06-11 4:00pm
+Tipping Point
+Ben Shephard hosts a special edition of Tipping Point for Soccer Aid as singer and Soccer Aid alumni Brian McFadden, comedian and World XI player Maisie Adam, and presenter and Soccer Aid commentator Sam Matterface take on our famous machine in the hope of winning 10,000 pounds to support children around the world.
+
+2025-06-11 5:00pm
+The Chase
+Bradley Walsh hosts a very special episode of The Chase for Soccer Aid featuring Lianne Sanderson, Dion Dublin, David James and Shaun Williamson. All four must work as a team trying to win money for UNICEF, but can they take down a Chaser?
+
+2025-06-11 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-11 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-11 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-11 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-06-11 9:00pm
+Genius Game
+A reality game show where David Tennant guides players with exceptional abilities through a series of mind-bending games. The players need to work together to be successful in the game, but only one player can ultimately win.
+
+2025-06-11 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-11 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-11 10:45pm
+Peston
+Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
+
+2025-06-11 11:40pm
+Premiership Rugby Unleashed
+Action from the 2024-25 end of season playoffs.
+
+2025-06-12 12:05am
+Teleshopping
+Shopping from home.
+
+2025-06-12 3:00am
+Shardlake
+During the dissolution of the monasteries in the Tudor era, Matthew Shardlake is sent by Thomas Cromwell to investigate the death of a commissioner in a remote town of Scarnsea.
+
+2025-06-12 3:55am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-12 5:10am
+James Martin's Midweek Menu
+James make a stunning knickerbocker glory and enjoy a crab tart from chef Galton Blackiston. There is also a Masterclass in which James teaches us how to cook steak properly, and James also serves up a delicious crumble for Strictly Come Dancing star Anton Du Beke with a little help from chefs Nick Nairn and Cyrus Todiwala.
 

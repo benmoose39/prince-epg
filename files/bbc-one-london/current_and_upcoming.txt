@@ -1,47 +1,3 @@
-2025-06-04 11:10pm
-Change Your Mind, Change Your Life
-Matt and Emma Willis take us inside the treatment rooms of the UK's leading therapists as they help Nicole tackle her driving anxiety and Muna face her fear of being home alone.
-
-2025-06-05 12:00am
-Change Your Mind, Change Your Life
-Matt and Emma Willis take us inside the treatment rooms of the UK's leading therapists as they help Casey tackle his panic attacks, and Anjalee seek help with the loss of her mum.
-
-2025-06-05 12:45am
-Bridge of Lies
-Ross Kemp presents a celebrity special of the high-stakes quiz, featuring Rachel Riley, Les Dennis, Jordan Banjo and Mrs Brown's Boys actress Fiona O'Carroll.
-
-2025-06-05 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-05 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-05 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-05 2:30am
-Scams & Scandals
-The inside story of a council in north east England was held to ransom by a dangerous gang of cyber criminals. Geoff White investigates the threats to our public services from Russian hackers.
-
-2025-06-05 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-05 3:30am
-Tech Now
-Nick Kwek explores the growing area of digital clones, where your digital self will act, talk and write like you, and complete tasks on your behalf.
-
-2025-06-05 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-05 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-05 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -883,6 +839,142 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-06-11 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-11 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-06-11 9:45am
+Expert Witness
+Analysis of text messages reveal a husband's plot to cover up his wife's murder and traces of DNA on decades old evidence helps bring justice to the family of a murdered woman.
+
+2025-06-11 10:15am
+Homes Under the Hammer
+Today's property development projects run from seven weeks to several years. Martin and Dion track progress on renovations in Bristol and Blackley and a building project on land in Stoke.
+
+2025-06-11 11:15am
+Bargain Hunt
+Natasha Raskin Sharp is in her home city of Glasgow for today's show. She visits the world-famous Burrell Collection, 9,000 rare antiques and artworks that were donated to the city in 1944. Meanwhile, Danny Sebastian and Roo Irvine are on hand to help the Reds and the Blues.
+
+2025-06-11 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-11 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-11 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-11 1:00pm
+
+The live tennis coverage at London's famous Queen's Club continues, with some of the world's best players competing in the first women's tournament at the venue for more than half a century. Russian-born Olga Morozova was the last title-winner back in 1973, and there are a host of big names aiming to succeed her as the champion at the iconic venue. They include Madison Keys, an American who picked up her first Grand Slam title at 2025's Australian Open.
+
+2025-06-11 2:00pm
+Escape to the Country
+Nicki Chapman helps an animal-loving house hunter from a town in Oxfordshire who has a generous budget of £700,000 to find a new village community in Dorset, ideally close to the coast. Making the most of the seaside locale, Nicki visits a luxury yacht manufacturer to experience how the other half set sail in serious style.
+
+2025-06-11 2:45pm
+Garden Rescue
+Charlie and Lee are in Manchester to transform James and Elizabeth's overgrown and unloved plot into a beach-inspired garden. They love to surf and would relish the chance of bringing a sense of the sea to their suburban back garden. Can the team achieve all this on a £6,000 budget?
+
+2025-06-11 3:30pm
+Bridge of Lies
+Friends Phoebe, Katie, Sam and Cal take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2025-06-11 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-06-11 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-11 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-11 6:00pm
+The One Show
+Featuring most talked-about stories in the UK and interactions with guests on the green sofa.
+
+2025-06-11 6:30pm
+EastEnders
+Elaine summons an unlikely confidant, Alfie has a realisation, and Yolande and Patrick are at loggerheads.
+
+2025-06-11 7:00pm
+The Repair Shop: On the Road
+The boys help save a crumbling monument, Suzie hears a story of injustice from South Africa, Will brings a huge drum back to the barn, and Dom learns about neon sign making.
+
+2025-06-11 8:00pm
+Race Across the World
+No flights, no phones - and one high-stakes, low-budget race to the finish. On a globe-spanning adventure of a lifetime, which pair will cross the line first?
+
+2025-06-11 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-11 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-11 9:40pm
+Glow Up: Britain's Next Make-Up Star
+Four MUAs try to meet the make-up demands of celebrities strutting down the red carpet.
+
+2025-06-11 10:40pm
+Who Do You Think You Are?
+Setting aside her clueless historian persona Philomena Cunk, Diane Morgan is unsettled and amused by having to genuinely go in search of the truth to reveal her family history.
+
+2025-06-11 11:40pm
+Bridge of Lies
+Ross Kemp presents a celebrity special of the high-stakes quiz, featuring actress and comedian Kerry Godliman, actors Greg McHugh and Kola Bokinni and comedian Ria Lina.
+
+2025-06-12 12:25am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-12 12:30am
+The Interview
+Up close, personal and in-depth with the biggest names.
+
+2025-06-12 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-12 1:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-12 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-12 2:30am
+The Travel Show
+The Travel Show heads to Bradford, the current UK City of Culture, as it plans to host over a thousand arts and culture events throughout 2025.
+
+2025-06-12 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-12 3:30am
+Tech Now
+Ione Wells has behind the scenes access to the Rubin Observatory in Chile's Atacama Desert, while Paul Carter visits an Amazon warehouse introducing a new robot with a sense of touch.
+
+2025-06-12 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-12 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-12 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
