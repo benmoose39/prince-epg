@@ -1,11 +1,3 @@
-2025-06-05 8:30pm
-Context
-A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
-
-2025-06-05 8:55pm
-Talking Movies
-The host presents the latest news, reviews and updates from the world of cinema including Hollywood blockbusters, documentaries and global cinema.
-
 2025-06-05 9:00pm
 BBC News at Ten
 The latest national and international news, with reports from BBC correspondents worldwide.
@@ -65,10 +57,6 @@ Twenty-four hours a day, the latest national and international stories as they b
 2025-06-06 4:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-06-06 5:00am
-Breakfast
-Backtrace:
 
 2025-06-06 5:00am
 Breakfast
