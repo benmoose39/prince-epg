@@ -330,27 +330,27 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Aurora Teagarden Mysteries: Honeymoon Honeymurder
 Aurora and Nick discover a body while on a pre-honeymoon getaway; as they get closer to finding out what really happened, danger knocks on their doorstep.
 
-2025-06-07 9:55pm
+2025-06-07 9:50pm
 Aurora Teagarden Mysteries
 Librarian Aurora Teagarden solves mysteries in Lawrenceton, Georgia, with the help of the enthusiasts in the Real Murders Club.
 
-2025-06-07 10:50pm
+2025-06-07 10:45pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-06-07 10:55pm
+2025-06-07 10:50pm
 Aurora Teagarden Mysteries
 Librarian Aurora Teagarden solves mysteries in Lawrenceton, Georgia, with the help of the enthusiasts in the Real Murders Club.
 
-2025-06-07 11:50pm
+2025-06-07 11:45pm
 The New Avengers
 In a flashback to April 1969, Typhoon Agatha is raging, sinking five ships, causing chaos and creating a new piece of coastline near Toronto. In the present day (1977), Canadian intelligence receives a message and sets the New Avengers to uncover the truth about Agatha.
 
-2025-06-08 12:50am
+2025-06-08 12:45am
 The New Avengers
 KGB agent Karl Sminsky is recruiting criminals to train as supremely skilled fighters in order to smash Canada's security system. The Avengers find themselves up against a team of supermen.
 
-2025-06-08 1:50am
+2025-06-08 1:45am
 Great! Movie News Extra
 From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
@@ -454,17 +454,21 @@ Providing the latest movie news, information on everyones favourite stars, celeb
 	Aurora Teagarden Mysteries: Haunted by Murder
 ...Haunted By Murder: Aurora returns to the haunted house where she discovered a body years ago. Starring Candace Cameron Bure. (2022)
 
-2025-06-08 9:55pm
+2025-06-08 9:50pm
 Aurora Teagarden Mysteries
 When Aida Teagarden's real estate client is found murdered, her sleuthing daughter, Aurora, sets out with her fiancé, Nick, and the Real Murders Club to solve the murder.
 
-2025-06-08 10:50pm
+2025-06-08 10:45pm
 Great! Movie News
 Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
 
-2025-06-08 10:55pm
+2025-06-08 10:50pm
 Aurora Teagarden Mysteries
 When Aida Teagarden's real estate client is found murdered, her sleuthing daughter, Aurora, sets out with her fiancé, Nick, and the Real Murders Club to solve the murder.
+
+2025-06-08 11:40pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
 
 2025-06-08 11:50pm
 The New Avengers

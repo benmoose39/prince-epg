@@ -846,10 +846,6 @@ The host provides deeper insights into the latest news updates, top stories and 
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
-2025-06-10 12:00pm
-Al Jazeera World
-A showcase of various films across the Al Jazeera Network from a vast array of genres for different audiences.
-
 2025-06-10 1:00pm
 Newshour
 A closer look at international news, events, current affairs, and exclusive stories from around the world.
@@ -1089,10 +1085,6 @@ Up-to-date news and analysis from around the world.
 2025-06-12 12:30am
 Inside Story
 Going beyond the headlines and to the heart of the news of the day.
-
-2025-06-12 1:00am
-Al Jazeera World
-A showcase of various films across the Al Jazeera Network from a vast array of genres for different audiences.
 
 2025-06-12 2:00am
 News
