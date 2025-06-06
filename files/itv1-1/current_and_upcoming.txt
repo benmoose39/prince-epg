@@ -1,23 +1,3 @@
-2025-06-05 10:45pm
-	Minority Report
-A detective works for a police department that uses three infallible psychics to help convict murderers before they have actually committed their crimes. When the detective discovers that he has been identified as a future killer, he becomes a fugitive from his own colleagues.
-
-2025-06-06 1:05am
-Teleshopping
-Shopping from home.
-
-2025-06-06 3:00am
-TikTok: Murder Gone Viral
-In the early hours of the 11th of February, 2022, two 21-year-old men - Saqib Hussain and Hashim Ijazuddin - were found dead in a burning car on the A46 in Leicestershire. Within a short time, police arrested two unlikely culprits: 22-year-old TikTok influencer Mahek Bukhari and her 45-year-old mother Ansreen. Mahek from Stoke-on-Trent has over 160,000 followers on TikTok and many millions of views - her mum Ansreen regularly appeared in her videos.
-
-2025-06-06 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-06 5:05am
-Jimmy and Shivi's Farmhouse Breakfast
-Jimmy and Shivi are joined by comedian and actress Donna Preston as Jimmy makes a puzzle board for the raccoons at the wildlife park.
-
 2025-06-06 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -505,4 +485,92 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-12 5:10am
 James Martin's Midweek Menu
 James make a stunning knickerbocker glory and enjoy a crab tart from chef Galton Blackiston. There is also a Masterclass in which James teaches us how to cook steak properly, and James also serves up a delicious crumble for Strictly Come Dancing star Anton Du Beke with a little help from chefs Nick Nairn and Cyrus Todiwala.
+
+2025-06-12 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-12 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-12 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-12 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-12 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-12 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-12 2:00pm
+Who Wants to Be a Millionaire? Celebrity Specials
+Join host Jeremy Clarkson for a Soccer Aid special as comedians Eddie Izzard and Omid Djalili search for the right answers and try to win one million pounds for UNICEF.
+
+2025-06-12 3:00pm
+Tenable
+Quiz show hosted by Warwick Davis. A team of five colleagues tackle a series of Top 10 list questions for the chance to win 125,000 pounds for Soccer Aid.
+
+2025-06-12 4:00pm
+Tipping Point
+Ben Shephard hosts a special edition of Tipping Point in aid of Soccer Aid for UNICEF. TV presenter and UNICEF ambassador Charlie Boorman, ITV's fishing aficionado Ali Hamidi and Love Islander turned horse racing commentator Chris Hughes all take on the machine in the hope of winning 10,000 pounds for charity.
+
+2025-06-12 5:00pm
+The Chase
+Four strangers work as a team to answer general knowledge questions. They must defeat the Chaser, a ruthless quiz genius, in order to win money.
+
+2025-06-12 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-12 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-12 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-12 8:30pm
+Bradley and Barney Walsh: Breaking Dad
+The boys are back! Bradley and Barney Walsh embark on a 3,000-mile journey through Europe, starting off in the sunny south of Croatia and ending up in the ice-cold Arctic Circle in Scandinavia. There's no easing his dad in on this trip for Barney. First up, they swing off the roof of Split's iconic football stadium, before diving headfirst into the crystal clear waters of the Adriatic Sea. The action continues when the pair go head to head on aqua bikes alongside a former world champion.
+
+2025-06-12 9:00pm
+DNA Journey
+Acclaimed actors Fay Ripley and Hermione Norris - both of whom shot to fame in Cold Feet - discover their extraordinary family histories together.
+
+2025-06-12 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-12 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-12 10:45pm
+	You Only Live Twice
+When both Russian and American spaceships start disappearing, each country suspects the other is responsible, bringing the planet to the brink of WWIII - exactly what SPECTRE agent Ernst Blofeld, the architect of this international crisis, had in mind. James Bond is then sent to Japan to investigate.
+
+2025-06-13 12:45am
+Teleshopping
+Shopping from home.
+
+2025-06-13 3:00am
+TikTok: Murder Gone Viral
+To her many thousands of followers, stunning Houston influencer Alexis Sharkey had it all. She was living her best life and sharing it each day on TikTok, but her popular social media posts hid a terrible, dark secret.
+
+2025-06-13 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-13 5:05am
+Jimmy and Shivi's Farmhouse Breakfast
+Jimmy and Shivi are joined by singer, actress and presenter Toyah Willcox as Shivi serves a tropical breakfast ice cream to the performer.
 
