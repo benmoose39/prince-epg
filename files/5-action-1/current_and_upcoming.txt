@@ -1,7 +1,3 @@
-2025-06-06 8:00pm
-Police Code Zero: Officer Under Attack
-Series 2 Episode 4
-
 2025-06-06 9:00pm
 The Motorway
 Mayhem ensues when patrollers discover a car on the M60 leaking fuel and on fire. Plus, a broken-down van blocks a slip road and a four vehicle pile-up causes chaos on Spaghetti Junction.
@@ -40,7 +36,7 @@ Shopping from home.
 
 2025-06-07 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-07 6:00am
 eFOLDi Mobility Scooters
