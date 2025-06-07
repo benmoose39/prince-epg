@@ -1,23 +1,3 @@
-2025-06-06 10:45pm
-	Goldfinger
-The powerful tycoon Auric Goldfinger has initiated Operation Grand Slam, a cataclysmic scheme to raid Fort Knox and obliterate the world economy. James Bond, armed with his specially equipped Aston Martin, must stop the plan by overcoming several outrageous adversaries.
-
-2025-06-07 12:55am
-Teleshopping
-Shopping from home.
-
-2025-06-07 3:00am
-Mel Giedroyc and Martin Clunes Explore Britain by the Book
-In this warm and funny one-off programme, two of Britain's most loved personalities will see some of the country's most beautiful landmarks, meet and get to know people, and uncover the local quirks and joys of Martin's beloved home county.
-
-2025-06-07 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-07 5:05am
-Katie Piper's Weekend Escape
-Join Katie Piper and enter the space she's created for people to come and reset, retreat, relax, have some fun and hopefully learn some stuff along the way in - this is a one-stop shop for wellness needs, fitness, food, entertainment and celebrity access. As Katie and her guests submerse themselves into different activities in the glorious British countryside, there are also surprises with lots of furry friends and a look at guests of honour that are doing incredible things in their communities.
-
 2025-06-07 6:00am
 Love Your Garden
 Alan Titchmarsh heads to Swindon to surprise Lorraine, a retired RAF service-woman and devoted charity volunteer. Because of a spinal injury, Lorraine struggles with mobility issues and lives with her full-time support team Poppy and Doris. Both Leonberger dogs, Poppy is a retired therapy dog and Doris is Lorraine's assistance dog - who helps with chores such as laundry and fetching household items.
@@ -517,4 +497,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-13 5:05am
 Jimmy and Shivi's Farmhouse Breakfast
 Jimmy and Shivi are joined by singer, actress and presenter Toyah Willcox as Shivi serves a tropical breakfast ice cream to the performer.
+
+2025-06-13 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-13 9:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-13 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-13 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-13 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-13 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-13 2:00pm
+Gary Barlow's Food and Wine Tour: Australia
+Travel series. Boyband superstar Ronan Keating joins Gary to explore Australia's red centre and visit the sacred Uluru.
+
+2025-06-13 3:00pm
+Riddiculous
+Ranvir Singh hosts a Soccer Aid edition of the quiz show as three celebrities and three previous champions take on the Riddlemaster in a bid to solve his riddles and raise money for Unicef.
+
+2025-06-13 4:00pm
+Tipping Point
+Ben Shephard hosts the quiz show in which four players take on an extraordinary machine in the hope of winning a cash jackpot.
+
+2025-06-13 5:00pm
+The Chase
+Bradley Walsh hosts a very special episode of The Chase for Soccer Aid featuring Dermot O'Leary, Lynsey Hipgrave, Kyle Walker and Alex Brooker - can all four work as a team and win big money for UNICEF... and can they take down a Chaser?
+
+2025-06-13 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-13 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-13 7:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-13 8:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-06-13 9:00pm
+Sam Thompson's Match Ball Mission for Soccer Aid
+Sam Thompson embarks on an epic 260-mile challenge to deliver the Soccer Aid for UNICEF match ball from Stamford Bridge in London to Old Trafford in Manchester, the home of the 2025 match.
+
+2025-06-13 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-13 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-13 10:45pm
+Who Wants to Be a Millionaire? Celebrity Specials
+Join host Jeremy Clarkson for a Soccer Aid special as comedians Eddie Izzard and Omid Djalili search for the right answers and try to win one million pounds for UNICEF.
+
+2025-06-13 11:40pm
+Heathrow: Britain's Busiest Airport
+Series 6 Episode 3
+
+2025-06-14 12:05am
+Teleshopping
+Shopping from home.
+
+2025-06-14 3:00am
+Deal or No Deal
+Stephen Mulhern hosts a special Soccer Aid for UNICEF edition of the iconic game show as Alex Brooker goes up against the infamous Banker - supported on the wings by his Soccer Aid family, can Alex choose the right boxes and resist the Banker's tempting cash offers until just the right moment to beat the Banker and bag a huge cash prize for charity? There'll be just one question to answer...
+
+2025-06-14 3:50am
+Unwind with ITV
+Your daily escape designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-14 5:05am
+Katie Piper's Weekend Escape
+Katie is joined by Joe Wicks to try South African dancing, Michael and Gen transform the show's first male guest of honour, and Aldo Zilli dishes up a delicious brunch.
 
