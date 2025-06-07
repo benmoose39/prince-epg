@@ -112,7 +112,7 @@ Twenty-four hours a day, the latest national and international stories as they b
 
 2025-06-08 3:30am
 The Interview
-Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
+Up close, personal and in-depth with the biggest names.
 
 2025-06-08 4:00am
 BBC News
@@ -232,7 +232,11 @@ BBC One joins the BBC's rolling news channel for a night of news.
 
 2025-06-08 11:30pm
 The Interview
-Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
+Up close, personal and in-depth with the biggest names.
+
+2025-06-08 11:40pm
+The Interview
+Up close, personal and in-depth with the biggest names.
 
 2025-06-09 12:00am
 BBC News
@@ -536,7 +540,7 @@ From London and Singapore the latest international news from the BBC.
 
 2025-06-11 3:30am
 The Interview
-Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!
+Up close, personal and in-depth with the biggest names.
 
 2025-06-11 4:00am
 BBC News
@@ -933,6 +937,42 @@ Detailed weather forecast.
 2025-06-14 12:15am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-14 12:30am
+Tech Now
+Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
+
+2025-06-14 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 1:30am
+China's Greatest Treasures
+BBC art historian Alastair Sooke discovers how historic fashion design still resonates with people in China today, and how it has become a way in which people can celebrate their identity.
+
+2025-06-14 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 2:30am
+Ukrainecast
+In-depth coverage and analysis of the ongoing war in Ukraine.
+
+2025-06-14 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-14 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 4:30am
+The Travel Show
+Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train. While some are hailing the benefits, Qasa will be finding out why others are not wholly on board.
 
 2025-06-14 5:00am
 Breakfast
