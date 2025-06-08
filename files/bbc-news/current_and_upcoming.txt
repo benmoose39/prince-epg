@@ -1,47 +1,3 @@
-2025-06-07 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-07 11:55pm
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-08 12:30am
-Take Me to the Opera
-Zeinab Badawi meets Sir Bryn Terfel, one of the most distinguished singers of our age who is in demand on stages across the world.
-
-2025-06-08 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-08 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-06-08 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-08 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-06-08 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-08 3:30am
-The Interview
-Up close, personal and in-depth with the biggest names.
-
-2025-06-08 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-08 4:30am
-Tech Now
-Ione Wells has behind the scenes access to the Rubin Observatory in Chile's Atacama Desert, while Paul Carter visits an Amazon warehouse introducing a new robot with a sense of touch.
-
 2025-06-08 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -151,18 +107,14 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-08 10:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+AI Decoded
+AI Decoded looks at potential of artificial intelligence to transform the educational environment from a traditional setting into a much more innovative and interactive learning space.
 
 2025-06-08 11:00pm
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-08 11:30pm
-The Interview
-Up close, personal and in-depth with the biggest names.
-
-2025-06-08 11:40pm
 The Interview
 Up close, personal and in-depth with the biggest names.
 
@@ -1087,6 +1039,166 @@ The Travel Show
 Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train. While some are hailing the benefits, Qasa will be finding out why others are not wholly on board.
 
 2025-06-14 5:00am
-To Be Announced
-5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-14 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 10:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-06-14 11:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 11:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 12:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 12:30pm
+The Interview
+Laura Kuenssberg speaks to Arnold Schwarzenegger.
+
+2025-06-14 1:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 1:30pm
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-06-14 2:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 2:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 2:45pm
+Newswatch
+Viewers' opinions on the coverage of events by BBC News, addressed by the editors and decision makers in charge.
+
+2025-06-14 3:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 3:30pm
+Ukrainecast
+In-depth coverage and analysis of the ongoing war in Ukraine.
+
+2025-06-14 4:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 5:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-06-14 6:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 6:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-06-14 7:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 7:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-06-14 8:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 9:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 10:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 10:30pm
+Political Thinking with Nick Robinson
+Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.
+
+2025-06-14 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-14 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-15 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-15 12:30am
+Take Me to the Opera
+Zeinab Badawi travels to Munich in Germany to meet the world's top tenor Jonas Kaufmann, finding out what makes him so special.
+
+2025-06-15 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-15 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-06-15 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-15 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-06-15 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-15 3:30am
+The Interview
+Laura Kuenssberg speaks to Arnold Schwarzenegger.
+
+2025-06-15 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-15 4:30am
+Tech Now
+Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
+
+2025-06-15 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
