@@ -1,51 +1,3 @@
-2025-06-09 11:20pm
-Pointless Celebrities
-Alexander Armstrong presents a celebrity version of the general knowledge quiz.
-
-2025-06-10 12:05am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-10 12:10am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-10 12:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-10 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-10 1:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-06-10 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-10 2:30am
-The Interview
-Up close, personal and in-depth with the biggest names.
-
-2025-06-10 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-10 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-10 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-10 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-10 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -883,6 +835,150 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-06-16 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-16 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-06-16 9:45am
+The Moment of Proof
+A jacket left behind in a stolen car carries the DNA to prove who was driving the vehicle. But it takes detective work to figure out who he is, and it turns out he is responsible for a series of car thefts and has been using fake number plates.
+
+2025-06-16 10:15am
+Homes Under the Hammer
+Jacqui boards a ferry to view a traditional cottage in Ventnor on the Isle of Wight, while Dion checks out an end terrace in Bradford, as well as following a two-year project in Derby to build eight homes on land formerly used as garages.
+
+2025-06-16 11:15am
+Bargain Hunt
+The teams put the pedal to the metal as they race around a huge antiques centre in King's Lynn, with their experts Caroline Hawley and David Fergus. Charlie Ross learns about the remarkable life of British motor racing legend Raymond Mays.
+
+2025-06-16 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-16 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-16 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-16 1:00pm
+Money for Nothing
+In Surrey, Sarah Moore is at Witley recycling centre, trawling the car boots in the hope of finding some potential gems in need of creative magic. Upcycling sisters Katie Stone and Sophie Lawrence are tested by a wooden cabinet in disrepair, four chairs in a mix of styles get a radical revamp from woodworker Martin Hough, whilst Sarah must think out of the box when she takes on a metal trunk full of vintage tools.
+
+2025-06-16 1:45pm
+Escape to the Country
+Finally able to search for their forever home and a more settled way of life, a former Royal Marine and a retired civil servant have £375,000 to spend and the expert guidance of Jules Hudson.
+
+2025-06-16 2:45pm
+Garden Rescue
+Charlie and Flo are in Egham to transform Neil and Rumen overgrown and unloved plot into an Islamic themed garden. They would love a sophisticated space that echoes some of their travels, particularly their trips to the middle east.
+
+2025-06-16 3:30pm
+Bridge of Lies
+A quiz show in which a team of four take on the `Bridge of Lies'. Each Bridge crossing has 32 potential steps, including 22 truths and 10 lies, and they must cross the Bridge by stepping on the truths and avoiding the lies.
+
+2025-06-16 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2025-06-16 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-16 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-16 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2025-06-16 6:30pm
+EastEnders
+Jean takes action to right a wrong, Alfie is clearly hiding something, and George gets some advice.
+
+2025-06-16 7:00pm
+Panorama
+Millions of us enjoy the thrill of the funfair. But how safe are the rides we're getting on? Reporter Rahil Sheikh investigates.
+
+2025-06-16 7:30pm
+Scam Interceptors
+Scammers turn the air blue in the Scam Interceptors HQ, hurling a barrage of abuse at their victims. The team pull out all the stops to reach one woman, calling in the help of a local walking group to try and interrupt her call and stop the scam.
+
+2025-06-16 8:00pm
+The Gold
+The British police join forces with the DEA to take down the international money laundering operation. In Tenerife, John Palmer has an unwelcome visitor as the pressure builds.
+
+2025-06-16 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-16 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-16 9:40pm
+Have I Got News for You
+Kirsty Young is host, with guest panellists writer and director Armando Iannucci and comedian Phil Wang joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2025-06-16 10:10pm
+Ragdoll
+A gruesome discovery sets DI Baxter, DS Rose and DC Edmunds on the trail of the Ragdoll killer, who also lists six more people due to die. It's a race against time to find the victims and track down a killer before he strikes again.
+
+2025-06-16 10:55pm
+Ragdoll
+With the `Ragdoll Killer' proving unstoppable, the team desperately hunt down the second victim. When hazy memories surface, a frantic Rose starts his own investigation into the `Ragdoll Killer'.
+
+2025-06-16 11:40pm
+Pointless Celebrities
+The celebrities aiming to lift the Pointless trophy are Laura Jackson, Kirsten O'Brien, Davood Ghadami, James Bye, Jamie O'Hara, Jermaine Beckford, Nicola Dempsey and Rosie Dempsey.
+
+2025-06-17 12:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-17 12:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-17 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-17 1:30am
+The Interview
+Laura Kuenssberg speaks to Arnold Schwarzenegger.
+
+2025-06-17 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-17 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2025-06-17 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-17 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-17 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-17 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
