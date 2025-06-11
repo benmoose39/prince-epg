@@ -22,37 +22,13 @@ Twenty-four hours a day, the latest national and international stories as they b
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
-2025-06-11 10:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-06-11 10:45am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-11 11:00am
-BBC News Now
-All the big stories, live as they happen, presented by Lucy Hockings.
+2025-06-11 10:15am
+Politics Live
+Jo Coburn invites a panel of guests to share their opinions on the newsmaking stories of the day.
 
 2025-06-11 11:30am
-BBC News Now
-All the big stories, live as they happen, presented by Lucy Hockings.
-
-2025-06-11 12:00pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2025-06-11 1:00pm
-BBC News Now
-All the big stories, live as they happen, presented by Lucy Hockings.
-
-2025-06-11 1:30pm
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2025-06-11 1:45pm
-BBC News Now
-All the big stories, live as they happen, presented by Lucy Hockings.
+Politics Live
+Jo Coburn invites a panel of guests to share their opinions on the newsmaking stories of the day.
 
 2025-06-11 2:00pm
 Verified Live
@@ -455,12 +431,8 @@ Context
 A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
 
 2025-06-13 8:00pm
-Context
-A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
-
-2025-06-13 8:30pm
-Context
-A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+Is Trump Making the World Safer or More Dangerous?
+The BBC World Service Debate considers the rapidly changing international landscape during Donald Trump's presidency. The BBC's Chief International Correspondent, Lyse Doucet, is joined by a panel of guests to discuss whether the new international order emerging will make the world a safer place.
 
 2025-06-13 9:00pm
 BBC News at Ten
