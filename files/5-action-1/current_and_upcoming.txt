@@ -1,11 +1,3 @@
-2025-06-12 10:30am
-	Bend of the River
-An ex-Missouri raider is hired to lead pioneers through Oregon in 1847 to establish a farming community, only to be betrayed by his best friend.
-
-2025-06-12 11:30am
-Entertainment News On 5
-A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
-
 2025-06-12 11:35am
 	Bend of the River
 An ex-Missouri raider is hired to lead pioneers through Oregon in 1847 to establish a farming community, only to be betrayed by his best friend.
@@ -76,7 +68,7 @@ Shopping from home.
 
 2025-06-13 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-13 6:00am
 eFOLDi Mobility Scooters
