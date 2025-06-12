@@ -848,7 +848,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-06-17 12:00pm
 Al Jazeera World
-A showcase of various films across the Al Jazeera Network from a vast array of genres for different audiences.
+A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
 
 2025-06-17 1:00pm
 Newshour
@@ -1092,7 +1092,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2025-06-19 1:00am
 Al Jazeera World
-A showcase of various films across the Al Jazeera Network from a vast array of genres for different audiences.
+A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
 
 2025-06-19 2:00am
 News
