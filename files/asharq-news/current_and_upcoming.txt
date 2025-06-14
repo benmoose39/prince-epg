@@ -76,10 +76,6 @@ Breaking news and headlines, local weather forecasts, sports and traffic reports
 
 2025-06-15 5:30am
 Series
-Backtrace:
-
-2025-06-15 5:30am
-Series
 Breaking news and headlines, local weather forecasts, sports and traffic reports.
 
 2025-06-15 7:00am
