@@ -124,7 +124,7 @@ Gordon travels to Loudonville, Ohio, to rescue the struggling Landoll's Mohican 
 
 2025-06-15 5:05am
 Ramsay's Hotel Hell
-Gordon Ramsay visits The Keating, a `luxury' boutique hotel in San Diego, California. Owner, Eddie Kaen, has blown millions designing the hotel to look like an Italian sports car, but neglected to spend money on things the guests really need.
+Backtrace:
 
 2025-06-15 6:00am
 Hollyoaks: Omnibus
