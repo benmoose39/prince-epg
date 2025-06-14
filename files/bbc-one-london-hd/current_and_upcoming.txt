@@ -943,8 +943,44 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2025-06-21 12:00am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-21 12:30am
+Tech Now
+Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
+
+2025-06-21 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-21 1:30am
+China's Greatest Treasures
+Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.
+
+2025-06-21 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-21 2:30am
+World Questions
+Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
+
+2025-06-21 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-21 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-21 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-21 4:30am
+The Travel Show
+Qasa Alom continues his journey on the Maya Train, the brand-new line that connects the towns, villages and historic sites of Mexico's Yucatan peninsula.
 
 2025-06-21 5:00am
 Breakfast
