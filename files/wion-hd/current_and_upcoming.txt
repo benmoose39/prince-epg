@@ -1,11 +1,3 @@
-2025-06-15 12:30pm
-Top Stories
-Developing stories from around the world..
-
-2025-06-15 1:00pm
-Tech it Out
-A theme-based tech show with technology at its base and lifestyle as a treatment. Introducing the viewer to the technology that changes the way life is lived.
-
 2025-06-15 1:30pm
 Top Stories
 Developing stories from around the world..
@@ -136,7 +128,7 @@ Presenting an in-depth analysis of the latest updates about the political and so
 
 2025-06-16 5:30am
 Newspoint
-Reporting on all news and happenings making top stories from around the globe, as they happen.
+Backtrace:
 
 2025-06-16 6:00am
 Speed News
