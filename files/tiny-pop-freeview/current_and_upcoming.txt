@@ -16,10 +16,6 @@ Lifetime +1 is no longer available.
 
 2025-06-16 5:00am
 Channel No Longer Available
-Backtrace:
-
-2025-06-16 5:00am
-Channel No Longer Available
 Lifetime +1 is no longer available.
 
 2025-06-16 9:00am
