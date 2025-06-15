@@ -1,36 +1,32 @@
-2025-06-15 5:00am
+2025-06-15 5:05am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Wednesday 11 June.
 
-2025-06-15 10:00am
+2025-06-15 9:50am
 House of Lords
-Coverage of a statement in the House of Lords.
+Coverage of business in the House of Lords on Thursday, 12 June 2025.
 
-2025-06-15 10:45am
+2025-06-15 10:55am
 Senedd Cymru - Welsh Parliament
-Coverage of a debate in the Welsh Parliament.
+Coverage of the statement in the Senedd, the Welsh Parliament, on guidance for political parties, from Tuesday 10 June.
 
 2025-06-15 11:50am
 Scottish Parliament
-Coverage of a statement in the Scottish Parliament.
+Coverage of the debate in the Scottish Parliament, tabled by the Scottish government, on 'a migration system that works for Scotland', from Thursday 12 June.
 
-2025-06-15 12:35pm
-House of Commons
-Coverage of a statement in the House of Commons.
+2025-06-15 1:30pm
+Scottish Parliament
+Coverage of the statement in the Scottish Parliament on greenhouse gas emissions statistics for 2023, from Thursday 12 June.
 
-2025-06-15 1:20pm
-House of Lords
-Coverage of a debate in the House of Lords.
-
-2025-06-15 2:05pm
+2025-06-15 2:00pm
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 11 June.
 
-2025-06-15 2:40pm
+2025-06-15 2:30pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 12 June.
 
-2025-06-15 3:25pm
+2025-06-15 3:20pm
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 10 June.
 
@@ -40,25 +36,37 @@ Questions in Stormont to the Northern Ireland executive, with the deputy first m
 
 2025-06-15 5:00pm
 Select Committees
-Recorded coverage of select committee proceedings.
+The Defence committee with the chief of the defence staff, Admiral Sir Tony Radakin.
 
-2025-06-15 11:20pm
+2025-06-15 6:50pm
+Select Committees
+Coverage of select committee proceedings on Wednesday 11 June.
+
+2025-06-15 8:30pm
+Select Committees
+Coverage of the Women and Equalities select committee session on the work of the Equality and Human Rights Commission (EHRC) with evidence from the chair of EHRC, Baroness Falkner of Margravine, and its chief executive, John Kirkpatrick, from Wednesday 11 June.
+
+2025-06-15 10:35pm
+Scottish Parliament
+Coverage of questions in the Scottish Parliament to the cabinet secretary for net zero, energy and transport, Gillian Martin, from Thursday 12 June.
+
+2025-06-15 11:05pm
 House of Commons
 Coverage of questions in the House of Commons to Jonathan Reynolds, the Business and Trade Secretary, and his team of ministers on Thursday, 12 June 2025.
 
-2025-06-16 12:20am
+2025-06-16 12:10am
 House of Commons
 Coverage of questions in the House of Commons to Jo Stevens, the Welsh Secretary, and her team of ministers on Wednesday, 11 June 2025.
 
-2025-06-16 12:50am
+2025-06-16 12:40am
 House of Commons
 Coverage of questions in the House of Commons to Ed Miliband, the Energy Security and Net Zero Secretary, and his team of ministers on Tuesday, 10 June 2025.
 
-2025-06-16 1:50am
+2025-06-16 1:40am
 House of Commons
 Coverage of questions in the House of Commons to Angela Rayner, the Housing, Communities and Local Government Secretary, and her team of ministers on Monday, 9 June 2025.
 
-2025-06-16 2:50am
+2025-06-16 2:45am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 10 June.
 
@@ -70,29 +78,29 @@ Questions in the Scottish Parliament to John Swinney, the first minister, on Thu
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 11 June.
 
-2025-06-16 5:00am
+2025-06-16 4:55am
 Westminster Hall
 House of Commons proceedings in Westminster Hall from Thursday 12 June.
 
-2025-06-16 8:00am
+2025-06-16 7:50am
 Northern Ireland Assembly
 Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 9 June.
 
-2025-06-16 8:45am
+2025-06-16 8:35am
 Welsh First Minister's Questions
 Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 10 June.
 
-2025-06-16 9:35am
+2025-06-16 9:30am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 12 June.
 
-2025-06-16 10:20am
+2025-06-16 10:15am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 11 June.
 
-2025-06-16 10:55am
+2025-06-16 10:50am
 Select Committees
-Recorded coverage of select committee proceedings.
+Coverage of the Home Affairs select committee session on asylum accommodation, with evidence from Helen Bransfield, director of asylum services at Migrant Help, Dame Angela Eagle, minister for border security and asylum at the Home Office, Simon Ridley, second permanent secretary at the Home Office and Joanna Rowland, director general of customer services at the Home Office, from Tuesday 10 June.
 
 2025-06-16 1:00pm
 Northern Ireland Assembly
@@ -162,7 +170,7 @@ Coverage of questions in the House of Commons to Bridget Phillipson, the educati
 House of Commons
 Highlights of the proceedings in the House of Commons on Monday, 16 June 2025.
 
-2025-06-17 8:30am
+2025-06-17 9:00am
 Select Committees
 Coverage of select committee proceedings on Tuesday, 17 June.
 
@@ -310,19 +318,15 @@ Highlights of the proceedings in the House of Commons on Wednesday, 18 June 2025
 House of Commons
 Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 19 June.
 
+2025-06-19 9:10am
+House of Commons
+Coverage of the announcement of future Commons business and questions to Lucy Powell, the Leader of the Commons, on Thursday, 19 June 2025.
+
 2025-06-19 9:30am
 House of Commons
 Coverage of the announcement of future Commons business and questions to Lucy Powell, the Leader of the Commons, on Thursday, 19 June 2025.
 
 2025-06-19 10:30am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday, 19 June 2025.
-
-2025-06-19 11:30am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday, 19 June 2025.
-
-2025-06-19 12:30pm
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Thursday, 19 June 2025.
 
@@ -365,6 +369,10 @@ Business in the House of Lords on Thursday 19 June.
 2025-06-20 1:15am
 House of Commons
 Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 19 June.
+
+2025-06-20 1:55am
+House of Commons
+Coverage of the announcement of future Commons business and questions to Lucy Powell, the Leader of the Commons, on Thursday, 19 June 2025.
 
 2025-06-20 2:15am
 House of Commons
@@ -415,30 +423,78 @@ Northern Ireland Assembly
 Highlights from the Northern Ireland Assembly.
 
 2025-06-21 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Tuesday 17 June.
 
-2025-06-21 9:00am
-To Be Announced
-9:00am
+2025-06-21 10:00am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 18 June.
 
-2025-06-21 1:00pm
-To Be Announced
-1:00pm
+2025-06-21 10:35am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 19 June.
+
+2025-06-21 11:20am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 17 June.
+
+2025-06-21 12:10pm
+Northern Ireland Assembly
+Coverage of questions in Stormont to ministers in the Northern Ireland executive.
+
+2025-06-21 12:55pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2025-06-21 1:40pm
+House of Lords
+Coverage of a statement in the House of Lords.
+
+2025-06-21 2:25pm
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2025-06-21 3:10pm
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2025-06-21 4:15pm
+House of Lords
+Coverage of a debate in the House of Lords.
 
 2025-06-21 5:00pm
-To Be Announced
-5:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2025-06-21 9:00pm
-To Be Announced
-9:00pm
+2025-06-21 11:20pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 18 June.
 
-2025-06-22 1:00am
-To Be Announced
-1:00am
+2025-06-21 11:55pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 19 June.
+
+2025-06-22 12:40am
+Welsh First Minister's Questions
+Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 17 June.
+
+2025-06-22 1:30am
+House of Commons
+Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 16 June.
+
+2025-06-22 2:30am
+House of Commons
+Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 17 June.
+
+2025-06-22 3:30am
+House of Commons
+Coverage of questions in the House of Commons to Bridget Phillipson, the women and equalities minister, and her team on Wednesday 18 June.
+
+2025-06-22 4:00am
+House of Commons
+Coverage of questions in the House of Commons to Steve Reed, the environment, food and rural affairs secretary, and his team of ministers on Thursday 19 June.
 
 2025-06-22 5:00am
-To Be Announced
-5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall from Wednesday 18 June.
 

@@ -59,8 +59,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-15 3:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+The Interview
+Laura Kuenssberg speaks to Arnold Schwarzenegger.
 
 2025-06-15 4:00pm
 BBC News
@@ -99,8 +99,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-15 9:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-06-15 10:00pm
 BBC News
@@ -291,8 +291,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-16 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+Ukrainecast
+In-depth coverage and analysis of the ongoing war in Ukraine.
 
 2025-06-17 12:00am
 BBC News
@@ -467,8 +467,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-17 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
 2025-06-18 12:00am
 BBC News
@@ -643,8 +643,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-18 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2025-06-19 12:00am
 BBC News
@@ -815,8 +815,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-19 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+The Travel Show
+Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train. While some are hailing the benefits, Qasa will be finding out why others are not wholly on board.
 
 2025-06-20 12:00am
 BBC News
@@ -1195,6 +1195,6 @@ Tech Now
 Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
 
 2025-06-22 5:00am
-To Be Announced
-5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
