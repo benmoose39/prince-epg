@@ -1,7 +1,3 @@
-2025-06-16 11:00am
-Traffic Cops
-A Ford Fiesta stolen by teenagers leads the cops on a chase through Bradford. A gang of burglars who have been targeting pensioners are spotted in Halifax. The road crime team are tracking a team of burglars who operate in a convoy of cars.
-
 2025-06-16 12:00pm
 Traffic Cops
 At Christmas the traffic cops have their hands full as party-going drunks end up getting behind the wheel. The stresses of surviving Yuletide lead to late night argy-bargy and screaming matches.
@@ -180,7 +176,7 @@ Shopping from home.
 
 2025-06-18 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-18 6:00am
 Teleshopping
