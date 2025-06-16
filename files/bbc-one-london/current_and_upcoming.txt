@@ -1,47 +1,3 @@
-2025-06-15 11:30pm
-The Interview
-Laura Kuenssberg speaks to Arnold Schwarzenegger.
-
-2025-06-16 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-16 12:30am
-Ukrainecast
-In-depth coverage and analysis of the ongoing war in Ukraine.
-
-2025-06-16 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-16 1:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-06-16 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-16 2:30am
-Tech Now
-Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.
-
-2025-06-16 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-16 3:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-16 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-16 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-16 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -903,6 +859,142 @@ Tech Now
 Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
 
 2025-06-22 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-22 8:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2025-06-22 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2025-06-22 9:30am
+Animal Park
+At the fennec fox enclosure, Zuri has just given birth to a litter of three kits. This should be a cause for celebration, but past problems with Zuri's pregnancies put the keepers on high alert. Darren, the head of animal operations, decides that the keepers should intervene and attempt to hand-rear two of them. Can they do enough to keep them alive? Meanwhile, out in Wolf Wood, Kate gets the ride of her life when she joins carnivore keeper Kayleigh in the 'feed wagon'.
+
+2025-06-22 10:15am
+Homes Under the Hammer
+We welcome back two developers who've been on the show before. One is tackling a big end-of-terrace in north London, whereas the other seems to have nabbed a bargain in Suffolk. Martel also checks out an interesting property in Morecambe with beautiful sea views.
+
+2025-06-22 11:15am
+Bargain Hunt
+Natasha Raskin Sharp and the teams go shopping in Hele, near Exeter, with experts Danny Sebastian and John Cameron. Natasha learns more about wheelwrights.
+
+2025-06-22 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-22 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-22 12:15pm
+Songs of Praise
+Laura Wright is in London to celebrate how the power of music stirs the soul, touches hearts and strengthens faith and fellowship.
+
+2025-06-22 12:50pm
+Points of View
+Viewers have their say on BBC television programmes.
+
+2025-06-22 1:05pm
+Live Tennis: ATP & WTA Queen's 2025
+Who will add their name to the exalted list of men's winners at this celebrated grass court tennis tournament, gaining kudos and confidence ahead of Wimbledon in eight days' time? A world-class list of players entered Queen's this year, including 2023 winner and two-time defending Wimbledon champion Carlos Alcaraz and high-flying Jack Draper.
+
+2025-06-22 4:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-22 4:15pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-22 4:20pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-22 4:25pm
+Countryfile
+Matt Baker and Sammi Kinghorn are in and around the east Devon resort of Seaton, finding out how coastal life is shifting with the times.
+
+2025-06-22 5:25pm
+Walking With Dinosaurs
+The dangerous journey of the Pachyrhinosaurus, where survival is at stake during the annual migration hundreds of miles north.
+
+2025-06-22 6:15pm
+Antiques Roadshow
+The roadshow returns to one of the grandest houses in Wales, Powis Castle. Mark Hill is intrigued by a ventriloquist's dummy with an unusual hairpiece, while Geoffrey Munn is amazed to discover a love token crafted from a swan's feather woven with gold that has survived for over 300 years.
+
+2025-06-22 7:15pm
+Death Valley
+A murder-mystery party turns into a real investigation when a famous actor is found stabbed to death. John reconnects with an old flame while he and Janie investigate.
+
+2025-06-22 8:00pm
+The Gold
+Old and new Brink's-Mat criminals are in hiding around the world. As the police and criminal rivals close in on all fronts, the chase begins. Boyce meets an old foe.
+
+2025-06-22 9:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-22 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-22 9:30pm
+	Saltburn
+Troubled by his classmate's unfortunate living situation, wealthy Oxford student Felix invites Oliver to stay at his estate, but a series of horrifying events soon engulf his eccentric family.
+
+2025-06-22 11:35pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-22 11:40pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-23 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 12:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-06-23 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-23 1:30am
+Ukrainecast
+Featuring updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion. As days progress, questions arise about peace prospects, Putin's aggressive approach and Trump's controversial claims.
+
+2025-06-23 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-23 2:30am
+Tech Now
+Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
+
+2025-06-23 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-23 3:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-06-23 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-23 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
