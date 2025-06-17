@@ -1,47 +1,3 @@
-2025-06-16 11:30pm
-Ukrainecast
-In-depth coverage and analysis of the ongoing war in Ukraine.
-
-2025-06-17 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-17 12:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-17 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-17 1:30am
-The Interview
-Laura Kuenssberg speaks to Arnold Schwarzenegger.
-
-2025-06-17 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-17 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2025-06-17 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-17 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-17 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-17 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1063,6 +1019,182 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-06-23 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-23 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-23 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-23 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-23 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-23 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-23 1:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-23 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-23 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-23 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-23 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-23 3:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-23 3:45pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-23 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-23 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-23 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-06-23 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-06-23 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-06-23 7:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-23 7:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-23 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-23 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-23 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-23 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2025-06-23 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-06-23 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-23 11:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2025-06-24 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-24 12:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-06-24 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-24 1:30am
+The Security Brief
+Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+
+2025-06-24 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-24 2:30am
+World Questions
+Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
+
+2025-06-24 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-06-24 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-06-24 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-24 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
