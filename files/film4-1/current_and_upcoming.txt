@@ -240,10 +240,6 @@ When adrenaline junkie Aaron Ralston sets off to conquer a canyon in the stunnin
 
 2025-06-23 1:15am
 	Meander
-Backtrace:
-
-2025-06-23 1:15am
-	Meander
 A woman gets locked in a series of bizarre tubes filled with dangerous traps.
 
 2025-06-23 7:00am
