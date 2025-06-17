@@ -12,10 +12,6 @@ Adult Section.
 
 2025-06-18 5:00am
 Adult Section
-Backtrace:
-
-2025-06-18 5:00am
-Adult Section
 Adult Section.
 
 2025-06-18 9:00am
