@@ -1,7 +1,3 @@
-2025-06-18 7:00pm
-Global Business Report
-Breaking news and headlines, local weather forecasts, sports and traffic reports.
-
 2025-06-18 8:00pm
 Arise News Hour
 8:00pm
@@ -152,7 +148,7 @@ Breaking news and headlines, local weather forecasts, sports and traffic reports
 
 2025-06-20 5:00am
 Arise 360
-5:00am
+Backtrace:
 
 2025-06-20 6:00am
 Arise News Now
