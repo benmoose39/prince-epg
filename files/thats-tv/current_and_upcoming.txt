@@ -16,7 +16,7 @@ Two sinister men arrive at the Pearces' room. They want their bag back and they 
 
 2025-06-19 8:30am
 Rising Damp
-Rigsby has been busy trying to attract Miss Jones' attentions. Meanwhile, Miss Jones has been busy trying to attract Philip's attentions. During a chat with the boys, Rigsby is told that Philip has ten wives, and that he is seen as a God in his own country. Rigsby is somewhat sceptical and demands proof of Philip's powers. Philip claims he can make something appear, and so performs a small ritual.
+A tough new tenant plays his stereo very loud and Rigsby is afraid to ask him to keep it down.
 
 2025-06-19 9:05am
 Home to Roost
@@ -160,7 +160,7 @@ When David buys a raffle ticket in aid of Conservative funds, Labour supporter A
 
 2025-06-20 8:35am
 Rising Damp
-Rigsby has been busy trying to attract Miss Jones' attentions. Meanwhile, Miss Jones has been busy trying to attract Philip's attentions. During a chat with the boys, Rigsby is told that Philip has ten wives, and that he is seen as a God in his own country. Rigsby is somewhat sceptical and demands proof of Philip's powers. Philip claims he can make something appear, and so performs a small ritual.
+A tough new tenant plays his stereo very loud and Rigsby is afraid to ask him to keep it down.
 
 2025-06-20 9:05am
 Home to Roost
@@ -316,7 +316,7 @@ Rigsby gets all dressed up to take Miss Jones out for her birthday dinner.
 
 2025-06-21 11:25am
 Rising Damp
-Rigsby has been busy trying to attract Miss Jones' attentions. Meanwhile, Miss Jones has been busy trying to attract Philip's attentions. During a chat with the boys, Rigsby is told that Philip has ten wives, and that he is seen as a God in his own country. Rigsby is somewhat sceptical and demands proof of Philip's powers. Philip claims he can make something appear, and so performs a small ritual.
+A tough new tenant plays his stereo very loud and Rigsby is afraid to ask him to keep it down.
 
 2025-06-21 11:55am
 Rising Damp
@@ -336,11 +336,11 @@ Rigsby drums up support for his own candidate as the local elections get under w
 
 2025-06-21 2:05pm
 Rising Damp
-Rigsby discovers that a bird in the hand can be far worse than two in the bush.
+Dour landlord Rigsby has trouble getting to grips with the idea of fasting.
 
 2025-06-21 2:35pm
 Rising Damp
-Rigsby has been busy trying to attract Miss Jones' attentions. Meanwhile, Miss Jones has been busy trying to attract Philip's attentions. During a chat with the boys, Rigsby is told that Philip has ten wives, and that he is seen as a God in his own country. Rigsby is somewhat sceptical and demands proof of Philip's powers. Philip claims he can make something appear, and so performs a small ritual.
+Dour landlord Rigsby has trouble getting to grips with the idea of fasting.
 
 2025-06-21 3:10pm
 Rising Damp
@@ -348,7 +348,7 @@ There is a keep-fit craze going on in Rigsby's boarding house.
 
 2025-06-21 3:40pm
 Rising Damp
-Rigsby has been busy trying to attract Miss Jones' attentions. Meanwhile, Miss Jones has been busy trying to attract Philip's attentions. During a chat with the boys, Rigsby is told that Philip has ten wives, and that he is seen as a God in his own country. Rigsby is somewhat sceptical and demands proof of Philip's powers. Philip claims he can make something appear, and so performs a small ritual.
+Dour landlord Rigsby has trouble getting to grips with the idea of fasting.
 
 2025-06-21 4:15pm
 Rising Damp
@@ -686,7 +686,7 @@ Frank's romantic love, Libby, returns and her time away has only increased the p
 Ashes to Ashes
 When animal rights activists threaten a series of attacks in London, placing the daughter of a laboratory owner in hospital, Gene orders his team not to sleep until those responsible are caught. Their investigation brings Alex face to face with a man whose eerily prescient knowledge of the future makes her think he could be involved with her own fate.
 
-2025-06-23 11:15pm
+2025-06-23 11:10pm
 Benidorm
 A dejected, jobless Joyce is attempting to relax by the pool, but her morning is ruined when Janey reinstates the decidedly dodgy Jason Gallagher as the Solana's bar manager.
 
@@ -804,7 +804,7 @@ Mr and Mrs Warrender plan a surprise for Penny's birthday. But Penny and Vince h
 
 2025-06-24 6:50pm
 Rising Damp
-Rigsby discovers that a bird in the hand can be far worse than two in the bush.
+Dour landlord Rigsby has trouble getting to grips with the idea of fasting.
 
 2025-06-24 7:25pm
 Whatever Happened to the Likely Lads?
@@ -822,11 +822,11 @@ Wedding bells are in the air on the estate, a little too frequently for the poli
 Ashes to Ashes
 There's a visitor from Gene Hunt's old stomping ground of Manchester. Jackie Queen is a journalist who's had run-ins with Gene in the past and this time she has a surprise in store. She's also investigating the disappearance of northern teenagers that have arrived in London. Alex is suspicious of Jackie, and with the threat of a transfer haunting Gene, she's desperate they get to the bottom of the corruption in the force.
 
-2025-06-24 11:10pm
+2025-06-24 11:15pm
 Benidorm
 A miserable Mateo reveals that his home life is a disaster and confides in Lesley that his mother-in-law Dolores is threatening to kill him. Lesley urges him to get out and start a new life. Plucking up the courage, Mateo decides to move out the same day, but when he arrives home Dolores is waiting. Clive, Tiger and Terri come up with a plan to get Clive's 5,000 euros back from Monty the property developer who swindled him.
 
-2025-06-25 12:10am
+2025-06-25 12:15am
 Shameless
 Paddy's plans to salsa into the sunset with his new love D'reen are scuppered when Mimi forces him to guarantee the financial security of the family with one last job - targeting the drug money of notorious psychopath Roscoe. Torn between a new life and his family responsibilities, Paddy calls upon his sons for help. Meanwhile, Liam is suffocating under an avalanche of household and gambling debts.
 
@@ -838,7 +838,7 @@ The Boswell boys are in love, and Oswald is confused by Aveline's overnight tran
 Up Pompeii
 Lurcio is a much-put-upon slave in the ancient Roman town of Pompeii. More often than not, Lurcio finds himself keeping his owner's family members apart, in order to keep them together.
 
-2025-06-25 2:15am
+2025-06-25 2:10am
 After Henry
 Eleanor plays Lady Bountiful when Vera's young relatives come to visit.
 
@@ -966,19 +966,19 @@ Carl and Chesney's attempt to outrun their troubles lead them to discover the gr
 Ashes to Ashes
 When a violent burglary occurs at Alex's in-laws' house, she comes face to face with their son Peter, the 14-year-old future father of Molly. She is desperate to help Molly's grandparents, but Gene wants a big collar to bury the press stories of police corruption, and dismisses the case as trivial. However, fingerprints from the scene reveal that the burglar was a notorious gangster.
 
-2025-06-25 11:15pm
+2025-06-25 11:10pm
 Benidorm
 The Solana welcomes the Dawson family for the first time and Grandad Eddie is already causing trouble when he nearly drowns his own granddaughter. His son Billy and daughter-in-law Sheron are not best pleased. Tiger brings along a new pal, Joey - who has never been abroad before. Though not the sharpest knife in the box himself, Tiger looks like a Nobel prizewinner alongside the uniquely dim-witted but essentially friendly Joey. Joyce Temple-Savage is on the look-out for a new member of staff.
 
-2025-06-26 12:15am
+2025-06-26 12:10am
 Shameless
 Frank's romantic love, Libby, returns and her time away has only increased the passionate flame that burns in her heart. Armed only with a mobile library she is determined to bring knowledge to the people, and rekindle her romance with Frank, despite the best attempts at sabotage by her despotic mother.
 
-2025-06-26 1:15am
+2025-06-26 1:10am
 Bread
 Adrian meets Ellia and they go to the woods where, to the family's amusement, she steals his clothes.
 
-2025-06-26 1:45am
+2025-06-26 1:40am
 Up Pompeii
 Lurcio is a much-put-upon slave in the ancient Roman town of Pompeii. More often than not, Lurcio finds himself keeping his owner's family members apart, in order to keep them together.
 
