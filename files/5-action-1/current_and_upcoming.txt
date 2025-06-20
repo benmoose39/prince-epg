@@ -52,7 +52,7 @@ Shopping from home.
 
 2025-06-21 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-21 6:00am
 eFOLDi Mobility Scooters
