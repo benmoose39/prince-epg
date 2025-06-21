@@ -1,27 +1,3 @@
-2025-06-20 9:45pm
-	Diamonds Are Forever
-James Bond, equipped with an armoury of hi-tech gadgets, infiltrates a Las Vegas diamond-smuggling ring in a bid to foil a plot to target Washington with a laser in space. However, as 007 prepares to tackle the evil Blofeld, the mastermind who threatens to destabilise the world, he is captivated by the delicious Tiffany Case - but is she really a double agent?
-
-2025-06-21 12:00am
-Teleshopping
-Shopping from home.
-
-2025-06-21 2:00am
-The British Airways Killer
-Halloween 2010 - Britain is rocked by the disappearance of Joanna Simpson, a wealthy heiress and mother of two from Ascot.
-
-2025-06-21 2:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-21 4:00am
-Katie Piper's Weekend Escape
-Katie is joined by the Reverend Richard Coles to try falconry, Michael and Gen transform a woman who has raised more than 170,000 pounds, and Manisha Morgan makes tasty treats.
-
-2025-06-21 5:00am
-Love Your Garden
-Alan goes traditional with a twist, creating an elegant tea-garden for a charity volunteer known as the Cake Lady - a one-woman bakery - who has made cakes for more than 9,000 injured servicemen and women. The twist is that this new garden in Birmingham will have a fully equipped kitchen to bake in, and raised beds full of fresh ingredients to add to pies and cakes. Alan creates a colourful living wall that's perfect for any gardening novice, and Katie shares the tricks to a successful balcony.
-
 2025-06-21 5:30am
 Love Your Weekend with Alan Titchmarsh
 Alan is back with a packed show welcoming author and screenwriter Anthony Horowitz, `Dragons' Den' star Deborah Meaden, and broadcaster and host of `The One Show' Alex Jones. David Domoney has tips to brighten up our patios in time for summer, drinks expert Becky Paskin is in charge of refreshments with tea-infused tipples, Lesley Joseph introduces us to the shy blue shark, and we get a look at some of the newest arrivals of the year as the lambing season draws to a close.
@@ -553,4 +529,92 @@ Sewing Bee judge and fashion designer Patrick Grant pays a visit to the farm as 
 2025-06-27 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-06-27 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-06-27 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-06-27 11:30am
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-06-27 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-27 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-27 1:00pm
+Gary Barlow's Food and Wine Tour: Australia
+Travel series. Gary ends his tour of Australia in Queensland - with his daughter Emily and her boyfriend Marshall - with foraging and snorkelling.
+
+2025-06-27 2:00pm
+Lingo
+Vetting their vocabularies are sisters Sangeeta and Namita from Bolton, mother and son Gill and Matt from Liverpool, and Priya and fiance Priyesh from London.
+
+2025-06-27 3:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-06-27 4:00pm
+The Chase
+Bradley Walsh hosts and is behind Karen from Sheffield, Nick from London, Sylvia from Aberdeenshire and Josh from Borehamwood all the way as they try to beat one of the country's finest quiz brains and take home thousands of pounds.
+
+2025-06-27 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-27 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-27 6:30pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-06-27 7:00pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2025-06-27 8:00pm
+Noel Edmonds' Kiwi Adventure
+Following Noel Edmonds as he builds a brand-new life in New Zealand with his wife Liz - now a bout of bad weather is putting increasing pressure on the viability of their River Haven business.
+
+2025-06-27 9:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-06-27 9:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-27 9:45pm
+	On Her Majesty's Secret Service
+When his usual intelligence sources fail, James Bond enlists the aid of crime boss Draco to track down Ernst Stavro Blofeld, head of the evil SPECTRE organisation. The trail leads to the mountains of Switzerland, where Bond goes undercover in Blofeld's hi-tech headquarters.
+
+2025-06-28 12:05am
+Teleshopping
+Shopping from home.
+
+2025-06-28 2:00am
+The British Airways Killer
+A three-day long police interview of British Airways pilot Robert Brown finally ends with a confession and Brown leading officers to the site where Joanna Simpson is buried, a remote spot in Windsor Great Park.
+
+2025-06-28 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-28 4:05am
+Katie Piper's Weekend Escape
+Join Katie Piper and enter the space she's created as a one-stop shop for wellness needs, fitness, food, entertainment, celebrity access, local community heroes and much more.
+
+2025-06-28 5:00am
+To Be Announced
+5:00am
 

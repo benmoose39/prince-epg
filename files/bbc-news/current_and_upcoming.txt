@@ -1,47 +1,3 @@
-2025-06-20 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-21 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-21 12:30am
-Tech Now
-Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
-
-2025-06-21 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-21 1:30am
-China's Greatest Treasures
-Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.
-
-2025-06-21 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-21 2:30am
-World Questions
-Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
-
-2025-06-21 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-21 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-21 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-21 4:30am
-The Travel Show
-Qasa Alom continues his journey on the Maya Train, the brand-new line that connects the towns, villages and historic sites of Mexico's Yucatan peninsula.
-
 2025-06-21 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1065,4 +1021,152 @@ Bringing the latest business news and up to date informed analysis from London a
 2025-06-27 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-27 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-27 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-27 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-27 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-06-27 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-27 1:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-06-27 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-06-27 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-27 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-27 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-27 3:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-27 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-06-27 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-27 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-06-27 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-06-27 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-06-27 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-06-27 7:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-27 7:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-27 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-27 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-06-27 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-06-27 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2025-06-27 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-06-27 10:30pm
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
+
+2025-06-28 1:00am
+To Be Announced
+1:00am
+
+2025-06-28 3:00am
+To Be Announced
+3:00am
+
+2025-06-28 3:30am
+To Be Announced
+3:30am
+
+2025-06-28 4:00am
+To Be Announced
+4:00am
+
+2025-06-28 4:30am
+To Be Announced
+4:30am
+
+2025-06-28 5:00am
+To Be Announced
+5:00am
 

@@ -1,27 +1,3 @@
-2025-06-20 10:59pm
-	The Fisherman: A Journey Into The Mind Of A Killer
-Retired detective Gordon Davie discusses the crimes of notorious child murderer James Ryan O'Neill, who murdered two young boys in Tasmania in 1975.
-
-2025-06-21 12:01am
-CSI on Trial
-Firearms analysis, one of the most common forensic science practices in the US, faces fresh challenges over its underlying science. The national debate on allowing such evidence in court has significant consequences.
-
-2025-06-21 1:02am
-CSI on Trial
-Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
-
-2025-06-21 2:01am
-CSI on Trial
-Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
-
-2025-06-21 3:10am
-CSI on Trial
-Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
-
-2025-06-21 4:10am
-Escape From Death Row
-How did six murderers hatch an elaborate plan to escape from the first death row prison, thought to be escape-proof?
-
 2025-06-21 5:58am
 	Dangerous Company
 A couple of Kentucky blue bloods team up to form a front for their drug smuggling business. As the operation grows, so too does the paranoia and betrayal.
@@ -589,4 +565,104 @@ An FBI profiler gets inside the mind of a serial killer by piecing together the 
 2025-06-27 5:20am
 The New Detectives
 The massive investigation into the attempted murders of federal judges in 1989, beginning with the killing of Judge Robert Vance.
+
+2025-06-27 6:21am
+The New Detectives
+Psychologists discuss the behaviour of serial killers while detectives talk about techniques used to catch them.
+
+2025-06-27 7:23am
+Great Crimes and Trials
+The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
+
+2025-06-27 7:54am
+Scarface: The Al Capone Story
+In the Roaring Twenties, Al Capone ruled an empire of crime in the Windy City: gambling, prostitution, bootlegging, bribery, narcotics trafficking, robbery, protection rackets, and murder. It seemed that law enforcement couldn't touch him, until one fatal night in 1929.
+
+2025-06-27 9:04am
+Mafia's Greatest Hits
+Carmine Galante took the Mob into the world of heroin and even when locked up in jail, Galente still managed to control the streets and profit from his drug empire.
+
+2025-06-27 10:01am
+Mafia's Greatest Hits
+Ex-FBI agent Joe Pistone, who infiltrated the Mafia for six years as mobster `Donnie Brasco', reveals how his undercover work led to over 100 convictions.
+
+2025-06-27 11:01am
+Mafia's Greatest Hits
+Financier Allen Dorfman used union pension funds to bankroll the Mafia and the FBI quickly realised they could bankrupt the Mob by pursuing Dorfman.
+
+2025-06-27 12:00pm
+Guiltology
+The first victims of America's most prolific serial killer were discovered in 1982. The killer remained on the loose for 20 years, targeting more than 50 women, but was finally caught with the use of forensic microscopy.
+
+2025-06-27 12:48pm
+Guiltology
+Detectives investigate the murder of a woman found inside a barrel that was hidden underneath a house for 30 years.
+
+2025-06-27 1:37pm
+Guiltology
+A Californian detective is given a lead on a five-year-old rape case thanks to a groundbreaking DNA database, and realises he is dealing with a serial rapist.
+
+2025-06-27 2:25pm
+Guiltology
+When the LAPD investigate the murder of a newlywed in 1986, they are certain it is a burglary gone wrong. Decades later, new DNA analysis reveals a surprising twist.
+
+2025-06-27 3:14pm
+Guiltology
+In 1996, a bomb goes off at the Atlanta Olympics killing one and leaving hundreds injured. After a further 5 bombs are detonated, the FBI, ATF and GBI realize they're dealing with a serial bomber.
+
+2025-06-27 4:03pm
+Guiltology
+In 1995, charred bones and a skull with five bullet holes are found inside a burnt antique trunk in the Nevada desert.
+
+2025-06-27 4:51pm
+	Manson
+A chronicle of Charles Manson's life leading up to the orchestration of the Tate an LaBianca murders.
+
+2025-06-27 6:32pm
+Manson's Missing Victims
+Stories about people who disappeared when they attempted to leave the Barker Ranch.
+
+2025-06-27 7:30pm
+Vanished: The Surrey Schoolgirl
+Twenty-three after a Surrey schoolgirl vanished an ex-counter-terrorist cop and a journalist start to investigate.
+
+2025-06-27 8:05pm
+Code of Silence
+Investigators seek information when the Boston community is hit by a crime wave.
+
+2025-06-27 9:57pm
+Mafia's Greatest Hits
+Gambino family soldier Roy DeMeo and his crew were suspected of killing dozens of people and dismembering their bodies, but the FBI and other mobsters were soon on his trail.
+
+2025-06-27 10:56pm
+Mafia's Greatest Hits
+Meyer Lansky was an associate of `Lucky' Luciano and linked to criminal financial operations, but the FBI struggled to pin anything on him - or find his riches.
+
+2025-06-27 11:54pm
+Mafia's Greatest Hits
+The final episode of this gripping series reveals what happened when the FBI pursued the five clans who ran organised crime in New York, as well as the fate of two brave informers.
+
+2025-06-28 12:54am
+Guiltology
+Detectives investigate the murder of a woman found inside a barrel that was hidden underneath a house for 30 years.
+
+2025-06-28 1:43am
+Guiltology
+A Californian detective is given a lead on a five-year-old rape case thanks to a groundbreaking DNA database, and realises he is dealing with a serial rapist.
+
+2025-06-28 2:32am
+Guiltology
+When the LAPD investigate the murder of a newlywed in 1986, they are certain it is a burglary gone wrong. Decades later, new DNA analysis reveals a surprising twist.
+
+2025-06-28 3:20am
+Guiltology
+In 1996, a bomb goes off at the Atlanta Olympics killing one and leaving hundreds injured. After a further 5 bombs are detonated, the FBI, ATF and GBI realize they're dealing with a serial bomber.
+
+2025-06-28 4:09am
+Guiltology
+In 1995, charred bones and a skull with five bullet holes are found inside a burnt antique trunk in the Nevada desert.
+
+2025-06-28 4:58am
+	Manson
+A chronicle of Charles Manson's life leading up to the orchestration of the Tate an LaBianca murders.
 
