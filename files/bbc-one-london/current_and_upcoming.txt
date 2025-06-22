@@ -1,47 +1,3 @@
-2025-06-21 11:45pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-22 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-22 12:30am
-Talking Movies
-Talking Movies reports from New York's Tribeca Festival and sits down with Tribeca Co-Founder, and acting legend, Robert De Niro.
-
-2025-06-22 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-22 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2025-06-22 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-22 2:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
-
-2025-06-22 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-22 3:30am
-Weather: Beyond the Forecast
-How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.
-
-2025-06-22 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-22 4:30am
-Tech Now
-Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
-
 2025-06-22 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -887,6 +843,150 @@ The Travel Show
 London is currently undergoing a building boom with more high rise offices and apartments. Rajan Datar discovers how the construction craze is revealing fascinating insights into the city's history.
 
 2025-06-28 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-06-28 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Owen Morgan and Avi Shashidhara, and by special guests Angela Scanlon and Vicky Pattison. Drinks expert Helen McGinn picks the wines to go with the studio dishes.
+
+2025-06-28 10:30am
+The Great Food Guys
+Chef Nick Nairn and Dougie Vipond are going veggie, cooking red onion tarte tatin with tomato and goats cheese salad. Celebrity guest, poet and novelist, Professor Jackie Kay joins them in the kitchen to chat and try out the delicious food and drink.
+
+2025-06-28 11:00am
+Homes Under the Hammer
+A marathon runner completes a marathon seven-year project to transform a site in Llanfynydd into smart holiday accommodation, while a couple give a terraced house in Derby the wow factor and friends in Southend-on-Sea create a lovely coastal home.
+
+2025-06-28 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-28 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-28 12:15pm
+Bargain Hunt
+Eric Knowles and experts Richard Madley and Stephanie Connell go antique hunting in Brackley in Northamptonshire, before heading to Wiltshire for today's auction. Eric also discovers a marvel of Victorian timekeeping that is still running like clockwork.
+
+2025-06-28 1:00pm
+Escape to the Country
+The house hunters are preparing for a triumphant homecoming after a quarter of a century living in Sweden. Nicki Chapman will be leading the pair in their search for a perfect rural Wiltshire home for their £450,000 budget. Away from the house hunt, Nicki takes the reigns on a ride with a professional Carriage Driver.
+
+2025-06-28 1:50pm
+Deadly 60
+Steve heads to Suriname, a country with more forest than anywhere else on Earth. He kayaks upriver in search of some deadly wildlife.
+
+2025-06-28 2:20pm
+Walking With Dinosaurs
+The dangerous journey of the Pachyrhinosaurus, where survival is at stake during the annual migration hundreds of miles north.
+
+2025-06-28 3:10pm
+Garden Rescue
+Miranda and Andrew's garden in Ledbury is a mass of concrete, devoid of plants. They would love an Italian courtyard, reminiscent of their 25th wedding anniversary in Tuscany.
+
+2025-06-28 3:55pm
+The Bidding Room
+First through the doors is children's entertainer Stuart, with some apparatus to delight the dealers. His three pairs of stilts have been part of his act for the past 15 years, but the time has come for Stuart to move them on. Next in is Jana, hoping for a glass-half-full attitude from the dealers. Her art deco perfume bottles were inherited from an aunt who lived to be 103. Third to arrive at Edinburgh HQ is Sharon from Norwich.
+
+2025-06-28 4:40pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-28 4:50pm
+BBC London News
+News, sport and weather from London.
+
+2025-06-28 4:55pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-28 5:00pm
+Bridge of Lies
+Ross Kemp presents a celebrity special of the high-stakes quiz. Steve Backshall, Jason Mohammad, Natasha Raskin Sharp and Sunetra Sarker get together to take on the `Bridge of Lies' for their chosen charities.
+
+2025-06-28 5:45pm
+The Hit List
+Joining Marvin and Rochelle Humes to compete for the chance to win £10,000 for charity are DJ Chris Moyles and actor James Buckley, Radio 1 DJs Rickie Haywood-Williams and Charlie Hedges, and sports star Sam Quek and presenter Martel Maxwell.
+
+2025-06-28 6:30pm
+Pointless Celebrities
+The four teams of celebrities aiming to lift the Pointless trophy are Fee Mak, DJ Spoony, Matt Chorley, Mariella Frostrup, Zoe Hardman, Ali Plumb, Johnny Cochrane and Inel Tomlinson.
+
+2025-06-28 7:20pm
+Casualty
+Ngozi hits a new low, Flynn prepares for a drugs crisis, and Iain and Teddy are put to the test.
+
+2025-06-28 8:10pm
+Glastonbury
+Lauren Laverne and Jo Whiley introduce the unstoppable RAYE, who takes to the Pyramid Stage as the penultimate artist on Saturday night's bill.
+
+2025-06-28 9:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2025-06-28 9:25pm
+BBC Weather
+The latest weather forecast.
+
+2025-06-28 9:30pm
+Glastonbury
+Multi-BRIT and Grammy Award-winning pop icon Charli xcx returns to Glastonbury to headline the Other Stage.
+
+2025-06-28 10:45pm
+In the Arena: Serena Williams
+After the tragic death of her sister, Yetunde Price, Serena is overcome by grief and depression, leading her to drop out of the top-100 rankings. Serena enters the 2007 Australian Open where she battles her toughest competition.
+
+2025-06-28 11:30pm
+In the Arena: Serena Williams
+The isolation of tennis begins to take a toll on Serena, prompting her to enhance her game with the help of a new team. After reclaiming the number one ranking, Team Serena must rally around her after life-threatening health problems.
+
+2025-06-29 12:20am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-06-29 12:25am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-06-29 12:30am
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
+
+2025-06-29 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-29 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2025-06-29 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-29 2:30am
+Ukrainecast
+Featuring updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion. As days progress, questions arise about peace prospects, Putin's aggressive approach and Trump's controversial claims.
+
+2025-06-29 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-29 3:30am
+Scams & Scandals
+Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?
+
+2025-06-29 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-06-29 4:30am
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
+
+2025-06-29 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

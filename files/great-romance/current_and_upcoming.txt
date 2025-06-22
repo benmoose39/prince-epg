@@ -1,47 +1,3 @@
-2025-06-21 10:55pm
-	Christmas Getaway
-A travel writer on a solo Christmas vacation unexpectedly finds herself sharing her accommodations with a family.
-
-2025-06-21 11:50pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-06-21 11:52pm
-	Christmas Getaway
-A travel writer on a solo Christmas vacation unexpectedly finds herself sharing her accommodations with a family.
-
-2025-06-22 12:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-06-22 1:00am
-Highway to Heaven
-Jonathan encourages Jason's father to join in.
-
-2025-06-22 1:55am
-	Christmas With a Prince
-A busy doctor reluctantly agrees to allow an injured prince to convalesce secretly in her ward.
-
-2025-06-22 3:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-06-22 4:00am
-Teleshopping
-Shopping from home.
-
-2025-06-22 4:30am
-Teleshopping
-Shopping from home.
-
-2025-06-22 5:00am
-Teleshopping
-Shopping from home.
-
-2025-06-22 5:30am
-Teleshopping
-Shopping from home.
-
 2025-06-22 6:00am
 Teleshopping
 Shopping from home.
@@ -915,6 +871,150 @@ Teleshopping
 Shopping from home.
 
 2025-06-28 5:30am
+Teleshopping
+Shopping from home.
+
+2025-06-28 6:00am
+Teleshopping
+Shopping from home.
+
+2025-06-28 6:30am
+Teleshopping
+Shopping from home.
+
+2025-06-28 7:00am
+	Christmas With a View
+A ski resort is buzzing when a celebrity chef is named the new head chef. Clara isn't excited about her new boss, but with their paths constantly crossing, Clara realises that they have more in common than they first thought.
+
+2025-06-28 8:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-28 9:00am
+	Christmas on 5th Avenue
+As they decorate a spectacular Manhattan penthouse for Christmas, bubbly Eva Jordan brings writer Lucas Blade some joy for the holidays.
+
+2025-06-28 10:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-28 11:00am
+	A Snow White Christmas
+Blanca's dastardly stepmother tries to cheat her out of her father's inheritance. When she wakes up with amnesia, she receives the help of seven quirky friends, the Holly Jollies, to help her figure out her life.
+
+2025-06-28 11:55am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 12:00pm
+	A Snow White Christmas
+Blanca's dastardly stepmother tries to cheat her out of her father's inheritance. When she wakes up with amnesia, she receives the help of seven quirky friends, the Holly Jollies, to help her figure out her life.
+
+2025-06-28 12:55pm
+	Mistletoe Over Manhattan
+Santa Claus' wife goes to New York to perform a Christmas miracle and give her husband fresh inspiration. She befriends a cop who is in the midst of a divorce and offers to become a nanny to his kids.
+
+2025-06-28 1:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 1:52pm
+	Mistletoe Over Manhattan
+Santa Claus' wife goes to New York to perform a Christmas miracle and give her husband fresh inspiration. She befriends a cop who is in the midst of a divorce and offers to become a nanny to his kids.
+
+2025-06-28 2:55pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-28 3:05pm
+	Northpole
+A boy tries to help his mum rediscover the Christmas spirit.
+
+2025-06-28 4:00pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 4:02pm
+	Northpole
+A boy tries to help his mum rediscover the Christmas spirit.
+
+2025-06-28 4:55pm
+	Northpole 2: Open For Christmas
+During Christmastime a handyman and an elf persuade a businesswoman to keep the inn that she inherited from her aunt.
+
+2025-06-28 5:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 5:52pm
+	Northpole 2: Open For Christmas
+During Christmastime a handyman and an elf persuade a businesswoman to keep the inn that she inherited from her aunt.
+
+2025-06-28 6:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-28 7:00pm
+	Charming Christmas
+When a young businesswoman plays Mrs Claus at her family's department store over Christmas, her life begins to take some unexpected turns.
+
+2025-06-28 7:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 8:00pm
+	Charming Christmas
+When a young businesswoman plays Mrs Claus at her family's department store over Christmas, her life begins to take some unexpected turns.
+
+2025-06-28 8:55pm
+	Christmas in Palm Springs
+With help from a guardian angel, siblings hatch a plan to reunite their separated parents for the holidays.
+
+2025-06-28 9:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 9:52pm
+	Christmas in Palm Springs
+With help from a guardian angel, siblings hatch a plan to reunite their separated parents for the holidays.
+
+2025-06-28 10:55pm
+	Christmas by Chance
+A wealthy and popular entrepreneur hires Chance Hazelton, owner of a struggling shop called Gifts by Chance, to help him organise a perfect proposal for his girlfriend.
+
+2025-06-28 11:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-06-28 11:52pm
+	Christmas by Chance
+A wealthy and popular entrepreneur hires Chance Hazelton, owner of a struggling shop called Gifts by Chance, to help him organise a perfect proposal for his girlfriend.
+
+2025-06-29 1:00am
+Highway to Heaven
+Adopted child wants to find her natural parents.
+
+2025-06-29 2:00am
+	Mistletoe Over Manhattan
+Santa Claus' wife goes to New York to perform a Christmas miracle and give her husband fresh inspiration. She befriends a cop who is in the midst of a divorce and offers to become a nanny to his kids.
+
+2025-06-29 3:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-06-29 4:00am
+Teleshopping
+Shopping from home.
+
+2025-06-29 4:30am
+Teleshopping
+Shopping from home.
+
+2025-06-29 5:00am
+Teleshopping
+Shopping from home.
+
+2025-06-29 5:30am
 Teleshopping
 Shopping from home.
 
