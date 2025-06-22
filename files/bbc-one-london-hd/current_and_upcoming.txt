@@ -43,20 +43,20 @@ Live Tennis: ATP & WTA Queen's 2025
 Who will add their name to the exalted list of men's winners at this celebrated grass court tennis tournament, gaining kudos and confidence ahead of Wimbledon in eight days' time? A world-class list of players entered Queen's this year, including 2023 winner and two-time defending Wimbledon champion Carlos Alcaraz and high-flying Jack Draper.
 
 2025-06-22 4:00pm
+Countryfile
+Matt Baker and Sammi Kinghorn are in and around the east Devon resort of Seaton, finding out how coastal life is shifting with the times.
+
+2025-06-22 5:00pm
 BBC Weekend News
 National and international news, followed by weather.
 
-2025-06-22 4:15pm
+2025-06-22 5:15pm
 BBC London News
 News, sport and weather from London.
 
-2025-06-22 4:20pm
+2025-06-22 5:20pm
 BBC Weather
 The latest weather forecast.
-
-2025-06-22 4:25pm
-Countryfile
-Matt Baker and Sammi Kinghorn are in and around the east Devon resort of Seaton, finding out how coastal life is shifting with the times.
 
 2025-06-22 5:25pm
 Walking With Dinosaurs
@@ -99,8 +99,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2025-06-23 12:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
 
 2025-06-23 1:00am
 Newsday
@@ -255,8 +255,8 @@ Newsday
 From London and Singapore the latest international news from the BBC.
 
 2025-06-24 1:30am
-The Security Brief
-Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.
+Tech Now
+Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
 
 2025-06-24 2:00am
 Newsday
@@ -934,19 +934,19 @@ The latest weather forecast.
 Glastonbury
 Multi-BRIT and Grammy Award-winning pop icon Charli xcx returns to Glastonbury to headline the Other Stage.
 
-2025-06-28 10:45pm
+2025-06-28 10:40pm
 In the Arena: Serena Williams
 After the tragic death of her sister, Yetunde Price, Serena is overcome by grief and depression, leading her to drop out of the top-100 rankings. Serena enters the 2007 Australian Open where she battles her toughest competition.
 
-2025-06-28 11:30pm
+2025-06-28 11:25pm
 In the Arena: Serena Williams
 The isolation of tennis begins to take a toll on Serena, prompting her to enhance her game with the help of a new team. After reclaiming the number one ranking, Team Serena must rally around her after life-threatening health problems.
 
-2025-06-29 12:20am
+2025-06-29 12:15am
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2025-06-29 12:25am
+2025-06-29 12:20am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
