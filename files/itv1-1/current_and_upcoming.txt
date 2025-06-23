@@ -1,23 +1,3 @@
-2025-06-22 11:15pm
-Noel Edmonds' Kiwi Adventure
-After 50 years in the spotlight, Noel Edmonds left his TV career behind and started a new life in New Zealand with his wife Liz in 2018 - will Noel's past be a barrier, or can he build a new life in New Zealand?
-
-2025-06-23 12:10am
-Teleshopping
-Shopping from home.
-
-2025-06-23 3:00am
-Motorsport UK
-Richard John Neil presents action from the Brands Hatch Indy circuit with racing from the Caterham Seven Championship UK and The Vertu MINI CHALLENGE Trophy.
-
-2025-06-23 3:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-23 5:05am
-Jeremy Pang's Hong Kong Kitchen
-Jeremy invites good friend and TV personality Tom Skinner to Hong Kong as they tuck into iconic breakfasts, sweet treats, and a good old cup of tea.
-
 2025-06-23 6:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -557,4 +537,84 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2025-06-29 5:05am
 Gary Barlow's Food and Wine Tour: Australia
 Travel series. Boyband superstar Ronan Keating joins Gary to explore Australia's red centre and visit the sacred Uluru.
+
+2025-06-29 6:00am
+Jeremy Pang's Hong Kong Kitchen
+Jeremy introduces a bit of spice to his dishes, even the pudding. He starts with mouth-watering Sichuan chicken before finishing with a beautiful steamed plum pudding. Joe Swash joins Jeremy for the next step in his Asian cookery lessons.
+
+2025-06-29 6:50am
+	Addams Family Values
+With Wednesday and Pugsley off to summer camp, a greedy nanny plots to marry and murder wealthy Uncle Fester.
+
+2025-06-29 8:25am
+Katie Piper's Weekend Escape
+Katie is joined by comedian Babatunde Aleshe. Lucy Pateman teaches Katie and Aldo about tablescaping, and Michael and Gen transform a charity ambassador.
+
+2025-06-29 9:25am
+ITV News
+The latest national and international news.
+
+2025-06-29 9:30am
+Love Your Weekend with Alan Titchmarsh
+Alan enjoys this edition with legendary British film and theatre star Sir Tom Courtenay, actor Colin Salmon, and a meeting with two biscuit-loving rescue donkeys.
+
+2025-06-29 11:25am
+Alan Titchmarsh's Gardening Club
+Jason Williams heads to the Malvern Spring Festival for a behind-the-scenes look at 2025's standout gardens, Alan shares the latest seasonal highlights from his own plot, and Camilla Bassett-Smith travels to the Scottish hills to explore a beautifully preserved Japanese garden with a rich family history - elsewhere, Martha Swales offers a step-by-step guide on creating a wildlife pond to help bring nature to your doorstep, and Helen Cross shares practical ways to get children into gardening.
+
+2025-06-29 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-06-29 12:40pm
+Ninja Warrior UK
+250 ambitious competitors will start, but few will successfully overcome the tough obstacle course. Can any survive to the end to face the challenge of scaling the heights of the tower known as Mount Midoriyama and be crowned as a Ninja Warrior UK?
+
+2025-06-29 1:40pm
+	Live and Let Die
+James Bond uncovers a plan by a drugs kingpin to get the world hooked on heroin. Investigating the murders of three British agents, 007 finds himself a target of Harlem gangsters as he closes in on a dangerous criminal mastermind. Teaming up with a female tarot card reader, Bond tracks his adversary to a Caribbean island where he encounters assassins, crocodiles and voodoo.
+
+2025-06-29 4:10pm
+
+Laura Woods is joined by Karen Carney and Anita Asante for coverage as England play their final fixture before heading off to Switzerland for the 2025 UEFA Women's Championship when they host Jamaica at the King Power Stadium in Leicester - this is a last chance for Sarina Wiegman to fine-tune her starting 11 and her tactics ahead of the Lionesses' first group stage match against France. Match commentary comes from Seb Hutchinson and Lucy Ward.
+
+2025-06-29 7:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-06-29 7:45pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-06-29 8:00pm
+Vera
+With her caustic wit and singular charm, DCI Vera Stanhope and her trusted right-hand man face a series of captivating murder mysteries set against the breathtaking Northumberland landscape.
+
+2025-06-29 10:00pm
+ITV News
+The latest national and international news.
+
+2025-06-29 10:15pm
+Long Lost Family: Born Without Trace
+Foundlings are people who were abandoned as babies, often in the first hours and days of their lives. Born without a trace, they have had no way to unlock the secrets of their past. By combining new DNA technology with painstaking detective work, the mysteries of people with unknown beginnings who are desperate for answers can now be solved. Presented by Davina McCall and Nicky Campbell, the team behind `Long Lost Family' use an extraordinary new technique to try and identify birth families and find answers for people who have spent decades trying to find out where they came from.
+
+2025-06-29 11:10pm
+Noel Edmonds' Kiwi Adventure
+Following Noel Edmonds as he builds a brand-new life in New Zealand with his wife Liz - now a bout of bad weather is putting increasing pressure on the viability of their River Haven business.
+
+2025-06-30 12:15am
+Teleshopping
+Shopping from home.
+
+2025-06-30 3:00am
+Motorsport UK
+Richard John Neil presents action from the Brands Hatch Indy circuit featuring racing from the Porsche Sprint Challenge Great Britain and the Caterham Seven Championship UK.
+
+2025-06-30 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-06-30 5:05am
+Jeremy Pang's Hong Kong Kitchen
+Jeremy invites good friend and TV presenter Chris Bavin to Hong Kong as they explore regenerative farming and tour the city's last traditional roasting pits.
 
