@@ -1,7 +1,3 @@
-2025-06-24 11:00am
-Don't Tell the Bride
-Jenna dreams of a traditional and timeless wedding that will never go out of style, James wants a cutting-edge, catwalk fashion show ceremony full of the latest trends.
-
 2025-06-24 12:00pm
 Don't Tell the Bride
 Jacquie feels self-conscious about her looks and is dreaming of a small, elegant traditional wedding. Her fiance Darren intends on making her his leading lady by throwing her into the spotlight with an amazing movie premier inspired wedding.
@@ -176,7 +172,7 @@ Host Jimmy Carr, team captains Jon Richardson and Sean Lock, and celebrity guest
 
 2025-06-26 1:05am
 Taskmaster
-Hugh Dennis wields a blade, while Mel Giedroyc destroys a mannequin.
+Backtrace:
 
 2025-06-26 6:05am
 The Neighborhood
