@@ -1,7 +1,3 @@
-2025-06-24 11:00pm
-How Do They Do It?
-How do they build powerful Scania trucks; how do they use the world's biggest DNA database to solve crime; and how do they use paraffin to make Gouda cheese?
-
 2025-06-24 11:30pm
 How Do They Do It?
 How do they make the finest classical guitars, how do they produce fast tractor mowing machines and how do climbers keep the blades turning on a wind turbine?
@@ -40,7 +36,7 @@ Shopping from home.
 
 2025-06-25 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-25 6:00am
 Find It, Fix It, Flog It
