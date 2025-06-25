@@ -1,51 +1,3 @@
-2025-06-24 11:20pm
-Pointless Celebrities
-A special edition of the general knowledge quiz with four teams of celebrities who aimto lift the Pointless trophy. They are Harriet Kemsley, Bobby Mair, Penny Smith, Bonnie Langford, Adam Gemili, Alice Tai MBE, Ricky Groves, and Balvinder Sopal.
-
-2025-06-25 12:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-25 12:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-25 12:30am
-Tech Now
-Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
-
-2025-06-25 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-25 1:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2025-06-25 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-25 2:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-25 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-25 3:30am
-World Questions
-Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
-
-2025-06-25 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-25 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-25 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -859,6 +811,118 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-07-01 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-07-01 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-07-01 9:45am
+The Moment of Proof
+Two young women are shot dead in Birmingham on New Year's Eve. But it takes an audacious undercover mission for police to infiltrate rival gangs and find the moment of proof.
+
+2025-07-01 10:15am
+Homes Under the Hammer
+Jacqui can't get outside because of overgrown gardens at properties in Kent and Norfolk. Dion's in Liverpool, where a massive project offers equally massive potential.
+
+2025-07-01 11:15am
+Bargain Hunt
+Caroline Hawley presents a fever-pitched football special from Detling in Kent. Two teams of football fans shop for three items to take to auction, with the help of experts Tim Weeks and Nick Hall. There's plenty of friendly rivalry as they try to score the best deals, but who will come out as champions? Caroline meets Baz Davison to discuss his collection of retro World Cup 1994 football shirts.
+
+2025-07-01 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-01 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-01 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-01 1:00pm
+Wimbledon 2025
+Live coverage from Wimbledon continues, with last year's women's singles champion Barbora Krejcikova in first-round action on Centre Court.
+
+2025-07-01 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-07-01 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-01 6:00pm
+Wimbledon 2025
+Further live coverage of day two at Wimbledon, introduced by Clare Balding.
+
+2025-07-01 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-07-01 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-01 9:40pm
+To Catch a Stalker
+Immersive three-part documentary in which Zara McDermott explores the shady and growing crime of stalking.
+
+2025-07-01 10:25pm
+To Catch a Stalker
+The second part of Zara McDermott's exploration of the growing crime of stalking.
+
+2025-07-01 11:10pm
+Pointless Celebrities
+The four teams of celebrities aiming to lift the Pointless trophy are Fee Mak, DJ Spoony, Matt Chorley, Mariella Frostrup, Zoe Hardman, Ali Plumb, Johnny Cochrane and Inel Tomlinson.
+
+2025-07-02 12:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-07-02 12:05am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-07-02 12:30am
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
+
+2025-07-02 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-02 1:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2025-07-02 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-02 2:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-07-02 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-02 3:30am
+Scams & Scandals
+Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?
+
+2025-07-02 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-02 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

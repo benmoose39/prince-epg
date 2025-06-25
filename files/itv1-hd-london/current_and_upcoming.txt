@@ -1,19 +1,3 @@
-2025-06-24 11:05pm
-Teleshopping
-Shopping from home.
-
-2025-06-25 2:00am
-The Reunion
-A red bow tie, a broken bottle and a gas mask make someone's dreams go up in smoke.
-
-2025-06-25 2:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2025-06-25 4:05am
-Alan Titchmarsh's Gardening Club
-As we head into summer, Alan answers a viewer's gardening question, Camilla Bassett-Smith explores a spectacular coastal garden, Claire Lowrie shares advice on summer-proofing houseplants, and Katy Watson reveals how to plant smartly for both droughts and downpours.
-
 2025-06-25 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -547,6 +531,94 @@ Dermot O'Leary's Taste of Ireland
 Dermot travels south to the coastal enclave of Kinsale, which is known as the gourmet capital of Ireland, to find a vibrant and exciting food scene. Here, he learns about the quintessential Irish ingredient, seaweed, before foraging for wild garlic.
 
 2025-07-01 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2025-07-01 8:00am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2025-07-01 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2025-07-01 11:30am
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2025-07-01 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2025-07-01 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-07-01 1:00pm
+James Martin's Midweek Menu
+James Martin is at home in the Hampshire countryside and serving up some of his favourite-ever recipes from previous series of his Saturday Morning show - in this episode, James makes a creme brulee for top chocolatier Mark Tilling, enjoys a dish of cod from chef John Hooker, gives us a step-by-step guide to making the perfect chicken Kyiv in another Masterclass and whips up a beef pie for singer Tony Hadley and a houseful of hungry chefs.
+
+2025-07-01 2:00pm
+Lingo
+Looking for Lingos today are husband and wife Hari and Rasika from Hemel Hempstead, competitive couple Kellie and Eric from Merseyside, and Northern Irish father and son Tony and Laurence. Hosted by Adil Ray.
+
+2025-07-01 3:00pm
+Tipping Point
+Contestants play a large coin-drop machine, provided they answer questions correctly. Answer incorrectly and the players could be eliminated. The last contestant standing has an opportunity to win the machine's £10,000 jackpot.
+
+2025-07-01 4:00pm
+The Chase
+Bradley Walsh hosts as four strangers - David from Stockport, Samantha from London, Tom from Manchester and Danae from Surrey come together in the hope that they can take on a Chaser as a team and leave with thousands of pounds.
+
+2025-07-01 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-07-01 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2025-07-01 6:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2025-07-01 7:00pm
+Midsomer Murders
+A local outcast, who was controversially acquitted of murder years previously, is the latest inductee into a post-operative heart rehab club. Following his arrival, members' dreams of a second chance at life begin being cut short.
+
+2025-07-01 9:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2025-07-01 9:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2025-07-01 9:45pm
+DNA Journey
+Celebrities are given a unique insight into their lives using innovative DNA science and technology to trace their ancestors.
+
+2025-07-01 10:45pm
+British Touring Car Championship
+Steve Rider presents the best of the action from the fifth event of the 2025 British Touring Car Championship at the picturesque Oulton Park circuit in Cheshire, with race commentary coming from David Addison and Tim Harvey.
+
+2025-07-01 11:55pm
+Teleshopping
+Shopping from home.
+
+2025-07-02 2:00am
+The Reunion
+Thomas is in mourning, his father is dead and his half-brother is in a coma. He no longer understands anything, but Annabelle tells him Fanny has all the answers. Revelations from Fanny put Thomas on the trail of the real Alexis.
+
+2025-07-02 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2025-07-02 4:05am
+Ninja Warrior UK
+250 ambitious competitors will start, but few will successfully overcome the tough obstacle course. Can any survive to the end to face the challenge of scaling the heights of the tower known as Mount Midoriyama and be crowned as a Ninja Warrior UK?
+
+2025-07-02 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 
