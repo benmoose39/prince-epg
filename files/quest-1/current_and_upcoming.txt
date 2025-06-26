@@ -1,19 +1,3 @@
-2025-06-26 6:00am
-Find It, Fix It, Flog It
-Henry Cole and Simon O'Brien are in Monmouthshire. Amongst the industrial machinery, Henry is excited by some metal shelves and Simon spots some Anglepoise lamps.
-
-2025-06-26 7:00am
-Chasing Classic Cars
-Wayne has his suspicions when a contact uncovers a high-end car collection but won't send him any photos of the vehicles.
-
-2025-06-26 7:30am
-Chasing Classic Cars
-Wayne must find the right buyer for a Ferrari 275, and a Chicago woman needs Wayne's help in determining the value of her late husband's Jaguar.
-
-2025-06-26 8:00am
-Chasing Classic Cars
-Wayne revisits fan-favorite vehicles from past seasons, including a barn-find Rolls Royce that made it to the Pebble Beach Concours d'Elegance.
-
 2025-06-26 8:30am
 Chasing Classic Cars
 Wayne uncovers a 1963 street legal 427 Cobra in a barn, then takes the vehicle for a spin before he sells it.
@@ -248,7 +232,7 @@ Shopping from home.
 
 2025-06-28 5:30am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-28 6:00am
 Robson Green's Australian Adventure
