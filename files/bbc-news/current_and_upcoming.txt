@@ -1,47 +1,3 @@
-2025-06-25 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2025-06-26 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-26 12:30am
-World Questions
-Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
-
-2025-06-26 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 1:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-26 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 2:30am
-Weather: Beyond the Forecast
-How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.
-
-2025-06-26 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 3:30am
-Tech Now
-Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
-
-2025-06-26 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-26 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-26 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -1063,6 +1019,182 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-07-02 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-07-02 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-02 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-07-02 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-07-02 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-02 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-07-02 1:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-02 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2025-07-02 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-07-02 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-07-02 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-07-02 3:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-02 3:45pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-07-02 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2025-07-02 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-07-02 5:30pm
+Sportsday
+The host provides the top news stories and developments from the world of sports, including the latest scores and current events.
+
+2025-07-02 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-07-02 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2025-07-02 7:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-07-02 7:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-07-02 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-07-02 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2025-07-02 9:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-07-02 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2025-07-02 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2025-07-02 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-02 11:30pm
+Newscast
+Lighthearted discussion of the day's news.
+
+2025-07-03 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-03 12:30am
+Scams & Scandals
+Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?
+
+2025-07-03 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 1:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-07-03 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 2:30am
+The Travel Show
+London is currently undergoing a building boom with more high rise offices and apartments. Rajan Datar discovers how the construction craze is revealing fascinating insights into the city's history.
+
+2025-07-03 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 3:30am
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
+
+2025-07-03 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-03 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-03 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

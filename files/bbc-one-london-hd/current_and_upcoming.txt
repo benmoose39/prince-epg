@@ -1,51 +1,3 @@
-2025-06-25 11:10pm
-Apples Never Fall
-As the search for Joy grows more intense, her son, Logan, becomes hellbent on pointing the cops away from his own family.
-
-2025-06-26 12:00am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-26 12:05am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-26 12:30am
-World Questions
-Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.
-
-2025-06-26 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 1:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-26 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 2:30am
-Weather: Beyond the Forecast
-How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.
-
-2025-06-26 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2025-06-26 3:30am
-Tech Now
-Tech Now revisits the team's top AI stories: Laura Goodwin tests out the fast-developing AI in our phones, Nick Kwek explores the growing area of digital clones, Marc Cieslak finds out how AI is influencing gaming, and Alasdair Keane meets an AI version of author Agatha Christie.
-
-2025-06-26 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-26 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2025-06-26 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -831,6 +783,110 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-07-02 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-07-02 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-07-02 9:45am
+
+Isa Guha presents live coverage of the Championships at Wimbledon, where the second round is getting under way. The All England Club is an annual highlight for most British players, with 2025's cohort hoping to use their grass court experience and home support to their advantage. Five British women reached the second round last year for the first time in 37 years, and hopes are high of continued home success once again.
+
+2025-07-02 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-02 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-02 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-02 1:00pm
+Wimbledon 2025
+Clare Balding presents continued coverage of the second round at Wimbledon, the third tennis grand slam tournament of the year.
+
+2025-07-02 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-07-02 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-02 6:00pm
+
+Live coverage of hosts Switzerland v Norway in the Women's Euro 2025 football tournament.
+
+2025-07-02 9:05pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-07-02 9:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-02 9:45pm
+Mary Earps: Queen of Stops
+With unprecedented access, goalkeeper Mary Earps offers a fascinating insight into her rollercoaster journey to the pinnacle of her sport and how she became a role model for the next generation.
+
+2025-07-02 10:30pm
+Apples Never Fall
+As the mystery surrounding Joy's disappearance deepens, Amy gathers the community together in the hopes of bringing her mother home.
+
+2025-07-02 11:15pm
+Apples Never Fall
+During a hurricane, Brooke faces her demons while the detectives pursue a surprising new lead in Joy's disappearance.
+
+2025-07-03 12:05am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-07-03 12:10am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-07-03 12:30am
+Scams & Scandals
+Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?
+
+2025-07-03 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 1:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2025-07-03 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 2:30am
+The Travel Show
+London is currently undergoing a building boom with more high rise offices and apartments. Rajan Datar discovers how the construction craze is revealing fascinating insights into the city's history.
+
+2025-07-03 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2025-07-03 3:30am
+Tech Now
+Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.
+
+2025-07-03 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2025-07-03 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2025-07-03 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

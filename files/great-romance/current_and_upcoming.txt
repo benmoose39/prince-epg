@@ -1,43 +1,3 @@
-2025-06-25 11:50pm
-Great! Movie News
-Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
-
-2025-06-25 11:52pm
-	A Christmas Reunion
-Two former high school sweethearts reunite to plan the annual Christmas cookie contest when they inherit their hometown bakery.
-
-2025-06-26 12:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-06-26 1:00am
-Highway to Heaven
-Townspeople are forced to fight a water-polluter.
-
-2025-06-26 2:00am
-	Falling in Love at Christmas
-Business rivals who playfully despise each other develop unexpected feelings while working together on a holiday gift-giving app.
-
-2025-06-26 3:50am
-Great! Movie News Extra
-From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
-
-2025-06-26 4:00am
-Teleshopping
-Shopping from home.
-
-2025-06-26 4:30am
-Teleshopping
-Shopping from home.
-
-2025-06-26 5:00am
-Teleshopping
-Shopping from home.
-
-2025-06-26 5:30am
-Teleshopping
-Shopping from home.
-
 2025-06-26 6:00am
 Teleshopping
 Shopping from home.
@@ -971,6 +931,166 @@ Teleshopping
 Shopping from home.
 
 2025-07-02 5:30am
+Teleshopping
+Shopping from home.
+
+2025-07-02 6:00am
+Teleshopping
+Shopping from home.
+
+2025-07-02 6:30am
+Teleshopping
+Shopping from home.
+
+2025-07-02 7:00am
+	Love Off the Page
+Romantic comedy (2022)
+
+2025-07-02 7:55am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 8:00am
+	Love Off the Page
+Romantic comedy (2022)
+
+2025-07-02 8:55am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-07-02 9:05am
+	Romantic Rewrite
+When a book editor helps a mystery writer add a romantic skew to his novel, their fictional love story falls of the pages and into the real world. (2022)
+
+2025-07-02 10:00am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 10:02am
+	Romantic Rewrite
+When a book editor helps a mystery writer add a romantic skew to his novel, their fictional love story falls of the pages and into the real world. (2022)
+
+2025-07-02 11:00am
+	Love by Accident
+Romance (2020)
+
+2025-07-02 11:55am
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 12:00pm
+	Love by Accident
+Romance (2020)
+
+2025-07-02 1:00pm
+	Season for Love
+After her divorce, a woman returns to her hometown to spend the summer with her daughter and mother. At her daughter's urging, she signs up for the town's annual barbecue competition, where she runs into her high school sweetheart. Old feelings resurface as they spend time together, but she convinces herself that she has no time for distractions when there's a competition to win.
+
+2025-07-02 1:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 2:00pm
+	Season for Love
+After her divorce, a woman returns to her hometown to spend the summer with her daughter and mother. At her daughter's urging, she signs up for the town's annual barbecue competition, where she runs into her high school sweetheart. Old feelings resurface as they spend time together, but she convinces herself that she has no time for distractions when there's a competition to win.
+
+2025-07-02 2:55pm
+	Love at Mariposa Beach
+Drama (2022)
+
+2025-07-02 3:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 3:52pm
+	Love at Mariposa Beach
+Drama (2022)
+
+2025-07-02 4:55pm
+	Love Afloat
+When Lorelei inherits a run-down boat from a distant relative, she hires Rob to help fix up the vessel and sail it from a Caribbean island to Miami.
+
+2025-07-02 5:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 5:52pm
+	Love Afloat
+When Lorelei inherits a run-down boat from a distant relative, she hires Rob to help fix up the vessel and sail it from a Caribbean island to Miami.
+
+2025-07-02 6:50pm
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-07-02 7:00pm
+	One Summer
+Jack takes his son and daughter to his late wife's beachside hometown hoping to heal and grow closer.
+
+2025-07-02 7:55pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 8:00pm
+	One Summer
+Jack takes his son and daughter to his late wife's beachside hometown hoping to heal and grow closer.
+
+2025-07-02 8:55pm
+	When Love Blooms
+Cautious Ann goes on a brief visit home to help at her Dad's flower shop. Ann is reminded it is alright to go outside your comfort zone, but will she be willing to take a risk in love? (2021)
+
+2025-07-02 9:50pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 9:52pm
+	When Love Blooms
+Cautious Ann goes on a brief visit home to help at her Dad's flower shop. Ann is reminded it is alright to go outside your comfort zone, but will she be willing to take a risk in love? (2021)
+
+2025-07-02 10:50pm
+	All of My Heart
+A young caterer co-inherits a country house with a career-obsessed Wall Street trader, but opposites attract when they start restoring their new home.
+
+2025-07-02 11:45pm
+Great! Movie News
+Providing the latest movie news, information on everyones favourite stars, celebrity gossip, and Hollywood rumours in a daily news bulletin.
+
+2025-07-02 11:50pm
+	All of My Heart
+A young caterer co-inherits a country house with a career-obsessed Wall Street trader, but opposites attract when they start restoring their new home.
+
+2025-07-03 12:45am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-07-03 12:55am
+Highway to Heaven
+Homeless teen is placed into a troubled home.
+
+2025-07-03 1:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-07-03 2:00am
+	Season for Love
+After her divorce, a woman returns to her hometown to spend the summer with her daughter and mother. At her daughter's urging, she signs up for the town's annual barbecue competition, where she runs into her high school sweetheart. Old feelings resurface as they spend time together, but she convinces herself that she has no time for distractions when there's a competition to win.
+
+2025-07-03 3:50am
+Great! Movie News Extra
+From red carpet glamour to Hollywood gossip, interviews with actors and other industry professionals and new movies highlights, providing a round-up of weekly showbiz news from all around the world.
+
+2025-07-03 4:00am
+Teleshopping
+Shopping from home.
+
+2025-07-03 4:30am
+Teleshopping
+Shopping from home.
+
+2025-07-03 5:00am
+Teleshopping
+Shopping from home.
+
+2025-07-03 5:30am
 Teleshopping
 Shopping from home.
 

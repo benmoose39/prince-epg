@@ -1,27 +1,3 @@
-2025-06-25 11:20pm
-Mafia's Greatest Hits
-Tales of real-life crime told by the FBI. Vito Genovese dealt with disloyalty ruthlessly and rose through the Mafia ranks, but he was to cause his own downfall with a massive error.
-
-2025-06-26 12:35am
-Coastal Killers
-When Patricia Causley disappeared, her husband managed to convince police that she had walked out on her own volition. A decade later, detectives piece together what had really happened.
-
-2025-06-26 1:27am
-Coastal Killers
-Nora Trott, a much-loved member of her community, was savagely murdered. Twenty-seven years after her death, advances in DNA technology would allow police to find a suspect in her case.
-
-2025-06-26 2:19am
-Coastal Killers
-Michael Brown claimed to be a sensitive man, held back by the fact he was only five feet tall. However, it seems as if his frustrations at his inability to get a job became murderous.
-
-2025-06-26 3:11am
-Coastal Killers
-Jean Dicker believed her son Steve was only being kind when he moved in following the death of her husband. However, when she was found in a seeming robbery gone wrong, tension rose.
-
-2025-06-26 4:03am
-The Krays: The Myth Behind the Legend
-Rivals and other contemporaries discuss gangsters Ronnie and Reggie Kray, who ran London's East End.
-
 2025-06-26 5:03am
 The FBI Files
 When a corrupt local government hinders the investigation of a double murder, the FBI steps in to solve the case.
@@ -617,4 +593,96 @@ Examining the case of a dowry murder and unravelling the discrimination against 
 2025-07-02 5:41am
 Kidnapping at the Vatican
 Exploring the kidnapping of Vatican City State teenager Emanuela Orlandi.
+
+2025-07-02 6:43am
+Angel of Death
+As the number of deaths at a medical centre climbs, the night staff begins to suspect that someone is poisoning the patients.
+
+2025-07-02 8:33am
+Great Crimes and Trials
+Harold Shipman was a respected doctor but he was killing his older patients. His murder spree has claimed at least 215 lives and the families of the dead wanted him to pay in court.
+
+2025-07-02 9:04am
+The Prosecutors: In Pursuit of Justice
+For many teenagers, their first jobs are at fast-food restaurants. Parents feel that these are safe environments for their children. That image is shattered when seven employees of three different fast-food restaurants in the Nashville, Tennessee area are murdered over a two-month period in 1997. Months of investigation reveal a Texas parolee as the prime suspect.
+
+2025-07-02 10:02am
+The Prosecutors: In Pursuit of Justice
+A community is horrified when seven trick-or-treaters in Pasadena, California are sprayed with gunfire on Halloween night in 1993, leaving three young boys dead. Investigators rely on forensic clues, eyewitness accounts, and street informants to find the killers, three gang members bent on avenging a friend's death.
+
+2025-07-02 11:01am
+The Prosecutors: In Pursuit of Justice
+An evening of pick-up basketball in Houston turns tragic when prosecutor Gil Epstein is murdered in a community center parking lot. Investigators depend on anonymous tips and hazy eyewitness accounts to track down a killer. District Attorney Chuck Rosenthal leads a prosecution team whose chances for a conviction are put in jeopardy by a single holdout juror.
+
+2025-07-02 12:00pm
+CSI on Trial
+Based on expert testimony from bloodstain pattern analysts, a jury convicted former state trooper David Camm of killing his family. Years later, he was exonerated when new evidence came to light.
+
+2025-07-02 1:00pm
+CSI on Trial
+As a young sailor, Keith Harward was convicted of a vicious assault based on bitemark analysis. After 33 years in prison, DNA testing exonerated him and proved that the bite evidence was junk science.
+
+2025-07-02 2:08pm
+CSI on Trial
+Firearms analysis, one of the most common forensic science practices in the US, faces fresh challenges over its underlying science. The national debate on allowing such evidence in court has significant consequences.
+
+2025-07-02 3:09pm
+Conviction: Murder in Suburbia
+Series 1 Episode 1
+
+2025-07-02 4:17pm
+Conviction: Murder in Suburbia
+Inside Justice investigate the conviction of Glyn Razzell, found guilty of his wife's murder. Glyn maintains his innocence, and now there's an alleged link with a double murderer.
+
+2025-07-02 5:24pm
+Great Crimes and Trials
+Exploring and analysing the most famous criminal cases in history, and the punishments the culprits received.
+
+2025-07-02 5:56pm
+The Trayvon Hoax: Unmasking the Witness Fraud That Divided America
+A look into the trial of George Zimmerman for the murder of Trayvon Martin.
+
+2025-07-02 8:05pm
+The Prosecutors: In Pursuit of Justice
+When a mother and her infant daughter disappear from rural Huntsville, Texas, suspicion quickly falls on the woman's husband. Lacking evidence, authorities cannot make an arrest. With the case growing cold, a teenager hundreds of miles away confesses to the murder of Margaret and Kori Rae Owings.
+
+2025-07-02 9:04pm
+The Prosecutors: In Pursuit of Justice
+On Memorial Day Weekend 1996, a woman's body is discovered in a storm drain in Marietta, Ohio. Police eventually identify the woman as college student Sheree Petry and begin to focus the investigation on one suspect, Dennis Rydbom, who had been spurned by the victim.
+
+2025-07-02 10:03pm
+The Prosecutors: In Pursuit of Justice
+When firefighters in suburban Indianapolis are called to a house fire, what they find inside shocks the entire community, a respected minister and his wife have been murdered with an ax. An exhaustive investigation leads authorities to a teenage church member and his accomplice.
+
+2025-07-02 11:02pm
+The Prosecutors: In Pursuit of Justice
+A string of rapes spanning two decades goes unsolved in Jacksonville, Florida, until Detective Diana Clarke finds a link among the crimes and discovers that a serial rapist is terrorizing the community. After a suspect is finally arrested, Detective Clarke teams up with Prosecutor Libby Senterfitt to track down the rapist's victims and convince them to testify.
+
+2025-07-03 12:01am
+CSI on Trial
+Based on expert testimony from bloodstain pattern analysts, a jury convicted former state trooper David Camm of killing his family. Years later, he was exonerated when new evidence came to light.
+
+2025-07-03 1:00am
+CSI on Trial
+As a young sailor, Keith Harward was convicted of a vicious assault based on bitemark analysis. After 33 years in prison, DNA testing exonerated him and proved that the bite evidence was junk science.
+
+2025-07-03 2:08am
+CSI on Trial
+Firearms analysis, one of the most common forensic science practices in the US, faces fresh challenges over its underlying science. The national debate on allowing such evidence in court has significant consequences.
+
+2025-07-03 3:09am
+Conviction: Murder in Suburbia
+Series 1 Episode 1
+
+2025-07-03 4:17am
+Conviction: Murder in Suburbia
+Inside Justice investigate the conviction of Glyn Razzell, found guilty of his wife's murder. Glyn maintains his innocence, and now there's an alleged link with a double murderer.
+
+2025-07-03 5:24am
+Great Crimes and Trials
+Exploring and analysing the most famous criminal cases in history, and the punishments the culprits received.
+
+2025-07-03 5:55am
+The Trayvon Hoax: Unmasking the Witness Fraud That Divided America
+A look into the trial of George Zimmerman for the murder of Trayvon Martin.
 
