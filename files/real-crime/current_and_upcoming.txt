@@ -1,27 +1,3 @@
-2025-06-26 11:32pm
-Mafia's Greatest Hits
-Joe Valachi was the first Mafia member to break the Mob's code of silence and turn public informer, revealing the term `Cosa Nostra' to the world.
-
-2025-06-27 12:29am
-Coastal Killers
-Percy Mapleton was looking for a way to a fast fortune and identified Brighton bond trader Isaac Gold as his target. But a robbery on a moving train turned into an unspeakable tragedy.
-
-2025-06-27 1:21am
-Coastal Killers
-Michael Peacock was having an affair with a much younger woman and had decided that he didn't want to pay for a costly divorce, so he plotted what he believed to be the perfect murder.
-
-2025-06-27 2:13am
-Coastal Killers
-By day, Peter Moore was understood by his neighbours as a mild mannered cinema owner. By night, he was a self-confessed mummy's boy who turned to murder following the death of his mother.
-
-2025-06-27 3:07am
-Psychopaths: Killing Spree Couples
-Filmmakers explore stories of psychopathic couples and whether they are born violent.
-
-2025-06-27 4:19am
-The New Detectives
-An FBI profiler gets inside the mind of a serial killer by piecing together the evidence left at a crime scene.
-
 2025-06-27 5:20am
 The New Detectives
 The massive investigation into the attempted murders of federal judges in 1989, beginning with the killing of Judge Robert Vance.
@@ -609,4 +585,84 @@ Exploring and analysing the most famous criminal cases in history, and the punis
 2025-07-03 5:55am
 The Trayvon Hoax: Unmasking the Witness Fraud That Divided America
 A look into the trial of George Zimmerman for the murder of Trayvon Martin.
+
+2025-07-03 8:05am
+The Prosecutors: In Pursuit of Justice
+When a mother and her infant daughter disappear from rural Huntsville, Texas, suspicion quickly falls on the woman's husband. Lacking evidence, authorities cannot make an arrest. With the case growing cold, a teenager hundreds of miles away confesses to the murder of Margaret and Kori Rae Owings.
+
+2025-07-03 9:04am
+The Prosecutors: In Pursuit of Justice
+On Memorial Day Weekend 1996, a woman's body is discovered in a storm drain in Marietta, Ohio. Police eventually identify the woman as college student Sheree Petry and begin to focus the investigation on one suspect, Dennis Rydbom, who had been spurned by the victim.
+
+2025-07-03 10:02am
+The Prosecutors: In Pursuit of Justice
+When firefighters in suburban Indianapolis are called to a house fire, what they find inside shocks the entire community, a respected minister and his wife have been murdered with an ax. An exhaustive investigation leads authorities to a teenage church member and his accomplice.
+
+2025-07-03 11:01am
+The Prosecutors: In Pursuit of Justice
+A string of rapes spanning two decades goes unsolved in Jacksonville, Florida, until Detective Diana Clarke finds a link among the crimes and discovers that a serial rapist is terrorizing the community. After a suspect is finally arrested, Detective Clarke teams up with Prosecutor Libby Senterfitt to track down the rapist's victims and convince them to testify.
+
+2025-07-03 12:00pm
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-03 1:00pm
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-03 2:10pm
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-03 3:10pm
+Conviction: Murder at the Station
+Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
+
+2025-07-03 4:14pm
+Conviction: Murder at the Station
+Louise investigates a case, looking for evidence that could present grounds to bring an appeal, and ultimately overturn the conviction of a Southampton man in prison for the murder of his secret lover.
+
+2025-07-03 5:21pm
+Material Witness
+The story of three CBS workers who walked into a kidnapping and were shot dead as they tried to help.
+
+2025-07-03 7:08pm
+Looking for Mike
+Following filmmaker Dylan Reibling as he investigates the mysterious death of his friend, computer salesman Michael De Bourcier.
+
+2025-07-03 7:59pm
+The Trayvon Hoax: Unmasking the Witness Fraud That Divided America
+A look into the trial of George Zimmerman for the murder of Trayvon Martin.
+
+2025-07-03 10:09pm
+Dying Out Loud
+Female prisoners explain how they got to be facing life without parole, even though they're innocent.
+
+2025-07-03 10:33pm
+	You Belong to Me: Sex, Race and Murder in the South
+In 1952, a prominent black woman killed a white doctor in Florida after suffering years of sexual abuse at his hands. Despite abundant evidence that she was acting in self-defence, a jury found her guilty and sentenced her to death.
+
+2025-07-04 12:12am
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-04 1:12am
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-04 2:22am
+CSI on Trial
+Host Molly Hermann reveals the lack of science behind some of the most well-known crime scene investigation tools, and tells the stories of the wrongfully convicted who went to prison for years.
+
+2025-07-04 3:22am
+Conviction: Murder at the Station
+Following a team of experts as they investigate whether evidence exists that could challenge the conviction of a man in prison for a murder he denies. Every year, over 500 people in the UK are convicted of murder. A guilty verdict can only be challenged if new evidence comes to light. Inside Justice is a specialist charity led by Louise Shorter, supported by a panel of criminal lawyers, ex-police officers and forensics experts who offer assistance to prisoners who are protesting their innocence.
+
+2025-07-04 4:26am
+Conviction: Murder at the Station
+Louise investigates a case, looking for evidence that could present grounds to bring an appeal, and ultimately overturn the conviction of a Southampton man in prison for the murder of his secret lover.
+
+2025-07-04 5:33am
+Material Witness
+The story of three CBS workers who walked into a kidnapping and were shot dead as they tried to help.
 

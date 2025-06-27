@@ -1,7 +1,3 @@
-2025-06-26 9:00pm
-Freeview Information
-9:00pm
-
 2025-06-27 5:00am
 Freeview Information
 5:00am
@@ -75,6 +71,18 @@ Freeview Information
 9:00pm
 
 2025-07-03 5:00am
+Freeview Information
+5:00am
+
+2025-07-03 1:00pm
+Freeview Information
+1:00pm
+
+2025-07-03 9:00pm
+Freeview Information
+9:00pm
+
+2025-07-04 5:00am
 Freeview Information
 5:00am
 
