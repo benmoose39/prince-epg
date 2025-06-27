@@ -592,6 +592,10 @@ Shopping from home.
 
 2025-07-01 5:30am
 Teleshopping
+Backtrace:
+
+2025-07-01 5:30am
+Teleshopping
 Shopping from home.
 
 2025-07-01 6:30am
