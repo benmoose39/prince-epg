@@ -1,47 +1,3 @@
-2025-06-27 11:00pm
-	Gringo
-Mild-mannered US businessman Harold Soyinka finds himself at the mercy of backstabbing colleagues, local drug lords and a black ops mercenary after travelling to Mexico. Crossing the line from law-abiding citizen to wanted criminal, Harold fights to survive an increasingly dangerous situation that raises the question of whether he is out of his depth, or two steps ahead.
-
-2025-06-28 12:40am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2025-06-28 12:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2025-06-28 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-28 1:30am
-Discovering the World's Table
-Chef Julie Lin travels to Istanbul in search of the most vibrant food fusions. Meeting culinary trailblazers inspired by both the ancient tastes of Anatolia and food with a distinctly global twist.
-
-2025-06-28 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-28 2:30am
-Scams & Scandals
-Allegations of over-charging, threats and intimidation. Just how far will some companies go to make a profit in the holiday park industry?
-
-2025-06-28 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-28 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2025-06-28 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2025-06-28 4:30am
-The Travel Show
-London is currently undergoing a building boom with more high rise offices and apartments. Rajan Datar discovers how the construction craze is revealing fascinating insights into the city's history.
-
 2025-06-28 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -767,6 +723,90 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2025-07-04 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2025-07-04 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2025-07-04 9:45am
+The Moment of Proof
+A discarded cigarette butt gives police the proof they need to find the murderers of a young father shot and killed in broad daylight, and a used match found in a drainpipe identifies the arsonist who burnt a 400-year-old building to the ground.
+
+2025-07-04 10:15am
+Homes Under the Hammer
+Martel, Jacqui and Owain are across the UK, checking out no less than four flats in Scotland, England and Wales! All are in a poor state of repair, and all are transformed, adding new kitchens, bathrooms and extra bedrooms in the hope of adding profit too.
+
+2025-07-04 11:15am
+Bargain Hunt
+It's a battle of the dad-and-daughter duos on from West Sussex, with experts Nick Hall and Stephanie Connell, and their game-changing bonus buys.
+
+2025-07-04 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-04 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-04 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2025-07-04 1:00pm
+
+Clare Balding introduces live coverage from the fifth day of the 2025 Championships at Wimbledon, the third grand slam of the tennis calendar. The grass season is always a short one, so the players need to find their feet quickly at the All England Club. Eight different players have won the last eight women's singles titles, so everyone in the draw is in with a chance of landing one of the most prestigious prizes in tennis.
+
+2025-07-04 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2025-07-04 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-04 6:00pm
+Wimbledon 2025
+Day five at Wimbledon draws to a close, with still plenty of time for drama and upsets.
+
+2025-07-04 8:00pm
+Not Going Out
+Some might say that Lee and Lucy were foolish to try to buy tickets to see Oasis in concert, because when they lose their place in the queue, they start to blame each other.
+
+2025-07-04 8:30pm
+The Power of Parker
+Diane, Martin and Kath go to extreme lengths to get themselves out of trouble, hoping that crime will pay. The strain on relationships is starting to show and Kath is tested further when some shock news makes her revaluate her life.
+
+2025-07-04 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2025-07-04 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2025-07-04 9:40pm
+St. Denis Medical
+Ron mocks Alex and Matt's attempts to resolve a conflict between two prison inmates who stabbed each other in a gang fight; Serena helps Bruce address his fear of needles; Joyce finds herself smitten by the burly prison guard.
+
+2025-07-04 10:00pm
+St. Denis Medical
+An "intimacy in the workplace" discussion leads Joyce to discover she's out of the loop on office gossip; Alex gets self-conscious about her sex life; Bruce tries to fight a new policy about dating co-workers.
+
+2025-07-04 10:25pm
+	Quiz Lady
+Anne and her estranged train-wreck of a sister, Jenny, must work together to help cover their mother's gambling debts. When Anne's beloved dog is kidnapped, they set out on a wild cross-country trek to get the cash.
+
+2025-07-05 12:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2025-07-05 12:05am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2025-07-05 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

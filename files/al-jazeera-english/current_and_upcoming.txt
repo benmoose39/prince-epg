@@ -1,51 +1,3 @@
-2025-06-27 11:30pm
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2025-06-28 12:00am
-News
-Up-to-date news and analysis from around the world.
-
-2025-06-28 12:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2025-06-28 1:00am
-Drug Trafficking, Politics and Power
-From colonial China's opium wars to Cold War USA politics, this series traces the rise of the global drug trade and its powerful political backers.
-
-2025-06-28 2:00am
-News
-Up-to-date news and analysis from around the world.
-
-2025-06-28 2:30am
-Fault Lines
-Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the role of the US in the world.
-
-2025-06-28 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2025-06-28 3:30am
-101 East
-Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
-
-2025-06-28 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2025-06-28 4:30am
-UpFront
-Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests.
-
-2025-06-28 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2025-06-28 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2025-06-28 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -1007,6 +959,170 @@ News
 The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
 
 2025-07-04 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-07-04 6:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 6:30am
+Reframe
+In this first episode of Reframe, Fatima Bhutto speaks to Omar Barghouti, co-founder of the Divestment & Sanctions Movement (BDS).
+
+2025-07-04 7:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 8:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 8:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-07-04 9:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 9:30am
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-07-04 10:00am
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 11:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-07-04 12:00pm
+The Bottom Line
+Discussions on US politics and policies.
+
+2025-07-04 12:30pm
+The Big Picture
+In the second part of this special series, The Big Picture charts the rise of the Zionist project as the advent of Israel ends in catastrophe for Palestinians.
+
+2025-07-04 1:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 2:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 2:30pm
+The Stream
+The host, along with experts, discusses various stories that are making rounds on social media platforms and listens to netizens as they share key stories using photos, tweets and videos.
+
+2025-07-04 3:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 4:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 4:30pm
+Boycott
+Parth Three - The Template
+
+2025-07-04 5:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-07-04 6:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 7:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 7:30pm
+UpFront
+Historian Rashid Khalidi explains to Marc Lamont Hill how the current genocide in Gaza fits in with Palestine's history of struggle.
+
+2025-07-04 8:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 8:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-07-04 9:00pm
+Newshour
+A closer look at international news, events, current affairs, and exclusive stories from around the world.
+
+2025-07-04 10:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 10:30pm
+Counting the Cost
+The host presents a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the general public.
+
+2025-07-04 11:00pm
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-04 11:30pm
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2025-07-05 12:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-05 12:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2025-07-05 1:00am
+Al Jazeera Investigations
+Investigating crimes.
+
+2025-07-05 2:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-05 2:30am
+People and Power
+A series of investigations regarding the real nature of power, asking questions like `what is power?' and `who has it and how is it being used', connecting issue related to power from around the world.
+
+2025-07-05 3:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-05 3:30am
+101 East
+Following current affairs that focus on the big issues impacting Asia and its distinct cultures.
+
+2025-07-05 4:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-05 4:30am
+UpFront
+Historian Rashid Khalidi explains to Marc Lamont Hill how the current genocide in Gaza fits in with Palestine's history of struggle.
+
+2025-07-05 5:00am
+News
+The host provides deeper insights into the latest news updates, top stories and key developments concerning the political, social, economic and sports fronts from around the nation and the world.
+
+2025-07-05 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
