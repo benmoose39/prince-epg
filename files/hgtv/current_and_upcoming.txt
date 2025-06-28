@@ -220,7 +220,7 @@ Shopping from home.
 
 2025-06-30 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-06-30 6:00am
 Building Alaska
@@ -668,7 +668,7 @@ Shopping from home.
 
 2025-07-04 5:00am
 Teleshopping
-Shopping from home.
+Backtrace:
 
 2025-07-04 6:00am
 Building Alaska
