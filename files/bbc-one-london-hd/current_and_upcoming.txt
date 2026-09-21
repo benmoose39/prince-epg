@@ -1,67 +1,3 @@
-2026-09-20 9:30pm
-Match of the Day
-Highlights and key analysis from all the day's games in the Premier League.
-
-2026-09-20 10:40pm
-	The Mercy
-Yachtsman Donald Crowhurst creates an outrageous account of his disastrous attempt to win the 1968 Golden Globe Race.
-
-2026-09-21 12:15am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-21 12:20am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-21 12:30am
-World Questions
-As elections approach, how can Nigerians separate the truth from the lies? Jonny Dymond chairs a public debate with experts and influencers in Lagos, Nigeria.
-
-2026-09-21 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-21 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-21 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-21 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-21 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-21 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-21 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-21 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-21 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-21 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-21 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-21 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -885,4 +821,104 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2026-09-27 5:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 8:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2026-09-27 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2026-09-27 9:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2026-09-27 10:30am
+Money for Nothing
+Mysterious material turns up at the tip, and Sarah Moore works a Christmas miracle to turn wooden boards into festive baubles.
+
+2026-09-27 11:00am
+Bargain Hunt
+Charlie Ross takes a trip to Knaresborough in North Yorkshire to explore the mysterious Mother Shipton's Cave, uncovering stories of a legendary prophetess and a well that turns everything it touches to stone! In Wetherby, two teams shop for bargains at an antiques fair guided by experts Izzie Balmer and David Harper. In red, it's friends Suzie and Rowan and in blue it's sisters-in-law Pauline and Pauline. With 60 minutes on the clock, the Paulines pick up a pith helmet but decide to march on.
+
+2026-09-27 11:45am
+Points of View
+Viewers have their say on BBC television programmes.
+
+2026-09-27 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-09-27 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-09-27 12:15pm
+Escape to the Country
+Denise Nurse is in Sussex to help a couple from a Berkshire commuter town escape to the country. They have requested a unique home, and the quirkier, the better! The selection on offer includes some truly wow-factor properties, any one of which could be the mystery house. Denise also visits the Royal Botanic Gardens at Wakehurst to discover how climate change could shape the way we all garden in the future.
+
+2026-09-27 12:58pm
+To Be Announced
+12:58pm
+
+2026-09-27 1:50pm
+Garden Rescue
+Emma and Nathan would love to transform their scruffy cottage garden into a Balinese paradise. While Nathan has recently retired from the army and has a new job working from home, Emma is a busy nurse.
+
+2026-09-27 2:20pm
+Kingdom
+Leopard Mutima's relationship with her mother is at breaking point, and as the balance of power in Nsefu tips towards the lions, the hyenas and wild dogs fight to raise their young.
+
+2026-09-27 3:09pm
+To Be Announced
+3:09pm
+
+2026-09-27 4:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-27 4:35pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-09-27 4:50pm
+To Be Announced
+4:50pm
+
+2026-09-27 5:50pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-27 5:55pm
+BBC Weather
+The latest weather forecast.
+
+2026-09-27 6:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-09-27 6:24pm
+To Be Announced
+6:24pm
+
+2026-09-27 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-27 9:30pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-09-27 9:33pm
+To Be Announced
+9:33pm
+
+2026-09-27 11:05pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-09-28 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
