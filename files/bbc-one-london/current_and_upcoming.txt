@@ -1,43 +1,3 @@
-2026-09-21 10:15am
-Homes Under the Hammer
-It's a semi-detached extravaganza in this episode, with Dion visiting properties in Stoke and on the Wirral, while Tommy is in Gillingham, Kent.
-
-2026-09-21 11:15am
-Bargain Hunt
-Danny Sebastian is the host as experts Kate Bliss and Philip Serrell join two teams on a dash to make some cash as they shop at a huge antiques fair in Powys.
-
-2026-09-21 12:00pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2026-09-21 12:35pm
-BBC London News
-News, sport and weather from London.
-
-2026-09-21 12:45pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2026-09-21 1:00pm
-Clean It, Fix It
-Mark Wright and the Clean It, Fix It team help single mum Zoe support her teenagers as they grow into adulthood.
-
-2026-09-21 1:30pm
-Amanda & Alan's Greek Job
-Besties Amanda Holden and Alan Carr arrive at the picturesque Ionian island of Corfu. However, it's anything but idyllic as they discover a big fat Greek renovation lies ahead.
-
-2026-09-21 2:00pm
-Escape to the Country
-Denise Nurse is helping a couple cast off from urban life by the River Thames and seek out peace and relaxation in the country. For £550,000 they're looking for a converted building that offers a generous kitchen for entertaining, four bedrooms, a large garden to grow vegetables in and a big garage in which to mess about with a treasured car collection.
-
-2026-09-21 2:45pm
-Garden Rescue
-Lee and Joe are in Alresford to help Sara and Jonny transform their overgrown, unloved plot into a Persian magic-meets-English countryside garden.
-
-2026-09-21 3:30pm
-Antiques Road Trip
-Roo Irvine and Danny Sebastian cruise across the Isle of Man in a wee Morris Traveller, with a detour to see the world's smallest motor. Then it's off to a Glasgow auction showdown.
-
 2026-09-21 4:15pm
 Pointless
 The brainy quiz returns - but this time host Alexander Armstrong is joined by co-host Lucy Porter. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
@@ -60,7 +20,7 @@ Follow the latest dramas of the residents of Albert Square in London's East End 
 
 2026-09-21 7:00pm
 Panorama
-Current affairs programme, featuring interviews and investigative reports on all aspects of life in Britain.
+For years, organised gangs of abusers, mostly of Pakistani heritage, preyed on girls in Oxford while authorities looked the other way. Panorama examines the devastating legacy for three survivors.
 
 2026-09-21 7:30pm
 Clickbait Clinic with Stacey Dooley
@@ -379,8 +339,8 @@ EastEnders
 Follow the latest dramas of the residents of Albert Square in London's East End as they deal with life, love and loss.
 
 2026-09-23 7:00pm
-The Repair Shop
-Brenton restores a shattered trophy, Chris rebuilds a historic coronation scrapbook, and Jonathan transforms a rusted pair of garden secateurs into a treasured tool once again.
+The Repair Shop: Beyond the Barn
+Brenton revives a treasured trophy, and Chris rebuilds a coronation scrapbook.
 
 2026-09-23 8:00pm
 Not Going Out
@@ -563,8 +523,8 @@ Newscast
 Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
 
 2026-09-24 11:10pm
-The Repair Shop
-Brenton restores a shattered trophy, Chris rebuilds a historic coronation scrapbook, and Jonathan transforms a rusted pair of garden secateurs into a treasured tool once again.
+The Repair Shop: Beyond the Barn
+Brenton revives a treasured trophy, and Chris rebuilds a coronation scrapbook.
 
 2026-09-25 12:10am
 Weather for the Week Ahead
@@ -727,8 +687,40 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2026-09-26 12:30am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
+Tech Now
+Ammie Sekhon explores the tech being deployed to identify and remove counterfeit products online. Shiona McCallum visits a UK company making a different type of computer chip.
+
+2026-09-26 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-26 1:30am
+Streets of Gold: Mumbai
+Meeting the glamorous super-rich of Mumbai, India's most fashionable city. Incredible wealth and extreme poverty live side by side in a sun-drenched city bursting with opportunity.
+
+2026-09-26 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-26 2:30am
+The Climate Question
+Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?
+
+2026-09-26 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-26 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-09-26 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-26 4:30am
+The Travel Show
+The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
 
 2026-09-26 5:00am
 Breakfast
@@ -747,12 +739,12 @@ Bargain Hunt
 It's a battle of best friends in this episode from Naseby in Northamptonshire. With one hour on the clock, pals Owen and Sayer on the red team are shopping alongside expert Thomas Forrester. Their competition are friends Kennedy and Matt, guided by Irita Marriott. The blues start their shop by wondering if they'll squeeze out a profit with an old accordion, while the reds turn down a pricey gramophone when they learn that it's not going for a song.
 
 2026-09-26 11:45am
+The Football Interview
+The biggest names in sport and entertainment join host Kelly Somers for bold, in-depth conversations about the nation's favourite sport.
+
+2026-09-26 12:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-09-26 11:57am
-To Be Announced
-11:57am
 
 2026-09-26 12:10pm
 BBC Weather
@@ -763,32 +755,44 @@ Homes Under the Hammer
 A riverside period house alongside a riverside path in historic Canterbury is modernised for a family, and a grandfather transforms a flat in Brighton to be nearer to his grandchildren. Work also gets under way to transform a house in need of TLC in Ashton-under-Lyne.
 
 2026-09-26 12:45pm
-To Be Announced
-12:45pm
 
-2026-09-26 3:15pm
+Live coverage of Scotland's Nations League trip to Slovenia as life begins under new head coach, Sebastien Pocognoli.
+
+2026-09-26 3:10pm
 Garden Rescue
-Gareth and Rob's large new-build plot in Burton Latimer is boring and devoid of character. The couple wish to enjoy it with friends and their two beloved dogs. They also want to bring the sunshine into the plot with a Mediterranean theme and a sheltered spot for their hot tub. With a generous £8,000 budget, can Flo and Charlie add a southern European flavour to the space?
+The team take on two gardens. Lee and Chris are in Tamworth to transform mum Jade and daughter Charlie's tiny unloved plot into a pink-inspired garden. They both love all shades from magenta to mauve and feel this would be a perfect palette for their forever home. And Charlie and Flo are in Egham to transform Neil and Rumen's overgrown and unloved plot into an Islamic-themed garden.
 
-2026-09-26 4:00pm
+2026-09-26 4:10pm
 BBC Weekend News
 National and international news, followed by weather.
 
-2026-09-26 4:10pm
+2026-09-26 4:20pm
 BBC London News
 News, sport and weather from London.
 
-2026-09-26 4:15pm
+2026-09-26 4:25pm
 BBC Weather
 The latest weather forecast.
 
-2026-09-26 4:20pm
+2026-09-26 4:30pm
+The Celebrity Inner Circle
+Amanda Holden hosts this exciting night quiz show, packed with strategy, high stakes, and lots of surprises. Five contestants choose a celebrity partner, and are assigned a secret stash of cash worth up to a whopping £6,000. The celebrities helping the contestants are La Voix, Fred Sirieix, Dr Ranj Singh, Rav Wilding and Angellica Bell.
+
+2026-09-26 5:15pm
+Strictly Come Dancing
+It's the first live show of 2026, and the full Strictly cast take to the floor for an incredible opening performance. Emma, Josh and Jojo welcome our 15 couples back to the ballroom.
+
+2026-09-26 7:45pm
+Wisdom of the Crowd
+John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?
+
+2026-09-26 8:35pm
+Marble Hall Murders
+Susan Ryeland is corralled once again into the world of detective Atticus Pünd as he investigates the death of Lady Margaret Chalfont in the Greek isle of Corfu.
+
+2026-09-26 9:25pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-09-26 4:36pm
-To Be Announced
-4:36pm
 
 2026-09-26 9:40pm
 BBC Weather
@@ -805,6 +809,50 @@ Detailed weather forecast.
 2026-09-26 11:20pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-09-26 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-09-27 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 12:30am
+Talking Movies
+Talking Movies travels to the Venice and Telluride film festivals to report on some of the key films that have been animating audiences and making an impact early in the awards season. From Venice, Emma Jones reports on the adulation actor Angelina Jolie received for her portrayal of the celebrated late opera star Maria Callas in the picture Maria. In Telluride, Tom Brook hears from UK film-maker Kevin Macdonald, who has put together One to One: John & Yoko.
+
+2026-09-27 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2026-09-27 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-09-27 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-09-27 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-27 4:30am
+Streets of Gold: Mumbai
+Meeting the glamorous super-rich of Mumbai, India's most fashionable city. Incredible wealth and extreme poverty live side by side in a sun-drenched city bursting with opportunity.
 
 2026-09-27 5:00am
 BBC News
