@@ -234,33 +234,49 @@ Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Io
 Northern Ireland Assembly
 Coverage of proceedings in the Northern Ireland Assembly, including members' statements, on Tuesday 22 September.
 
-2026-09-27 5:00am
-To Be Announced
-5:00am
+2026-09-27 7:30am
+Scottish Parliament
+Coverage of the day's proceedings in the Scottish Parliament on Wednesday 23 September.
 
-2026-09-27 9:00am
-To Be Announced
-9:00am
+2026-09-27 11:00am
+Senedd Cymru - Welsh Parliament
+Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 23 September.
 
-2026-09-27 1:00pm
-To Be Announced
-1:00pm
+2026-09-27 4:30pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2026-09-27 5:00pm
-To Be Announced
-5:00pm
+2026-09-27 10:00pm
+Scottish Parliament
+Coverage of general questions in the Scottish Parliament to ministers in the Scottish government, from Thursday 22 January.
 
-2026-09-27 9:00pm
-To Be Announced
-9:00pm
+2026-09-27 10:30pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 24 September.
 
-2026-09-28 1:00am
-To Be Announced
-1:00am
+2026-09-27 11:00pm
+Scottish Parliament
+Coverage of the day's proceedings in the Scottish Parliament on Thursday 24 September.
 
-2026-09-28 5:00am
-To Be Announced
-5:00am
+2026-09-28 1:30am
+Northern Ireland Assembly
+Questions in Stormont to the Northern Ireland Executive, with the First Minister, Michelle O'Neill, on Monday 22 May.
+
+2026-09-28 2:15am
+Northern Ireland Assembly
+Coverage of questions in the Northern Ireland Assembly to the health minister, Mike Nesbitt, on Tuesday 5 May.
+
+2026-09-28 3:00am
+Welsh First Minister's Questions
+Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 22 September.
+
+2026-09-28 4:00am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 22 September.
+
+2026-09-28 4:30am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 24 September.
 
 2026-09-28 5:00am
 Senedd Cymru - Welsh Parliament

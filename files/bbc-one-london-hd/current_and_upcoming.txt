@@ -779,68 +779,120 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2026-09-27 12:15pm
-Escape to the Country
-Denise Nurse is in Sussex to help a couple from a Berkshire commuter town escape to the country. They have requested a unique home, and the quirkier, the better! The selection on offer includes some truly wow-factor properties, any one of which could be the mystery house. Denise also visits the Royal Botanic Gardens at Wakehurst to discover how climate change could shape the way we all garden in the future.
+Songs of Praise
+Pam Rhodes and Aled Jones celebrate the past, present and future of Songs of Praise with favourite hymns old and new, and a special duet featuring the late great Sir Harry Secombe.
 
-2026-09-27 12:58pm
-To Be Announced
-12:58pm
+2026-09-27 12:50pm
+Homes Under the Hammer
+Martel meets two friends in Hull who seem to have bought the wrong property. Tommy is in Suffolk, where a patch-up job isn't hiding the damp in an end-of-terrace. And Dion meets two brothers in Liverpool who seem to have it all under control.
 
 2026-09-27 1:50pm
-Garden Rescue
-Emma and Nathan would love to transform their scruffy cottage garden into a Balinese paradise. While Nathan has recently retired from the army and has a new job working from home, Emma is a busy nurse.
+	Shrek
+The story of a reclusive green ogre called Shrek whose life of solitude is disrupted by a horde of refugees who have been banished by the evil Lord Farquaad. Determined to save his home, Shrek cuts a deal with the tyrant, who sets him a daunting task - if Shrek is ever to enjoy peace and quiet again, he must rescue Farquaad's bride-to-be from a dangerous castle.
 
-2026-09-27 2:20pm
-Kingdom
-Leopard Mutima's relationship with her mother is at breaking point, and as the balance of power in Nsefu tips towards the lions, the hyenas and wild dogs fight to raise their young.
-
-2026-09-27 3:09pm
-To Be Announced
-3:09pm
-
-2026-09-27 4:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-09-27 4:35pm
+2026-09-27 3:20pm
 BBC Weekend News
 National and international news, followed by weather.
 
-2026-09-27 4:50pm
-To Be Announced
-4:50pm
-
-2026-09-27 5:50pm
+2026-09-27 3:35pm
 BBC London News
 News, sport and weather from London.
 
-2026-09-27 5:55pm
+2026-09-27 3:40pm
 BBC Weather
 The latest weather forecast.
 
+2026-09-27 3:45pm
+Match of the Day Wales
+Wales visit Copenhagen to face Denmark in their second UEFA Nations League group match.
+
 2026-09-27 6:00pm
+Countryfile
+To mark World Rivers Day, Matt Baker and Margherita Taylor explore the River Trent and the land that surrounds it.
+
+2026-09-27 7:00pm
+Antiques Roadshow
+At Souter Lighthouse in Tyne and Wear, the roadshow discovers some remarkable treasures, including a flying helmet, a letter signed by Napoleon and a portrait by David Hockney.
+
+2026-09-27 8:00pm
+The Split Up
+Aria makes a risky play for Kishan Law. Later, a chaotic awards ceremony leaves her stunned to uncover the true nature of Dhruv and Zoya's hidden relationship.
+
+2026-09-27 9:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-09-27 6:24pm
-To Be Announced
-6:24pm
 
 2026-09-27 9:25pm
 BBC London News
 News, sport and weather from London.
 
 2026-09-27 9:30pm
+	Legally Blonde 2: Red, White & Blonde
+Now a rising young lawyer, Elle Woods is about to become a partner at her firm, she and Emmett are still in love, and her hair is still super-healthy. Then she finds out her beloved Bruiser's canine relatives are being used as cosmetic test subjects, so she heads to DC to exercise her rights and take matters into her own well-manicured hands.
+
+2026-09-27 11:00pm
 Weather for the Week Ahead
 Detailed weather forecast.
-
-2026-09-27 9:33pm
-To Be Announced
-9:33pm
 
 2026-09-27 11:05pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-09-27 11:30pm
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-09-28 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-28 12:30am
+The Climate Question
+Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?
+
+2026-09-28 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-28 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-28 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-09-28 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-28 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-28 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-09-28 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-28 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-28 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-09-28 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-28 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-09-28 5:00am
 Breakfast
