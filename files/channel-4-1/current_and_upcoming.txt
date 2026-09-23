@@ -1,31 +1,3 @@
-2026-09-23 5:50am
-Countdown
-Colin Murray, Rachel Riley and Susie Dent host, with Neil Delamere in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.
-
-2026-09-23 6:30am
-The King of Queens
-Doug gets caught lying to Carrie to avoid going to the opera and admits he regularly bends the truth for an easy life.
-
-2026-09-23 6:55am
-The King of Queens
-Doug reluctantly agrees to give his brother, Danny, a recommendation to be promoted to driver at work, causing a bout of sibling rivalry to break out.
-
-2026-09-23 7:20am
-The King of Queens
-Carrie can't stop buying expensive clothes, and then taking them back to the shops within a few days. Meanwhile, Spence's new girlfriend is so afraid of his dog she tells him to decide who he wants, the dog or her.
-
-2026-09-23 7:45am
-Everybody Loves Raymond
-A flabbergasted Rays feels violated after he learns that his mother read his private diary when he was little.
-
-2026-09-23 8:10am
-Everybody Loves Raymond
-After spending Valentine's dinner without talking to each other, Ray and Debra agree to take an interest in each other's hobbies - she in basketball and he in reading.
-
-2026-09-23 8:40am
-Everybody Loves Raymond
-Ray is disturbed to learn that the boys are playing fairies in the school play, especially when he discovers that they chose their roles.
-
 2026-09-23 9:10am
 Frasier
 Frasier becomes jealous when Maris' murder trial makes Niles a celebrity, and Roz has trouble dealing with her insulting sister.
@@ -238,17 +210,21 @@ Rob Beckett hosts as 12 strangers begin a brutal trek through the Malaysian jung
 The Great British Bake Off: Second Helpings
 Another bite of the Bake? Yes please! Jon Richardson and Judi Love welcome Alison Hammond, Nigella Lawson and Harry Hill to spill the tea on Cake Week.
 
-2026-09-25 1:55am
+2026-09-25 1:40am
 	Proxima
 Sarah is chosen for a yearlong mission aboard the International Space Station, but this causes trouble with her family and eight-year-old daughter.
 
-2026-09-25 3:45am
+2026-09-25 3:30am
 Ramsay's Kitchen Nightmares USA
 Gordon heads to America in a bid to rescue failing restaurant owners from imminent disaster and provide them with a recipe for success. In this first episode, Gordon visits the Hot Potato Café in Fishtown, Philadelphia. With no profit made in its two years of trading and an influential restaurant reviewer dubbing them `Spuddy Hell', Gordon soon realises Hot Potato may have had its chips.
 
-2026-09-25 4:35am
+2026-09-25 4:20am
 A Place in the Sun
 Jo and Graham look for their dream holiday home in Mar Menor, Europe's largest coastal lagoon, on Spain's Costa Blanca. Jasmine Harman shows them five impressive properties for their £70k.
+
+2026-09-25 4:45am
+Sunday Brunch
+Presenters Tim Lovejoy and Simon Rimmer mix a cookery show with a chat show, where they cook in the kitchen and are accompanied by the week's celebrity guest.
 
 2026-09-25 5:00am
 Couples Come Dine with Me
@@ -502,7 +478,7 @@ Following the hilarious drink and drug-fuelled misadventures of struggling actor
 Ramsay's Kitchen Nightmares USA
 Gordon visits Bazzini restaurant in Ridgewood, New Jersey. Owner Paul Bazzini was an award-winning chef in New York who decided to run his own restaurant but he never realised how difficult the change would be. Now, he finds everyday tasks overwhelming and his passion for food is in danger of being extinguished by the daily grind. However, passion isn't the only problem in this failing restaurant.
 
-2026-09-27 3:00am
+2026-09-27 3:05am
 The Simpsons
 True crime series `Deadline Springfield' steps in to investigate when Lisa's college fund goes missing from under the sink.
 
