@@ -1,63 +1,3 @@
-2026-09-22 11:45pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-22 11:50pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-23 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-23 12:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-09-23 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-23 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-23 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-23 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-23 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-23 2:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-09-23 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-23 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-23 3:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-09-23 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-23 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-23 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -963,6 +903,150 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-09-29 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-09-29 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-09-29 9:45am
+Rip-Off Britain
+The team is ready to tackle the issues that matter the most to British consumers, from bills and bad customer service, to holidays and food.
+
+2026-09-29 10:15am
+Homes Under the Hammer
+Two ceilings on the brink of collapse in flats in Scotland and London cause issues for the new owners, and Dion is impressed by the motivations of a pair of purchasers in Merseyside.
+
+2026-09-29 11:15am
+Bargain Hunt
+Roo Irvine is in Glasgow for a special show about tiny antiques and collectibles. At the University of Glasgow, she leafs through some of the smallest books in the world, including a Bible just 45 millimetres long, while another tiny text from the 17th century contains a warning handwritten by its previous owner! In a city famed for its art nouveau architecture, Roo reports on one local photographer who is making exquisite replicas of some of Glasgow's best-known cafes and pubs - in miniature.
+
+2026-09-29 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-09-29 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-29 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-09-29 1:00pm
+Clean It, Fix It
+Mark Wright and the team help foster carer Lyndee prepare her home for a new chapter, welcoming young mums and mums-to-be.
+
+2026-09-29 1:30pm
+Amanda & Alan's Greek Job
+Taking on their most ambitious space to date, Amanda and Alan aim to turn the land at the front of the house that's used as the village car park into a Mediterranean garden.
+
+2026-09-29 2:00pm
+Escape to the Country
+Jonnie Irwin heads to West Sussex to help a couple in need of a new home in the countryside for a budget of £700,000. During his journey, Jonnie hits the mountain bike trail in England's newest national park, the South Downs.
+
+2026-09-29 2:45pm
+Garden Rescue
+Lee's design for Shail and Cecilia's garden focuses on creating an entertainment space in the middle of the garden with a central patio featuring bespoke screens and L-shaped benches. Lee adds a homemade tandoor for the family to cook together.
+
+2026-09-29 3:30pm
+Antiques Road Trip
+Round two for Margie and Ishy on the Lincolnshire lanes in the Lambo. There are rare chalk streams, cats with bats and giant-sized treasures. But who will chalk up a win?
+
+2026-09-29 4:15pm
+Pointless
+The brainy quiz returns - but this time host Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2026-09-29 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-09-29 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-29 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-09-29 6:30pm
+EastEnders
+Amy lashes out at those closest to her. Nugget celebrates his 18th birthday at Harry's Barn. Ned remains determined to solve the Hawkins' financial problems. Eve tries to curb Suki's meddling.
+
+2026-09-29 7:00pm
+DIY SOS
+In Devon, the team helps Georgie and her three children complete their unfinished home after the sudden death of her husband, Chris.
+
+2026-09-29 8:00pm
+Blue Lights
+The section is challenged by escalating tensions at a community event, while the investigation into Dana Morgan's drug partnership with Tina McIntyre falters.
+
+2026-09-29 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-09-29 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-09-29 9:40pm
+	Malcolm X
+The Harlem criminal who became an internationally known civil rights advocate and Black Nationalist leader, who also became a member of the Nation of Islam.
+
+2026-09-30 12:50am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-09-30 12:55am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-09-30 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-30 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-30 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-09-30 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-30 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-30 2:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-09-30 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-09-30 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-30 3:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-09-30 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-30 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-09-30 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
