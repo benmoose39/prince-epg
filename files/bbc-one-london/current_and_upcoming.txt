@@ -1,63 +1,3 @@
-2026-09-24 10:15am
-Homes Under the Hammer
-Dion feels a house in south Yorkshire needs a hug. Martel's in Gateshead where it's a dog's life for the new owner. We head back to see the conclusion of a long-running project in Norwich.
-
-2026-09-24 11:15am
-Bargain Hunt
-Roo Irvine brings you a right royal Bargain Hunt today, and she has a cuppa with royal memorabilia collector Paul Smith and learns about his rare royal souvenirs that are worth a pretty penny. Meanwhile, today's teams are shopping at the Oswestry showground. Sticking with the royal theme, friends Brad and Sam on the reds team and their expert Philip Serrell are keen to snap up a Victorian silver miniature coronation throne.
-
-2026-09-24 12:00pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2026-09-24 12:35pm
-BBC London News
-News, sport and weather from London.
-
-2026-09-24 12:45pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2026-09-24 1:00pm
-Clean It, Fix It
-Mark Wright and the team create a home office for single mum Ash and a new bedroom for her energetic four-year-old son Leo.
-
-2026-09-24 1:30pm
-Amanda & Alan's Greek Job
-Amanda and Alan show some love to the heart of the home, the kitchen. But with ivy growing out of the windows and a roof on the verge of collapse, it's not an easy ride.
-
-2026-09-24 2:00pm
-Escape to the Country
-Devon is calling as Richie Anderson helps a retiree from Lincolnshire find her dream home by the sea in a county that already feels like home to her. With beach walks on the wish list, Richie has got just the right properties to show her. Along the way, he meets a couple from London who swapped London life for a slice of Devon heaven and now run a luxurious guest house from their former vicarage.
-
-2026-09-24 2:45pm
-Garden Rescue
-Iqbal and Pardeep have two teenage children and need their blank garden to appeal to their love of sport and the outdoors. Sadly, the sloping plot, dangerous deck, and circular gazebo do not reflect their interests or tastes.
-
-2026-09-24 3:30pm
-Antiques Road Trip
-In Northamptonshire, Roo Irvine and Danny Sebastian search for hidden treasures. Heavy purchases, home-town advantage and a Windsor auction decide the winner.
-
-2026-09-24 4:15pm
-Pointless
-The brainy quiz returns - but this time host Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
-
-2026-09-24 5:00pm
-BBC News at Six
-The latest national and international news, followed by weather.
-
-2026-09-24 5:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-09-24 6:00pm
-The One Show
-Alex Jones and Roman Kemp bring you the stories that matter from across the country.
-
-2026-09-24 6:30pm
-EastEnders
-Follow the latest dramas of the residents of Albert Square in London's East End as they deal with life, love and loss.
-
 2026-09-24 7:00pm
 Dragons' Den
 The pitches to the Dragons are embroidered pet portraits, flat-pack women's urinals, specialist fishing equipment and flavoured pickling liquids.
@@ -283,8 +223,12 @@ The Travel Show
 The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
 
 2026-09-26 5:00am
-Breakfast
-The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-26 5:10am
+To Be Announced
+5:10am
 
 2026-09-26 9:00am
 Saturday Kitchen Live
