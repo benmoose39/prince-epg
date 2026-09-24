@@ -1,35 +1,3 @@
-2026-09-23 9:29pm
-True Crime Scene
-A highly regarded officer is suspected in the disappearance of several soldiers.
-
-2026-09-23 10:30pm
-Who Killed JFK? The Conspiracies
-John Fitzgerald Kennedy's assassination is a memory etched onto the minds of most Americans. An exploration of the many theories that have arisen and sought to explain why the president was assassinated.
-
-2026-09-23 11:32pm
-The Unsolved Killings of Jack the Ripper
-Looking into the different theories about who was behind the brutal Whitechapel killings that rocked East London in 1888.
-
-2026-09-24 12:29am
-Mafia's Greatest Hits
-Meyer Lansky was an associate of `Lucky' Luciano and linked to criminal financial operations, but the FBI struggled to pin anything on him - or find his riches.
-
-2026-09-24 1:27am
-Mafia's Greatest Hits
-The final episode of this gripping series reveals what happened when the FBI pursued the five clans who ran organised crime in New York, as well as the fate of two brave informers.
-
-2026-09-24 2:27am
-Murderous Minds: Peter Tobin
-Peter Britton Tobin was a Scottish convicted serial killer and sex offender who served a whole life order at HM Prison Edinburgh for three murders committed between 1991 and 2006. Delve into the psychology of Peter to try and understand what turned him into such a cruel rapist and murderer.
-
-2026-09-24 3:20am
-Fred & Rose West: Love & Murder
-Fred and Rose West raped, tortured and murdered at least a dozen young British girls between 1967 and 1987, including several of their own daughters. Learn how two of Britain's most notorious serial killers were able to get away with their crimes for so long, how they hid the victim's remains within the confines of their own home, and how they were eventually taken down.
-
-2026-09-24 4:24am
-When Fred Met Rose
-Documentary series examining what led Fred and Rose West to become serial killers.
-
 2026-09-24 5:16am
 Fred and Rose: The West Murders
 Focuses on the notorious house which the couple shared in Gloucester. Fred and Rose murdered their first three victims - Anna McFall, Charmaine West and then Rena Costello - because they `got in the way'. But when they moved into 25 Cromwell Street, the couple began to kill for sexual thrills.
@@ -693,4 +661,100 @@ An Arkansas teen has been abducted. In California, a young man vanishes, leaving
 2026-09-30 5:37am
 Catch My Killer
 Marilyn Kananen has vanished and her children are afraid that their abusive father has returned.
+
+2026-09-30 6:29am
+Catch My Killer
+Two years after a 13-year-old girl was taken from her home, her skull is found.
+
+2026-09-30 7:21am
+Catch My Killer
+A missing girl, 16, is found dead.
+
+2026-09-30 8:13am
+Killing John F. Kennedy
+Chronicling President John F. Kennedy's life and career, and probing conspiracy theories surrounding his assassination in Dallas Nov. 22, 1963.
+
+2026-09-30 9:19am
+	JFK Assassination: The Oval Office to Dealey Plaza
+Documentary (2023)
+
+2026-09-30 11:39am
+Crime Exposé With Nancy O'Dell
+Aspiring musician Michael Portaro is shot. A tip links the killer's gun to the crime.
+
+2026-09-30 12:02pm
+Mafia's Greatest Hits
+The chilling secrets of the Mafia's most notorious kingpins are exposed in this compelling series. Mobster Sam Giancana was associated with the Kennedys, Frank Sinatra and the CIA.
+
+2026-09-30 12:59pm
+Mafia's Greatest Hits
+Lucky Luciano's crimes with the Mafia, including bribing high-ranking officials, got him 50 years in jail. However, when WWII broke out, the USA needed Luciano's help.
+
+2026-09-30 1:55pm
+Mafia's Greatest Hits
+Lifting the lid on notorious mobsters. Joe Colombo loved fame and money and took on the FBI in the 70s, with his Italian-American Civil Rights League campaigning against harassment.
+
+2026-09-30 2:51pm
+Mafia's Greatest Hits
+Ambitious John Gotti became the boss of the Gambino family by ordering the death of the group's former head and earned the nickname 'Teflon Don' after three acquittals.
+
+2026-09-30 3:53pm
+Mafia's Greatest Hits
+Enforcer Tony `The Ant' Spilotro left dozens of bodies in his wake as he protected the Chicago Outfit's interests in Vegas casinos. Soon he became a target of the FBI and the Mob.
+
+2026-09-30 4:51pm
+Mafia's Greatest Hits
+Tales of real-life crime told by the FBI. Vito Genovese dealt with disloyalty ruthlessly and rose through the Mafia ranks, but he was to cause his own downfall with a massive error.
+
+2026-09-30 5:50pm
+Mafia's Greatest Hits
+Carmine Galante took the Mob into the world of heroin and even when locked up in jail, Galente still managed to control the streets and profit from his drug empire.
+
+2026-09-30 6:48pm
+Mafia's Greatest Hits
+Ex-FBI agent Joe Pistone, who infiltrated the Mafia for six years as mobster `Donnie Brasco', reveals how his undercover work led to over 100 convictions.
+
+2026-09-30 7:48pm
+Mafia's Greatest Hits
+Financier Allen Dorfman used union pension funds to bankroll the Mafia and the FBI quickly realised they could bankrupt the Mob by pursuing Dorfman.
+
+2026-09-30 8:47pm
+Mafia's Greatest Hits
+Joe Valachi was the first Mafia member to break the Mob's code of silence and turn public informer, revealing the term `Cosa Nostra' to the world.
+
+2026-09-30 9:45pm
+Mafia's Greatest Hits
+Gambino family soldier Roy DeMeo and his crew were suspected of killing dozens of people and dismembering their bodies, but the FBI and other mobsters were soon on his trail.
+
+2026-09-30 10:44pm
+Mafia's Greatest Hits
+Meyer Lansky was an associate of `Lucky' Luciano and linked to criminal financial operations, but the FBI struggled to pin anything on him - or find his riches.
+
+2026-09-30 11:43pm
+Mafia's Greatest Hits
+The final episode of this gripping series reveals what happened when the FBI pursued the five clans who ran organised crime in New York, as well as the fate of two brave informers.
+
+2026-10-01 12:43am
+Great Crimes and Trials
+The death of Peppino Impastato in 1978 was dismissed by police as a random act. But he was an anti-Mafia activist. Were the people behind his death sheltered by the Mafia?
+
+2026-10-01 1:14am
+Mafia's Greatest Hits
+The chilling secrets of the Mafia's most notorious kingpins are exposed in this compelling series. Mobster Sam Giancana was associated with the Kennedys, Frank Sinatra and the CIA.
+
+2026-10-01 2:11am
+Mafia's Greatest Hits
+Lucky Luciano's crimes with the Mafia, including bribing high-ranking officials, got him 50 years in jail. However, when WWII broke out, the USA needed Luciano's help.
+
+2026-10-01 3:08am
+Mafia's Greatest Hits
+Ambitious John Gotti became the boss of the Gambino family by ordering the death of the group's former head and earned the nickname 'Teflon Don' after three acquittals.
+
+2026-10-01 4:10am
+Mafia's Greatest Hits
+Enforcer Tony `The Ant' Spilotro left dozens of bodies in his wake as he protected the Chicago Outfit's interests in Vegas casinos. Soon he became a target of the FBI and the Mob.
+
+2026-10-01 5:09am
+Mafia's Greatest Hits
+Tales of real-life crime told by the FBI. Vito Genovese dealt with disloyalty ruthlessly and rose through the Mafia ranks, but he was to cause his own downfall with a massive error.
 

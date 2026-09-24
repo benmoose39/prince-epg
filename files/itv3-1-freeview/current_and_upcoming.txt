@@ -1,27 +1,3 @@
-2026-09-23 8:00pm
-Midsomer Murders
-DCI Barnaby investigates the murders of bell ringers from the village church who are being mysteriously murdered one by one. Barnaby and Troy find that they must solve a riddle from the past before the killer strikes again.
-
-2026-09-23 10:00pm
-Downton Abbey
-1918: A wounded Canadian officer comes to Downton to recuperate and unsettles everything. He confides his secret to Lady Edith but what are his motives? And where will this leave the family? Robert announces that the ceasefire will begin on the 11th November. Isobel has plans for Downton to continue to help the war wounded in some way but Cora has other ideas. Elsewhere, Thomas is still scheming.
-
-2026-09-23 11:10pm
-Scott & Bailey
-When a woman is found dead in a hotel room, the personal ads on a website look like they might hold the key, and while Rachel enjoys her secret relationship with Will, Janet investigates speed dating.
-
-2026-09-24 1:00am
-The Royal
-Ormerod has to make a decision about Caroline, Weatherill's patient is determined to keep details of her illness a secret, and a married couple face the truth about their future.
-
-2026-09-24 2:05am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2026-09-24 2:30am
-Teleshopping
-Shopping from home.
-
 2026-09-24 8:00pm
 Vera
 DCI Vera Stanhope must unravel the circumstances of self-styled entrepreneur Freddie Gill's death when his body is found by bailiffs, attempting to repossess his house. Freddie is estranged from his wife and son who have returned to living with her formidable mother Tina, her volatile brother Lee and her taciturn uncle Darren at the family's beloved pub. Matters are further complicated when it's revealed Freddie was with someone the night he died and there may be a witness to the crime.
@@ -171,6 +147,34 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2026-09-30 2:30am
+Teleshopping
+Shopping from home.
+
+2026-09-30 8:00pm
+Midsomer Murders
+Sergeant Dan Scott arrives to work with Barnaby and is thrown straight into a murder investigation in Midsomer Mallow. A noise heard near the scene of Fiona Thompson's bloodstained body leads police to suspect an odd-job man, but when the murder toll rises, Barnaby becomes concerned for Cully, who is organising a ten-year school reunion.
+
+2026-09-30 10:00pm
+Downton Abbey
+The future of Downton hangs precariously in the balance. In the hope of financial rescue from her American grandmother, Mary conspires with Violet to make sure Downton puts on a bigger show than ever before with a grand party for friends.
+
+2026-09-30 11:05pm
+DCI Banks
+What lies behind the door of number 27 The Hill? A routine `domestic' call out to the house leads to a policeman's murder, the prime suspect grievously injured and a shocking discovery. Five young girls have gone missing and the lair of the serial rapist and killer has been discovered, but only four bodies are found. However, the suspect is in a coma, and the ambitious DS Annie Cabbot wants to know why.
+
+2026-10-01 12:00am
+DCI Banks
+The suspected murderer Marcus Payne dies without regaining consciousness, but his wife Lucy recovers from the injuries caused by her husband. Banks' investigation is hindered by DS Annie Cabbot who wants to investigate the now suspicious death of the killer. Banks knows that Payne must have had an accomplice and he decides to take Lucy in for questioning on the grounds of being involved with her husband's crimes.
+
+2026-10-01 1:00am
+The Royal
+A mining accident puts Dr Goodwin's reputation at risk when he investigates some unconventional cures, Mr Rose incurs Weatherill's wrath, and Dr Ormerod must make a choice about Caroline.
+
+2026-10-01 2:00am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-01 2:30am
 Teleshopping
 Shopping from home.
 

@@ -1,35 +1,3 @@
-2026-09-23 9:30pm
-Newsnight
-Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
-
-2026-09-23 9:58pm
-BBC Weather
-The latest weather forecast.
-
-2026-09-23 10:00pm
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2026-09-23 10:30pm
-The Devil's Confession: The Lost Eichmann Tapes
-Pressing forward with the prosecution, Hausner manages to secure a transcript of the Sassen Tapes, while the actual audio recordings continue to evade him.
-
-2026-09-23 11:30pm
-Celebrity MasterChef
-The finalists must cook and present a faultless three-course meal for a final judgement from Grace Dent and Giorgio Locatelli. It's their last chance to prove they have what it takes.
-
-2026-09-24 12:30am
-The Split Up
-Aria is struggling to reach out to Maya. But there is plenty on her plate already, with the ripple effects of Dhruv's shock announcement causing a rift between her and Neal, and throwing obstacles in her path for the Kishan Law move.
-
-2026-09-24 1:30am
-Ludwig
-Puzzle setter John 'Ludwig' Taylor's life is upended when his identical twin, DCI James Taylor, disappears. John reluctantly assumes his identity in order to track him down.
-
-2026-09-24 2:30am
-This Is BBC TWO
-Preview of upcoming programmes from BBC Two.
-
 2026-09-24 5:30am
 Garden Rescue
 Lee and Joe are in Alresford to help Sara and Jonny transform their overgrown, unloved plot into a Persian magic-meets-English countryside garden.
@@ -605,4 +573,104 @@ Preview of upcoming programmes from BBC Two.
 2026-09-30 5:30am
 Escape to the Country
 Jonnie Irwin heads to West Sussex to help a couple in need of a new home in the countryside for a budget of £700,000. During his journey, Jonnie hits the mountain bike trail in England's newest national park, the South Downs.
+
+2026-09-30 6:15am
+Antiques Road Trip
+Round two for Margie and Ishy on the Lincolnshire lanes in the Lambo. There are rare chalk streams, cats with bats and giant-sized treasures. But who will chalk up a win?
+
+2026-09-30 7:00am
+Weatherman Walking
+Derek Brockway revisits three wildlife walks. First, he braves the rain in Gwynedd, then hunts for water voles in Radnorshire and finally sees ancient rock formations in Ceredigion.
+
+2026-09-30 7:30am
+Weatherman Walking
+Derek goes island hopping, visiting Caldey off the Pembrokeshire coast, then Anglesey, known for its seabirds, before finishing in south Wales at Barry Island, his childhood home.
+
+2026-09-30 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-09-30 11:15am
+Politics Live
+Engaging conversation about the political issues that matter to you.
+
+2026-09-30 12:00pm
+Impossible
+Thirty players compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.
+
+2026-09-30 12:45pm
+Unbeatable
+Jason Manford hosts the quiz show where players face a question and pick from a board of six rankable answers. Some answers are good, but only one is unbeatable.
+
+2026-09-30 1:30pm
+The Boss
+Susan Calman hosts the quiz show where being in control is everything. Who will emerge as the Boss and walk away with the cash? Only the strongest players will survive.
+
+2026-09-30 2:15pm
+The Great British Sewing Bee
+It's Children's Week in the sewing room, and Sara Pascoe invites the sewers to make a cute sailor suit for a toddler. The task requires them to make elasticated shorts and a top with a square collar and ties. For the Transformation Challenge, the sewers turn old school clothes into a cool outfit to be seen in outside school. Then things get scary when mini-models enter the sewing room for a Halloween-themed Made to Measure.
+
+2026-09-30 3:15pm
+South Pacific
+The South Pacific is still relatively healthy and teeming with fish, but it is a fragile paradise. International fishing fleets are taking a serious toll on the sharks, albatross and tuna, and there are other insidious threats to these bountiful seas. This episode looks at what is being done to preserve the ocean and its wildlife.
+
+2026-09-30 4:15pm
+Flog It!
+Antique experts Caroline Hawley and Nick Hall are on hand to find a selection of objects to take to auction. Caroline is delighted to find a painting by local artist Steven Dews, and Nick is bedazzled by some iconic seventies jewellery. Paul Martin visits the Wilberforce House Museum in Hull's Old Town to hear the amazing story of Hull-born William Wilberforce, the great anti-slave trade campaigner.
+
+2026-09-30 5:00pm
+Richard Osman's House of Games
+Richard Osman takes to the host seat for a final week of quizzing before he hands over the baton to a new host next week. He is joined by previous winners Miles Jupp, Cariad Lloyd, Lucy Porter and Kiell Smith-Bynoe, who go head-to-head, testing their general knowledge skills in a variety of fun trivia-based games. A daily winner is declared following a quickfire round at the end of each show, and the scores are tallied across the week, resulting in an overall champion being crowned on Friday.
+
+2026-09-30 5:30pm
+Strictly Come Dancing: It Takes Two
+Ellie Taylor has an exciting look at all the backstage ballroom action, with a panel of Strictly pros stopping by for a chat. Plus an exclusive first look at how some of the celebrities are handling their new dances.
+
+2026-09-30 6:00pm
+Celebrity Antiques Road Trip
+A face-off between `EastEnders' stars Danielle Harold and Max Bowden as they hunt out antiques in the Cotswolds. They cruise in a 1964 Volvo and are helped by Hettie Jago and Ishy Khan.
+
+2026-09-30 7:00pm
+Saving Lives at Sea
+A French yacht has made a mayday call after suffering mechanical failure near Jersey. The St Helier crew must rescue it before it drifts onto a notoriously treacherous reef. In Porthcawl, when multiple 999 calls come in about a man who has been swept into the sea, the crew launch into the most dangerous conditions they've ever faced. Just along the south Wales coast, the Barry Dock lifeboat is tasked to two casualties on a remote island who have ingested hemlock.
+
+2026-09-30 8:00pm
+Who Do You Think You Are?
+Presenter, actor and comedian Paddy McGuinness knows nothing about his family, except for the name of one of his grandparents. With a surname like McGuinness he's pretty certain that there must be some Irish relatives somewhere, but from when and where in Ireland his family comes from remains a mystery. In this episode of Who Do You Think You Are? Paddy goes in search of answers.
+
+2026-09-30 9:00pm
+QI
+Join Sandi Toksvig as she goes trundling along.
+
+2026-09-30 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2026-09-30 9:58pm
+BBC Weather
+The latest weather forecast.
+
+2026-09-30 10:00pm
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2026-09-30 10:35pm
+The Misadventures of Romesh Ranganathan
+As with most Brits, the headlines that flash into Romesh's mind when he thinks about Romania are those around communism, the 90s orphan crisis, maligned Roma and its greatest celebrity export, Count Dracula. But is this image justified?
+
+2026-09-30 11:35pm
+The Split Up
+A countryside trip brings Aria and Luke's chemistry to fever pitch as she uncovers Dhruv's secret. Meanwhile, a fresh betrayal from Michael leaves Maya devastated.
+
+2026-10-01 12:35am
+Hey Beautiful: Anatomy of a Romance Scam
+Roxy, Annette and Gaby all fall in love with a handsome man who is not what he seems.
+
+2026-10-01 1:20am
+This Is BBC TWO
+Preview of upcoming programmes from BBC Two.
+
+2026-10-01 5:30am
+Garden Rescue
+The team are in Milton Keynes, to create a colourful, social space for Vinay and Raunak. Vinay loves to cook, and hosting barbeques and knocking up his signature mojitos are what makes him happy. He is after a garden where he can do that in style.
 
