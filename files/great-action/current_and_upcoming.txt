@@ -1,51 +1,3 @@
-2026-09-24 10:15pm
-The Avengers
-Steed and Tara follow a talking briefcase containing stolen secrets, passing from one enemy to another.
-
-2026-09-24 11:15pm
-The Baron
-Mannering and Cordelia arrive in a small Balkan state to broker an antiques deal with the widow of its former president, only to find she is on the run from the newly-installed dictator.
-
-2026-09-25 12:15am
-The Persuaders!
-A retired judge enlists a self-made man from Brooklyn and a British aristocrat to fight crime.
-
-2026-09-25 1:15am
-	Meteor Storm
-San Francisco becomes a target for waves of destructive meteors after a rogue comet orbits around the earth. For astronomer, Michelle Young, what was meant to be an once-in-a-lifetime celestial event, soon turns into her worst nightmare as thousands of meteors break the surface of the atmosphere and bombard the city of San Francisco.
-
-2026-09-25 2:40am
-Coast Guard Alaska
-The Coast Guard tackle gale force winds, powerful waves and dizzying heights in an attempt to save the crew of a battered fishing vessel.
-
-2026-09-25 3:25am
-Good News from GREAT!
-An uplifting round-up of good news stories from the UK and around the world.
-
-2026-09-25 3:35am
-Air Rescue
-The Westpac Air Rescue crew attempt a difficult rescue when they can't see anything at all.
-
-2026-09-25 4:00am
-Air Rescue
-A day out goes wrong, and despite the best efforts of the rescue team, they can only save two of the people in need.
-
-2026-09-25 4:25am
-Air Rescue
-The Air Rescue crew attempt to land on a precarious cliff face in order to rescue a woman in danger.
-
-2026-09-25 4:50am
-Good News from GREAT!
-An uplifting round-up of good news stories from the UK and around the world.
-
-2026-09-25 5:00am
-Teleshopping
-Shopping from home.
-
-2026-09-25 5:30am
-Teleshopping
-Shopping from home.
-
 2026-09-25 6:00am
 Teleshopping
 Shopping from home.
@@ -831,6 +783,134 @@ Teleshopping
 Shopping from home.
 
 2026-10-01 5:30am
+Teleshopping
+Shopping from home.
+
+2026-10-01 6:00am
+Teleshopping
+Shopping from home.
+
+2026-10-01 6:30am
+Teleshopping
+Shopping from home.
+
+2026-10-01 7:00am
+Teleshopping
+Shopping from home.
+
+2026-10-01 7:30am
+Teleshopping
+Shopping from home.
+
+2026-10-01 8:00am
+The Vietnam War
+From 1959 to 1965, the Vietnam War saw the rise of Ho Chi Minh and the formation of the Vietcong, through to the attack in the Gulf of Tonkin that brought America into war.
+
+2026-10-01 9:00am
+Railway Murders
+In May 1957 an elderly Polish Countess was travelling home from a party when she was attacked at Gloucester Road Tube station.
+
+2026-10-01 10:00am
+	Operation Cross Eagles
+A commando unit is sent to kidnap an important German commander in exchange for an American general.
+
+2026-10-01 10:56am
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-01 11:01am
+	Operation Cross Eagles
+A commando unit is sent to kidnap an important German commander in exchange for an American general.
+
+2026-10-01 11:50am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-10-01 12:00pm
+The High Chaparral
+John Cannon must decide whether to send his son to possible death to save their besieged ranch.
+
+2026-10-01 1:00pm
+Burn Notice
+While Michael is tasked by the organisation he infiltrated to take down a drug smuggler, Fiona, Jesse and Strong find out more about its leader, James.
+
+2026-10-01 2:00pm
+Burn Notice
+Maddie suspects she is being followed and takes matters into her own hands. The team tries to help a Middle Eastern diplomat when the individual is poisoned.
+
+2026-10-01 3:00pm
+	Hidden Truth
+The murder of a teenage girl in a California town forces one woman to jump to the defence of her brother.
+
+2026-10-01 3:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-01 4:01pm
+	Hidden Truth
+The murder of a teenage girl in a California town forces one woman to jump to the defence of her brother.
+
+2026-10-01 5:00pm
+The Unit
+Blaine faces the ultimate test of his professionalism and skill when his daughter, a soldier serving in Iraq, is kidnapped.
+
+2026-10-01 6:00pm
+Burn Notice
+While Michael is tasked by the organisation he infiltrated to take down a drug smuggler, Fiona, Jesse and Strong find out more about its leader, James.
+
+2026-10-01 7:00pm
+Burn Notice
+Maddie suspects she is being followed and takes matters into her own hands. The team tries to help a Middle Eastern diplomat when the individual is poisoned.
+
+2026-10-01 8:00pm
+	The Predator
+From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. The universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and an evolutionary biologist can prevent the end of the human race.
+
+2026-10-01 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-01 9:01pm
+	The Predator
+From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. The universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and an evolutionary biologist can prevent the end of the human race.
+
+2026-10-01 10:15pm
+The Unit
+Blaine faces the ultimate test of his professionalism and skill when his daughter, a soldier serving in Iraq, is kidnapped.
+
+2026-10-01 11:15pm
+The Avengers
+An archaeologist's colleague is the victim of a device that recharges by absorbing energy.
+
+2026-10-02 12:15am
+The Baron
+The Baron discovers that his Paris shop is being used for drug trafficking.
+
+2026-10-02 1:15am
+The Persuaders!
+A murdered journalist and an evasive girl add up to political intrigue for Danny and Brett.
+
+2026-10-02 2:15am
+	Asteroid: Final Impact
+After finding his asteroids tracking satellite was being secretly used for military surveillance, Steve Thomas blew the whistle, costing his career, family and friends. When he discovers a threat to the entire world, Steve must become a fugitive from the law while trying to implement a desperate plan to save humanity.
+
+2026-10-02 3:40am
+Coast Guard Alaska
+The Coast Guard face intense turbulence and freezing temperatures in Kodiak as they rescue a patient in a remote town.
+
+2026-10-02 4:25am
+Air Rescue
+Documentary series following the high-stakes work and real-life drama of the crews in the Westpac Rescue Helicopter Service.
+
+2026-10-02 4:50am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-10-02 5:00am
+Teleshopping
+Shopping from home.
+
+2026-10-02 5:30am
 Teleshopping
 Shopping from home.
 

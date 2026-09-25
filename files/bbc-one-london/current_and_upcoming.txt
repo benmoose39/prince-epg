@@ -1,67 +1,3 @@
-2026-09-24 10:40pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2026-09-24 11:10pm
-The Repair Shop: Beyond the Barn
-Brenton revives a treasured trophy, and Chris rebuilds a coronation scrapbook.
-
-2026-09-25 12:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-25 12:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-25 12:30am
-Tech Now
-Adrienne Murray follows a team of NASA scientists in Iceland carrying out research during a rare total solar eclipse. Andrew Rogers has highlights from IFA Berlin, one of the biggest tech shows.
-
-2026-09-25 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-25 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-25 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-25 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-25 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-25 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-25 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-25 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-25 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-25 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-25 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-25 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -959,6 +895,166 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-10-01 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-01 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-10-01 9:45am
+Rip-Off Britain
+The devastating story of how one man's search for romance left him distraught and broke after he fell for a megascam. Plus, the money-flip con that hit social media with devastating consequences - we speak to victims left reeling.
+
+2026-10-01 10:15am
+Homes Under the Hammer
+A developer in Wiltshire flouts the golden rules of Hammer by not reading the legal pack or viewing the property. Will that come back to haunt her? Martel's in Ayrshire, Scotland, where a father-and-daughter duo are tackling a project. In Nottinghamshire, Dion is impressed by the space on offer.
+
+2026-10-01 11:15am
+Bargain Hunt
+Join Natasha Raskin Sharp as she visits iconic Stirling Castle, the childhood home of Mary, Queen of Scots, to see a museum about the Argyll and Sutherland Highlanders Regiment. Leading the teams, hopefully to a victory, are experts Roo Irvine and Danny Sebastian.
+
+2026-10-01 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-01 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-01 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-01 1:00pm
+Clean It, Fix It
+Mark Wright and the team help foster carers Jenny and Chris make their small bungalow work for family life. With their living room doubling as a play space and home office, and a loft filled with unused rooms, the house no longer meets their needs. The team restore order upstairs, create a cosy reading nook for Jenny, build a dedicated work-from-home desk for Chris and rework storage around awkward spaces. Thoughtful design and smart fixes give this generous family room to breathe again.
+
+2026-10-01 1:30pm
+Amanda & Alan's Greek Job
+There's no holding back with the last space, as Amanda and Alan go all out designing an outdoor kitchen and reveal the transformation of the entire house with a farewell party.
+
+2026-10-01 2:00pm
+Escape to the Country
+From thatched charm to characterful new builds, Sonali Shah helps a young couple from a commuter town find their first and forever home in Cambridgeshire.
+
+2026-10-01 2:45pm
+Garden Rescue
+Hannah and Christie are a couple whose boxy 42-square-metre garden doesn't reflect their fun-loving lifestyle. Chris is a DJ, and Hannah plays the sax, and the feel of a music festival would be a great theme for the team to include. Charlie and Lee get their raving shoes on to win the couple over. The winning design may have Ibiza vibes, but the team have proper wet, north western weather to tackle on the build.
+
+2026-10-01 3:30pm
+Antiques Road Trip
+Things that go bump in the day, a booming new sport and one very pink footstool await Margie Cooper and Ishy Khan as their road trip rolls into Essex for its penultimate battle.
+
+2026-10-01 4:15pm
+Pointless
+The brainy quiz returns - but this time host Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2026-10-01 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-01 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-01 5:55pm
+Party Political Broadcast
+A party political broadcast by the Green Party.
+
+2026-10-01 6:00pm
+The One Show
+Roman Kemp and Clara Amfo bring you the stories that matter from across the country.
+
+2026-10-01 6:30pm
+EastEnders
+A secret threatens to be exposed. Nicola grows desperate as her options run out. Despite Eve's efforts to keep the peace, tensions flare within the Panesar family.
+
+2026-10-01 7:00pm
+The Celebrity Traitors
+Claudia Winkleman welcomes a brand-new group of celebrities as they arrive at a beautiful castle in the Scottish Highlands to play the ultimate reality game of detection, back-stabbing and trust.
+
+2026-10-01 8:15pm
+The Celebrity Traitors: Uncloaked
+Ed Gamble unpacks all the drama from episode 1 of the second series of The Celebrity Traitors, catching up with the murdered and banished players to get the scoop on all the back-stabbing and treachery that goes on inside the castle. And he welcomes players from past series to give their reactions and expert analysis on the game.
+
+2026-10-01 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-01 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-01 9:40pm
+Question Time
+Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
+
+2026-10-01 10:40pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2026-10-01 11:10pm
+The Repair Shop: Beyond the Barn
+Shining a light on the wonderful treasures to be found in homes across the country.
+
+2026-10-02 12:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-02 12:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-02 12:30am
+Tech Now
+Ammie Sekhon explores the tech being deployed to identify and remove counterfeit products online. Shiona McCallum visits a UK company making a different type of computer chip.
+
+2026-10-02 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-02 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-02 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-02 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-02 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-02 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-02 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
