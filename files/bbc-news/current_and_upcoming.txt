@@ -1,55 +1,3 @@
-2026-09-25 11:30pm
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2026-09-26 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 12:30am
-Tech Now
-Ammie Sekhon explores the tech being deployed to identify and remove counterfeit products online. Shiona McCallum visits a UK company making a different type of computer chip.
-
-2026-09-26 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 1:30am
-Streets of Gold: Mumbai
-Meeting the glamorous super-rich of Mumbai, India's most fashionable city. Incredible wealth and extreme poverty live side by side in a sun-drenched city bursting with opportunity.
-
-2026-09-26 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 2:30am
-Roelf Meyer: The Interview
-South Africa's ambassador to the US, Roelf Meyer, speaks to BBC News about negotiating with Donald Trump.
-
-2026-09-26 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-09-26 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 4:30am
-The Travel Show
-The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
-
-2026-09-26 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-26 5:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
 2026-09-26 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -1249,4 +1197,172 @@ Twenty-four hours a day, the latest national and international stories as they b
 2026-10-02 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 6:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 6:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 7:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 7:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-02 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-02 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-02 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-02 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-02 1:30pm
+Business Today - NYSE Opening Bell
+The host sheds light on the ceremony, where various stakeholders gather to witness the opening bell for the New York Stock Exchange.
+
+2026-10-02 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-02 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-02 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-02 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-02 3:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-02 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-02 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-02 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-02 5:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2026-10-02 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2026-10-02 6:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2026-10-02 7:00pm
+The Context USA
+Special coverage from Washington DC and London, focusing on President Trump's second term.
+
+2026-10-02 7:30pm
+The Context USA
+Special coverage from Washington DC and London, focusing on President Trump's second term.
+
+2026-10-02 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2026-10-02 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2026-10-02 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-02 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2026-10-02 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2026-10-02 10:30pm
+The President's Path
+Caitríona Perry, Sumi Somaskanda and Katty Kay discuss the state of the 2024 US election, what's on their minds, and how they're gearing up for election night.
+
+2026-10-02 10:45pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-03 1:00am
+To Be Announced
+1:00am
+
+2026-10-03 3:00am
+To Be Announced
+3:00am
+
+2026-10-03 3:30am
+To Be Announced
+3:30am
+
+2026-10-03 4:00am
+To Be Announced
+4:00am
+
+2026-10-03 4:30am
+To Be Announced
+4:30am
+
+2026-10-03 5:00am
+To Be Announced
+5:00am
 

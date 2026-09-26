@@ -1,43 +1,3 @@
-2026-09-25 11:30pm
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-09-26 12:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-09-26 1:00am
-Blood, Sweat and Sugar
-Sugar's early history, from luxury to slavery - how European demand created a global system of exploitation that still affects workers and communities today.
-
-2026-09-26 2:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-09-26 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-09-26 3:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region. .
-
-2026-09-26 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-09-26 4:30am
-Witness
-In the heart of an occupied city caught between resilience and ruin, the governor leads Ramallah through a month of grief, defiance, and hope.
-
-2026-09-26 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-09-26 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2026-09-26 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -923,6 +883,154 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-10-02 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-02 6:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 6:30am
+Witness
+In the shadow of Japan's tightened immigration laws, a Ugandan asylum seeker turns to a samurai film project in a bid to be seen.
+
+2026-10-02 7:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 8:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 8:30am
+Al Jazeera Explains
+Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+
+2026-10-02 9:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 9:30am
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
+
+2026-10-02 10:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 11:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-02 12:00pm
+Blood, Sweat and Sugar
+How sugar's vast empire survived slavery - from U.S. corporations to Brazil's cane fields, huge profits, exploited workers and communities fighting for justice.
+
+2026-10-02 1:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 2:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 2:30pm
+People and Power
+Oppressed, dispossessed and expelled - how Palestinians resist the century-long effort to force them from their land.
+
+2026-10-02 3:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 4:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 4:30pm
+Business of War
+Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
+
+2026-10-02 5:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-02 6:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 7:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 7:30pm
+Counting the Cost
+Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
+
+2026-10-02 8:00pm
+Let's Focus
+Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
+
+2026-10-02 9:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-02 10:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 10:30pm
+Earthrise
+Earthrise - searching the planet for solutions to the environmental problems we face.
+
+2026-10-02 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-02 11:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-03 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-03 1:00am
+Blood, Sweat and Sugar
+How sugar's vast empire survived slavery - from U.S. corporations to Brazil's cane fields, huge profits, exploited workers and communities fighting for justice.
+
+2026-10-03 2:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-03 3:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-03 3:30am
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
+
+2026-10-03 4:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-03 4:30am
+Witness
+In the shadow of Japan's tightened immigration laws, a Ugandan asylum seeker turns to a samurai film project in a bid to be seen.
+
+2026-10-03 5:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-03 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 

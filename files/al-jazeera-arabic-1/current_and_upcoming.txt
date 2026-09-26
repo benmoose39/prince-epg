@@ -1,35 +1,3 @@
-2026-09-25 11:30pm
-Behind the News
-A current affairs daily program looking at a major news story of the day.
-
-2026-09-26 12:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 1:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 2:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 2:30am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 3:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 4:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-09-26 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
 2026-09-26 6:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
@@ -755,6 +723,118 @@ News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-10-02 5:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 6:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 7:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 8:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 9:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 10:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 11:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 12:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 1:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 2:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 3:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 4:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 4:30pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 5:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 5:30pm
+Behind the News
+A current affairs daily program looking at a major news story of the day.
+
+2026-10-02 6:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 7:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 8:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 9:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 10:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 11:00pm
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-02 11:30pm
+Behind the News
+A current affairs daily program looking at a major news story of the day.
+
+2026-10-03 12:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 1:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 2:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 2:30am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 3:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 4:00am
+News Bulletin
+International news with an emphasis on developments in the Arab world.
+
+2026-10-03 5:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
