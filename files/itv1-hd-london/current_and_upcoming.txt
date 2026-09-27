@@ -1,35 +1,3 @@
-2026-09-26 10:00pm
-ITV News
-The latest national and international news.
-
-2026-09-26 10:20pm
-	Red 2
-Former CIA black-ops agent Frank Moses and his team battle assassins, terrorists and power-hungry government officials as they try to retrieve a lethal device that could change the balance of world power.
-
-2026-09-27 12:25am
-Teleshopping
-Shopping from home.
-
-2026-09-27 2:00am
-Dermot's Taste of Ireland
-Arriving in Derry at the end of the Causeway Coastal Route, Dermot finds a city rewriting its story, with the River Foyle as its beating heart. At the Walled City Brewery - once Army Barracks during the Troubles - he uncovers a secret local ingredient behind their standout brews.
-
-2026-09-27 2:25am
-Gary Barlow's Food and Wine Tour: New Zealand
-Gary Barlow and Jason Manford wake up in Marlborough and start the day with a freshly brewed New Zealand flat white. Then they head to Havelock, gateway to the Marlborough Sounds, where local seafood entrepreneur Maegan Blom takes them through a spectacular maze of sheltered waterways, forested hills and peaceful bays.
-
-2026-09-27 2:50am
-Unwind with ITV
-Your daily escape designed to calm the mind and encourage relaxation and reflection.
-
-2026-09-27 4:05am
-The Joy of Pets
-Gaby Roslin and Dr Bolu Eso are in Birmingham, celebrating the extraordinary bond between people and animals. At a specialist veterinary hospital, Bolu follows Labrador Bobbie as he undergoes pioneering laser surgery, while another dog presents the team with a neurological mystery. Gaby meets Chloe and her assistance dog Cinna and discovers how they work together, before learning about StreetVet, the charity providing free veterinary care to the pets of people experiencing homelessness.
-
-2026-09-27 5:00am
-James Martin's American Adventure
-Louisiana's lush plantation country is the next stop on James Martin's American Adventure. Famous for its sugar production, the area boasts beautiful plantation houses that are rich in history. James arrives in style in a red Mustang and visits historic Houmas House, where he cooks in the house's beautiful gardens, before sampling the local speciality of gumbo at the hands of the house's resident chef.
-
 2026-09-27 6:00am
 	Jurassic Park - The Lost World
 Sequel in which the entrepreneur who genetically engineered the dinosaurs in Jurassic Park transpires to have cloned more of the prehistoric monsters on another island location. Researchers arrive to observe the creatures in their natural habitat, but hot on their heels is a band of mercenaries intent on capturing the dinosaurs and transporting them back to San Diego Zoo.
@@ -583,6 +551,30 @@ Deal or No Deal
 Stephen Mulhern hosts as Sue gets her chance to open the iconic red boxes. She might be tempted to accept an offer from the Banker or be rewarded by standing firm and taking home what was inside her box all along.
 
 2026-10-03 5:00am
+To Be Announced
+5:00am
+
+2026-10-03 9:00am
+To Be Announced
+9:00am
+
+2026-10-03 1:00pm
+To Be Announced
+1:00pm
+
+2026-10-03 5:00pm
+To Be Announced
+5:00pm
+
+2026-10-03 9:00pm
+To Be Announced
+9:00pm
+
+2026-10-04 1:00am
+To Be Announced
+1:00am
+
+2026-10-04 5:00am
 To Be Announced
 5:00am
 

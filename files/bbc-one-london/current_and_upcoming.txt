@@ -1,59 +1,3 @@
-2026-09-26 9:45pm
-	Legally Blonde
-A golden-haired sorority queen vows to win back her ex-boyfriend by gaining admission to Harvard Law School.
-
-2026-09-26 11:15pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-26 11:20pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-26 11:30pm
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-09-27 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-27 12:30am
-Talking Movies
-Talking Movies travels to the Venice and Telluride film festivals to report on some of the key films that have been animating audiences and making an impact early in the awards season. From Venice, Emma Jones reports on the adulation actor Angelina Jolie received for her portrayal of the celebrated late opera star Maria Callas in the picture Maria. In Telluride, Tom Brook hears from UK film-maker Kevin Macdonald, who has put together One to One: John & Yoko.
-
-2026-09-27 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-27 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2026-09-27 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-27 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-09-27 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-27 3:30am
-Global Eye
-Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
-
-2026-09-27 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-27 4:30am
-Streets of Gold: Mumbai
-Meeting the glamorous super-rich of Mumbai, India's most fashionable city. Incredible wealth and extreme poverty live side by side in a sun-drenched city bursting with opportunity.
-
 2026-09-27 5:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -941,4 +885,84 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2026-10-03 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-03 9:00am
+Mary at 90: A Lifetime of Cooking
+Dame Mary's dear friend, broadcaster Alex Jones, joins her in the kitchen to celebrate how Mary's friends and family, as well as the viewers, have been at the heart of her cooking for 60 years.
+
+2026-10-03 9:28am
+To Be Announced
+9:28am
+
+2026-10-03 11:00am
+Bargain Hunt
+Charlie Ross and the teams try to uncover profitable antiques in Sussex with experts Caroline Hawley and Tim Weeks. While the reds and blues compete to make the most money at auction, Charlie learns how science can help to prove the authenticity of ancient artefacts, using a process called thermoluminescence.
+
+2026-10-03 11:45am
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-03 11:57am
+To Be Announced
+11:57am
+
+2026-10-03 12:10pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-03 12:15pm
+Escape to the Country
+In his home county of Kent, Steve Brown helps two newlyweds from London find a new spacious and dog-friendly family home in the countryside. Steve also meets another couple who, eight years ago, swapped their city flat for a beautiful cottage in the county, where they also established a business.
+
+2026-10-03 12:58pm
+To Be Announced
+12:58pm
+
+2026-10-03 3:25pm
+Garden Rescue
+Bindu and Vivek have recently taken on their first garden after years of living in flats. Originally from India, Bindu grew up with a garden full of vegetables, nature and birdsong, and he would like to recreate a bit of that in their modest garden in Warrington. The garden is a sun trap, so they'd like some height and shade in the plot, as well as raised beds for growing fruit and veg.
+
+2026-10-03 4:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-03 4:20pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-03 4:25pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-03 4:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-03 4:35pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-03 4:51pm
+To Be Announced
+4:51pm
+
+2026-10-03 9:45pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-03 9:50pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-03 9:53pm
+To Be Announced
+9:53pm
+
+2026-10-03 11:25pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-04 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
 

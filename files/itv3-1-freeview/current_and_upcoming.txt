@@ -1,19 +1,3 @@
-2026-09-26 10:05pm
-Vera
-With her caustic wit and singular charm, DCI Vera Stanhope and her trusted right-hand man face a series of captivating murder mysteries set against the breathtaking Northumberland landscape.
-
-2026-09-26 11:55pm
-Inspector Morse
-Morse is haunted by his past when he investigates the apparent suicide of a terminally ill Oxford don, and finds that he has an unexpected and painful personal connection with the family.
-
-2026-09-27 2:05am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-09-27 2:30am
-Teleshopping
-Shopping from home.
-
 2026-09-27 8:05pm
 Midsomer Murders
 When Julian Shepherd is found drowned, it seems as though he committed suicide due to all his money being tied up in Charles Edmonton's latest invention. When another man dies after poaching peregrine eggs from Charles's wife, Barnaby suspects foul play.
@@ -161,4 +145,24 @@ To Be Announced
 2026-10-03 2:00am
 To Be Announced
 2:00am
+
+2026-10-03 8:10pm
+Midsomer Murders
+Barnaby and Scott travel to a picturesque village to investigate the murder of an undertaker. There, they discover that the village is divided by the presence of a spiritualist church run by a medium.
+
+2026-10-03 10:10pm
+Vera
+DCI Vera Stanhope must unravel a tangled web of deceit between two wildly different families when the body of a teenage boy is discovered floating near a Northumberland salmon farm.
+
+2026-10-04 12:00am
+Inspector Morse
+When a well-known business tycoon is murdered at his country mansion, his wife and sons immediately come under suspicion. Elsewhere, Morse becomes the unwitting victim of a hate campaign in the tabloid press.
+
+2026-10-04 2:10am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-04 2:30am
+Teleshopping
+Shopping from home.
 
