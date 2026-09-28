@@ -1,8 +1,16 @@
-2026-09-28 5:00am
-Senedd Cymru - Welsh Parliament
-Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 23 September.
+2026-09-28 8:05am
+Northern Ireland Assembly
+Questions in Stormont to the Northern Ireland Executive, with the First Minister, Michelle O'Neill, on Monday 22 May.
 
-2026-09-28 10:30am
+2026-09-28 8:50am
+Welsh First Minister's Questions
+Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 22 September.
+
+2026-09-28 9:50am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 22 September.
+
+2026-09-28 10:25am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 24 September.
 
@@ -229,6 +237,10 @@ Coverage of questions to ministers in the Scottish government on Thursday 28 May
 2026-10-03 4:45am
 Scottish First Minister's Questions
 Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 1 October.
+
+2026-10-03 5:15am
+Scottish Parliament
+Coverage of the day's proceedings in the Scottish Parliament on Thursday 1 October.
 
 2026-10-03 9:00am
 To Be Announced
