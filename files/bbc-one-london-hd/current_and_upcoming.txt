@@ -1,63 +1,3 @@
-2026-09-27 11:05pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-27 11:30pm
-Global Eye
-Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
-
-2026-09-28 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-28 12:30am
-The Climate Question
-Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?
-
-2026-09-28 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-28 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-28 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-28 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-28 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-28 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-28 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-28 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-28 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-28 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-28 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-28 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -873,4 +813,96 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2026-10-04 5:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 8:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2026-10-04 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2026-10-04 9:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2026-10-04 10:30am
+Money for Nothing
+Fish tank telly? JJ Chalmers has big ideas for a retro radio and TV set, but can he pull off two transformations he's never attempted before?
+
+2026-10-04 11:00am
+Bargain Hunt
+Join Charlie Ross at the Agricultural Showground on the Welsh isle of Anglesey. The reds and blues go head to head with the help of antique experts Roo Irvine and Richard Madley. Charlie also takes a trip down memory lane to discover the oldest cheese in Britain, which comes from Cheshire.
+
+2026-10-04 11:35am
+Lifeline
+Following the work of different charities and highlighting ways of supporting their activities. Featuring different ways to raise money, as well as awareness for a wide range of causes.
+
+2026-10-04 11:45am
+Points of View
+Viewers have their say on BBC television programmes.
+
+2026-10-04 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-04 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-04 12:15pm
+Songs of Praise
+Aled Jones and Rev Kate Bottley host this year's BBC Young Chorister of the Year, which begins with the junior semi-final at Hallé St Peter's in Manchester. Once again, Songs of Praise and BBC Radio 2 have come together to showcase the best young vocal talents, beginning with five talented singers aged 11 to 13 who perform a sacred song for expert judges David Grant, Laura Wright and Cameron Richardson.
+
+2026-10-04 1:00pm
+	Shrek 2
+Ogre Shrek and his new wife Fiona are surprised to discover a letter from her parents, inviting them over for dinner. Fiona is eager to show off her new husband, but her parents don't yet know she's an ogre. Taking Donkey along, they set off for Far Far Away to visit them, but the trip is hampered by the jealousy of a wicked fairy godmother and her hired assassin, Puss in Boots.
+
+2026-10-04 2:25pm
+Kingdom
+Seeking a mate, leopard Olimba begins a new chapter, but in her way is her daughter. The hyenas' strength is growing, but a flooded den spells disaster, and the clan become separated.
+
+2026-10-04 3:15pm
+Homes Under the Hammer
+We're 'flat out' in this episode, with three very different flats in London, Bath and Shropshire. Will the new owners who purchased them at auction be able to bring them up to scratch?
+
+2026-10-04 4:15pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-04 4:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-04 4:35pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-04 4:40pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-04 5:05pm
+To Be Announced
+5:05pm
+
+2026-10-04 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-04 9:30pm
+	Whitney Houston: I Wanna Dance With Somebody
+Discovered by record executive Clive Davis, Whitney Houston rises from obscurity to international fame in the 1980s to become one of the greatest singers of her generation.
+
+2026-10-04 11:45pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-04 11:50pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-05 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

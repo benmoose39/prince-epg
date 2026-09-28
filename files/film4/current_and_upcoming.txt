@@ -1,11 +1,3 @@
-2026-09-27 10:05pm
-	The Kid Detective
-A once-celebrated kid detective, now 31, continues to solve the same trivial mysteries between hangovers and bouts of self-pity. Until a naive client brings him his first `adult' case, to find out who brutally murdered her boyfriend.
-
-2026-09-28 12:05am
-	Moffie
-A young man drafted into South Africa's military, but he knows he is different and must keep himself hidden. However, when another recruit develops an intimate relationship with them, they are now both in danger.
-
 2026-09-28 2:10am
 Teleshopping
 Shopping from home.
@@ -257,4 +249,32 @@ Lost in a hostile forest, the Marquis d'Urfé, a noble emissary of the King of F
 2026-10-04 2:30am
 Teleshopping
 Shopping from home.
+
+2026-10-04 6:30am
+Teleshopping
+Shopping from home.
+
+2026-10-04 8:00am
+To Be Announced
+8:00am
+
+2026-10-04 9:00am
+To Be Announced
+9:00am
+
+2026-10-04 1:00pm
+To Be Announced
+1:00pm
+
+2026-10-04 5:00pm
+To Be Announced
+5:00pm
+
+2026-10-04 9:00pm
+To Be Announced
+9:00pm
+
+2026-10-05 1:00am
+To Be Announced
+1:00am
 

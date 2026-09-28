@@ -1,31 +1,3 @@
-2026-09-27 10:45pm
-The Heritage Chart Show
-A TOTP-style TV show for Heritage Artists based on the Heritage Chart which is voted on in over 80 countries. Songs you love from popular artists, live and on video with the odd interview.
-
-2026-09-27 11:50pm
-	The Challenge
-Jailed for his role in a gang heist and ditched by its female leader, a widower decides to keep the loot.
-
-2026-09-28 1:40am
-	The Southerner
-An impoverished Southern family struggles desperately to make a meagre existence from the soil.
-
-2026-09-28 3:30am
-The Adventures of Robin Hood
-Robin helps a shy outlaw woo his old sweetheart.
-
-2026-09-28 4:00am
-The Buccaneers
-Tempest saves a printer from arrest and allows him to continue printing the truth aboard the Sultana.
-
-2026-09-28 4:30am
-Supercar
-While the Supercar team are on a picnic in the mountains, Dr. Beaker becomes trapped when investigating a frozen waterfall.
-
-2026-09-28 5:00am
-The Vise
-A young reporter is sent by a London newspaper to interview a woman regarding a celebrated author.
-
 2026-09-28 5:30am
 	Vengeance Is Mine
 A dying man hires an assassin to kill so he can frame his death on an enemy.
@@ -589,4 +561,100 @@ An alcoholic pharmacist's mate is asked to help perform a delicate operation on 
 2026-10-04 5:00am
 	Lighthouse
 Jealousy and recrimination rise when a young woman who is smitten with a lighthouse keeper marries his co-worker out of spite, and all three live together in the close confines of the lighthouse.
+
+2026-10-04 6:15am
+Old Mother Riley's Musical Moments
+A selection of rare Old Mother Riley clips of some of her best songs and sketches. Originally produced on 8mm and also features the Luton Girls Choir!
+
+2026-10-04 6:30am
+The Lucy Show
+Lucy and Mary Jane meet Pat Collins, a celebrity hypnotist, at a fashion show and are invited to her nightclub performance.
+
+2026-10-04 7:00am
+Sherlock Holmes
+Silver coins are clues to mysterious death warnings.
+
+2026-10-04 7:30am
+	Fiend Without a Face
+A scientist on an air base in Canada experiments with the materialisation of thought waves, but things get wildly out of control when his own dark thoughts take the form of floating killer brains.
+
+2026-10-04 9:05am
+	Mr. Beamish Goes South
+Directed by Oscar Burn & John Wall. Stars John Laurie & Hector Ross. An amateur detective pursues a seaside serial killer who disposes of his female victims in an acid bath.
+
+2026-10-04 9:45am
+	The Capture
+In a quest to challenge a group of dacoits, a manager of an oil rig mistakenly kills an innocent man. However, fate plays a cunning game after he plans to inform the dead man's wife about his crime.
+
+2026-10-04 11:30am
+Batman
+The Joker sets out to rule the world when he builds a flying saucer.
+
+2026-10-04 12:05pm
+	The League of Gentlemen
+An embittered army officer recruits a shady bunch of ex-servicemen to help him pull off a daring £1 million bank robbery.
+
+2026-10-04 2:20pm
+Look at Life
+A look at the various aircrafts flown by British pilots over the last fifty years, including the Sopwith Pup, the Hart and the Blackburn monoplane.
+
+2026-10-04 2:30pm
+For the Love of Ada
+Walter creates trouble and is almost arrested for shoplifting in Leslie's supermarket.
+
+2026-10-04 3:00pm
+The Man From U.N.C.L.E.
+THRUSH has trained the members of a boys choir as youthful assassins, and their first target is a council of U.N.C.L.E. chiefs in Switzerland.
+
+2026-10-04 4:00pm
+The Footage Detectives
+We're cleared for take-off with the Air Training Corps, we travel to London's South Bank for the 1951 Festival of Britain, and do you remember the Pavilion in Bath, where the big names appeared?
+
+2026-10-04 5:00pm
+Enemy at the Door
+Series 1 Episode 4: Steel Hand From the Sea
+
+2026-10-04 6:00pm
+	The Third Man
+A writer visits postwar Vienna to see an old friend, but is told that his friend is dead. Incredulous at the suggestion his friend was a criminal, the writer attempts to clear the dead man's name, but soon finds events taking a strange turn.
+
+2026-10-04 8:05pm
+Fox
+Following Billy Fox, an outwardly retired Covent Garden market porter living in Clapham with his family, who have gangland connections in London's East End.
+
+2026-10-04 9:05pm
+	Confessions of a Pop Performer
+A performer with a multitude of solid-gold hits displays more than musical talent.
+
+2026-10-04 10:50pm
+The Heritage Chart Show
+A TOTP style TV Show for Heritage Artists based on the Heritage Chart which is voted on in over 80 countries. Songs you love from popular artists, live and on video with the odd interview.
+
+2026-10-04 11:55pm
+	The Mosquito Coast
+An idealist uproots his family to a remote Caribbean island, away from the consumerism which he perceives to be choking America. He sets about creating a Utopia in the jungle by bringing ice to the natives and uses his genius for making gadgets to enhance their primitive lifestyle. However, he also alienates his long-suffering family, and his enterprise proves fatally flawed.
+
+2026-10-05 2:15am
+	The Flaw
+A conniving race-car driver plans to marry a socialite for her money and then dispose of her.
+
+2026-10-05 3:30am
+The Adventures of Robin Hood
+Robin attempts to help Monk Albertus, a scientist who is accused of withholding secrets about a weapon.
+
+2026-10-05 4:00am
+Dial 999
+Released from prison after serving eight years, Bill Weldon sets out to kill the three men who testified against him.
+
+2026-10-05 4:30am
+Supercar
+The Supercar team heads to Scotland to investigate reports of a ghostly bagpiper.
+
+2026-10-05 5:00am
+The Vise
+Celia's partner is a struggling painter. But when she leaves him for a wealthier man, she soon realises her mistake.
+
+2026-10-05 5:30am
+	The Triumph of Sherlock Holmes
+The super sleuth is called out of retirement to solve the murder of an American labour leader in England.
 

@@ -1,7 +1,3 @@
-2026-09-27 2:00am
-The Killer Interview With Piers Morgan
-A mild-mannered man, convicted of brutally murdering his father and the attempted murder of his mother with an axe, tries to convince Morgan of his innocence.
-
 2026-09-28 2:00am
 The Killer Interview With Piers Morgan
 Piers Morgan conducts a chilling interview with Robert Spahalski, a remorseless serial killer whose victims were those he knew and loved.
@@ -25,4 +21,8 @@ After 18 years in prison for the murder of a New York multi-millionaire, Daniel 
 2026-10-03 2:00am
 The Killer Interview with Piers Morgan
 Piers Morgan interviews Rod Covlin, the man the NYPD believes almost got away with murdering his wealthy financier wife.
+
+2026-10-04 2:00am
+The Killer Interview with Piers Morgan
+Piers Morgan interviews Levi King to determine if it was nature or nurture that led to a 24-hour killing spree that cost the lives of five innocent people.
 
