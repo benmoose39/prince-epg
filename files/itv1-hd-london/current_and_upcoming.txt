@@ -1,23 +1,3 @@
-2026-09-28 10:30pm
-7 Up: The Story
-In 1964, ITV broadcast a film about fourteen seven-year-olds. Those children are now seventy. 7 Up set out to prove that Britain was divided by the class system - that these children's futures had been decided by the street they were born on.
-
-2026-09-28 11:00pm
-Teleshopping
-Shopping from home.
-
-2026-09-29 2:00am
-Wheel of Fortune
-Graham Norton invites nurse Chris, HR advisor Laura, and school administrator Samantha to spin the Wheel, solve puzzles and avoid bankrupts for a possible 50,000 pounds.
-
-2026-09-29 2:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-09-29 4:05am
-Deal or No Deal
-Join Stephen Mulhern as Sami has his shot at winning a life-changing 100,000 pounds. He may be tempted to leave the game early and say "Deal" to one of the Banker's offers, or hold out until the end and be rewarded.
-
 2026-09-29 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -398,55 +378,275 @@ James is in South Wales, accompanied by Michelin-starred chef Stephen Terry. Jam
 Love Your Weekend with Alan Titchmarsh
 Joining Alan to provide the chat this time are Selina Scott, Pixie Lott and Tom Parker-Bowles, and we also meet some rare-breed Guernsey goats with a royal title.
 
-2026-10-03 5:00am
-To Be Announced
-5:00am
+2026-10-03 7:25am
+Prue Leith's Cotswold Kitchen
+Prue is joined by TV presenter turned entrepreneur Fearne Cotton who bakes her favourite carrot cake with blueberry icing mousse and tells Prue all about how painting and baking are her escapism from the stresses of everyday life. Prue has a taste for Italy as she makes Polpette in tomato sauce with creamy Parmesan. The food hero is the Mazi project, a charity in Bristol that nourishes marginalised 16 to 25-year-olds through food.
 
-2026-10-03 9:00am
-To Be Announced
-9:00am
+2026-10-03 8:25am
+ITV News
+The latest national and international news.
 
-2026-10-03 1:00pm
-To Be Announced
-1:00pm
+2026-10-03 8:30am
+James Martin's Saturday Morning
+James Martin welcomes best-selling author Cecelia Ahern to the house. And chefs Knox Majozi, Nathan Outlaw and Kenny Atkinson cook some brilliant dishes.
 
-2026-10-03 5:00pm
-To Be Announced
-5:00pm
+2026-10-03 11:00am
+Gary Barlow's Wine Tour: South Africa
+Gary and Jason Manford end their adventures in Hawke's Bay, feeding tiny penguins, experiencing an autumn equinox sunrise and raising a final glass at Craggy Range.
 
-2026-10-03 9:00pm
-To Be Announced
-9:00pm
+2026-10-03 11:30am
+ITV News
+The latest national and international news.
 
-2026-10-04 1:00am
-To Be Announced
-1:00am
+2026-10-03 11:45am
+
+Ed Chamberlin presents coverage of live racing from Ascot, Newmarket and Redcar. Ascot stages a competitive afternoon of racing including the Cumberland Lodge Stakes over a mile and a half, whilst the Group One racing this afternoon comes from Newmarket where the Sun Chariot takes centre stage, plus there's two races from Redcar. Analysis from Jason Weaver and Adele Mulrennan, reporting from Rishi Persad and Natalie Green with commentary from Richard Hoiles.
+
+2026-10-03 3:15pm
+
+Mark Pougatch is joined by Roy Keane and Ian Wright for live UEFA Nations League action as Thomas Tuchel's England travel to Croatia, the team they beat 4-2 in the World Cup group stage in June. Commentary is from Sam Matterface and Lee Dixon, with interviews by reporter Gabriel Clarke.
+
+2026-10-03 6:20pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-03 6:35pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-03 6:50pm
+Win Win with People's Postcode Lottery
+Mel Giedroyc and Sue Perkins host as 'Win Win with Postcode Lottery' continues! One lucky viewer who played along from home in the first episode joins the action in the studio, taking their place on Millionaire's Row - and putting them in the running for the series jackpot. There's another incredible line-up of prizes up for grabs, from a holiday to a £20k cash card.
+
+2026-10-03 7:50pm
+The Voice UK
+Sir Tom Jones, will.i.am, Tom Fletcher and Danny Jones continue their hunt for the UK's best new talent as the Blind Auditions raise the stakes.
+
+2026-10-03 9:05pm
+Romesh Ranganathan's Parents' Evening
+Romesh Ranganathan hosts the celebrity game show where it doesn't matter what you know as it's what your mother and father think you know that really counts.
+
+2026-10-03 10:05pm
+ITV News
+The latest national and international news.
+
+2026-10-03 10:30pm
+English Football League Highlights
+Action from across the Football League, including Leyton Orient v Plymouth, Reading v Bradford, Wigan v Mansfield and Sheffield Wednesday v Cambridge in League One.
+
+2026-10-03 11:15pm
+Millionaire Hot Seat
+Six new contestants face Jeremy Clarkson as they race against the clock, answering questions, hoping to climb the Money Ladder. But only one can take home the top prize.
+
+2026-10-03 11:45pm
+Teleshopping
+Shopping from home.
+
+2026-10-04 2:00am
+Dermot's Taste of Ireland
+Dermot travels to Letterkenny in Donegal, often called Ireland's 'forgotten county', but quickly discovers a place full of unforgettable people, stories and food. Surrounded by ancient rainforest, he heads into the woods to forage for prized golden chanterelle mushrooms before visiting the renowned Lemon Tree Restaurant, where he learns to make tortellini completely from scratch with one of Donegal's most skilled chefs.
+
+2026-10-04 2:25am
+Gary Barlow's Food and Wine Tour: New Zealand
+Gary Barlow and Jason Manford arrive in Hawke's Bay for the final leg of their New Zealand journey. In Napier, Jason surprises Gary with a classic car tour through the city's famous Art Deco streets, before they feed rescued koror?, New Zealand's tiny blue penguins, at the National Aquarium. Before sunrise, they join an autumn equinox gathering at ?tea a Rangi, a moment rooted in M?ori tradition and well worth getting up early for.
+
+2026-10-04 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-04 4:05am
+The Joy of Pets
+Gaby Roslin and resident vet Dr Bolu Eso meet a remarkable family who share their home with an extraordinary 37 animals. They get up close with tarantulas and learn how we can help protect wildlife from our own pets. Plus, we see how Chester, a therapy dog, brings comfort and joy to care home residents, meet some gorgeous guinea pigs and discover more about the fascinating behaviour of the animals we love.
 
 2026-10-04 5:00am
-To Be Announced
-5:00am
+The Voice UK
+Sir Tom Jones, will.i.am, Tom Fletcher and Danny Jones continue their hunt for the UK's best new talent as the Blind Auditions raise the stakes.
 
-2026-10-04 9:00am
-To Be Announced
-9:00am
+2026-10-04 6:00am
+James Martin's Saturday Morning
+James Martin welcomes best-selling author Cecelia Ahern to the house. And chefs Knox Majozi, Nathan Outlaw and Kenny Atkinson cook some brilliant dishes.
 
-2026-10-04 1:00pm
-To Be Announced
-1:00pm
+2026-10-04 8:25am
+ITV News
+The latest national and international news.
 
-2026-10-04 5:00pm
-To Be Announced
-5:00pm
+2026-10-04 8:30am
+Love Your Weekend with Alan Titchmarsh
+Joining Alan Titchmarsh at Manor Farm are Nigel Havers, Ken Bruce and Lesley Joseph. Plus, it's the launch of the Manor Farm puppy school, and horticulturalist Camilla Bassett-Smith and carpenter Wayne Perrey talk garden protection following the drought. Harvest festival tipples are the order of the day in today's Best of British, plus a celebration of 75 years of The Archers with some of the cast.
+
+2026-10-04 10:25am
+Fletchers' Family Farm
+This week Kelvin and Liz make plans to expand their arable ambitions. The kids get hands-on during lambing, and the whole family enjoys a bluebell walk through their woodland.
+
+2026-10-04 11:25am
+Love Your Garden
+Alan Titchmarsh and the Love Your Garden team look to the natural world for inspiration this time and create a Wild and Woolly garden that's perfect for a deserving young family in Middlesbrough. Despite having physical challenges of her own, young mum Phillipa supports other disabled families and individuals in the Middlesbrough area, going above and beyond to make sure they have all the help they need.
+
+2026-10-04 11:50am
+ITV News
+The latest national and international news.
+
+2026-10-04 12:00pm
+
+Francesca Cumani and Ed Chamberlin present coverage of the 2026 Prix de L'Arc de Triomphe from Paris-Longchamp. One of the biggest middle distance races of the season, the top stars from Europe take on some strong Japanese contenders in a race that always provides a superb spectacle. Analysis and thoughts from Rishi Persad and Adele Mulrennan plus commentary from Richard Hoiles.
+
+2026-10-04 2:30pm
+	GoldenEye
+The newly appointed M asks Bond to discover who is behind the skyjacking of an ultra-secret NATO Tiger helicopter and the destruction of a space weapons centre inside the Arctic Circle. Bond's mission takes him into the heart of Russia to penetrate the armaments mafia.
+
+2026-10-04 4:50pm
+The Chase
+Bradley Walsh hosts as Nick from Bath, Bev from Borehamwood, Neil originally from Leeds amd Eleanor from Cardiff join forces in the hope that their four brains can beat one.
+
+2026-10-04 5:40pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-04 5:50pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-04 6:00pm
+The Box
+Four celebrities remain and with a place in the final within reach, everyone has their eye on victory. While no one can predict where the box doors will open next - one celebrity is brimming with confidence that they know how to crack the challenges, while another is offered a chance to take revenge. Gary Lineker continues to throw them into increasingly bizarre worlds, and this time an unsuspecting public become part of the game.
+
+2026-10-04 7:00pm
+Who Wants to Be a Millionaire?
+Six contestants vie for the chance of answering 15 questions to win a million pounds. Four lifelines - Phone a Friend, 50:50, Ask the Audience and Ask the Host - can help them along the way.
+
+2026-10-04 8:00pm
+The Blame
+A suspect is brought in for questioning. Emma seeks help from an unlikely ally to bring her one step closer to Sophie's killer.
 
 2026-10-04 9:00pm
-To Be Announced
-9:00pm
+ITV News
+The latest national and international news.
 
-2026-10-05 1:00am
-To Be Announced
-1:00am
+2026-10-04 9:15pm
+Star Trek: Strange New Worlds
+A distress call from Lt Noonien-Singh compels Spock to disobey orders and take the USS Enterprise and its crew into disputed space.
+
+2026-10-04 10:15pm
+Star Trek: Strange New Worlds
+Commander Una faces court-martial along with possible imprisonment and dishonourable dismissal from Starfleet.
+
+2026-10-04 11:25pm
+Teleshopping
+Shopping from home.
+
+2026-10-05 2:00am
+Motorsport UK
+Richard John Neil has a look at the action across a variety of the UK's domestic motor sport championships.
+
+2026-10-05 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-05 4:00am
+Prue Leith's Cotswold Kitchen
+Prue is joined by TV presenter turned entrepreneur Fearne Cotton who bakes her favourite carrot cake with blueberry icing mousse and tells Prue all about how painting and baking are her escapism from the stresses of everyday life. Prue has a taste for Italy as she makes Polpette in tomato sauce with creamy Parmesan. The food hero is the Mazi project, a charity in Bristol that nourishes marginalised 16 to 25-year-olds through food.
 
 2026-10-05 5:00am
-To Be Announced
-5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2026-10-05 8:30am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2026-10-05 9:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2026-10-05 11:30am
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2026-10-05 12:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2026-10-05 12:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-05 1:00pm
+Dickinson's Real Deal
+Antique expert and presenter David Dickinson helps people turn their unwanted antiques into cash. Featuring collectors trying to sell their items to dealers, but if both sides cannot reach an agreement, the seller moves on to the auction block.
+
+2026-10-05 2:00pm
+Lingo
+Playing against each other are married couple Jon and Nicola, student housemates Caitlin and Emily, and bookmaker's manager Vicky and her partner Andy.
+
+2026-10-05 3:00pm
+Deal or No Deal
+Join Stephen Mulhern as Harry takes his place in the hot seat - he may hold out for what's in his randomly-selected box or choose to accept an offer from the Banker.
+
+2026-10-05 4:00pm
+The Chase
+Can our contestants beat the Chaser? Stephen from The Wirral, Rosemary from Buckingham, Georgie from Westgate-on-Sea & Fionn from Nottingham hope that together they can take home the cash prize. Hosted by Bradley Walsh.
+
+2026-10-05 5:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-05 5:25pm
+Party Political Broadcast
+A party political broadcast by the Conservative Party.
+
+2026-10-05 5:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-05 6:30pm
+Cooking with the Stars
+Hosted by Emma Willis and Tom Allen, the celebrity cooking contest will see twelve stars mentored by twelve world-class chefs, as they compete in culinary cooking battles over the next ten weeks.
+
+2026-10-05 7:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2026-10-05 7:30pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2026-10-05 8:00pm
+The Blame
+With the identity of the serial abuser revealed, Emma uncovers a further clue, forcing a final, devastating confrontation.
+
+2026-10-05 9:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2026-10-05 9:35pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-05 9:45pm
+Peston
+Robert Peston presents a fresh, intelligent and lively perspective on the big matters of the day. Featuring major interviews with Westminster heavy hitters, topical guests and all the latest news and updates.
+
+2026-10-05 10:30pm
+The Assembly
+Stephen Fry, Nicola Sturgeon, Lenny Henry, Anna Maxwell Martin and Aitch face the grilling of a lifetime from The Assembly, a fearless cast of autistic and learning-disabled interviewers.
+
+2026-10-05 11:00pm
+Teleshopping
+Shopping from home.
+
+2026-10-06 2:00am
+Wheel of Fortune
+Graham Norton invites novelty shop owner Jess, learning and development trainer Xhemal, and former GP Pip to spin the Wheel, solve puzzles and hopefully hold their nerve to win a possible 50,000 pounds.
+
+2026-10-06 2:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-06 4:05am
+Deal or No Deal
+Join Stephen Mulhern as Harry takes his place in the hot seat - he may hold out for what's in his randomly-selected box or choose to accept an offer from the Banker.
+
+2026-10-06 5:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
 

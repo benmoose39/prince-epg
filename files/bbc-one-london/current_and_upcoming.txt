@@ -1,67 +1,3 @@
-2026-09-28 10:10pm
-The Crime I Can't Forget
-When a 55-year-old father of four goes missing, detectives discover a suspicious love triangle. They suspect foul play, but can they solve a murder investigation with no body?
-
-2026-09-28 11:10pm
-Wisdom of the Crowd
-John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?
-
-2026-09-28 11:55pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-29 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-29 12:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2026-09-29 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-29 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-29 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-29 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-29 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-29 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-29 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-29 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-29 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-29 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-29 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-29 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -679,36 +615,36 @@ Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
 2026-10-03 9:00am
+Saturday Kitchen Live
+Donal Skehan is joined by chefs Jamie Oliver, Gennaro Contaldo and Julie Lin, and by special guest Gaten Matarazzo. Drinks expert Olly Smith picks the wines to go with the studio dishes, and there are some great moments from the BBC food archive.
+
+2026-10-03 10:30am
 Mary at 90: A Lifetime of Cooking
 Dame Mary's dear friend, broadcaster Alex Jones, joins her in the kitchen to celebrate how Mary's friends and family, as well as the viewers, have been at the heart of her cooking for 60 years.
-
-2026-10-03 9:28am
-To Be Announced
-9:28am
 
 2026-10-03 11:00am
 Bargain Hunt
 Charlie Ross and the teams try to uncover profitable antiques in Sussex with experts Caroline Hawley and Tim Weeks. While the reds and blues compete to make the most money at auction, Charlie learns how science can help to prove the authenticity of ancient artefacts, using a process called thermoluminescence.
 
 2026-10-03 11:45am
+The Football Interview
+Bold, in-depth conversations full of insight about the nation's favourite sport.
+
+2026-10-03 12:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-10-03 11:57am
-To Be Announced
-11:57am
 
 2026-10-03 12:10pm
 BBC Weather
 The latest weather forecast.
 
 2026-10-03 12:15pm
+
+Coverage of the clash between Manchester United and Liverpool in the Women's Super League.
+
+2026-10-03 2:40pm
 Escape to the Country
 In his home county of Kent, Steve Brown helps two newlyweds from London find a new spacious and dog-friendly family home in the countryside. Steve also meets another couple who, eight years ago, swapped their city flat for a beautiful cottage in the county, where they also established a business.
-
-2026-10-03 12:58pm
-To Be Announced
-12:58pm
 
 2026-10-03 3:25pm
 Garden Rescue
@@ -727,32 +663,84 @@ BBC Weather
 The latest weather forecast.
 
 2026-10-03 4:30pm
-BBC London News
-News, sport and weather from London.
+The Celebrity Inner Circle
+Amanda Holden hosts this exciting quiz show, packed with strategy, high stakes and lots of surprises. Five contestants choose a celebrity partner and are assigned a secret stash of cash, worth anything from zero to a whopping £6,000. The twist? Each pair only knows their own value before being thrown into a battle of wits, nerve and strategic gameplay across a series of challenging rounds. Their mission? Uncover who has got what amount, outsmart their rivals and secure their spot in the final.
 
-2026-10-03 4:35pm
+2026-10-03 5:15pm
+Strictly Come Dancing
+Emma, Josh and Jojo welcome the 15 couples back to the ballroom for the second round of performances. At the end of the show, the public vote opens for the first time.
+
+2026-10-03 7:50pm
+Wisdom of the Crowd
+John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?
+
+2026-10-03 8:35pm
+Marble Hall Murders
+Susan is impressed with Eliot's work on the Atticus Pünd story, which has the fictional detective investigating the mysterious death of Lady Margaret Chalfont in Corfu. But she is sidetracked by his implausible conviction that his famous and publicly adored grandmother Miriam had been murdered.
+
+2026-10-03 9:30pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-10-03 4:51pm
-To Be Announced
-4:51pm
 
 2026-10-03 9:45pm
 BBC Weather
 The latest weather forecast.
 
 2026-10-03 9:50pm
+	I Give It a Year
+After a quick courtship, two lovers hastily decide to tie the knot. As their first year of marriage unfolds, temptation and incompatibility put their relationship in jeopardy.
+
+2026-10-03 11:20pm
 Weather for the Week Ahead
 Detailed weather forecast.
-
-2026-10-03 9:53pm
-To Be Announced
-9:53pm
 
 2026-10-03 11:25pm
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-03 11:30pm
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-10-04 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 12:30am
+Discovering the World's Table
+Chef Julie Lin travels to Istanbul in search of the most vibrant food fusions, meeting culinary trailblazers inspired by both the ancient tastes of Anatolia and food with a distinctly global twist.
+
+2026-10-04 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2026-10-04 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-10-04 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world.
+
+2026-10-04 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-04 4:30am
+Clive Myrie's African Adventure
+Clive experiences the South African crazes for car spinning and car wash parties and meets the granddaughter of Nelson Mandela, the man who inspired him to become a journalist.
 
 2026-10-04 5:00am
 BBC News
@@ -780,7 +768,7 @@ Join Charlie Ross at the Agricultural Showground on the Welsh isle of Anglesey. 
 
 2026-10-04 11:35am
 Lifeline
-Following the work of different charities and highlighting ways of supporting their activities. Featuring different ways to raise money, as well as awareness for a wide range of causes.
+Lisa Snowdon presents this month's Lifeline appeal on behalf of Meningitis Now, a charity funding research, raising awareness and supporting families who have experienced the disease.
 
 2026-10-04 11:45am
 Points of View
@@ -823,12 +811,28 @@ BBC Weather
 The latest weather forecast.
 
 2026-10-04 4:40pm
+Countryfile
+Matt Baker and Emily McGowen are in the Cotswolds for the biggest date in the sheepdog trialling calendar - the Supreme. The finest dogs and handlers from across the UK and Ireland go head-to-head in a thrilling showcase of instinct, skill and control. After months of training and a year of tough qualifying trials, it all comes down to this - but only one will claim the coveted title of Supreme Champion.
+
+2026-10-04 5:40pm
+The Reluctant Vampire
+Being a vampire has never come naturally to Val, but as he is heir to the throne, all eyes are on him to live up to expectations. When his mum reveals a huge secret, all becomes clear.
+
+2026-10-04 6:10pm
+Strictly Come Dancing
+It's the first results show of the series, and our 15 couples nervously wait to find out the results. Motsi and Craig lead the pros in a high-fashion group number.
+
+2026-10-04 7:00pm
+Antiques Roadshow
+Across Britain, specialists in antiques and fine arts appraise items brought in by local residents, whether they are collectors looking to turn rubbish into treasure or ordinary folks hoping Grandma's old painting might now fund the kids' education.
+
+2026-10-04 8:00pm
+The Split Up
+Grappling with guilt over her own betrayal, Aria tries to persuade Dhruv to confess. Meanwhile, a surprising client brings an urgent abduction case that demands all hands on deck.
+
+2026-10-04 9:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-10-04 5:05pm
-To Be Announced
-5:05pm
 
 2026-10-04 9:25pm
 BBC London News
@@ -846,7 +850,223 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2026-10-05 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-05 12:30am
+Tech Now
+As Pokémon celebrates its 30th anniversary, Alasdair Keane heads to the Pokémon World Championships in San Francisco.
+
+2026-10-05 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-05 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-05 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-05 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-05 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-05 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-05 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-05 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-05 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-05 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-05 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
 2026-10-05 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-05 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-10-05 9:45am
+Crimewatch Roadshow
+The team take to the streets of Britain to ask for the public's help in solving crimes.
+
+2026-10-05 10:30am
+Homes Under the Hammer
+Martin meets a big fan of the show in Hampshire but is disappointed to hear he's ignored the Hammer golden rules of buying at auction. In Kent, we see the conclusion of a period restoration that Jacqui first saw in early 2023. Dion's taking in the scenery in beautiful north Wales.
+
+2026-10-05 11:15am
+Bargain Hunt
+In Yorkshire, two letters written by social reformer William Wilberforce go under the hammer, with a surprising outcome. Natasha Raskin Sharp visits Wilberforce's former home in Hull - now a museum - to learn about his campaign to stop the British slave trade. In an antiques centre on the outskirts of Bradford, two teams of antiques hunters scour the aisles of a converted mill to find treasures to sell at auction.
+
+2026-10-05 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-05 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-05 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-05 1:00pm
+Clean It, Fix It
+Mark Wright, Karla Pryce and Asher Edwards help Jax, a creative single mum, who is overwhelmed by the clutter in her home.
+
+2026-10-05 1:30pm
+Shift the Thrift
+In Hastings, partners James and Elaine scour 15 charity shops, hunting for vintage gems and a hidden star buy before facing a tense, live online auction for charity.
+
+2026-10-05 2:00pm
+Escape to the Country
+Jules Hudson heads to Anglesey to help a couple with £300,000 find a permanent base on the Welsh island. Away from the house hunt, Jules finds out about the prehistoric character that defines the local landscape and learns some Bronze Age skills.
+
+2026-10-05 2:45pm
+Garden Rescue
+Charlie and Lee are in Manchester to transform James and Elizabeth's overgrown and unloved plot into a beach-inspired garden. They love to surf and would relish the chance of bringing a sense of the sea to their suburban back garden. Can the team achieve all this on a £6,000 budget?
+
+2026-10-05 3:30pm
+Bridge of Lies
+Ross Kemp presents this quiz show where a team of work colleagues, Dawn, Chris, Emma and Rob, take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each crossing has 32 potential steps, including 22 truths and ten lies. They must cross the Bridge by stepping on the truths and avoiding the lies, earning money for each correct answer. Step on a lie and the Bridge will halve their money.
+
+2026-10-05 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2026-10-05 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-05 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-05 5:55pm
+Party Political Broadcast
+A party political broadcast by the Conservative Party.
+
+2026-10-05 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-10-05 6:30pm
+EastEnders
+Nicola continues to struggle with Ned. Linda receives a shock. Harvey tries to support Kathy.
+
+2026-10-05 7:00pm
+Panorama
+Rates of bowel, breast and other cancers are rising among younger generations according to NHS data. Why are more younger people getting cancer?
+
+2026-10-05 7:30pm
+Clickbait Clinic with Stacey Dooley
+Stacey questions if celebrity IV drips are the fountain of youth, while investigating the dangerous rise of purchasing unregulated skinny jabs via social media.
+
+2026-10-05 8:00pm
+The Split Up
+The fate of Aria and Neal's wedding hangs in the balance as the Kishans adapt to a new family dynamic. Meanwhile, a final plea from Michael leaves Maya questioning her choices.
+
+2026-10-05 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-05 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-05 9:40pm
+Have I Got News for You
+Richard Ayoade hosts, with guest panellist broadcaster Gyles Brandreth joining team captains Paul Merton and Ian Hislop as they delve into the news.
+
+2026-10-05 10:10pm
+The Crime I Can't Forget
+A detective recalls the hunt by his dedicated task force for the gang behind a spate of shocking ATM heists that shook towns and villages in County Antrim.
+
+2026-10-05 11:10pm
+Wisdom of the Crowd
+John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?
+
+2026-10-05 11:55pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-06 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-06 12:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2026-10-06 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-06 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-06 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-06 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-06 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-06 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-06 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-06 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-06 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-06 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-06 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-06 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
