@@ -1,59 +1,3 @@
-2026-09-29 9:40pm
-	Malcolm X
-The Harlem criminal who became an internationally known civil rights advocate and Black Nationalist leader, who also became a member of the Nation of Islam.
-
-2026-09-30 12:50am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-30 12:55am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-09-30 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-30 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-30 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-09-30 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-30 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-30 2:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-09-30 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-09-30 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-09-30 3:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-09-30 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-09-30 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-09-30 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -979,6 +923,158 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-10-06 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-06 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-10-06 9:45am
+Crimewatch Live
+Three-year-old Sandy Davidson disappeared from his grandmother's garden 50 years ago - do you know what happened? And how police jailed a controlling husband who drowned his wife in a hot tub.
+
+2026-10-06 10:30am
+Homes Under the Hammer
+Martel is blown away by the grandeur of a 19th-century home in South Shields ripe for renovation, while developers in Newcastle under Lyme and Sheffield deliver the wow factor with stunning renovations.
+
+2026-10-06 11:15am
+Bargain Hunt
+Get ready for a 'train-tastic' trip through the Bargain Hunt archives with Eric Knowles. This special show comes from Didcot Railway Centre in Oxfordshire, where Eric explores an array of artefacts, from wonderful whistles to lavish lanterns!
+
+2026-10-06 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-06 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-06 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-06 1:00pm
+Clean It, Fix It
+Mark Wright, Tommy Walsh and Maxine Dwyer help Amanda and Dan transform their home to suit both work and family life.
+
+2026-10-06 1:30pm
+Shift the Thrift
+In High Wycombe, mother and daughter Liz and Alice battle to raise money for Great Ormond Street Hospital, gambling on vintage fashion, ceramics and a bold sewing machine buy.
+
+2026-10-06 2:00pm
+Escape to the Country
+Margherita Taylor heads to rural Lincolnshire with a decisive mother and son-in-law to help them find a comfortable country property for £650,000 to house three generations of their family, as well as providing a home for their much-loved horses. While the search gathers pace, Margherita takes in the splendour of Grimsthorpe Castle, the very last stately home built by the famous early 18th-century country-house architect, Sir John Vanbrugh.
+
+2026-10-06 2:45pm
+Garden Rescue
+Sean and Francesca, both dedicated junior doctors with hectic schedules, are longing for a peaceful oasis to unwind in after their demanding shifts. Their dream garden is inspired by a journey to New Zealand. They would like to bring some of the NZ vibe to their new garden, creating a serene relaxation area incorporating ferns, grasses and raised beds, all brought together with a muted colour scheme.
+
+2026-10-06 3:30pm
+Bridge of Lies
+Ross Kemp presents the quiz show where a team of four friends, Sharon, Dave, Steve and Alan, take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each crossing has 32 potential steps, including 22 truths and ten lies. They must cross the Bridge by stepping on the truths and avoiding the lies, earning money for each correct answer. Step on a lie and the Bridge will halve their money.
+
+2026-10-06 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2026-10-06 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-06 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-06 6:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-10-06 6:30pm
+EastEnders
+Linda tells her family about Max. Ned tries to goad Nicola. Alfie wants to get through to Kat.
+
+2026-10-06 7:00pm
+DIY SOS
+In Southampton, the team comes to the aid of Ahmed and Rifat, a profoundly deaf couple whose dream home became a nightmare after a rogue builder abandoned the project. With three young children, no savings left and living on a building site, they need help to complete their home and make it work for their family's needs. Nick and the team call on the local community to transform both the house and the family's future.
+
+2026-10-06 8:00pm
+Blue Lights
+In the wake of the attack on Amira, Grace's determination puts her in danger, while Mo spirals further with violent consequences.
+
+2026-10-06 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-06 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-06 9:40pm
+	Bram Stoker's Dracula
+Retelling of the classic horror tale about Count Dracula, a 15th-century prince who is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the image of his dead wife, he imprisons him and sets off for London to track her down.
+
+2026-10-06 11:40pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-06 11:45pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-07 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-07 12:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-10-07 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-07 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-07 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-07 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-07 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-07 2:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-10-07 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-07 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-07 3:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-10-07 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-07 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-07 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
