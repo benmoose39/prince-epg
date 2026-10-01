@@ -1,79 +1,3 @@
-2026-09-30 9:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-09-30 9:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-09-30 9:40pm
-	Candyman
-Anthony, a visual artist, meets an old-timer who exposes the true story behind Candyman. Anxious to use these macabre details as fresh grist for paintings, he unknowingly unleashes a terrifying wave of violence.
-
-2026-09-30 11:05pm
-The Celebrity Inner Circle
-Amanda Holden hosts this exciting night quiz show, packed with strategy, high stakes, and lots of surprises. Five contestants choose a celebrity partner, and are assigned a secret stash of cash worth up to a whopping £6,000. The celebrities helping the contestants are La Voix, Fred Sirieix, Dr Ranj Singh, Rav Wilding and Angellica Bell.
-
-2026-09-30 11:50pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-09-30 11:55pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-01 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-01 12:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-10-01 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-01 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-01 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-01 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-01 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-01 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-01 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-01 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-01 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-01 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-01 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-10-01 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -987,6 +911,158 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-10-07 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-07 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-10-07 9:45am
+Crimewatch Live
+The Met need help with the murder investigation of 21-year-old Finbar Sullivan, who was killed in April 2026. And how police solved the murder of Darren Round.
+
+2026-10-07 10:30am
+Homes Under the Hammer
+Significant layout changes are in store for three properties in Merseyside, London and Rotherham. Will the new owners manage to transform their auction purchases on budget?
+
+2026-10-07 11:15am
+Bargain Hunt
+Christina is in the county famed for its ceramics to host another contest between two bargain-hunting teams. Staffordshire is also the birthplace of Wade Pottery and a postwar collecting phenomenon. From the 1950s onwards, Wade made Whimsies, small solid porcelain animal figures that are still collected today. Christina meets an avid collector who owns pieces worth hundreds of pounds. At Uttoxeter Racecourse, brothers Alistair and Dominic rummage for bargains with their expert Jonathan Pratt.
+
+2026-10-07 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-07 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-07 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-07 1:00pm
+Clean It, Fix It
+Mark Wright, Maxine Dwyer and Asher Edwards help Alison, a devoted mum, transform her busy one-bedroom flat into a home that feels calm and organised. The space was overwhelmed by toys, limiting Alison's ability to cook, entertain and relax.
+
+2026-10-07 1:30pm
+Shift the Thrift
+In Carmarthen, friends Joy and Thembi hunt charity shop bargains, clash over risky buys and pin their hopes on bold upcycles in a tense live online auction.
+
+2026-10-07 2:00pm
+Escape to the Country
+The presenters take the prospective buyers around to different houses in the country. The desire for more room, cleaner air and less noise drives city dwellers to seek an escape to the country.
+
+2026-10-07 2:45pm
+Garden Rescue
+Lee and Diarmuid are in Tunbridge Wells to help Rachael and Ryan transform their uneven, overgrown garden, where rotted decking and crumbling beds make it unsafe and inaccessible, into a romantic horticultural rehab garden. The couple dream of a calming, accessible space filled with blues, whites and purples, inspired by Horatio's Gardens, where Ryan spent time recovering from a spinal stroke.
+
+2026-10-07 3:30pm
+Bridge of Lies
+Ross Kemp presents this quiz show where a team of four friends, Tamara, George, Nabeelah and Roy, take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each crossing has 32 potential steps, including 22 truths and ten lies. They must cross the Bridge by stepping on the truths and avoiding the lies, earning money for each correct answer. Step on a lie and the Bridge will halve their money.
+
+2026-10-07 4:15pm
+Pointless
+Alexander Armstrong is joined by co-host Michael Ball. As always, contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.
+
+2026-10-07 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-07 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-07 6:00pm
+The One Show
+Alex Jones and Vernon Kay bring you the stories that matter from across the country.
+
+2026-10-07 6:30pm
+EastEnders
+Linda worries, as she fears her family are not being honest with her. Ian returns to Walford. Nicola tries to support Ryder.
+
+2026-10-07 7:00pm
+The Repair Shop: Beyond the Barn
+First into the barn are cousins Dave and Dom with an extraordinary handmade model fairground created by their grandfather James Manley. Built from memory over many years using salvaged materials, the intricate miniature recreates the travelling fairground life James left behind after choosing to marry outside his fairground family and being disowned as a result. Decades of storage have left rides damaged, wiring unsafe and key components missing.
+
+2026-10-07 8:00pm
+Who Do You Think You Are?
+Comedian and presenter Joe Lycett manages to find humour everywhere, but apart from his Edwardian great grandad, a member of the Royal Antediluvian Order of the Buffaloes in Nottingham, Joe uncovers a darker family history. Joe finds out that his two-times-great grandfather Robert Wilkinson was a boy chimney sweep in the 1850s. Joining the Royal Marines, Robert travelled the world, but his involvement in razing villages in China following the Opium Wars leads to alcoholism and a breakdown.
+
+2026-10-07 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-07 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-07 9:40pm
+	Borderlands
+Returning to her home planet Pandora, an infamous bounty hunter forms an unexpected alliance with a ragtag team of misfits. Together, they battle alien monsters and dangerous bandits to uncover one of Pandora's most explosive secrets.
+
+2026-10-07 11:10pm
+The Celebrity Inner Circle
+Amanda Holden hosts this exciting quiz show, packed with strategy, high stakes and lots of surprises. Five contestants choose a celebrity partner and are assigned a secret stash of cash, worth anything from zero to a whopping £6,000. The twist? Each pair only knows their own value before being thrown into a battle of wits, nerve and strategic gameplay across a series of challenging rounds. Their mission? Uncover who has got what amount, outsmart their rivals and secure their spot in the final.
+
+2026-10-07 11:55pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-08 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-08 12:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-10-08 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-08 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-08 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-08 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-08 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-08 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-08 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-08 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-08 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-08 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-08 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-08 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
