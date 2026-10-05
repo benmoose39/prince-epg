@@ -1,15 +1,3 @@
-2026-10-05 5:00am
-Ideal World Shopping
-Ideal World Shopping - For All Your Shopping Needs.
-
-2026-10-05 8:00am
-Entertainment News On 5
-A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
-
-2026-10-05 8:10am
-NCIS
-Gibbs' team is ordered to break into a secure facility, but the mission is a decoy to catch a mole in NCIS. The team are shocked by all the developments and they're not prepared for the final twist.
-
 2026-10-05 9:05am
 NCIS
 NCIS has found the mole within its ranks, but now the agents must work with the mole to find the person who has blackmailed their co-worker into committing treason.
@@ -32,15 +20,15 @@ When a prostitute is found murdered, a customer she had a sex talk with on the i
 
 2026-10-05 2:05pm
 Law & Order
-A group of prep school students are gunned down in a raid on a drug den. Detectives link the massacre to an Afghan warlord, but the prosecution is complicated by the fact the killer is a US ally in the war in Afghanistan.
+When a factory owner is found murdered, the detectives search for an unidentified evening caller whose girlfriend recently gave birth. When it is discovered that the victim was also the baby's father, the boyfriend is arrested.
 
 2026-10-05 3:05pm
 Law & Order
-A recently paroled criminal dies after being run down by a car. Detectives believe his former therapist had a hand in the murder when they discover that she had serious misgivings about his release.
+After a hit-and-run victim is left to die, the shocking circumstances of the case leave McCoy and Southerlyn determined to get the driver on a murder charge.
 
 2026-10-05 4:05pm
 Law & Order
-When a very wealthy man is bludgeoned to death in his mansion, his young wife's boyfriend, their contractor, is the prime suspect.
+After a mob informer is found dead, Briscoe and Green follow the trail deeper. It leads to a contract killer with an innocent cover story.
 
 2026-10-05 5:05pm
 NCIS
@@ -59,20 +47,20 @@ Wild Cards
 When the head of a popular streetwear clothing brand dies, Max and Ellis find themselves investigating a murder within the world of haute couture, fashion models and overworked assistants.
 
 2026-10-05 9:00pm
-NCIS: Los Angeles
-The team head undercover as they embark on a dangerous mission to find Anna's father.
+Law & Order: Special Victims Unit
+When the case against a popular sports star falls through, Benson digs into the suspect's past to uncover additional victims; Velasco is disappointed when he meets one of his heroes.
 
 2026-10-05 10:00pm
 Law & Order: Special Victims Unit
-Carisi and Rollins work together on an important arraignment; Benson tries to make Noah's Christmas wish come true when a case falls in her lap.
+The SVU hunts for a violent suspect who killed a detective's child; Rollins ponders a potential opportunity.
 
 2026-10-05 11:00pm
-NCIS: Los Angeles
-NCIS special agent DiNozzo joins forces with the Los Angeles team when a prisoner escapes custody during a flight from Singapore.
+Law & Order: Special Victims Unit
+Velasco asks Benson for help finding three girls who were trafficked from his hometown to New York City.
 
 2026-10-05 11:55pm
 Law & Order: Special Victims Unit
-Garland asks Benson to reopen a missing persons case he worked as a rookie officer; a victim in one of Carisi's recent cases is arrested.
+Rollins and Fin investigate an assault in Kentucky that has striking similarities to that of a victim found in Central Park; Benson receives intel that turns the case upside down.
 
 2026-10-06 12:55am
 Blue Bloods
@@ -453,6 +441,10 @@ A daily round-up of showbiz news and gossip from around the world, focusing on c
 2026-10-10 3:00am
 Teleshopping
 Shopping from home.
+
+2026-10-10 5:00am
+Ideal World Shopping
+Ideal World Shopping - For All Your Shopping Needs.
 
 2026-10-10 5:00am
 To Be Announced

@@ -1,31 +1,3 @@
-2026-10-05 6:00am
-Teleshopping
-Shopping from home.
-
-2026-10-05 6:30am
-Teleshopping
-Shopping from home.
-
-2026-10-05 7:00am
-Teleshopping
-Shopping from home.
-
-2026-10-05 7:30am
-Teleshopping
-Shopping from home.
-
-2026-10-05 8:00am
-Teleshopping
-Shopping from home.
-
-2026-10-05 8:30am
-Teleshopping
-Shopping from home.
-
-2026-10-05 9:00am
-Teleshopping
-Shopping from home.
-
 2026-10-05 9:30am
 Teleshopping
 Shopping from home.
@@ -419,12 +391,8 @@ Teleshopping
 Shopping from home.
 
 2026-10-08 10:00am
-Teleshopping
-Shopping from home.
-
-2026-10-08 10:30am
-Teleshopping
-Shopping from home.
+Cruise TV with LoveitBookit
+Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals! Call 0800 090 3393 or visit us at www.loveitbookit.com/tv.
 
 2026-10-08 11:00am
 Garden Rescue
@@ -451,16 +419,16 @@ My Greek Kitchen
 Tonia visits a tomato farm in Santorini and finds ingredients to make delicious tomato fritters, plus she creates a traditional Greek moussaka.
 
 2026-10-08 4:00pm
-Yorkshire By The Sea
-In Scarborough, we hit the waves with an accessible surfing group, and in Robin Hood's Bay, we follow the ambitious couple launching their first wine from their vineyard.
-
-2026-10-08 5:00pm
 Rick Stein's Food Stories
 Amid Belfast's buzzy food scene, Rick tucks into Filipino-style Sunday lunch. On Northern Ireland's Atlantic coast, he meets an award-winning chef with a 'no waste' approach who turns fish offal and species such as dog fish into stunning dishes.
 
-2026-10-08 5:45pm
+2026-10-08 4:45pm
 This Farming Life
 Christmas is just around the corner and Scotland's farmers are battling the elements to keep things running. A deep freeze descends on John's farm, creating havoc with the farm machinery and forcing them to cancel their glamping pod guests.
+
+2026-10-08 6:00pm
+Love Your Garden
+Alan Titchmarsh and his team come to the aid of Carol Nwosu, who has to care for her son Danny - who has sickle cell anaemia - while coping with her own crippling arthritis. In spite of this, Carol dedicates her time to running a charity that supports families whose children have sickle cell disease.
 
 2026-10-08 7:00pm
 Garden Rescue
