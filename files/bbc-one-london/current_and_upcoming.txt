@@ -1,67 +1,3 @@
-2026-10-04 9:30pm
-	Whitney Houston: I Wanna Dance With Somebody
-Discovered by record executive Clive Davis, Whitney Houston rises from obscurity to international fame in the 1980s to become one of the greatest singers of her generation.
-
-2026-10-04 11:45pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-04 11:50pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-05 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-05 12:30am
-Tech Now
-As Pokémon celebrates its 30th anniversary, Alasdair Keane heads to the Pokémon World Championships in San Francisco.
-
-2026-10-05 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-05 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-05 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-05 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-05 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-05 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-05 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-05 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-05 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-05 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-05 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-10-05 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -869,4 +805,100 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2026-10-11 5:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-11 6:40am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2026-10-11 7:39am
+To Be Announced
+7:39am
+
+2026-10-11 9:00am
+Politics London
+The latest political news, interviews and debate.
+
+2026-10-11 9:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2026-10-11 10:30am
+Money for Nothing
+Sarah Moore is at Woking's recycling centre to stop quality discards ending up in the skips. She intercepts a retro swivel chair, a large oak dining table and a once-cherished sideboard. With the help of upholsterer Simion Hawtin-Smith and screen-print artist Zoe Murphy, the three items are revitalised ready to sell on and hopefully turn a profit for their original owners.
+
+2026-10-11 11:00am
+Bargain Hunt
+Natasha Raskin Sharp and the teams shop for antiques in Nottinghamshire with experts Ben Cooper and Izzie Balmer, before heading to Derby. Natasha discovers how one publisher from the Regency period started a brand new toy craze.
+
+2026-10-11 11:45am
+Points of View
+Viewers have their say on BBC television programmes.
+
+2026-10-11 12:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-11 12:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-11 12:15pm
+Songs of Praise
+Aled Jones hosts the senior semi-final of BBC Young Chorister of the Year from the Manchester Monastery, with judges Laura Wright, Ken Burton and Wynne Evans. Three of the senior competitors will be chosen to go through to the final.
+
+2026-10-11 1:00pm
+	Shrek the Third
+Shrek is just starting to settle down in his beloved swamp with his wife Fiona, but their mucky bliss doesn't last for long as word arrives that the ogre's froggy father-in-law is about to croak. The very last thing Shrek wants is to become King, but with no other heir in sight, it looks like the grumpy green one is destined never to live quietly in the swamp again. A glimmer of hope appears in the form of heir Artie.
+
+2026-10-11 2:25pm
+Kingdom
+Injured wild dog Flint helps care for Storm's largest ever litter of pups. Leopard Mutima searches for a home, and the lions are challenged by forces beyond their control.
+
+2026-10-11 3:15pm
+Homes Under the Hammer
+Jacqui is not impressed by the mushrooms growing inside a Norfolk end-of-terrace. In the West Midlands, Dion thinks some walls need to be rebuilt. Martel loves the story behind how a foster father and his son paired up as property developers.
+
+2026-10-11 4:15pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-11 4:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-11 4:35pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-11 4:40pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-11 5:04pm
+To Be Announced
+5:04pm
+
+2026-10-11 9:25pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-11 9:30pm
+	The Nice Guys
+A down-on-his-luck private eye works with a hired enforcer to investigate the disappearance of a young woman in 1977 Los Angeles.
+
+2026-10-11 11:18pm
+To Be Announced
+11:18pm
+
+2026-10-12 12:25am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-12 12:30am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-12 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
