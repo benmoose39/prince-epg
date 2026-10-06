@@ -1,103 +1,3 @@
-2026-10-05 6:30pm
-The World Today with Maryam Moshiri
-The best of the BBC's journalism from around the world.
-
-2026-10-05 7:00pm
-The Context USA
-Special coverage from Washington DC and London, focusing on President Trump's second term.
-
-2026-10-05 7:30pm
-The Context USA
-Special coverage from Washington DC and London, focusing on President Trump's second term.
-
-2026-10-05 8:00pm
-Context
-A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
-
-2026-10-05 8:30pm
-Context
-A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
-
-2026-10-05 9:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-10-05 9:30pm
-Newsnight
-Insights and global interviews on the news stories of the day. With Victoria Derbyshire.
-
-2026-10-05 10:00pm
-BBC World News America
-In-depth reports on the major international and US news of the day.
-
-2026-10-05 11:00pm
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-05 11:30pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2026-10-06 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-06 12:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2026-10-06 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-06 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-06 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-06 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-06 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-06 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-06 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-06 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-06 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-06 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-06 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-06 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-06 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-10-06 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -965,4 +865,212 @@ To Be Announced
 2026-10-12 5:00am
 To Be Announced
 5:00am
+
+2026-10-12 6:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 6:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-12 7:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 7:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 8:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 9:30am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 10:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 10:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-12 10:45am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 11:00am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-12 11:30am
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-12 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-12 1:00pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-12 1:30pm
+Business Today - NYSE Opening Bell
+The host sheds light on the ceremony, where various stakeholders gather to witness the opening bell for the New York Stock Exchange.
+
+2026-10-12 1:45pm
+BBC News Now
+All the big stories, live as they happen, presented by Lucy Hockings.
+
+2026-10-12 2:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-12 2:30pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-12 3:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-12 3:30pm
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-12 3:45pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-12 4:00pm
+Verified Live
+Matthew Amroliwala presents all the latest global and UK news, live from London.
+
+2026-10-12 4:30pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-12 5:30pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2026-10-12 6:00pm
+The World Today with Maryam Moshiri
+The best of the BBC's journalism from around the world.
+
+2026-10-12 6:30pm
+The Security Brief
+The war in Ukraine has transformed modern warfare. Drones, AI and rapidly evolving tactics are being implemented by both sides. What has the world learnt, and where does the war go next? BBC presenter Christian Fraser and resident analyst, former senior British military officer Mikey Kay are joined by special guests and a studio audience.
+
+2026-10-12 7:00pm
+The Context USA
+Special coverage from Washington DC and London, focusing on President Trump's second term.
+
+2026-10-12 7:30pm
+The Context USA
+Special coverage from Washington DC and London, focusing on President Trump's second term.
+
+2026-10-12 8:00pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2026-10-12 8:30pm
+Context
+A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.
+
+2026-10-12 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-12 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2026-10-12 10:00pm
+BBC World News America
+In-depth reports on the major international and US news of the day.
+
+2026-10-12 11:00pm
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-12 11:30pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2026-10-13 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-13 12:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2026-10-13 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-13 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-13 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-13 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-13 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-13 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-13 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-13 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-13 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-13 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-13 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-13 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-13 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
