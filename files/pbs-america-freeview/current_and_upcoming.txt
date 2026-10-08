@@ -1,47 +1,3 @@
-2026-10-07 12:00pm
-Grand Tours of the Scottish Islands
-Paul journeys around the coast of the Long Island of Harris and Lewis, beginning on Scarp, travelling north to Great Bernera, then south east to Scalpay. These islands may seem to exist in the shadow of their of their much larger neighbours, but Paul discovers they have a distinct identity all of their own, as he hears remarkable stories of crofter rebellions, rocket mail and a rich local culture.
-
-2026-10-07 12:40pm
-Besieged Fortresses
-La Rochelle was the largest Protestant base in France and for Catholic King, Louis XIII, it was the last stronghold needing to be abolished.
-
-2026-10-07 1:50pm
-Thirties In Colour: Countdown to War
-Colourising black-and-white films from the thirties, bringing the past vividly back to life and offering a remarkable window into one of the most turbulent decades in British history.
-
-2026-10-07 2:50pm
-WWII in Colour: Road to Victory
-In late 1942, America enters the war in North Africa, where British forces have been battling the Germans and Italians for control of the Suez Canal.
-
-2026-10-07 3:55pm
-Paris: Stories from the City
-After the overthrow of Emperor Napoleon the third, Paris reinvented itself again in wake of the Paris Commune riot.
-
-2026-10-07 5:00pm
-Grand Tours of the Scottish Islands
-Paul journeys around the coast of the Long Island of Harris and Lewis, beginning on Scarp, travelling north to Great Bernera, then south east to Scalpay. These islands may seem to exist in the shadow of their of their much larger neighbours, but Paul discovers they have a distinct identity all of their own, as he hears remarkable stories of crofter rebellions, rocket mail and a rich local culture.
-
-2026-10-07 5:40pm
-Besieged Fortresses
-La Rochelle was the largest Protestant base in France and for Catholic King, Louis XIII, it was the last stronghold needing to be abolished.
-
-2026-10-07 6:50pm
-Thirties In Colour: Countdown to War
-Colourising black-and-white films from the thirties, bringing the past vividly back to life and offering a remarkable window into one of the most turbulent decades in British history.
-
-2026-10-07 7:50pm
-WWII in Colour: Road to Victory
-In late 1942, America enters the war in North Africa, where British forces have been battling the Germans and Italians for control of the Suez Canal.
-
-2026-10-07 8:55pm
-Paris: Stories from the City
-After the overthrow of Emperor Napoleon the third, Paris reinvented itself again in wake of the Paris Commune riot.
-
-2026-10-07 10:00pm
-Thirties In Colour: Countdown to War
-Colourising black-and-white films from the thirties, bringing the past vividly back to life and offering a remarkable window into one of the most turbulent decades in British history.
-
 2026-10-08 12:00pm
 Grand Tours of the Scottish Islands
 Paul explores the eastern outposts of Shetland - Papa Stour, Whalsay and the Out Skerries, encountering newborn lambs, ancient ruins and traditional Shetland sword dancing along the way. Paul's journey reveals a bittersweet story of islands where life seems to continue against the odds, in the face of declining populations and the challenges that come with being so remote.
@@ -277,4 +233,48 @@ A gun battle between government agents and Branch Davidians leads to one of the 
 2026-10-13 9:50pm
 Declarations: Black Americans and the Revolutionary War
 Following the stories of enslaved and eventually freed Black Americans who believed and fought for life, liberty and the pursuit of happiness.
+
+2026-10-14 12:00pm
+Weathered: Earth's Extremes
+Exploring climate change tipping points from Florida to Alaska.
+
+2026-10-14 12:50pm
+Besieged Fortresses
+Despite an overwhelming force of men, the Ottomans, led by Soliman are unable to shake the fortifications of Rhodes.
+
+2026-10-14 1:55pm
+Edwardian Britain in Colour
+Edwardian Britain was the richest and most powerful country in the world. But what did this mean for the men, women and children hard at work in the mills and the mines?
+
+2026-10-14 2:55pm
+Silent War: the Shadow of Atomic Bombs
+...Atomic Bombs: Atomic Mirror World: Today, Russia uses nuclear threats to redraw borders and China builds its arsenal unchecked. (Part 2 of 2, Ep2)
+
+2026-10-14 4:00pm
+China: Treasures of the Jade Empire
+For the first time, archaeologists use cutting-edge technology to open up the spectacular tombs of China's greatest dynasty, the Han, and reveal their secrets.
+
+2026-10-14 5:05pm
+Besieged Fortresses
+Despite an overwhelming force of men, the Ottomans, led by Soliman are unable to shake the fortifications of Rhodes.
+
+2026-10-14 6:15pm
+Edwardian Britain in Colour
+Edwardian Britain was the richest and most powerful country in the world. But what did this mean for the men, women and children hard at work in the mills and the mines?
+
+2026-10-14 7:15pm
+Silent War: the Shadow of Atomic Bombs
+...Atomic Bombs: Atomic Mirror World: Today, Russia uses nuclear threats to redraw borders and China builds its arsenal unchecked. (Part 2 of 2, Ep2)
+
+2026-10-14 8:20pm
+China: Treasures of the Jade Empire
+For the first time, archaeologists use cutting-edge technology to open up the spectacular tombs of China's greatest dynasty, the Han, and reveal their secrets.
+
+2026-10-14 9:25pm
+Edwardian Britain in Colour
+Edwardian Britain was the richest and most powerful country in the world. But what did this mean for the men, women and children hard at work in the mills and the mines?
+
+2026-10-14 10:30pm
+Weathered: Earth's Extremes
+Exploring climate change tipping points from Florida to Alaska.
 
