@@ -1,11 +1,3 @@
-2026-10-09 8:40pm
-The Rise and Fall of the Rust Belt
-...Rust Belt: Boom to Bust: An early 21st-century world where once again innovation, disruption, and displacement are forces across the planet. (Part 2 of 2, S)
-
-2026-10-09 9:55pm
-The Siege of Leningrad
-A remarkable story both of heroism and mankind's failings - and one of the worst atrocities carried out by Germany during the Second World War. (S)
-
 2026-10-10 12:00pm
 Weathered: Earth's Extremes
 Positive climate tipping points; a supercomputer in Cheyenne, Wyo., shows how climate systems are predicted and analysed; a Michigan coal plant makes progress in the transition to renewables; climate challenges and vulnerabilities across the U.S.
@@ -249,4 +241,44 @@ Vivid colourised footage shows the creation of mass leisure, the suffrage moveme
 2026-10-15 10:30pm
 Weathered: Earth's Extremes
 A visit to Isle de Jean Charles in Louisiana, one of the first communities in the U.S. to undergo a federally funded relocation due to climate change.
+
+2026-10-16 12:00pm
+Weathered: Earth's Extremes
+Heat in Portland, Ore.; exploring why some urban areas are hotter than others in Medellin, Colombia; a visit to Phoenix -- the hottest city in the U.S.
+
+2026-10-16 12:35pm
+Besieged Fortresses
+Sultan Mehmed leads an army, and a stunning new superweapon, against a last remnant of Christianity.
+
+2026-10-16 1:40pm
+Edward VIII Britain's Traitor King
+For the first time the extent of the Duke of Windsor's treachery during World War II is revealed, not just sympathising with the enemy but, as new evidence reveals, actively collaborating.
+
+2026-10-16 2:45pm
+Women of World War II: The Untold Stories
+The stories of women who helped win World War II, including those who risked their lives flying planes, served as American spies and in the all-African American Central Postal battalion.
+
+2026-10-16 4:00pm
+Everest: The South West Face
+In 1975, an expedition led by Chris Bonington set out to achieve the impossible. To climb the south west face of Everest, and put the very first British mountaineers on her summit.
+
+2026-10-16 5:15pm
+Besieged Fortresses
+Sultan Mehmed leads an army, and a stunning new superweapon, against a last remnant of Christianity.
+
+2026-10-16 6:20pm
+Edward VIII Britain's Traitor King
+For the first time the extent of the Duke of Windsor's treachery during World War II is revealed, not just sympathising with the enemy but, as new evidence reveals, actively collaborating.
+
+2026-10-16 7:30pm
+Women of World War II: The Untold Stories
+The stories of women who helped win World War II, including those who risked their lives flying planes, served as American spies and in the all-African American Central Postal battalion.
+
+2026-10-16 8:45pm
+Everest: The South West Face
+In 1975, an expedition led by Chris Bonington set out to achieve the impossible. To climb the south west face of Everest, and put the very first British mountaineers on her summit.
+
+2026-10-16 10:00pm
+Edward VIII Britain's Traitor King
+For the first time the extent of the Duke of Windsor's treachery during World War II is revealed, not just sympathising with the enemy but, as new evidence reveals, actively collaborating.
 

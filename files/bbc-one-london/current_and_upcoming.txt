@@ -1,67 +1,3 @@
-2026-10-09 9:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-10-09 9:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-10-09 9:40pm
-The Graham Norton Show
-Olivia Colman, Alexander Skarsgård, Penélope Cruz and Bill Murray join Graham on his sofa. With music from Orville Peck.
-
-2026-10-09 10:30pm
-RuPaul's Drag Race UK
-The queens take on a holiday novelty pop song for the girl group challenge. Anne-Marie and dance duo Booty Luv join RuPaul, Michelle Visage and Alan Carr.
-
-2026-10-09 11:35pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-09 11:40pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-10 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-10 12:30am
-Tech Now
-Following recent wildfires, Shiona McCallum visits the Cairngorms National Park to see how cutting-edge tech is being used to monitor damage and help vulnerable landscapes recover.
-
-2026-10-10 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-10 1:30am
-Clive Myrie's African Adventure
-Clive gets onto the anti-poaching front line protecting South Africa's magnificent rhino and tries to stay upright as he takes to the ocean with a surf school for street kids.
-
-2026-10-10 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-10 2:30am
-Manchester City v The Premier League
-Manchester City have been found guilty of a catalogue of Premier League financial rule breaches by an independent commission. But how did the saga unfold? BBC Sports Editor Dan Roan takes a closer look at the background to one of British sport's biggest scandals.
-
-2026-10-10 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-10 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-10-10 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-10 4:30am
-The Travel Show
-The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
-
 2026-10-10 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -983,6 +919,110 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-10-16 5:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-16 8:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-10-16 9:45am
+Crimewatch Live
+How detectives jailed the owner of an XL bully dog that killed a much-loved grandmother. And can you help put a name to an unknown deceased man?
+
+2026-10-16 10:30am
+Homes Under the Hammer
+A stunning Staffordshire build reaches its conclusion. Jacqui is in south east London, where an overgrown garden provides a challenge. In Greater Manchester, work has already started at a mid-terrace.
+
+2026-10-16 11:15am
+Bargain Hunt
+Eric Knowles presents this edition with experts Charles Hanson and Richard Madley. The teams, made up of a mother and daughter and best mates, must both buy three items which will hopefully make them a profit at auction. Eric also takes time out to show us a personal antiques collection which took him 40 years to complete.
+
+2026-10-16 12:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-16 12:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-16 12:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-16 1:00pm
+Sister Boniface Mysteries
+Felix's wedding fast approaches but Sister Boniface tries to unveil the killer in the wedding party before the big day.
+
+2026-10-16 1:45pm
+Escape to the Country
+It's an island escape as Jules Hudson helps a couple from Cheshire find their dream home on Anglesey. During a busy week, Jules turns his attention away from property and heads to the Welsh mainland to catch up with a passionate farmer.
+
+2026-10-16 2:45pm
+Garden Rescue
+Charlie and Flo travel to Stourbridge to help Vicki and Mark transform their barren garden into a stunning bumblebee haven.
+
+2026-10-16 3:30pm
+Bridge of Lies
+Ross Kemp hosts the high-stakes quiz as celebrities TV presenter and Olympian Sam Quek, ex-footballer and TV presenter Dion Dublin, actress and TV presenter Joanna Page and radio DJ Melvin Odoom attempt to cross the Bridge of Lies and win money for their chosen charities. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each bridge crossing has 32 potential steps, including 22 truths and 10 lies.
+
+2026-10-16 4:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-10-16 5:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-16 5:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-16 6:00pm
+The One Show
+JB Gill brings you the stories that matter from across the country.
+
+2026-10-16 6:30pm
+Would I Lie to You?
+Rob Brydon is back in the host's chair, with Lee Mack and David Mitchell returning as the team captains. They are joined by guests Lucy Beaumont, Frankie Boyle, Abby Cook and Mo Gilligan.
+
+2026-10-16 7:00pm
+The Celebrity Traitors
+As the celebrity players gather for breakfast, conspiracies are running wild. The games continue in a mission where one mistake could cause heads to roll. At the Round Table, suspicions continue to rise - can the Traitors deflect accusations, or will the Faithful see through their lies?
+
+2026-10-16 8:05pm
+The Celebrity Traitors: Uncloaked
+Ed Gamble hears from the latest banished and murdered players from episode 6 about their time in the castle.
+
+2026-10-16 8:30pm
+Have I Got News for You
+Jason Manford is the host, with guest panellist Janet Street-Porter joining team captains Ian Hislop and Paul Merton as they delve into the news.
+
+2026-10-16 9:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-16 9:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-16 9:40pm
+The Graham Norton Show
+Quentin Tarantino, Ellen DeGeneres, Colin Farrell and Gemma Chan join Graham on his sofa.
+
+2026-10-16 10:30pm
+RuPaul's Drag Race UK
+RuPaul makes the trip across the pond in search of the queen with the most charisma, uniqueness, nerve and talent in the United Kingdom, setting the contestants a series of challenges week by week.
+
+2026-10-16 11:35pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-16 11:40pm
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 

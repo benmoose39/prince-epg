@@ -1,51 +1,3 @@
-2026-10-09 9:01pm
-	Salt
-A highly respected CIA agent resolves to go on the run after a defector accuses her of being a spy for the Russians.
-
-2026-10-09 10:00pm
-The Unit
-Jonas and an injured Mack find a mysterious monastery in Chile that houses an extraordinary religious artifact.
-
-2026-10-09 11:00pm
-The New Avengers
-Steed, Purdey and Gambit find themselves fighting people they thought were their friends after a network of sleeper agents, called the House of Cards, is activated.
-
-2026-10-10 12:00am
-The Baron
-In order to get an Aztec mask that is worth a fortune, John Mannering makes a deal with a crooked insurance agent.
-
-2026-10-10 1:00am
-The Persuaders!
-In order to catch a war criminal, Danny must impersonate the kidnapped Brett, but how will he explain an English Lord with a Brooklyn accent?
-
-2026-10-10 2:00am
-Good News from GREAT!
-An uplifting round-up of good news stories from the UK and around the world.
-
-2026-10-10 2:10am
-	Meteor Storm
-San Francisco becomes a target for waves of destructive meteors after a rogue comet orbits around the earth. For astronomer, Michelle Young, what was meant to be an once-in-a-lifetime celestial event, soon turns into her worst nightmare as thousands of meteors break the surface of the atmosphere and bombard the city of San Francisco.
-
-2026-10-10 3:35am
-Good News from GREAT!
-An uplifting round-up of good news stories from the UK and around the world.
-
-2026-10-10 3:45am
-Coast Guard Alaska
-Series about the US Coast Guard, stationed in Kodiak, Alaska.
-
-2026-10-10 4:35am
-Air Rescue
-The Westpac Air Rescue crew attempt a difficult rescue when they can't see anything at all.
-
-2026-10-10 5:00am
-Teleshopping
-Shopping from home.
-
-2026-10-10 5:30am
-Teleshopping
-Shopping from home.
-
 2026-10-10 6:00am
 Teleshopping
 Shopping from home.
@@ -783,6 +735,122 @@ Teleshopping
 Shopping from home.
 
 2026-10-16 5:30am
+Teleshopping
+Shopping from home.
+
+2026-10-16 6:00am
+Teleshopping
+Shopping from home.
+
+2026-10-16 6:30am
+Teleshopping
+Shopping from home.
+
+2026-10-16 7:00am
+Teleshopping
+Shopping from home.
+
+2026-10-16 7:30am
+Teleshopping
+Shopping from home.
+
+2026-10-16 8:00am
+Hitler: Uncovering His Fatal Obsession
+The story of Hitler and his penchant for barbarism and destruction, starting with his surprise Russian invasion and the anarchy that followed.
+
+2026-10-16 9:00am
+Murder Maps
+The Blackout Ripper was one of the most feared men in London during the Blitz. Hear the terror he wreaked in 1942 as he killed four women under cover of darkness.
+
+2026-10-16 10:00am
+	Abilene Town
+Marshal Dan Mitchell contends with unruly cattlemen and a group of determined homesteaders intending to settle on government land bordering the town. Hoping to rid the town of the farmers, the cowboys set fire to their camp.
+
+2026-10-16 10:56am
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-16 11:01am
+	Abilene Town
+Marshal Dan Mitchell contends with unruly cattlemen and a group of determined homesteaders intending to settle on government land bordering the town. Hoping to rid the town of the farmers, the cowboys set fire to their camp.
+
+2026-10-16 12:00pm
+The High Chaparral
+Buck Cannon goes to work as foreman for a lovely neighbouring widow, and clashes with his brother John when the job appears permanent.
+
+2026-10-16 1:00pm
+Burn Notice
+Introduced by Nate, Michael helps a Russian woman named Katya whose sister was smuggled into the US by gangsters. However, Katya cannot afford their extortionate demands, and her sister is being held captive.
+
+2026-10-16 2:00pm
+Burn Notice
+Michael is asked for help by Trevor, a former getaway driver who's gone straight. However, Trevor is being pressured into working an upcoming jewel heist by his old boss Timo, and fears for his family's safety.
+
+2026-10-16 3:00pm
+	The Au Pair Nightmare
+Trying to leave behind the memories of her fiancé, Taylor becomes an au pair for an out-of-state couple and their 8-year old daughter - but there's a dark secret behind every perfect family.
+
+2026-10-16 4:50pm
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-10-16 5:00pm
+The Unit
+Jonas and Mack go undercover to thwart their ruthless terrorist nemesis Leon Drake - the man who killed the Vice President.
+
+2026-10-16 6:00pm
+Burn Notice
+Introduced by Nate, Michael helps a Russian woman named Katya whose sister was smuggled into the US by gangsters. However, Katya cannot afford their extortionate demands, and her sister is being held captive.
+
+2026-10-16 7:00pm
+Burn Notice
+Michael is asked for help by Trevor, a former getaway driver who's gone straight. However, Trevor is being pressured into working an upcoming jewel heist by his old boss Timo, and fears for his family's safety.
+
+2026-10-16 8:00pm
+	Agent Game
+A CIA officer becomes the target of a rendition operation after being the scapegoat for the death of an interrogation subject.
+
+2026-10-16 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-16 9:01pm
+	Agent Game
+A CIA officer becomes the target of a rendition operation after being the scapegoat for the death of an interrogation subject.
+
+2026-10-16 10:00pm
+The Unit
+Jonas and Mack go undercover to thwart their ruthless terrorist nemesis Leon Drake - the man who killed the Vice President.
+
+2026-10-16 11:00pm
+The New Avengers
+After receiving a strange message alerting them to danger, Steed researches some old files while Purdey and Gambit investigate. A legendary agent has resurfaced after 17 years. Working in a German circus as an acrobat, he discovered the identity of a double agent known as White Rat and shot him in the leg. He then lost his memory, but now remembers who he is and tries to contact his spy masters.
+
+2026-10-17 12:00am
+The Baron
+Mannering's assistant is kidnapped from the shop and a ransom is demanded for his safe return; Mannering is forced to sell a fake Renoir painting to secure the money.
+
+2026-10-17 1:00am
+The Persuaders!
+Brett and Danny must smuggle an American gangster out of Italy with the police and mob on their trail.
+
+2026-10-17 2:00am
+	Disaster Zone: Volcano in New York
+A scientist's illegal experiments trigger a volcanic eruption under New York City, and it's up to a tunnel worker to save Manhattan.
+
+2026-10-17 3:30am
+Coast Guard Alaska
+One fisherman at risk of losing his arm, and a young man has had a dangerous fall. Also, another man experiences a life-threatening heart attack.
+
+2026-10-17 4:15am
+Coast Guard Alaska
+More life-saving exploits in the gripping reality series. In this edition, the team are called to the rescue of a 24-year-old fisherman. Can they winch him to safety?
+
+2026-10-17 5:00am
+Teleshopping
+Shopping from home.
+
+2026-10-17 5:30am
 Teleshopping
 Shopping from home.
 

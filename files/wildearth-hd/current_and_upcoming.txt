@@ -1,23 +1,3 @@
-2026-10-09 9:00pm
-KenyaLIVE Morning
-The Masai Mara and Kenyan National Parks, LIVE each morning. From big cats to sweeping plains, discover the daily rhythm of Africa's wild heart.
-
-2026-10-09 10:00pm
-Escape to Nature
-Relaxing sights and sounds from the African wilderness that offer a peaceful escape to nature.
-
-2026-10-09 11:00pm
-KenyaLIVE Afternoon
-The Masai Mara and Kenyan National Parks, afternoon repeat. Experience the day's wildlife encounters and vast landscapes once again.
-
-2026-10-10 12:00am
-SafariLIVE Sunset
-If you missed the LIVE show then catch up with your sunset safari here.
-
-2026-10-10 3:00am
-Safari
-An examination of the life and habitat of one of the planet's most dangerous predators, the Alaskan brown bear.
-
 2026-10-10 3:30am
 SafariLIVE Sunrise
 Jump on board a real live safari from Africa as the sun is rising. Follow and interact with the real-life stories of some of Africa's most iconic animals.
@@ -445,4 +425,76 @@ Naturalist John Ross travels to Japan and North America to observe animals that 
 2026-10-16 3:30am
 SafariLIVE Sunrise
 Jump on board a real live safari from Africa as the sun is rising. Follow and interact with the real-life stories of some of Africa's most iconic animals.
+
+2026-10-16 6:30am
+KenyaLIVE Morning
+The Masai Mara and Kenyan National Parks, LIVE each morning. From big cats to sweeping plains, discover the daily rhythm of Africa's wild heart.
+
+2026-10-16 7:30am
+Safari
+Naturalist John Ross views the giraffe, zebra and other uniquely adapted, hooved animals in Africa, each of which has evolved and developed its own means of surviving, mating, eating and rearing offspring.
+
+2026-10-16 8:00am
+Escape to Nature
+Relaxing sights and sounds from the African wilderness that offer a peaceful escape to nature.
+
+2026-10-16 9:00am
+LIVE at the Waterhole
+Sit down and relax at the edge of some of Africa's best waterholes. Watch the animals come in for their daily drink and bath while you chat with a safari expert in real time.
+
+2026-10-16 11:00am
+Escape to Nature
+Relaxing sights and sounds from the African wilderness that offer a peaceful escape to nature.
+
+2026-10-16 12:00pm
+Safari
+Naturalist John Ross heads into the remote areas of the animal world to experience the lives of animals and their struggle for survival.
+
+2026-10-16 12:30pm
+MaraLIVE Afternoon
+Africa's Heartbeat: the Masai Mara in Kenya, LIVE each afternoon. From prowling predators to vast herds, experience Africa's most iconic wilderness.
+
+2026-10-16 1:30pm
+SafariLIVE Sunset
+If you missed the LIVE show then catch up with your sunset safari here.
+
+2026-10-16 4:30pm
+Safari
+John Ross has a look at animal battles in the wild, from scorpions, to polar bears, and a fisher versus a lynx.
+
+2026-10-16 5:00pm
+Safari
+Naturalist John Ross travels to Botswana's Okavango Delta to observe the elephant, the largest land animal in the world, which numbers in the thousands even in the dry season.
+
+2026-10-16 5:30pm
+Safari
+An inside look at the unusual wildlife inhabiting India's Ranthambhore National Park, that began life in parts of Europe and Asia.
+
+2026-10-16 6:00pm
+SafariLIVE Sunrise
+Jump on board a real live safari from Africa as the sun is rising. Follow and interact with the real-life stories of some of Africa's most iconic animals.
+
+2026-10-16 9:00pm
+KenyaLIVE Morning
+The Masai Mara and Kenyan National Parks, LIVE each morning. From big cats to sweeping plains, discover the daily rhythm of Africa's wild heart.
+
+2026-10-16 10:00pm
+Escape to Nature
+Relaxing sights and sounds from the African wilderness that offer a peaceful escape to nature.
+
+2026-10-16 11:00pm
+KenyaLIVE Afternoon
+The Masai Mara and Kenyan National Parks, afternoon repeat. Experience the day's wildlife encounters and vast landscapes once again.
+
+2026-10-17 12:00am
+SafariLIVE Sunset
+If you missed the LIVE show then catch up with your sunset safari here.
+
+2026-10-17 3:00am
+Safari
+John Ross has a look at animal battles in the wild, from scorpions, to polar bears, and a fisher versus a lynx.
+
+2026-10-17 3:30am
+SafariLIVE Sunrise
+Jump on board a real LIVE safari from Africa as the sun is rising. Follow and interact with the real life stories of some of Africa's most iconic animals.
 

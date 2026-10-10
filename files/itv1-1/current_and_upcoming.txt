@@ -1,35 +1,3 @@
-2026-10-09 9:00pm
-Beat the Chasers
-Bradley Walsh hosts as the Sensational Six - The Sinnerman, The Beast, The Governess, The Menace, The Vixen and The Dark Destroyer - come together to take on Jessica, Liaqat, Stephanie, Jamie and Joanne.
-
-2026-10-09 10:00pm
-ITV News at Ten and Weather
-Includes a national weather forecast and the latest news and weather in your region.
-
-2026-10-09 10:30pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2026-10-09 10:45pm
-	GoldenEye
-The newly appointed M asks Bond to discover who is behind the skyjacking of an ultra-secret NATO Tiger helicopter and the destruction of a space weapons centre inside the Arctic Circle. Bond's mission takes him into the heart of Russia to penetrate the armaments mafia.
-
-2026-10-10 1:15am
-Teleshopping
-Shopping from home.
-
-2026-10-10 3:00am
-Long Lost Family
-In our first case, Lee Sharp's adoptive parents had told him that he was a foundling, but the Long Lost Family team discovers that this simply isn't true as the true story leads Lee to a sibling that he never knew he had.
-
-2026-10-10 3:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-10-10 5:05am
-Deal or No Deal
-Stephen Mulhern hosts as Amy gets her chance to take on the Banker - she might choose to take an offer from the Banker in exchange for what's in her box or bravely hold out until the end and be rewarded.
-
 2026-10-10 6:00am
 James Martin's Islands to Highlands
 James's final stop is in England's first National Park: The Peak District. He is joined by cooking legend Tessa Bramley, who serves him up a delicious beef fillet along with vegetables from her beautiful garden. James takes part in an unusual contest, hen racing, where he challenges a local lad and world champion to a race. After discovering some award-winning gin, James meets a local forager and samples some of his elderflower wine.
@@ -597,4 +565,96 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2026-10-16 5:05am
 Deal or No Deal
 Stephen Mulhern hosts as Wendy gets her chance to open the iconic red boxes - will she be swayed by one of the Banker's tempting cash offers for her box or hold out for a shot at the 100,000-pound jackpot?
+
+2026-10-16 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2026-10-16 9:30am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2026-10-16 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2026-10-16 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2026-10-16 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2026-10-16 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-16 2:00pm
+Dickinson's Real Deal
+David Dickinson and the team travel the country hoping for some good deals, but will the locals take the cash for their antiques or gamble at auction?
+
+2026-10-16 3:00pm
+Lingo
+Facing off are snappy-dressing East London couple Simon and Helen, French sisters Alicia and Sara-Elisabeth, and father-and-son team Jim and Jonathan from Southport.
+
+2026-10-16 4:00pm
+Deal or No Deal
+Join Stephen Mulhern as Matt gets his opportunity to open the iconic red boxes - in the game show with only one question, Matt must either say 'Deal' or 'No deal' when faced with the Banker's tempting offers.
+
+2026-10-16 5:00pm
+The Chase
+Bradley Walsh hosts as four hopefuls - Katherine from East Lothian, Rachel from London, Tom from Oxford and Nick from West Yorkshire - put their wits to the ultimate test and come together with one goal: to beat an incredibly clever Chaser and win a huge cash prize.
+
+2026-10-16 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-16 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-16 7:30pm
+It'll Be Alright on the Night
+Comedian Tom Allen uncovers hilarious cock-ups from the sets of the world's greatest TV shows featuring our favourite stars - expect unseen outtakes from our favourite dramas, comedies and entertainment shows alongside on-air mishaps from the world of news, daytime TV and sport. While caught up in the chaos are Ryan Gosling, Stephen Fry, Damian Lewis, Alison Hammond, Alan Titchmarsh, Amanda Holden and many more, the cock-ups include an alpaca using the This Morning studio floor as a toilet.
+
+2026-10-16 8:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2026-10-16 8:30pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2026-10-16 9:00pm
+Beat the Chasers
+Bradley Walsh hosts as five contestants from across the country - Ellie May, Yinka, Carl, Helen and Charles - look to win big money, but they will have to take down six of the best - The Sinnerman, The Beast, The Governess, The Menace, The Vixen and The Dark Destroyer - to do so.
+
+2026-10-16 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2026-10-16 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-16 10:45pm
+	Jurassic World: Fallen Kingdom
+Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that's about to erupt. They soon encounter terrifying new breeds of gigantic dinosaurs, while uncovering a conspiracy that threatens the entire planet.
+
+2026-10-17 12:45am
+Teleshopping
+Shopping from home.
+
+2026-10-17 3:00am
+The Essex Millionaire Murders
+The concluding part of a two-part documentary series. Detectives raid Luke D'Wit's home and seize a huge stash of prescription drugs - including fentanyl and antihistamine - that are both found in the Baxters' postmortem as police press Luke to explain his relationship to Carol Baxter's mysterious American physician Dr Andrea Bowden. Luke has been mixing 'medicinal' drinks for Carol on Dr Bowden's instructions, but detectives can find no trace of her existence.
+
+2026-10-17 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-17 5:05am
+Deal or No Deal
+Join Stephen Mulhern as Matt gets his opportunity to open the iconic red boxes - in the game show with only one question, Matt must either say 'Deal' or 'No deal' when faced with the Banker's tempting offers.
 
