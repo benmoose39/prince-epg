@@ -1,15 +1,3 @@
-2026-10-11 9:40pm
-	T2 Trainspotting
-Mark Renton reunites with old friends Spud, Sick Boy and Begbie after returning to the only place that he can ever call home.
-
-2026-10-12 12:00am
-	Passing
-In 1920s New York City, a black woman finds her world upended when her life becomes intertwined with a former childhood friend who's passing as white.
-
-2026-10-12 2:00am
-Teleshopping
-Shopping from home.
-
 2026-10-12 6:00am
 Teleshopping
 Shopping from home.
@@ -265,4 +253,28 @@ Shopping from home.
 2026-10-18 5:55am
 Teleshopping
 Shopping from home.
+
+2026-10-18 8:00am
+To Be Announced
+8:00am
+
+2026-10-18 9:00am
+To Be Announced
+9:00am
+
+2026-10-18 1:00pm
+To Be Announced
+1:00pm
+
+2026-10-18 5:00pm
+To Be Announced
+5:00pm
+
+2026-10-18 9:00pm
+To Be Announced
+9:00pm
+
+2026-10-19 1:00am
+To Be Announced
+1:00am
 
