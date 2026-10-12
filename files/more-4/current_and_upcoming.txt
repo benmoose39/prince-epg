@@ -1,15 +1,3 @@
-2026-10-12 2:50am
-Teleshopping
-Shopping from home.
-
-2026-10-12 7:55am
-Four in a Bed
-Justin hosts at his traditional English pub, The Coachman Inn, in Hartford in Cheshire, where a breakfast bombshell and the nearby train station threaten to derail his guests' stay.
-
-2026-10-12 8:30am
-Four in a Bed
-Tina and her daughter Kay welcome their rivals to the Foxhall Village Guest House in Blackpool. But the shared facilities don't wash with their guests.
-
 2026-10-12 9:00am
 Four in a Bed
 Raqeeb and Raj hope to pip their rivals to the post with their slick operation and competitive pricing at the Douglas Hotel in Hartlepool. But will a dinner ding-dong scupper their chances?
@@ -624,7 +612,7 @@ Katie has multiple broken bones and internal injuries from a horse riding accide
 
 2026-10-17 9:00pm
 24 Hours in A&E
-Seventy-year-old Jenny is brought in with a suspected stroke. Ronnie has come into St George's with severe lower back pain. Doctors assess whether the 29-year-old's pain is due to his kidney stones or something more serious.81-year-old Brian is brought by ambulance with a facial droop and spinal tingling. Doctors must quickly determine whether Brian is showing signs of a stroke or symptoms linked to a pre-existing condition.
+Leo is in A&E after crashing his car and flipping it onto its roof. Meanwhile, young Kieran has hurt his wrist coming off his skateboard and 91-year-old Lillian has had a hard fall at home.
 
 2026-10-17 10:05pm
 The Emergency Ward
@@ -640,37 +628,113 @@ Katie has multiple broken bones and internal injuries from a horse riding accide
 
 2026-10-18 1:15am
 24 Hours in A&E
-Katie has multiple broken bones and internal injuries from a horse riding accident. Amy has a deep laceration to her ankle after a lockdown party with flatmates ended badly.
+Leo is in A&E after crashing his car and flipping it onto its roof. Meanwhile, young Kieran has hurt his wrist coming off his skateboard and 91-year-old Lillian has had a hard fall at home.
 
 2026-10-18 2:20am
-Grand Designs
-Iain and Jenny plan to build an enormous black, minimalist, rectangular building in the middle of a country estate in the dramatic Scottish countryside, but it might not be to the neighbours' tastes.
+The Perfect Pitch
+The campsite critics return as hosts compete to be voted the Perfect Pitch. In North Yorkshire, first host Carol sprinkles some magic at the fantasy-themed glampsite, North Shire.
 
 2026-10-18 2:50am
 Teleshopping
 Shopping from home.
 
+2026-10-18 7:55am
+A Place in the Sun
+Loretta and Carl want the perfect Spanish bolthole in Mojácar, where they can relax and unwind whenever they like. Laura Hamilton shows them what their £100k can buy.
+
 2026-10-18 9:00am
-To Be Announced
-9:00am
+A Place in the Sun
+Anne-Marie and Adrian consider Los Cristianos in southern Tenerife their second home... so why not buy one there?! Can Jean Johansson find them the perfect place for their £160k?
+
+2026-10-18 10:00am
+A Place in the Sun
+Carpenter David from Suffolk wants a holiday home near the beach in Abruzzo on Italy's east coast. Craig Rowe has lined up five great options for his £45,000 budget.
+
+2026-10-18 11:00am
+A Place in the Sun
+Leah Charles-King helps Jenny buy her first ever property, in San Antonio, on the Balearic island of Ibiza. Leah searches for the perfect apartment close to the beach for Jenny's budget of £250k.
+
+2026-10-18 12:00pm
+A Place in the Sun
+Retirees Andrew and Robyn love the Greek way of life and can't wait to enjoy extended holidays on the island of Crete. Craig Rowe shows them what their £250k can buy.
 
 2026-10-18 1:00pm
-To Be Announced
-1:00pm
+A Place in the Sun
+Leah Charles-King helps account manager Helen and engineer Steve find the perfect holiday home in the seaside town of Benalmádena on Spain's Costa del Sol, for all the family to enjoy.
 
-2026-10-18 5:00pm
-To Be Announced
-5:00pm
+2026-10-18 2:00pm
+A Place in the Sun
+Taz and Tracy from London are looking for a holiday home on Cyprus, where Taz's family are originally from. Scarlette Douglas hopes to find them the perfect place around Protaras.
+
+2026-10-18 2:50pm
+Come Dine with Me
+In the Welsh Valleys, the first to host is dog lover Kerry Bowell-Williams. She keeps the food simple while welcoming her guests with a full Welsh choir in her driveway.
+
+2026-10-18 3:20pm
+Come Dine with Me
+Second to host in the Welsh Valleys is confident foodie Dave Morris, who hopes his home-grown herbs, hand-picked fruit and complicated menu will win him the prize.
+
+2026-10-18 3:50pm
+Come Dine with Me
+Shop owner Tasnim Sardar is third to host in the Welsh Valleys and hopes her Pakistani-inspired party will bag her the prize. Financial advisor Gill Leonard prefers her curries, like her men, to be hot and spicy.
+
+2026-10-18 4:20pm
+Come Dine with Me
+Man about town Ryan Woodward is the latest to host in the Welsh Valleys. Ryan has put a lot of thought into his dinner party and yet each of his courses goes wrong.
+
+2026-10-18 4:55pm
+Come Dine with Me
+It's the final night in the Welsh Valleys and the turn of financial advisor Gill Leonard to don the oven gloves. There's a dramatic beginning to the evening thanks to a fire breathing dragon.
+
+2026-10-18 5:25pm
+Four in a Bed
+The first visit is to Acqua Beach in Weymouth, where Charlotte Weaver and best friend Lucy Falkingham hope their quirky design and decor makes them stand out from the crowd.
+
+2026-10-18 5:55pm
+Four in a Bed
+The second visit of the competition is to Langmead Guest House in Ramsgate, where owners Derek and Lynne Love are all about keeping it simple.
+
+2026-10-18 6:25pm
+Four in a Bed
+The third visit is to The Big Green Bus in Lewes, where carpenter Adam Collier-Woods and his girlfriend Susan Lerski run an unconventional B&B on a converted double decker bus.
+
+2026-10-18 6:55pm
+Four in a Bed
+The last visit of the week is to The Pheasant in Brill, where professional chef Stephen Orr hopes his top level place will win the day.
+
+2026-10-18 7:30pm
+Four in a Bed
+Four pairs of B&B owners from all over Britain take it in turns to host, to decide which of their establishments provides the best value for money. Each time the guests were allowed to pay only what they thought their stay was worth. On the day of their departure they stuffed an envelope with the money they thought their hosts should receive. It's now time to find out how much is inside the envelopes.
+
+2026-10-18 8:00pm
+999: On the Front Line
+A young woman's hand is shaking and her speech is slightly slurred. A former nurse is living with extreme dizziness. And a pregnant woman has chest pains.
 
 2026-10-18 9:00pm
-To Be Announced
-9:00pm
+Paramedics
+Taz and Amanda treat a swimmer who collapses after leaving a sauna. Matt helps a two-year-old who's fallen unconscious.
 
-2026-10-19 1:00am
-To Be Announced
-1:00am
+2026-10-18 10:00pm
+24 Hours in A&E
+Colin is rushed to St George's after collapsing in his garage. Doctors are concerned that he has suffered a stroke. Dr Yuki, an ED doctor, reflects on life in lockdown. 88-year-old Tony is in minor injuries with crippling pain in his fingers.
 
-2026-10-19 5:00am
-To Be Announced
-5:00am
+2026-10-18 11:05pm
+Emergency Helicopter Medics
+Medics rush to help a 15-year-old who's fallen 20 feet after a large kite dragged him off his feet. Medics suspect Ellana may have a serious head injury after a road traffic collision in Leicester trapped her in her vehicle.
+
+2026-10-19 12:05am
+999: On the Front Line
+A young woman's hand is shaking and her speech is slightly slurred. A former nurse is living with extreme dizziness. And a pregnant woman has chest pains.
+
+2026-10-19 1:10am
+24 Hours in A&E
+Colin is rushed to St George's after collapsing in his garage. Doctors are concerned that he has suffered a stroke. Dr Yuki, an ED doctor, reflects on life in lockdown. 88-year-old Tony is in minor injuries with crippling pain in his fingers.
+
+2026-10-19 2:15am
+The Perfect Pitch
+The tour of North Yorkshire continues. The campers visit the tranquil, eco-friendly campsite, The Hideaway at Baxby Manor, where they forage for their food and take to the skies.
+
+2026-10-19 2:45am
+Teleshopping
+Shopping from home.
 

@@ -1,15 +1,3 @@
-2026-10-12 5:20am
-Bargain Hunt
-Indulge in a splash of seaside nostalgia with host Caroine Hawley and two more teams of antiques hunters. In Bristol, Caroline visits the Martin Parr Foundation to view a genre-defining exhibition by the late photographer Martin Parr CBE. It's 40 years since Parr produced his iconic collection of images of working-class family holidays in the Merseyside resort of New Brighton.
-
-2026-10-12 6:05am
-The Great House Revival
-Following six homeowners who have taken on the task of a lifetime: to reclaim and transform their derelict properties on the verge of ruin into comfortable modern homes, fit for the 21st century.
-
-2026-10-12 6:55am
-Match of the Day
-Mark Chapman presents highlights of three Premier League games as well as September's Goal of the Month. Manchester City face Liverpool in a highly charged fixture at Anfield, newly promoted Hull City are looking to continue their impressive start to the season at home to unbeaten Everton, and Nottingham Forest travel to Crystal Palace, who are so far without a win in the Premier League.
-
 2026-10-12 8:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -559,16 +547,16 @@ Gardeners' World
 Horticulturists offer various techniques to elevate the home gardening experience, from repositioning roses in rustic layouts to planning vibrant spring displays.
 
 2026-10-17 9:15am
-To Be Announced
-9:15am
+
+Clare Balding presents live coverage from day 4 of the Track Cycling World Championships in Shanghai, with British medal hopes in the women's madison and a world record expected in the emerging women's 1km time trial event. Analysis comes from Laura Kenny. Plus a chance to catch up on the best of the action from the first three days of competition.
 
 2026-10-17 1:15pm
-	Odette
-The true story of one of the Allies' most courageous spies, Odette Churchill, who was captured by the Gestapo and subjected to torture in an attempt to make her betray her companions.
+	North by Northwest
+Roger O Thornhill is an advertising executive mistaken for a government agent by a group of foreign spies led by James Vandamm. Initially bemused, when he is accused of murdering a UN official he is forced to go on the run. He survives murderous attacks in both auction rooms and deserted cornfields of the Midwest, leading to one of cinema's most memorable climaxes on Mount Rushmore.
 
-2026-10-17 3:10pm
+2026-10-17 3:25pm
 Flog It!
-The public are encouraged to take a risk and sell their antiques at an auction, with no guarantees as to how much they could be earning.
+Anita Manning and Michael Baggott visit the Museum of Science and Industry and Paul Martin takes an architectural tour of Manchester and checks out a replica of the first ever computer, designed and built in Manchester.
 
 2026-10-17 4:05pm
 Wilderness with Simon Reeve
@@ -579,6 +567,30 @@ Simon Reeve treks and canoes through Canada's frozen Yukon Territory, meeting re
 World War II espionage thriller scripted by Alistair MacLean from his bestseller. An elite squad of commandos are dispatched to rescue an American general held by the Nazis in a castle fortress in the Bavarian Alps. From the moment they parachute behind enemy lines, however, it becomes apparent that they face not only the might of the German army, but also a traitor in their midst.
 
 2026-10-17 7:35pm
+40 Hits of 1986 at the BBC
+7:35pm
+
+2026-10-17 10:05pm
+Top of the Pops
+The treasure troves of the BBC archives are open, so expect smoke machines, shoulder pads and perms along with studio performances from Bon Jovi, Cyndi Lauper, Cameo, The Pretenders, The Real Thing, Billy Ocean, and The Communards.
+
+2026-10-17 11:05pm
+Top of the Pops
+How did the decline of the young guns of the early 80s, the advent of house, the big bang in the money markets and political fatigue on the Left make their mark, or not, on the nation's most popular music show? Paul Heaton, Mick Hucknall, Sinitta, The Communards and Swing Out Sister are among the acts that steer us through the changes impacting Britain, the music industry and the BBC's long-serving pop powerhouse in 1986.
+
+2026-10-18 12:05am
+Saving Lives at Sea
+A French yacht has made a mayday call after suffering mechanical failure near Jersey. The St Helier crew must rescue it before it drifts onto a notoriously treacherous reef. In Porthcawl, when multiple 999 calls come in about a man who has been swept into the sea, the crew launch into the most dangerous conditions they've ever faced. Just along the south Wales coast, the Barry Dock lifeboat is tasked to two casualties on a remote island who have ingested hemlock.
+
+2026-10-18 1:05am
+Finding Britain's Slave Traders with David Olusoga
+David Olusoga explores how ending the royal monopoly sparked a massive surge in the slave trade, spreading to provincial ports as thousands invested.
+
+2026-10-18 2:05am
+
+Live coverage of the morning session on the final day of the Track Cycling World Championships in Shanghai in the company of Simon Brotherton and Chris Boardman. Featuring the early rounds of the women's keirin and men's sprint, with Britain's golden sprint couple Emma Finucane and Matthew Richardson both in action.
+
+2026-10-18 3:34am
 This Is BBC TWO
 Preview of upcoming programmes from BBC Two.
 
@@ -587,8 +599,8 @@ Landward
 Dougie is in the Borders to round up all the action from the Sheep Dog World Trial at Lauder. He finds out how the family hosting the event turned their working farm into a championship venue and also meets some of the international competitors and their dogs taking part.
 
 2026-10-18 5:30am
-To Be Announced
-5:30am
+
+Clare Balding presents continued live coverage of the final day of the Track Cycling World Championships in Shanghai, with British medal hopes in the women's Keirin and the men's Sprint in the shape of Britain's golden sprint couple Emma Finucane and Matthew Richardson. There's also the finals of the men's elimination and women's points race, with analysis from Laura Kenny.
 
 2026-10-18 9:30am
 Saturday Kitchen Best Bites
@@ -603,8 +615,8 @@ Eva enjoys Bordeaux's world-famous wines and its fresh produce and masterful Bor
 The story of the legendary breakout by World War II Allied POWs from Colditz Castle, the Germans' supposedly escape-proof fortress in Saxony. Undaunted by the threat of execution, the inmates try every conceivable means of escape - until someone hits upon the audacious idea of walking out dressed as enemy officers.
 
 2026-10-18 1:15pm
-To Be Announced
-1:15pm
+
+Manchester City play Brighton & Hove Albion in the Women's Super League.
 
 2026-10-18 3:35pm
 This Farming Life
@@ -615,10 +627,38 @@ The Book That Changed My Life
 Inspired by her passion to get people reading, Her Majesty Queen Camilla joins four remarkable people to share the stories of books that shaped them. Warm, emotional and full of hope, the film shows how reading can lift people up, open minds and even change lives in a celebration of the magic power inside every book.
 
 2026-10-18 5:35pm
-	Tinker Tailor Soldier Spy
-Called back from retirement, veteran British spy George Smiley tries to ferret out a mole in MI6, who has been feeding vital information to the Soviets.
+Flog It!
+Paul Martin presents from Wrest Park, with experts Anita Manning and Christina Trevanion. He explores the grounds at Wrest, taking a look at the nationally significant collection of statuary and finding out about the key characters who made Wrest what it is today.
 
-2026-10-18 7:33pm
+2026-10-18 6:20pm
+Eva Longoria: Searching for France
+Eva enjoys Bordeaux's world-famous wines and its fresh produce and masterful Bordelaise sauces.
+
+2026-10-18 7:00pm
+The Balkans: Europe's Forgotten Frontier
+The BBC's Europe editor, Katya Adler, travels to Croatia, Bosnia, and Albania. Thirty years since the Yugoslav wars of independence, she discovers a beautiful region undergoing rapid change.
+
+2026-10-18 8:00pm
+Wilderness with Simon Reeve
+Simon Reeve travels three thousand miles across Mongolia's deserts and mountains, searching for elusive snow leopards and meeting nomadic people who hunt with golden eagles.
+
+2026-10-18 9:00pm
+Later ... with Jools Holland
+Jools Holland brings together hot, legendary and undiscovered artists for live studio performances, interviews and musical magic.
+
+2026-10-18 9:45pm
+	Priscilla
+When teenager Priscilla Beaulieu meets Elvis Presley at a party, the man who's already a meteoric rock 'n' roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, and a gentle best friend.
+
+2026-10-18 11:35pm
+Question Time
+Fiona Bruce presents an hour of topical debate.
+
+2026-10-19 12:35am
+Not Going Out
+Lee and Lucy invite two visiting church workers inside to referee a bitter argument about money, only to learn the hard way that financial greed brings unexpected trouble.
+
+2026-10-19 1:05am
 This Is BBC TWO
 Preview of upcoming programmes from BBC Two.
 

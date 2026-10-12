@@ -1,15 +1,3 @@
-2026-10-12 3:00am
-Teleshopping
-Shopping from home.
-
-2026-10-12 7:00am
-Teleshopping
-Shopping from home.
-
-2026-10-12 8:00am
-BSL Zone
-Commissioned television programmes made in British Sign Language by Deaf people for Deaf people.
-
 2026-10-12 8:30am
 Teleshopping
 Shopping from home.
@@ -258,27 +246,39 @@ Shopping from home.
 Teleshopping
 Shopping from home.
 
-2026-10-18 9:00am
-To Be Announced
-9:00am
+2026-10-18 11:00am
+	The Black Arrow
+Richard Shelton returns victorious from the War of the Roses only to discover that his father has been murdered.
 
-2026-10-18 10:00am
-To Be Announced
-10:00am
+2026-10-18 12:35pm
+	Crash Dive
+Set aboard the USS Corsair, a submarine on active duty. Against his wishes, Ward Stewart is made executive officer and given just days to prepare. Before boarding he meets schoolteacher Jean Hewlett, and is captivated. He plans romance, unaware that she already has a sweetheart: Dewey Connors, commander of the Corsair and Stewart's boss. Will their rivalry be discovered in time?
 
-2026-10-18 2:00pm
-To Be Announced
-2:00pm
+2026-10-18 2:45pm
+	Flamin' Hot
+Richard Montanez, the son of a Mexican immigrant, was a janitor at Frito Lay when he came up with the idea for Flamin' Hot Cheetos. His creation, inspired by the flavors of his community, revitalises Frito-Lay and disrupts the food industry.
 
-2026-10-18 6:00pm
-To Be Announced
-6:00pm
+2026-10-18 4:40pm
+	Entrapment
+An unlikely partnership is formed by an insurance investigator and an ageing cat burglar. When a heavily guarded work of art is stolen, the insurance investigator persuades her employers to let her go undercover and team up with a master thief. The thief sets the woman a rigorous training programme before they embark on a series of robberies against an emotional backdrop of distrust and growing attraction.
 
-2026-10-18 10:00pm
-To Be Announced
-10:00pm
+2026-10-18 6:55pm
+	Ticket to Paradise
+A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.
 
-2026-10-19 2:00am
-To Be Announced
-2:00am
+2026-10-18 9:00pm
+	Living
+A veteran civil servant receives a medical diagnosis that inspires him to move to the south coast and cram some fun into his remaining days. He meets a sunny young female colleague who seems to have the pep that had previously escaped him.
+
+2026-10-18 11:05pm
+	Our Kind of Traitor
+Perry is on holiday in Morocco when he meets Dima, a money launderer for the Russian Mafia. When Dima asks him to help broker a deal with MI6, Perry is suddenly thrust into the dangerous world of international espionage.
+
+2026-10-19 1:15am
+	127 Hours
+When adrenaline junkie Aaron Ralston sets off to conquer a canyon in the stunning landscape of a Utah national park, he has no idea quite how bad a day he's in for. When he gets his arm stuck under a rock, he's on his own. During the 127 hours he's pinned to the canyon wall, Ralston weighs his options, and, finally, summons the sheer grit and force of will needed to commit the act that could give him a slim chance of survival.
+
+2026-10-19 3:05am
+Teleshopping
+Shopping from home.
 

@@ -1,6 +1,6 @@
-2026-10-12 5:00am
-Senedd Cymru - Welsh Parliament
-Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 7 October.
+2026-10-12 4:30am
+Select Committees
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 8 October.
 
 2026-10-12 10:30am
 Select Committees
@@ -78,7 +78,7 @@ Coverage of questions in the House of Commons to Pat McFadden, the work and pens
 House of Commons
 Highlights of proceedings in the House of Commons from Monday 12 October.
 
-2026-10-13 8:30am
+2026-10-13 9:45am
 Select Committees
 Coverage of select committee proceedings on Tuesday 13 October.
 
@@ -88,19 +88,7 @@ Coverage of questions in the House of Commons to Claire Coutinho, the energy sec
 
 2026-10-13 11:30am
 House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 13 October.
-
-2026-10-13 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 13 October.
-
-2026-10-13 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 13 October.
-
-2026-10-13 2:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Tuesday 13 October.
+Highlights of proceedings in the House of Commons from Tuesday 13 October.
 
 2026-10-13 6:30pm
 House of Lords
@@ -115,28 +103,8 @@ Lords Questions
 Questions in the House of Lords to government ministers on Tuesday 13 October.
 
 2026-10-13 10:45pm
-Lords Questions
-Business in the House of Lords on Tuesday 13 October.
-
-2026-10-13 11:45pm
 House of Lords
-Business in the House of Lords on Tuesday 13 October.
-
-2026-10-14 12:45am
-House of Lords
-Business in the House of Lords on Tuesday 13 October.
-
-2026-10-14 1:45am
-House of Lords
-Business in the House of Lords on Tuesday 13 October.
-
-2026-10-14 2:45am
-House of Lords
-Business in the House of Lords on Tuesday 13 October.
-
-2026-10-14 3:45am
-House of Lords
-Business in the House of Lords on Tuesday 13 October.
+Coverage of proceedings in the House of Lords on Tuesday 13 October.
 
 2026-10-14 6:00am
 House of Commons
@@ -146,7 +114,7 @@ Coverage of questions in the House of Commons to Claire Coutinho, the energy sec
 House of Commons
 Highlights of proceedings in the House of Commons from Tuesday 13 October.
 
-2026-10-14 8:30am
+2026-10-14 9:30am
 Select Committees
 Coverage of select committee proceedings on Wednesday 14 October.
 
@@ -159,18 +127,6 @@ Prime Minister's Questions
 Coverage of questions in the House of Commons to Andy Burnham, the Prime Minister, on Wednesday 14 October.
 
 2026-10-14 11:35am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday 14 October.
-
-2026-10-14 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday 14 October.
-
-2026-10-14 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Wednesday 14 October.
-
-2026-10-14 2:30pm
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Wednesday 14 October.
 
@@ -187,26 +143,6 @@ Lords Questions
 Questions in the House of Lords to government ministers on Wednesday 14 October.
 
 2026-10-14 10:20pm
-House of Lords
-Business in the House of Lords on Wednesday 14 October.
-
-2026-10-14 11:20pm
-House of Lords
-Business in the House of Lords on Wednesday 14 October.
-
-2026-10-15 12:20am
-House of Lords
-Business in the House of Lords on Wednesday 14 October.
-
-2026-10-15 1:20am
-House of Lords
-Business in the House of Lords on Wednesday 14 October.
-
-2026-10-15 2:20am
-House of Lords
-Business in the House of Lords on Wednesday 14 October.
-
-2026-10-15 3:20am
 House of Lords
 Business in the House of Lords on Wednesday 14 October.
 
@@ -234,47 +170,11 @@ Coverage of the announcement of future Commons business and questions to Alan Ca
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Thursday 15 October.
 
-2026-10-15 11:30am
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday 15 October.
-
-2026-10-15 12:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday 15 October.
-
-2026-10-15 1:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Thursday 15 October.
-
 2026-10-15 4:30pm
 Lords Questions
 Questions in the House of Lords to government ministers on Thursday 15 October.
 
 2026-10-15 5:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 6:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 7:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 8:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 9:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 10:15pm
-House of Lords
-Business in the House of Lords on Thursday 15 October.
-
-2026-10-15 11:15pm
 House of Lords
 Business in the House of Lords on Thursday 15 October.
 
@@ -302,22 +202,6 @@ Coverage of the day's proceedings in the House of Commons on Friday 16 October.
 House of Lords
 Business in the House of Lords on Friday 16 October.
 
-2026-10-16 3:00pm
-House of Lords
-Business in the House of Lords on Friday 16 October.
-
-2026-10-16 4:00pm
-House of Lords
-Business in the House of Lords on Friday 16 October.
-
-2026-10-16 5:00pm
-House of Lords
-Business in the House of Lords on Friday 16 October.
-
-2026-10-16 6:00pm
-House of Lords
-Business in the House of Lords on Friday 16 October.
-
 2026-10-16 7:00pm
 Select Committees
 Recorded coverage of select committee proceedings.
@@ -337,6 +221,10 @@ Coverage of questions in Stormont to the finance minister, John O'Dowd, on Monda
 2026-10-17 2:45am
 Northern Ireland Assembly
 Highlights from the Northern Ireland Assembly.
+
+2026-10-17 5:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall, including debates on the future of the UK coach industry, UK-Welsh government co-operation on tackling wildfires, police funding in the north-east, the Bromsgrove Route Enhancement Programme, and government support for youth suicide prevention charities and mental health support for young people, from Tuesday 13 October.
 
 2026-10-17 5:00am
 To Be Announced

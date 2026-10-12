@@ -1,7 +1,3 @@
-2026-10-12 5:00am
-Breakfast
-The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
-
 2026-10-12 8:30am
 Morning Live
 Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
@@ -734,6 +730,46 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2026-10-17 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-17 12:30am
+Tech Now
+Andrew Rogers has the highlights from IFA Berlin, one of the world's biggest tech shows. Lara Lewington finds out why Kew Wakehurst botanic garden has become a living laboratory.
+
+2026-10-17 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-17 1:30am
+Clive Myrie's African Adventure
+Clive lends a hand at a penguin rehab centre, jams with up-and-coming jazz talent Q Ntshinka and learns the art of Cape Malay cooking in the city's colourful Bo-Kaap district.
+
+2026-10-17 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-17 2:30am
+The Climate Question
+Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?
+
+2026-10-17 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-17 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-10-17 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-17 4:30am
+The Travel Show
+As Port Talbot and Pontypridd compete to be the UK's first-ever Town of Culture, Rob Bell explores southern Wales to find out what the title would mean for these formerly industrial areas.
+
 2026-10-17 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -830,6 +866,42 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2026-10-18 12:30am
+The Security Brief
+The war in Ukraine has transformed modern warfare. Drones, AI and rapidly evolving tactics are being implemented by both sides. What has the world learnt, and where does the war go next? BBC presenter Christian Fraser and resident analyst, former senior British military officer Mikey Kay are joined by special guests and a studio audience.
+
+2026-10-18 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-18 1:30am
+Unspun World with John Simpson
+John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
+
+2026-10-18 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-18 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-10-18 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-18 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-10-18 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-18 4:30am
+Clive Myrie's African Adventure
+Clive lends a hand at a penguin rehab centre, jams with up-and-coming jazz talent Q Ntshinka and learns the art of Cape Malay cooking in the city's colourful Bo-Kaap district.
+
 2026-10-18 5:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -843,12 +915,12 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-10-18 6:50am
+Match of the Day
+Highlights of Saturday's five Premier League matches, including Manchester City at home to newly promoted Ipswich Town and Liverpool's trip to high-flying Brentford. Elsewhere, Everton take on Xabi Alonso's new-look Chelsea, Aston Villa travel to Newcastle, and Fulham take on a Hull City side looking to build on their impressive start to life back in the Premier League. Kelly Cates presents.
+
+2026-10-18 8:00am
 Sunday with Laura Kuenssberg
 The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
-
-2026-10-18 7:49am
-To Be Announced
-7:49am
 
 2026-10-18 9:00am
 Politics London
@@ -880,7 +952,7 @@ Detailed weather forecast.
 
 2026-10-18 12:15pm
 Songs of Praise
-On the second Sunday of Advent, Aled Jones hosts the final of BBC Young Chorister of the Year with six talented singers and judges Lesley Garrett, Howard Goodall and David Grant.
+Aled Jones and the Rev Kate Bottley present the final of BBC Young Chorister of the Year, with judges David Grant, Cameron Richardson and Laura Wright.
 
 2026-10-18 1:00pm
 	Shrek Forever After
@@ -907,32 +979,92 @@ BBC Weather
 The latest weather forecast.
 
 2026-10-18 4:40pm
+Countryfile
+How do you protect Britain's busiest mountain when more than 600,000 people visit each year? Charlotte Smith and Joe Crowley head to Yr Wyddfa to meet the people caring for its landscape.
+
+2026-10-18 5:40pm
+The Reluctant Vampire
+Leading a double life is proving tricky for Val. Victor's nemesis visits the castle, and Val realises he needs to be in two places at once to keep friends and family happy.
+
+2026-10-18 6:10pm
+Strictly Come Dancing
+The atmosphere in the ballroom is tense as our remaining couples wait to discover their fate. Emma, Josh and Jojo reveal who is safely through to another week of dancing.
+
+2026-10-18 7:00pm
+Antiques Roadshow
+Fiona Bruce and the team uncover the fascinating stories behind valuable personal items.
+
+2026-10-18 8:00pm
+Time
+Following life in prison as inmates and officers face guilt, violence and impossible choices. For Orla, Abi and Kelsey, three women entering prison on the same day, life behind bars poses a range of different challenges.
+
+2026-10-18 9:00pm
 BBC London News
 News, sport and weather from London.
-
-2026-10-18 5:04pm
-To Be Announced
-5:04pm
 
 2026-10-18 9:25pm
 BBC London News
 News, sport and weather from London.
 
 2026-10-18 9:30pm
+Match of the Day
+Highlights and key analysis from all the day's games in the Premier League.
+
+2026-10-18 10:40pm
 	Children of Men
 In England 2027, worldwide infertility has left the population on the brink of extinction and all hope of a cure is lost. However, underground activist Julian shows up with a miraculously pregnant girl.
 
-2026-10-18 11:08pm
-To Be Announced
-11:08pm
-
 2026-10-19 12:20am
+The Graham Norton Show
+Quentin Tarantino, Ellen DeGeneres, Colin Farrell and Gemma Chan join Graham on his sofa.
+
+2026-10-19 1:10am
 Weather for the Week Ahead
 Detailed weather forecast.
 
-2026-10-19 12:25am
+2026-10-19 1:15am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-19 1:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-19 1:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-19 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-19 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-19 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-19 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-19 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-19 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-19 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-19 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-10-19 5:00am
 Breakfast
