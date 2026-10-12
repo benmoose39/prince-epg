@@ -1,47 +1,3 @@
-2026-10-12 6:00am
-Good Morning Britain
-Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
-
-2026-10-12 9:30am
-Lorraine
-Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
-
-2026-10-12 10:00am
-This Morning
-Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
-
-2026-10-12 12:30pm
-Loose Women
-A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
-
-2026-10-12 1:30pm
-ITV Lunchtime News
-The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
-
-2026-10-12 1:55pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2026-10-12 2:00pm
-Dickinson's Real Deal
-David Dickinson presents from the RAF Museum in north London as one seller travels all the way from Brighton with his Moorcroft collection just to meet Alison Chapman.
-
-2026-10-12 3:00pm
-Lingo
-Playing against each other are mother and son Natalie and Dante, husband and wife Tharun and Honey, and list-lover Jonathan and his partner Declan.
-
-2026-10-12 4:00pm
-Deal or No Deal
-Stephen Mulhern hosts as Nay Nay gets her chance to open the iconic red boxes - she may be swayed by one of the Banker's tempting cash offers for her box or hold out for a shot at the 100,000-pound jackpot.
-
-2026-10-12 5:00pm
-The Chase
-Bradley Walsh hosts as Mark from Edinburgh, Suzi from Hemel Hempstead, Tracey from Sutton Coldfield and Aaron from London hope that they can take home thousands of pounds together.
-
-2026-10-12 6:00pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
 2026-10-12 6:30pm
 ITV Evening News
 The latest headlines from around the world. Followed by a national weather forecast.
@@ -479,50 +435,182 @@ Deal or No Deal
 Join Stephen Mulhern as Matt gets his opportunity to open the iconic red boxes - in the game show with only one question, Matt must either say 'Deal' or 'No deal' when faced with the Banker's tempting offers.
 
 2026-10-17 6:00am
-To Be Announced
-6:00am
+	Casino Royale
+Spoof in which Sir James Bond is brought out of retirement to save the world from the machinations of the criminal organisation SMERSH. Reluctant to return to the dangers of his old lifestyle, he hands his licence to kill to his nephew.
 
-2026-10-17 10:00am
-To Be Announced
-10:00am
+2026-10-17 8:20am
+James Martin's American Adventure
+James Martin's American Adventure continues with a drive towards Louisiana's swamplands, where he ditches his car for a high-speed boat! The unique watery wonderland provides James with the perfect location to cook a stunning recipe. All he has to do is make sure that he avoids the alligators! James also discovers nearby Lafayette, a city with a great foodie legacy, where he visits family-run smokehouse Johnson's Boucaniere.
 
-2026-10-17 2:00pm
-To Be Announced
-2:00pm
+2026-10-17 9:25am
+ITV News
+The latest national and international news.
+
+2026-10-17 9:30am
+James Martin's Saturday Morning
+James Martin is cooking two vegan dishes for the hugely popular comedian and TV presenter Sara Pascoe. His guest chefs are Francesco Mazzei and Richard Bertinet, alongside a new chef to the show - two-Michelin-starred Allister Barsby.
+
+2026-10-17 12:00pm
+Clodagh: Cooking at Home
+Clodagh's throwing a big gathering for friends and family in her garden with a super easy menu. There's a great green speedy garden herb dip, crowd-pleasing chocolate beef chilli that's next-level delicious and a showstopping French classic tarte Tatin using a Clodagh favourite shortcut, shop-bought puff pastry. There are cocktails and an impressive table setting mixing vegetables and flowers, both perfect for Clodagh's fun get-together.
+
+2026-10-17 12:30pm
+ITV News
+The latest national and international news.
+
+2026-10-17 12:45pm
+
+Francesca Cumani and Ed Chamberlin present seven races at Ascot on Champions Day. The final day of the UK flat season will see young jockey Billy Loughnane crowned Champion jockey in amongst a superb day of racing with plenty of top-level action including the feature Queen Elizabeth II Stakes for the milers and the Champion Stakes itself. Analysis from Jason Weaver, Ruby Walsh and Adele Mulrennan, reporting from Matt Chapman, Luke Harvey and Oli Bell, and commentary from Richard Hoiles.
+
+2026-10-17 5:00pm
+Tipping Point: Lucky Stars
+Kicking the ninth series of the show off with a bang are national treasure Christopher Biggins, chef extraordinaire Rosemary Shrager, and rugby legend Gareth Chilcott as they all chase that elusive jackpot counter.
 
 2026-10-17 6:00pm
-To Be Announced
-6:00pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
 
-2026-10-17 10:00pm
-To Be Announced
-10:00pm
+2026-10-17 6:15pm
+ITV News London
+The latest news in London and the South East, plus local weather.
 
-2026-10-18 2:00am
-To Be Announced
-2:00am
+2026-10-17 6:30pm
+The Chase
+Bradley Walsh asks the questions as all that stands between Sarah from Cirencester, James from Dartford, Sandy from Culross, Helena originally from Liverpool, and thousands of pounds is one of the Chasers.
+
+2026-10-17 7:30pm
+Win Win with People's Postcode Lottery
+The stakes are getting higher as Mel Giedroyc and Sue Perkins host another thrilling episode. There's a spectacular new line-up of prizes to be won in the studio - with three viewers playing along from home winning the exact same prizes. Plus, another lucky home winner makes the leap from sofa to studio to claim their place on Millionaire's Row.
+
+2026-10-17 8:35pm
+The Voice UK
+Music superstars take on the role of coaches to find the UK's next great voice. The singer begins their audition with the coaches turned away. If the judge likes what they hear, they hit a button to spin around and reveal the face behind the voice.
+
+2026-10-17 9:50pm
+ITV News
+The latest national and international news.
+
+2026-10-17 10:10pm
+Romesh Ranganathan's Parents' Evening
+Things get tense as Alison Hammond and her son Aidan, Iain Stirling and his mum Alison, and Carol Vorderman and her son Cameron expose just how much faith they have in each other - Aidan comes close to damaging 'the Hammond brand', Carol makes life difficult for Cameron, Romesh's mum Shanthi has her head turned by the sight of Iain in long johns, and Carol's ambition for intergalactic romance inspires Shanthi in ways that leave Romesh speechless.
+
+2026-10-17 11:05pm
+English Football League Highlights
+Action from the day's fixtures across the Football League, including Middlesbrough v Cardiff, Watford v Charlton and Swansea v West Ham in the Championship.
+
+2026-10-18 12:35am
+Teleshopping
+Shopping from home.
+
+2026-10-18 3:00am
+Dermot's Taste of Ireland
+From flecked Donegal tweed to fiery railway curry and buttery apple pie, Dermot discovers the magic hidden in the streets of Donegal Town.
+
+2026-10-18 3:25am
+Clodagh: Cooking at Home
+Clodagh's throwing a big gathering for friends and family in her garden with a super easy menu. There's a great green speedy garden herb dip, crowd-pleasing chocolate beef chilli that's next-level delicious and a showstopping French classic tarte Tatin using a Clodagh favourite shortcut, shop-bought puff pastry. There are cocktails and an impressive table setting mixing vegetables and flowers, both perfect for Clodagh's fun get-together.
+
+2026-10-18 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-18 5:05am
+Fletchers' Family Farm
+This week Kelvin and Liz make plans to expand their arable ambitions. The kids get hands-on during lambing, and the whole family enjoys a bluebell walk through their woodland.
 
 2026-10-18 6:00am
-To Be Announced
-6:00am
+The Voice UK
+Music superstars take on the role of coaches to find the UK's next great voice. The singer begins their audition with the coaches turned away. If the judge likes what they hear, they hit a button to spin around and reveal the face behind the voice.
 
-2026-10-18 10:00am
-To Be Announced
-10:00am
+2026-10-18 7:00am
+James Martin's Saturday Morning
+James Martin is cooking two vegan dishes for the hugely popular comedian and TV presenter Sara Pascoe. His guest chefs are Francesco Mazzei and Richard Bertinet, alongside a new chef to the show - two-Michelin-starred Allister Barsby.
 
-2026-10-18 2:00pm
-To Be Announced
-2:00pm
+2026-10-18 9:25am
+ITV News
+The latest national and international news.
 
-2026-10-18 6:00pm
-To Be Announced
-6:00pm
+2026-10-18 9:30am
+Love Your Weekend with Alan Titchmarsh
+Mark Benton, Elizabeth Carling and Ted Lasso star Bill Fellows join Alan Titchmarsh. Elsewhere, it's been called the Sport of Kings - we're at the polo. Plus, Florist Simon Lycett creates a new centrepiece for our barn using seasonal blooms, and we have the perfect crisp and wine pairings in Best of British.
+
+2026-10-18 11:30am
+Fletchers' Family Farm
+This series follows actor Kelvin Fletcher as he takes on the biggest role of his career as a real-life farmer - Kelvin and his wife Liz may be novices, but they are no fools.
+
+2026-10-18 12:30pm
+Cooking with the Stars
+Emma Willis and Tom Allen host as three new stars - Happy Mondays band member Bez, TV personality Scarlett Moffat and presenter Zara McDermott - and their mentors go head-to-head in a 3-way cooking battle. They'll have to produce gourmet dishes with a budget of just £3 a portion. If they fail to impress with their culinary creations, two of the stars will have to face the cook-off - where one star will leave the competition.
+
+2026-10-18 1:00pm
+Talking Royals
+Charlene White hosts a round-up of royal news with expert analysis from ITV News Royal Editor Chris Ship, ITV News royal expert Lizzie Robinson and a host of guests.
+
+2026-10-18 1:30pm
+ITV News
+The latest national and international news.
+
+2026-10-18 1:45pm
+	Tomorrow Never Dies
+A media baron sets about triggering World War III so that his 24-hour news network can profit from exclusive coverage of the conflict. As an international crisis looms, James Bond is shaken from his extracurricular duties and stirred into action.
+
+2026-10-18 4:00pm
+Celebrity Lingo
+Adil Ray hosts the game of words as journalist Cathy Newman and wordsmith Gyles Brandreth compete against Loose Women's Kaye Adams and Morning Live's Dr Ranj Singh for charity.
+
+2026-10-18 4:30pm
+Tipping Point: Lucky Stars
+Cricketing legend Phil Tufnell, former Olympic athlete Colin Jackson, and Emmerdale actress Lisa Riley will need quick wits and nerves of steel if they're to master the machine.
+
+2026-10-18 5:30pm
+The Chase
+When four people who have never met before - Jayne from Glossop, Eileen from Carrickfergus, Matthew from West Yorkshire and Keith from St Albans - take on a Chaser, Bradley Walsh guides the contestants through a battle of wits in the hope that they'll go home with thousands of pounds.
+
+2026-10-18 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-18 6:45pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-18 7:00pm
+Celebrity Catchphrase
+Joe Swash, Joanna Page and Angellica Bell join Stephen Mulhern as they try to 'say what they see' and guess well-known phrases for their chance to win 50,000 pounds for charity.
+
+2026-10-18 8:00pm
+Who Wants to Be a Millionaire?
+Tense game show where contestants compete for a top prize of one million pounds - they must answer 15 questions correctly and have just four lifelines to help them.
+
+2026-10-18 9:00pm
+The Party
+Tensions escalate between Martin and Ben until tragedy strikes. Can they finally reconcile with the truth of their past or will it destroy them?
 
 2026-10-18 10:00pm
-To Be Announced
-10:00pm
+ITV News
+The latest national and international news.
 
-2026-10-19 2:00am
-To Be Announced
-2:00am
+2026-10-18 10:20pm
+Exposure
+A series consisting of films made by different producers about a range of subject matters including foreign and domestic topics, human stories, and exclusive investigations.
+
+2026-10-18 11:40pm
+Inside The Langham: Britain's First Grand Hotel
+As Michel Roux hosts the biggest dinner of the year, chef Oliver must manage a culinary crisis and Alice prepares a 10,000-pound-a-night suite for a demanding guest.
+
+2026-10-19 12:00am
+Teleshopping
+Shopping from home.
+
+2026-10-19 3:00am
+Motorsport UK
+Richard John Neil has a look at the action across a variety of the UK's domestic motor sport championships.
+
+2026-10-19 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-19 5:05am
+Joanna Lumley's Danube
+The first leg of Joanna Lumley's epic adventure along the river Danube takes her from Germany's Black Forest into the wine valleys of Austria and on to Vienna.
 
