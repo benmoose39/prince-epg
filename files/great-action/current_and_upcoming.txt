@@ -1,19 +1,3 @@
-2026-10-13 6:00am
-Teleshopping
-Shopping from home.
-
-2026-10-13 6:30am
-Teleshopping
-Shopping from home.
-
-2026-10-13 7:00am
-Teleshopping
-Shopping from home.
-
-2026-10-13 7:30am
-Teleshopping
-Shopping from home.
-
 2026-10-13 8:00am
 Murder Maps
 Re-examining the notorious crimes of Jack the Ripper, the most famous serial killer in history.
@@ -71,6 +55,14 @@ Burn Notice
 Sam works a case for a woman named Gillian who's being blackmailed into using her security clearance to help smuggle heroin into the US. Meanwhile, Michael arranges a meeting with the man who he believes burnt him.
 
 2026-10-13 8:00pm
+	Terminator 3: Rise of the Machines
+Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
+
+2026-10-13 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-13 9:01pm
 	Terminator 3: Rise of the Machines
 Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
 
@@ -318,21 +310,25 @@ Andy, a mobile phone salesman, was conned into investing in a fake Cuban nightcl
 	Salt
 A highly respected CIA agent resolves to go on the run after a defector accuses her of being a spy for the Russians.
 
-2026-10-15 10:20pm
+2026-10-15 10:10pm
 The Unit
 The team tries to rescue Jonas' old friend, but a broken helicopter gas tank and guerrillas impede the mission; Tom tries to get information from a recovering alcoholic whose husband might have been behind a terrorist attack.
 
-2026-10-15 11:20pm
+2026-10-15 11:10pm
 The New Avengers
 When five top agents die of natural causes, Steed suspects foul play. Having put the clues together, Steed and Gambit realise that Purdey is in grave danger.
 
-2026-10-16 12:20am
+2026-10-16 12:10am
 The Baron
 Follows the adventures of an antiques dealer who works as an undercover spy for British intelligence.
 
-2026-10-16 1:20am
+2026-10-16 1:10am
 The Persuaders!
 After Danny Wilde buys a cottage in the country, the danger for him and Brett comes at no extra charge.
+
+2026-10-16 2:10am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
 
 2026-10-16 2:20am
 	Firequake
@@ -434,23 +430,23 @@ Taking the viewer back in time with a look at news headlines from this week, bac
 	Agent Game
 A CIA officer becomes the target of a rendition operation after being the scapegoat for the death of an interrogation subject.
 
-2026-10-16 10:00pm
+2026-10-16 9:55pm
 The Unit
 Jonas and Mack go undercover to thwart their ruthless terrorist nemesis Leon Drake - the man who killed the Vice President.
 
-2026-10-16 11:00pm
+2026-10-16 10:55pm
 The New Avengers
 After receiving a strange message alerting them to danger, Steed researches some old files while Purdey and Gambit investigate. A legendary agent has resurfaced after 17 years. Working in a German circus as an acrobat, he discovered the identity of a double agent known as White Rat and shot him in the leg. He then lost his memory, but now remembers who he is and tries to contact his spy masters.
 
-2026-10-17 12:00am
+2026-10-16 11:55pm
 The Baron
 Mannering's assistant is kidnapped from the shop and a ransom is demanded for his safe return; Mannering is forced to sell a fake Renoir painting to secure the money.
 
-2026-10-17 1:00am
+2026-10-17 12:55am
 The Persuaders!
 Brett and Danny must smuggle an American gangster out of Italy with the police and mob on their trail.
 
-2026-10-17 2:00am
+2026-10-17 1:55am
 	Disaster Zone: Volcano in New York
 A scientist's illegal experiments trigger a volcanic eruption under New York City, and it's up to a tunnel worker to save Manhattan.
 
@@ -487,50 +483,62 @@ Teleshopping
 Shopping from home.
 
 2026-10-17 8:00am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-10-17 8:10am
 Raiders of the Lost Art
 The incredible da Vinci works that were lost to history. The Mona Lisa was even stolen from the Louvre in 1911, with artist Pablo Picasso accused of the crime!
 
-2026-10-17 8:30am
+2026-10-17 8:40am
 Murder Maps
 Hear how grim discoveries made in Brighton train station and King's Cross in the summer of 1934 sparked a huge police probe - and took a surprise turn.
 
-2026-10-17 9:30am
+2026-10-17 9:40am
 World War II & Cinema
 It's the 1940s, and with the whole world at war, the USA and the UK join forces both in action and on the big screen.
 
-2026-10-17 10:30am
+2026-10-17 10:40am
 	We Dive at Dawn
 A mission to hunt and destroy a dangerous German battleship in the Baltic goes wrong when the British submarine runs short on fuel. A crew member with a flair for the German language is forced to disembark on an enemy-occupied Danish island.
 
-2026-10-17 12:35pm
+2026-10-17 12:45pm
 	Ten Wanted Men
 An Arizona rancher is trying to keep peaceful order on his land, but his efforts are thwarted by a rival who prefers to use force to get what he wants. Things get worse when the rival recruits nine other men to help him get rid of the competition.
 
-2026-10-17 2:20pm
-	The Stranger Wore a Gun
-A spy turned bank robber decides in the middle of a big gold heist that he wants to reform and leave his life of robbery behind.
-
-2026-10-17 3:16pm
+2026-10-17 1:41pm
 This Week Back Then
 Taking the viewer back in time with a look at news headlines from this week, back then.
 
-2026-10-17 3:21pm
+2026-10-17 1:46pm
+	Ten Wanted Men
+An Arizona rancher is trying to keep peaceful order on his land, but his efforts are thwarted by a rival who prefers to use force to get what he wants. Things get worse when the rival recruits nine other men to help him get rid of the competition.
+
+2026-10-17 2:30pm
 	The Stranger Wore a Gun
 A spy turned bank robber decides in the middle of a big gold heist that he wants to reform and leave his life of robbery behind.
 
-2026-10-17 4:10pm
+2026-10-17 3:26pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-17 3:31pm
+	The Stranger Wore a Gun
+A spy turned bank robber decides in the middle of a big gold heist that he wants to reform and leave his life of robbery behind.
+
+2026-10-17 4:15pm
 	Comanche Station
 Three outlaws conspire against a cowboy who is escorting the woman he rescued from Comanches back to her husband.
-
-2026-10-17 5:06pm
-This Week Back Then
-Taking the viewer back in time with a look at news headlines from this week, back then.
 
 2026-10-17 5:11pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-17 5:16pm
 	Comanche Station
 Three outlaws conspire against a cowboy who is escorting the woman he rescued from Comanches back to her husband.
 
-2026-10-17 5:55pm
+2026-10-17 6:00pm
 	Sniper: Legacy
 Brandon tracks down assassins after they kill several military leaders.
 
@@ -538,19 +546,27 @@ Brandon tracks down assassins after they kill several military leaders.
 	Terminator 3: Rise of the Machines
 Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
 
+2026-10-17 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-17 9:01pm
+	Terminator 3: Rise of the Machines
+Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
+
 2026-10-17 10:25pm
 	Death Race 2000
 Futuristic black comedy about a race in which competitors gain points by running over pedestrians. The Transcontinental Death Race is televised nationwide as the defending champion, dressed in black leather and a cape, is challenged by a gun-toting gangster, a feminist outlaw and a revolutionary spy.
 
-2026-10-18 12:15am
+2026-10-18 12:05am
 The Baron
 Mannering travels to a war-ravaged country in order to retrieve a valuable statuette; attempting to return to London, Mannering finds himself impeded by the tyrannical government's secret police.
 
-2026-10-18 1:15am
+2026-10-18 1:05am
 	Seattle Superstorm
 A Nasa scientist and a US Navy officer get engaged, but find their children from previous relationships cannot get along. The family must work together when a UFO crash creates a series of storms that threaten to spread across the world.
 
-2026-10-18 2:45am
+2026-10-18 2:40am
 Air Rescue
 Documentary series following the high-stakes work and real-life drama of the crews in the Westpac Rescue Helicopter Service.
 
@@ -614,11 +630,11 @@ In 1955, London nightclub manager Ruth Ellis confesses to the murder of her abus
 	The Cruel Sea
 During World War II, the captain and crew of a British warship face the perils of Germany's deadly U-boats.
 
-2026-10-18 11:16am
+2026-10-18 11:18am
 This Week Back Then
 Taking the viewer back in time with a look at news headlines from this week, back then.
 
-2026-10-18 11:21am
+2026-10-18 11:23am
 	The Cruel Sea
 During World War II, the captain and crew of a British warship face the perils of Germany's deadly U-boats.
 
@@ -638,15 +654,27 @@ American troops land unopposed on Italian beaches during World War II, but inste
 	Run Silent, Run Deep
 Tense WWII tale in which a submarine officer, obsessed with sinking a Japanese warship, falls foul of his second in command and a mutinous crew.
 
-2026-10-18 4:26pm
+2026-10-18 4:28pm
 This Week Back Then
 Taking the viewer back in time with a look at news headlines from this week, back then.
 
-2026-10-18 4:31pm
+2026-10-18 4:33pm
 	Run Silent, Run Deep
 Tense WWII tale in which a submarine officer, obsessed with sinking a Japanese warship, falls foul of his second in command and a mutinous crew.
 
 2026-10-18 5:35pm
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-10-18 5:45pm
+	Terminator 3: Rise of the Machines
+Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
+
+2026-10-18 6:41pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-18 6:46pm
 	Terminator 3: Rise of the Machines
 Sequel in which a benevolent cyborg is sent from a chaotic future to protect a human resistance leader in his 20s from being destroyed by a ruthless killing machine. The man has attempted to slip into anonymity in the knowledge that his leadership will be needed in the future, as the powers that will rise are already swelling in the present day.
 
@@ -654,15 +682,23 @@ Sequel in which a benevolent cyborg is sent from a chaotic future to protect a h
 Wanted: Dead or Alive
 Josh Randall is a veteran of the Civil War turned bounty hunter. He wanders the Wild West capturing outlaws.
 
+2026-10-18 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-18 9:01pm
+	Wanted: Dead or Alive
+A modern-day bounty hunter joins forces with his former CIA superiors to track down an Arab terrorist.
+
 2026-10-18 10:20pm
 	The Duel
 In 1866, a Texas Ranger investigates some deaths in a town ruled by a religious authoritarian whose past contains a disturbing link to his own.
 
-2026-10-18 11:16pm
+2026-10-18 11:18pm
 This Week Back Then
 Taking the viewer back in time with a look at news headlines from this week, back then.
 
-2026-10-18 11:21pm
+2026-10-18 11:23pm
 	The Duel
 In 1866, a Texas Ranger investigates some deaths in a town ruled by a religious authoritarian whose past contains a disturbing link to his own.
 
@@ -767,6 +803,14 @@ Burn Notice
 Michael is hired to track down nearly a million dollars worth of pharmaceuticals that were stolen by thieves while being shipped to Tanzania.
 
 2026-10-19 8:00pm
+	Contract to Kill
+A government agent and his team must prevent Islamic extremists from attacking America.
+
+2026-10-19 8:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-10-19 9:01pm
 	Contract to Kill
 A government agent and his team must prevent Islamic extremists from attacking America.
 

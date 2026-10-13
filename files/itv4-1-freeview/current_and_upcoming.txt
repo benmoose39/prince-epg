@@ -14,22 +14,6 @@ This Is ITV4+1
 Shop: Ideal World
 5:00am
 
-2026-10-14 6:00am
-This Is ITV4+1
-6:00am
-
-2026-10-14 1:00pm
-This Is ITV4+1
-1:00pm
-
-2026-10-14 9:00pm
-This Is ITV4+1
-9:00pm
-
-2026-10-15 5:00am
-Shop: Ideal World
-5:00am
-
 2026-10-15 6:00am
 This Is ITV4+1
 6:00am
@@ -43,54 +27,6 @@ This Is ITV4+1
 9:00pm
 
 2026-10-16 5:00am
-Shop: Ideal World
-5:00am
-
-2026-10-16 6:00am
-This Is ITV4+1
-6:00am
-
-2026-10-16 1:00pm
-This Is ITV4+1
-1:00pm
-
-2026-10-16 9:00pm
-This Is ITV4+1
-9:00pm
-
-2026-10-17 5:00am
-Shop: Ideal World
-5:00am
-
-2026-10-17 6:00am
-This Is ITV4+1
-6:00am
-
-2026-10-17 1:00pm
-This Is ITV4+1
-1:00pm
-
-2026-10-17 9:00pm
-This Is ITV4+1
-9:00pm
-
-2026-10-18 5:00am
-Shop: Ideal World
-5:00am
-
-2026-10-18 6:00am
-This Is ITV4+1
-6:00am
-
-2026-10-18 1:00pm
-This Is ITV4+1
-1:00pm
-
-2026-10-18 9:00pm
-This Is ITV4+1
-9:00pm
-
-2026-10-19 5:00am
 Shop: Ideal World
 5:00am
 
