@@ -1,31 +1,3 @@
-2026-10-14 10:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-14 11:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-14 11:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-10-14 12:00pm
-Al Jazeera World
-A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
-
-2026-10-14 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-14 2:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-14 2:30pm
-Talk to Al Jazeera
-Fatih Birol
-
 2026-10-14 3:00pm
 Newshour
 Latest news and in-depth analysis from around the world.
@@ -72,7 +44,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-14 10:30pm
 Fault Lines
-As deaths in U.S. immigration detention rise, Fault Lines investigates the case of a man who died after repeatedly asking for medical care.
+From the heart of a superpower in crisis, Fault Lines digs deeper into what's driving the big stories in the USA.
 
 2026-10-14 11:00pm
 News
