@@ -1,31 +1,3 @@
-2026-10-13 9:30pm
-Newsnight
-Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
-
-2026-10-13 9:58pm
-BBC Weather
-The latest weather forecast.
-
-2026-10-13 10:00pm
-Being Muslim After 9/11
-After long careers exploring British Muslim life as journalists and film-makers, Mobeen Azhar and Masood Khan revisit their archive, reconnect with old interviewees and meet a wider range of people with important stories to tell, seeking to understand how things have changed for their community in the 25 years since 9/11.
-
-2026-10-13 11:05pm
-Damilola: The Untold Story
-Made 26 years after the murder of 10-year-old Damilola Taylor shocked Britain, this documentary returns to his story with new testimony that sheds fresh light on what happened to him.
-
-2026-10-14 12:20am
-The Celebrity Traitors
-As the players go deeper into the game, a new day brings new suspicions amongst the Faithful. The mission forces the celebrities to work in teams under terrifying conditions, and with the murdering hour approaching, the players take their seats at the Round Table. Will the Faithful work as a team to uncover a Traitor?
-
-2026-10-14 1:25am
-The Celebrity Traitors: Uncloaked
-Ed chats to any banished and murdered players from episode 4. Find out their reactions as they discover the Traitors' identities. Former players dissect all the latest castle action and game playing.
-
-2026-10-14 1:50am
-This Is BBC TWO
-Preview of upcoming programmes from BBC Two.
-
 2026-10-14 5:30am
 Escape to the Country
 The presenters take the prospective buyers around to different houses in the country. The desire for more room, cleaner air and less noise drives city dwellers to seek an escape to the country.
@@ -601,4 +573,100 @@ Preview of upcoming programmes from BBC Two.
 2026-10-20 5:30am
 Bargain Hunt
 It is youth versus experience as a quirky red team shop against the more senior blues at the Bath and West Showground near Shepton Mallet. A large pair of cattle horns and some Dalton cauldrons are among the items up for auction in Bristol. Guiding the teams are antique experts Jeremy Lamond and Henry Meadows. Presenter Tim Wonnacott takes time out to visit William Morris's country residence in the Cotswolds.
+
+2026-10-20 6:15am
+Garden Rescue
+Charlie and Flo travel to Stourbridge to help Vicki and Mark transform their barren garden into a stunning bumblebee haven.
+
+2026-10-20 7:00am
+Clive Myrie's Caribbean Adventure
+Clive heads east towards the wild beauty of Jamaica's longest mountain range. He catches up with his sister, Judith, who has recently moved from the UK to live on the island.
+
+2026-10-20 7:30am
+Only Connect
+Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. Three rowers take on a team of microbiologists in finding connections between apparently random clues.
+
+2026-10-20 8:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-20 11:15am
+Politics Live
+Engaging conversation about the political issues that matter to you.
+
+2026-10-20 12:00pm
+Impossible
+Thirty players compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.
+
+2026-10-20 12:45pm
+The Answer Run
+Three couples face a series of 50/50 questions which hurtle The Answer Run down towards them. Across three rounds, the couples build up their cash pots, but only one pair can face The Final Run and win the chance to take home their cash prize.
+
+2026-10-20 1:30pm
+The Boss
+Susan Calman hosts the quiz show where being in control is everything. Who will emerge as the Boss and walk away with the cash? Only the strongest players will survive the game.
+
+2026-10-20 2:15pm
+Great British Railway Journeys
+Michael Portillo is in Ironbridge Gorge on the River Severn, a hotbed of 18th-century innovation which features the world's first coke blast iron furnace.
+
+2026-10-20 2:45pm
+The Great House Revival
+Following six homeowners who have taken on the task of a lifetime: to reclaim and transform their derelict properties on the verge of ruin into comfortable modern homes, fit for the 21st century.
+
+2026-10-20 3:35pm
+Antiques Roadshow
+Michael Aspel and the team head for Hornsea on the Yorkshire coast. Among the items brought to light are a chastity belt dug up on a farm, an 1875 sewing machine still in use and a haul of Beatles memorabilia. Michael meets a man who has lovingly preserved over 40 models of Humber cars, including one owned by Edward VIII and Mrs Simpson.
+
+2026-10-20 4:15pm
+Flog It!
+The team are at Newby Hall, North Yorkshire. Mark Stacey comes across an interesting Clarice Cliff cake plate and Michael Baggott enjoys an ancient Chinese urn. Paul Martin takes in the splendours of the Adams interiors at the Hall.
+
+2026-10-20 5:00pm
+Richard Osman's House of Games
+Each week a group of four celebrities compete to test their knowledge in a series of quick-paced rounds of games. Host, Richard Osman then cross-examines the celebrities as they strive to increase their scores and match Richard's mental prowess.
+
+2026-10-20 5:30pm
+Strictly Come Dancing: It Takes Two
+Ellie Taylor dishes up some more unmissable gossip with a panel of Strictly celebs and the couple saved from the weekend's dance-off. Plus, Craig Revel Horwood is back in the studio for a catch-up.
+
+2026-10-20 6:00pm
+
+Coverage from the men's team final in Rotterdam, the Netherlands.
+
+2026-10-20 8:30pm
+Saving Lives at Sea
+A teenage boy rushes to help save a paralysed surfer from drowning; when a 999 call comes in, the Appledore crew are tasked with an immediate launch. In Little and Broad Haven, south Wales, there's a frantic search for two paddleboarders swept over a mile out to sea. The Hayling Island crew race against time to rescue a fisherman trapped in mud; two walkers in Redcar are cut off on a rapidly diminishing strip of beach; and in Porthcawl, a dog owner calls 999 after her dog is taken by the tide.
+
+2026-10-20 9:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2026-10-20 9:58pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-20 10:00pm
+Aberfan: The Village That Fought Back
+The tragedy at Aberfan has been told many times - the landslide of coal waste that claimed 144 lives, most of them children. But the story of what happened afterwards is less familiar.
+
+2026-10-20 11:00pm
+	Retreat
+On an isolated island, a couple's attempt to recover from a personal tragedy is shattered when a stranger washes ashore with news of an airborne disease sweeping through Europe.
+
+2026-10-21 12:25am
+The Celebrity Traitors
+As the celebrity players gather for breakfast, conspiracies are running wild. The games continue in a mission where one mistake could cause heads to roll. At the Round Table, suspicions continue to rise - can the Traitors deflect accusations, or will the Faithful see through their lies?
+
+2026-10-21 1:30am
+The Celebrity Traitors: Uncloaked
+Ed Gamble hears from the latest banished and murdered players from episode 6 about their time in the castle.
+
+2026-10-21 2:00am
+This Is BBC TWO
+Preview of upcoming programmes from BBC Two.
+
+2026-10-21 5:30am
+Escape to the Country
+Denise Nurse turns up the heat in south Devon as she helps Susi and Sam, along with Rupert the dog, exchange their busy Bedfordshire town for life in the West Country. With £500,000 to spend, an annexe for visiting friends and family is a must, but a few glorious sea views could prove rather distracting. Things get hotter still when Denise meets local chilli farmers and puts her taste buds to the test with some of their fiery goodies.
 
