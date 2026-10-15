@@ -1,47 +1,3 @@
-2026-10-14 11:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-14 11:30pm
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-10-15 12:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-15 1:00am
-Al Jazeera World
-A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
-
-2026-10-15 2:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-15 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-15 3:30am
-Business of War
-Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
-
-2026-10-15 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-15 4:30am
-The Full Report
-A deadly Ebola outbreak in D.R. Congo exposes the struggle of medics, families and survivors to contain the virus amid conflict, mistrust and displacement.
-
-2026-10-15 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-15 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2026-10-15 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -96,7 +52,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-15 2:30pm
 Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel's global battle to shape opinion after Gaza.
 
 2026-10-15 3:00pm
 Newshour
@@ -208,7 +164,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-16 8:30am
 Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel's global battle to shape opinion after Gaza.
 
 2026-10-16 9:00am
 News
@@ -570,10 +526,6 @@ Latest news and in-depth analysis from around the world.
 News
 Up-to-date news and analysis from around the world.
 
-2026-10-18 7:30pm
-Talk to Al Jazeera
-One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
-
 2026-10-18 8:00pm
 Head to Head
 Interviews with attitude, tackling the big issues of our time with Mehdi Hasan.
@@ -927,6 +879,154 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-10-21 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-21 6:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 6:30am
+The Bottom Line
+Discussions on US politics and policies.
+
+2026-10-21 7:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 8:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 8:30am
+The Listening Post
+What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
+
+2026-10-21 9:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 9:30am
+Business of War
+Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
+
+2026-10-21 10:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 11:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-21 12:00pm
+Al Jazeera World
+Showcasing films from across the Al Jazeera Network.
+
+2026-10-21 1:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 2:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 2:30pm
+Talk to Al Jazeera
+One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
+
+2026-10-21 3:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 4:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 4:30pm
+Echoes of a Lost Gaza
+Palestinian filmmaker Mariam Shahin looks back how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.
+
+2026-10-21 5:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-21 6:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 7:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 7:30pm
+The Listening Post
+What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
+
+2026-10-21 8:00pm
+Witness
+A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
+
+2026-10-21 9:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-21 10:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 10:30pm
+Fault Lines
+Two mothers warned family courts their children were in danger. Fault Lines investigates why documented abuse and deadly warning signs were ignored.
+
+2026-10-21 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-21 11:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-10-22 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-22 1:00am
+Al Jazeera World
+Showcasing films from across the Al Jazeera Network.
+
+2026-10-22 2:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-10-22 3:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-22 3:30am
+Business of War
+Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
+
+2026-10-22 4:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-22 4:30am
+Mindset
+Ukraine
+
+2026-10-22 5:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-10-22 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
