@@ -1,55 +1,3 @@
-2026-10-17 10:40pm
-	Scary Stories to Tell in the Dark
-The shadow of the Bellows family has loomed large in the small town of Mill Valley for generations. It's in a mansion that young Sarah Bellows turns her tortured life and horrible secrets into a series of scary stories. These terrifying tales soon have a way of becoming all too real for a group of unsuspecting teens who stumble upon Sarah's spooky home.
-
-2026-10-18 12:20am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-18 12:25am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-18 12:30am
-The Security Brief
-The war in Ukraine has transformed modern warfare. Drones, AI and rapidly evolving tactics are being implemented by both sides. What has the world learnt, and where does the war go next? BBC presenter Christian Fraser and resident analyst, former senior British military officer Mikey Kay are joined by special guests and a studio audience.
-
-2026-10-18 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-18 1:30am
-Unspun World with John Simpson
-John Simpson brings his expertise to bear on the most important stories. In discussion with the BBC's range of experts across the world, he uses their unique local knowledge to go beyond the headlines to get to the unspun truth about the world.
-
-2026-10-18 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-18 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-10-18 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-18 3:30am
-Global Eye
-Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
-
-2026-10-18 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-18 4:30am
-Clive Myrie's African Adventure
-Clive lends a hand at a penguin rehab centre, jams with up-and-coming jazz talent Q Ntshinka and learns the art of Cape Malay cooking in the city's colourful Bo-Kaap district.
-
-2026-10-18 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
 2026-10-18 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -945,4 +893,88 @@ BBC One joins the BBC's rolling news channel for a night of news.
 2026-10-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-24 9:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Niklas Ekstedt, Justin Tsang and Sabrina Ghayour, and by special guests Mathew Baynton and Martha Howe-Douglas. Drinks expert Olly Smith picks the wines to go with the studio dishes.
+
+2026-10-24 10:30am
+Simply Nigella
+Nigella cooks up her favourite breakfast - a twist on avocado toast with radishes, as well as a deliciously different Thai noodle dish with cinnamon and prawns and a laid back family supper of luscious lamb ribs.
+
+2026-10-24 11:00am
+BBC London News
+News, sport and weather from London.
+
+2026-10-24 11:10am
+BBC Weather
+The latest weather forecast.
+
+2026-10-24 11:15am
+The Football Interview
+The biggest names in sport and entertainment join host Kelly Somers for bold, in-depth conversations about the nation's favourite sport.
+
+2026-10-24 11:30am
+WSL
+Tottenham Hotspur take on Arsenal in the Women's Super League.
+
+2026-10-24 2:00pm
+Homes Under the Hammer
+Never mind about stairs up to the bedrooms, where's the front door?? Dion has to figure it out in a three-bedroom mid-terrace in South Yorkshire. Tommy is in east London to deal with a 'knotty' problem in the garden at a one-bedroom flat. And Martel is in Darlington to navigate her way around a nicotine-stained terrace.
+
+2026-10-24 2:45pm
+Final Score
+Jason Mohammad and guests bring you all the goals, latest news, analysis, reaction and interviews from the afternoon's biggest football matches.
+
+2026-10-24 4:25pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-24 4:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-24 4:40pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-24 4:45pm
+The Celebrity Inner Circle
+Kojey Radical, Max Fosh, Dame Denise Lewis, Stevie Martin and Sara Davies are paired with five contestants hoping to outwit each other to win big.
+
+2026-10-24 5:30pm
+Strictly Come Dancing
+Emma, Josh and Jojo welcome you to another round of dancing as our couples aim to dazzle you with their latest routines. The judges dish out the scores and create their leaderboard before the vote opens and you get to have your say. Which couple will have their best night yet? Who will be in danger of the dance-off?
+
+2026-10-24 7:35pm
+Wisdom of the Crowd
+Do you think you spend too much of your working day procrastinating or too much time online? Find out as the crowd take on three more individuals in an attempt to bank up to £30,000.
+
+2026-10-24 8:20pm
+Marble Hall Murders
+Susan, alone, desperately tries to find the real murderer as tension ratchets up, and threats are made to her new life in London. She turns to Blakeney for help, insisting that the solutions will be hidden in the novel.
+
+2026-10-24 9:10pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-24 9:25pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-24 9:30pm
+Match of the Day
+Highlights from the 2026/27 Premier League season.
+
+2026-10-24 10:40pm
+	Cat Person
+A college student who works at a movie theatre goes on an awkward date with an older man who may be a murderer.
+
+2026-10-25 1:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-25 1:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
 

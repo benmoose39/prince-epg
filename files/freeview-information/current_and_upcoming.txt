@@ -1,7 +1,3 @@
-2026-10-17 9:00pm
-Freeview Information
-9:00pm
-
 2026-10-18 5:00am
 Freeview Information
 5:00am
@@ -77,4 +73,12 @@ Freeview Information
 2026-10-24 5:00am
 Freeview Information
 5:00am
+
+2026-10-24 1:00pm
+Freeview Information
+1:00pm
+
+2026-10-24 9:00pm
+Freeview Information
+9:00pm
 

@@ -1,11 +1,3 @@
-2026-10-17 9:00pm
-Ketchup
-Ketchup TV.
-
-2026-10-18 1:00am
-Ketchup
-Ketchup TV.
-
 2026-10-18 5:00am
 Ketchup
 Ketchup TV.
@@ -151,6 +143,26 @@ Ketchup
 Ketchup TV.
 
 2026-10-24 5:00am
+Ketchup
+Ketchup TV.
+
+2026-10-24 9:00am
+Ketchup
+Ketchup TV.
+
+2026-10-24 1:00pm
+Ketchup
+Ketchup TV.
+
+2026-10-24 5:00pm
+Ketchup
+Ketchup TV.
+
+2026-10-24 9:00pm
+Ketchup
+Ketchup TV.
+
+2026-10-25 2:00am
 Ketchup
 Ketchup TV.
 
