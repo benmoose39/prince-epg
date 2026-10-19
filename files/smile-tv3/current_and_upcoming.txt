@@ -1,7 +1,3 @@
-2026-10-18 9:00pm
-Smile TV3
-9:00pm
-
 2026-10-19 5:00am
 Smile TV3
 5:00am
@@ -73,4 +69,16 @@ Smile TV3
 2026-10-24 9:00pm
 Smile TV3
 9:00pm
+
+2026-10-25 6:00am
+Smile TV3
+6:00am
+
+2026-10-25 2:00pm
+Smile TV3
+2:00pm
+
+2026-10-25 10:00pm
+Smile TV3
+10:00pm
 
