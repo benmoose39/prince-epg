@@ -1,15 +1,3 @@
-2026-10-19 6:00am
-Teleshopping
-Shopping from home.
-
-2026-10-19 6:30am
-Teleshopping
-Shopping from home.
-
-2026-10-19 7:00am
-Teleshopping
-Shopping from home.
-
 2026-10-19 7:30am
 Teleshopping
 Shopping from home.
@@ -219,12 +207,12 @@ On the Game
 Cult British filmmaker Stanley Long presents a light-hearted romp about the world's `oldest profession'.
 
 2026-10-21 12:00am
-Hamish Macbeth
-A family feud at the local funeral parlour comes to a head when Lachie Jr finds a new vocation as an undertaker. Space aliens are blamed for the disappearance of Rory Campbell's late Auntie Bella from the village burial ground, but the truth is much more down to earth.
+	Four Dimensions of Greta
+Comedy (1972)
 
-2026-10-21 1:00am
-	Girls Come First
-Portrait artist Alan Street is employed by the Soho Swingers Club to paint the hostesses. Whilst he relishes his new job his girlfriend is less than impressed. Contains nudity.
+2026-10-21 1:45am
+The Musketeer
+1:45am
 
 2026-10-21 2:00am
 Edwardian Farm
@@ -647,16 +635,16 @@ Conclusion of the two-part detective drama. After a mother and daughter are foun
 A crude Australian diplomat stops a mad colonel's plot to export bad toilet seats to the West.
 
 2026-10-24 3:45pm
-	Buster
-The story of Great Train Robber Buster Edwards, a small-timer who fell in with more ambitious thieves. After the gang robs a London to Glasgow Royal Mail train in 1963, he takes his family into hiding in Mexico but finds that money is no substitute for life back home.
+	The Holcroft Covenant
+Crime drama from John Frankenheimer, based on a Robert Ludlum novel. The son of a Nazi general finds himself in a conspiracy involving Nazi gold.
 
-2026-10-24 5:45pm
+2026-10-24 6:00pm
 	Mrs. Ratcliffe's Revolution
 Following a dysfunctional family on their 1968 journey from West Yorkshire to East Germany and back again.
 
-2026-10-24 7:45pm
-	The Holcroft Covenant
-Crime drama from John Frankenheimer, based on a Robert Ludlum novel. The son of a Nazi general finds himself in a conspiracy involving Nazi gold.
+2026-10-24 8:00pm
+	Buster
+The story of Great Train Robber Buster Edwards, a small-timer who fell in with more ambitious thieves. After the gang robs a London to Glasgow Royal Mail train in 1963, he takes his family into hiding in Mexico but finds that money is no substitute for life back home.
 
 2026-10-24 10:00pm
 	Fanny Hill
@@ -723,24 +711,28 @@ Garden Rescue
 Adyan has never had a garden before, but now she is married to Araam, she has her hands on one for the very first time. Unfortunately, its main features are a long strip of concrete leading to nowhere and a six-inch-high barbecue! Charlie and Lee go head-to-head to win the couple over. Getting the concrete strip out is the first challenge for the team, but once that's done, the winning plan comes to life. The team add a pergola that incorporates a swing, a barbecue area for Araam.
 
 2026-10-25 1:00pm
+Great British Food
+Tom honours roast chicken and pays a visit to Posh Chick, a business run by children: Zoe, 12, her sister Sophie, 10, and their brother Ryan, 8.
+
+2026-10-25 1:30pm
 	Futtock's End
 Ronnie Barker stars as General Futtock, who has a motley group of guests stay at his country estate - and chaos ensues. Contains 70s social attitudes.
 
-2026-10-25 2:00pm
+2026-10-25 2:30pm
 	The Assassination Bureau
 Set in the Victorian era, a secret international club eliminates those they deem unworthy. Their leader, in an attempt to rejuvenate the group, challenges his assassins to target him, while he in turn will attempt to assassinate them. The scene is set for a cat-and-mouse chase across Europe, which is further complicated by the presence of a beautiful female reporter.
 
-2026-10-25 4:15pm
+2026-10-25 4:45pm
 	Away
 Set in the seaside town of Blackpool, two kindred spirits form an unlikely friendship.
 
-2026-10-25 6:30pm
-	Rogue Male
-A British aristocrat (Peter O'Toole) is hunted by the Gestapo and forced to hide after trying to shoot Hitler.
+2026-10-25 7:00pm
+	Mrs. Ratcliffe's Revolution
+Following a dysfunctional family on their 1968 journey from West Yorkshire to East Germany and back again.
 
-2026-10-25 8:45pm
-	Loophole
-An architect shows the mastermind of a motley gang how to reach a London bank vault by sewer.
+2026-10-25 9:00pm
+	Inside Out
+A ruthless German bounty hunter plots to free a war criminal who knows the whereabouts of a shipment of wartime gold. The ex-army officer teams up with a group of Americans to release the notorious Nazi from his high-security prison. The gang intend to force him to disclose the location of a military shipment of gold that has been concealed since World War II.
 
 2026-10-25 11:00pm
 Au Pair Girls

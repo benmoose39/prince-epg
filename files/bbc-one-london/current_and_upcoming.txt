@@ -730,6 +730,50 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2026-10-24 12:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-24 12:30am
+Tech Now
+Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world. Lily Jamali heads behind the scenes of a California-based company in the race to replace the International Space Station. Have you heard of vibe coding? Ammie Sekhon explains everything you need to know. And Adrienne Murray explores a new wave energy technology inspired by the pumping of a heart.
+
+2026-10-24 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-24 1:30am
+Clive Myrie's African Adventure
+Clive gets a restyle at one of the world's biggest second-hand markets, learns Ghanaian grooves from Beyonce video star Dance God Lloyd and learns the art of fantasy coffins.
+
+2026-10-24 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-24 2:30am
+Africa Enterprise
+2:30am
+
+2026-10-24 2:45am
+Tech Now
+Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world. Lily Jamali heads behind the scenes of a California-based company in the race to replace the International Space Station. Have you heard of vibe coding? Ammie Sekhon explains everything you need to know. And Adrienne Murray explores a new wave energy technology inspired by the pumping of a heart.
+
+2026-10-24 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-24 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-10-24 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-24 4:30am
+The Travel Show
+It's a landmark year for Poland's Baltic coast as the maritime city of Gdynia celebrates its 100th birthday. Gdynia sits on a stretch of coastline some call the Polish Riviera.
+
 2026-10-24 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -743,8 +787,8 @@ Simply Nigella
 Nigella cooks up her favourite breakfast - a twist on avocado toast with radishes, as well as a deliciously different Thai noodle dish with cinnamon and prawns and a laid back family supper of luscious lamb ribs.
 
 2026-10-24 11:00am
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-24 11:10am
 BBC Weather
@@ -767,8 +811,8 @@ Final Score
 Jason Mohammad and guests bring you all the goals, latest news, analysis, reaction and interviews from the afternoon's biggest football matches.
 
 2026-10-24 4:25pm
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-24 4:35pm
 BBC London News
@@ -795,8 +839,8 @@ Marble Hall Murders
 Susan, alone, desperately tries to find the real murderer as tension ratchets up, and threats are made to her new life in London. She turns to Blakeney for help, insisting that the solutions will be hidden in the novel.
 
 2026-10-24 9:10pm
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-24 9:25pm
 BBC Weather
@@ -817,6 +861,38 @@ Detailed weather forecast.
 2026-10-25 1:35am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-25 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-25 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-10-25 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-25 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-10-25 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-25 4:30am
+Clive Myrie's African Adventure
+Clive gets a restyle at one of the world's biggest second-hand markets, learns Ghanaian grooves from Beyonce video star Dance God Lloyd and learns the art of fantasy coffins.
+
+2026-10-25 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-25 5:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2026-10-25 6:00am
 BBC News
@@ -859,8 +935,8 @@ Points of View
 Viewers have their say on BBC television programmes.
 
 2026-10-25 1:00pm
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-25 1:10pm
 Weather for the Week Ahead
@@ -883,8 +959,8 @@ Homes Under the Hammer
 A plot of land, perfect for building on in Derby, has Dion excited, and the new owners are just as keen. Tommy is in Suffolk, at a projerct where the decorative plaster on the walls is going to be a big job for somebody to deal with. And Jacqui, also on a visit to the same county as Tommy, meets a retired butcher who has decided to turn his hand to property development.
 
 2026-10-25 5:00pm
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-25 5:15pm
 BBC London News
@@ -915,8 +991,8 @@ This City Is Ours
 A long-time member of organised crime falls in love with Diana, prompting him to reevaluate his life and contemplate a future beyond his criminal activities.
 
 2026-10-25 10:00pm
-BBC London News
-News, sport and weather from London.
+BBC Weekend News
+National and international news, followed by weather.
 
 2026-10-25 10:25pm
 BBC London News
@@ -924,7 +1000,7 @@ News, sport and weather from London.
 
 2026-10-25 10:30pm
 Match of the Day
-Highlights from the 2026/27 Premier League season.
+A busy Premier League Sunday, with five matches, including Liverpool against a Brighton side who've started the season strongly, and Manchester United at home to struggling Bournemouth. Elsewhere, another early season form side, Brentford, travel to Hull City, two of last season's promoted clubs, Sunderland and Leeds United, meet at the Stadium of Light, and Pierre Sage's Crystal Palace take on Newcastle United.
 
 2026-10-25 11:45pm
 Desmond Armstrong: America's World Cup Pioneer
@@ -941,4 +1017,52 @@ Detailed weather forecast.
 2026-10-26 1:10am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-26 1:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-10-26 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-26 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-26 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-26 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-26 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-26 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-26 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-26 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-26 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-26 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-26 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
