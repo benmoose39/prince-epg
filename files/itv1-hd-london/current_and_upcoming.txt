@@ -1,19 +1,3 @@
-2026-10-19 11:50pm
-Teleshopping
-Shopping from home.
-
-2026-10-20 2:00am
-Joanna Lumley's Danube
-In Slovakia, Joanna traces Danube tributaries up to the top of the snow-capped Tatras. In Budapest she explores the river by boat and rides a unique children's railway, as well as discovering the city's Jewish heritage.
-
-2026-10-20 2:50am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-10-20 4:05am
-Deal or No Deal
-Stephen Mulhern hosts as Ozzy gets his chance to open the iconic red boxes - he might be tempted by one of the Banker's enticing offers for his box or stand firm for a chance at the 100,000-pound jackpot.
-
 2026-10-20 5:00am
 Good Morning Britain
 Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
@@ -561,4 +545,100 @@ A daily delivery of bespoke Mindfulness content designed to calm the mind and en
 2026-10-26 5:05am
 Deal or No Deal
 Stephen Mulhern hosts as Guy tries to win 100,000 pounds - will he sell his box for an enticing offer from the Banker or hold his nerve and play to the end? This is the game show with only one question...
+
+2026-10-26 6:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2026-10-26 9:30am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2026-10-26 10:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2026-10-26 12:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2026-10-26 1:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2026-10-26 1:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-26 2:00pm
+Dickinson's Real Deal
+David and his team of dealers are at the Manchester Monastery today where a jewellery collection makes twice what its owner is expecting to fund a Caribbean homecoming trip, a First World War propeller has dealer James Layte in a spin, and a collection of model steam engines is a runaway success at auction.
+
+2026-10-26 3:00pm
+Lingo
+A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the 'Lingo' grids and puzzle-words.
+
+2026-10-26 4:00pm
+Deal or No Deal
+Join Stephen Mulhern as footballer Jamie gets his chance to open the red boxes and tries to outmanoeuvre the Banker to win 100,000 pounds.
+
+2026-10-26 5:00pm
+The Chase
+Bradley Walsh hosts as Nicola from Nottingham, Ryan from Glasgow, Gail from Birmingham and Andrew from Market Harborough join forces in the hope that they have the knowledge needed to beat one of the country's finest quizzers by working as a team.
+
+2026-10-26 6:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-26 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-26 7:30pm
+Cooking with the Stars
+Emma Willis and Tom Allen host as the last three new stars - former Strictly professional dancer Karen Hauer, comedian Seann Walsh and Olympian Laura Kenny - go head-to-head in a three-way cooking battle for the last two places in the next round. They'll be celebrating food that provides healthy and nutritious benefits, but the two stars who fail to impress with their culinary creations will have to face the cook-off - where one star leaves the competition.
+
+2026-10-26 8:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2026-10-26 8:30pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2026-10-26 9:00pm
+Adultery
+The tension sizzles as Tom and Beth are forced together to help Ollie and Jess. Hannah demands consequences for the teens' betrayal, but will that threaten her marriage?
+
+2026-10-26 10:00pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2026-10-26 10:30pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-26 10:45pm
+The Essex Millionaire Murders
+The first part of a two-part documentary series. Easter Sunday, 2023 - a wealthy couple in their 60s are found dead by their daughter on Mersea Island in Essex. Carol and Stephen Baxter are in their armchairs with no sign of a struggle as police rule out carbon monoxide poisoning.
+
+2026-10-26 11:40pm
+The Essex Millionaire Murders
+The concluding part of a two-part documentary series. Detectives raid Luke D'Wit's home and seize a huge stash of prescription drugs - including fentanyl and antihistamine - that are both found in the Baxters' postmortem as police press Luke to explain his relationship to Carol Baxter's mysterious American physician Dr Andrea Bowden. Luke has been mixing 'medicinal' drinks for Carol on Dr Bowden's instructions, but detectives can find no trace of her existence.
+
+2026-10-27 12:30am
+Teleshopping
+Shopping from home.
+
+2026-10-27 3:00am
+Lingo
+A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the 'Lingo' grids and puzzle-words.
+
+2026-10-27 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-10-27 5:05am
+Deal or No Deal
+Join Stephen Mulhern as footballer Jamie gets his chance to open the red boxes and tries to outmanoeuvre the Banker to win 100,000 pounds.
 
