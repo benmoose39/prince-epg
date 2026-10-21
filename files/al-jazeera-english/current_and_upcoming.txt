@@ -1,46 +1,10 @@
-2026-10-21 6:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-21 6:30am
-The Bottom Line
-Discussions on US politics and policies.
-
-2026-10-21 7:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-21 8:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-21 8:30am
-The Listening Post
-What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
-
-2026-10-21 9:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-21 9:30am
-Business of War
-Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
-
-2026-10-21 10:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-21 11:00am
-News
-Up-to-date news and analysis from around the world.
-
 2026-10-21 11:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-10-21 12:00pm
-Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+Al Jazeera Investigates
+Al Jazeera investigates the links between a right-wing political movement in the UK and an armed paramilitary who can arrange murders for money.
 
 2026-10-21 1:00pm
 Newshour
@@ -59,12 +23,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-21 4:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-21 4:30pm
-Echoes of a Lost Gaza
-Palestinian filmmaker Mariam Shahin looks back how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-21 5:00pm
 News
@@ -79,12 +39,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-21 7:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-21 7:30pm
-The Listening Post
-What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-21 8:00pm
 Witness
@@ -115,8 +71,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-22 1:00am
-Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+Al Jazeera Investigates
+Al Jazeera investigates the links between a right-wing political movement in the UK and an armed paramilitary who can arrange murders for money.
 
 2026-10-22 2:00am
 Newshour
