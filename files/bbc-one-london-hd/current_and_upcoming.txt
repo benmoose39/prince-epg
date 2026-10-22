@@ -1,67 +1,3 @@
-2026-10-21 11:00pm
-The Celebrity Inner Circle
-Dr Amir Khan, Larry Dean, Anna Williamson, Emmanuel Sonubi and Flavia Cacace are paired with five contestants hoping to outwit each other to win big.
-
-2026-10-21 11:45pm
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-21 11:50pm
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-22 12:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-22 12:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-10-22 1:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-22 1:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-22 1:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-22 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-22 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-22 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-22 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-22 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-22 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-22 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-22 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-10-22 5:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -967,6 +903,154 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-10-28 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-28 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-28 9:30am
+Morning Live
+Top tips and best bits from series 8.
+
+2026-10-28 10:30am
+Crimewatch Caught
+How serial killer Steve Wright was finally convicted of the murder of teenager Victoria Hall. And a dispute over a teddy turns deadly when 15-year-old Elianne Andam is stabbed in broad daylight.
+
+2026-10-28 11:00am
+Homes Under the Hammer
+Featuring a trip back to the Norfolk village of Hilgay, where Tommy first saw a characterful semi-detached cottage with very low ceilings back at the beginning of 2022. He's also in Southampton to see a two-bed end-terrace. Dion is in Stoke-on-Trent to see a three-bed semi in need of a layout change downstairs.
+
+2026-10-28 12:00pm
+Bargain Hunt
+Join Charlie Ross for today's Bargain Hunt in Powys. Experts Kate Bliss and Tim Weeks lead the reds and blues as they battle it out in Builth Wells.
+
+2026-10-28 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-28 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-28 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-10-28 2:00pm
+Money for Nothing
+Interior designer Sarah Moore meets people up and down the UK who are throwing out what they consider to be worthless goods. She takes three of these worn-out items and transforms them beyond recognition, which in turn gives them a higher value.
+
+2026-10-28 2:45pm
+Escape to the Country
+Chris Bavin and today's couple marvel at Shropshire's stunning countryside in between checking out some tempting homes from the county's property market. Taking time away from the house search, Chris's taste buds are in for a treat when he meets a local chef who uses seasonal, local food, much of which he forages for himself.
+
+2026-10-28 3:45pm
+The Bidding Room
+Nigel is shocked by a jaw-dropping sculpture, the dealers are pushed to sew up a deal on a vintage family favourite, and a jacket owned by a beloved comedy legend is up for sale.
+
+2026-10-28 4:30pm
+Bridge of Lies
+Friends Fortune, Xav, Nellie and Kaân take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2026-10-28 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-10-28 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-10-28 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-28 7:00pm
+The One Show
+Clara Amfo and Vernon Kay bring you the stories that matter from across the country.
+
+2026-10-28 7:30pm
+EastEnders
+The Slaters say goodbye to Zoe, but events don't go as planned. Jack is forced to come clean to Denise. A revelation comes to light at Zoe's wake.
+
+2026-10-28 8:00pm
+Celebrity Race Across the World
+Four famous faces paired with a friend or a loved one must tackle the most formidable race yet - traversing the ancient jungles and indigenous heartlands of Borneo to the southern tip of Australia.
+
+2026-10-28 9:00pm
+Who Do You Think You Are?
+Actor and writer Ruth Jones, Nessa from `Gavin and Stacey', investigates her Welsh family's history. On her mum's side, she discovers that her great-great-great-grandfather was a mariner who rose to the rank of captain in the domestic coastal trade. His son surpassed his father by carrying Welsh coal across the world. On Ruth's dad's side, she looks into the career of the grandfather she never met.
+
+2026-10-28 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-10-28 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-28 10:40pm
+	The Monkey
+When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tears their family apart. Twenty-five years later, the monkey begins a new killing spree, forcing the estranged siblings to confront the cursed toy.
+
+2026-10-29 12:10am
+The Celebrity Inner Circle
+Kojey Radical, Max Fosh, Dame Denise Lewis, Stevie Martin and Sara Davies are paired with five contestants hoping to outwit each other to win big.
+
+2026-10-29 12:55am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-10-29 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-29 1:30am
+The Road to the Midterms
+Sumi Somaskanda and Caitríona Perry travel across the US to find out what's influencing voters ahead of midterm elections with major consequences for President Trump, America and the world.
+
+2026-10-29 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-29 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-29 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-29 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-29 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-29 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-29 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-29 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-10-29 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-10-29 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-29 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
