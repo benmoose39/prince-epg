@@ -1,11 +1,3 @@
-2026-10-22 6:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-22 6:30am
-Echoes of a Lost Gaza
-Palestinian filmmaker Mariam Shahin looks back how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.
-
 2026-10-22 7:00am
 Newshour
 Latest news and in-depth analysis from around the world.
@@ -40,7 +32,7 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2026-10-22 12:00pm
 Let's Focus
-Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
+Who pays for American elections and what do they get? Josh Rushing puts it to reformer Lawrence Lessig and campaign finance sceptic Bradley Smith.
 
 2026-10-22 1:00pm
 Newshour
@@ -52,7 +44,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-22 2:30pm
 Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?
 
 2026-10-22 3:00pm
 Newshour
@@ -61,10 +53,6 @@ Latest news and in-depth analysis from around the world.
 2026-10-22 4:00pm
 Newshour
 Latest news and in-depth analysis from around the world.
-
-2026-10-22 4:30pm
-Witness
-Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.
 
 2026-10-22 5:00pm
 News
@@ -81,10 +69,6 @@ Latest news and in-depth analysis from around the world.
 2026-10-22 7:00pm
 Newshour
 Latest news and in-depth analysis from around the world.
-
-2026-10-22 7:30pm
-Talk to Al Jazeera
-Poland's Foreign Minister addresses growing concerns that Russia's war in Ukraine could spill over into neighbouring NATO members and spread regionally.
 
 2026-10-22 8:00pm
 Head to Head
@@ -164,7 +148,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-23 8:30am
 Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?
 
 2026-10-23 9:00am
 News
@@ -210,10 +194,6 @@ Latest news and in-depth analysis from around the world.
 Newshour
 Latest news and in-depth analysis from around the world.
 
-2026-10-23 4:30pm
-Business of War
-Hind Hassan explores the US weapons industry - the largest of them all - tracing its impacts on American democracy and beyond.
-
 2026-10-23 5:00pm
 News
 Up-to-date news and analysis from around the world.
@@ -229,10 +209,6 @@ Latest news and in-depth analysis from around the world.
 2026-10-23 7:00pm
 Newshour
 Latest news and in-depth analysis from around the world.
-
-2026-10-23 7:30pm
-Counting the Cost
-Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
 
 2026-10-23 8:00pm
 Al Jazeera Investigates
@@ -643,12 +619,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-26 4:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-26 4:30pm
-UpFront
-Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-26 5:00pm
 News
@@ -663,12 +635,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-26 7:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-26 7:30pm
-Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-26 8:00pm
 Let's Focus
@@ -791,12 +759,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-27 4:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-27 4:30pm
-The Bottom Line
-Discussions on US politics and policies.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-27 5:00pm
 News
@@ -811,12 +775,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-27 7:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-27 7:30pm
-Counting the Cost
-Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-27 8:00pm
 Al Jazeera World
@@ -939,12 +899,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-28 4:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-28 4:30pm
-The Global Population Bust
-As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-28 5:00pm
 News
@@ -959,12 +915,8 @@ Newshour
 Latest news and in-depth analysis from around the world.
 
 2026-10-28 7:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-28 7:30pm
-The Listening Post
-What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-10-28 8:00pm
 Witness
