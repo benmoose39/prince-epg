@@ -1,27 +1,3 @@
-2026-10-22 9:30pm
-Newsnight
-Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
-
-2026-10-22 10:03pm
-BBC Weather
-The latest weather forecast.
-
-2026-10-22 10:05pm
-Uncanny
-Danny Robins investigates the real-life stories of seemingly paranormal encounters. In the process, he talks to people who say they have encountered the supernatural and consults experts in order to discover the truth.
-
-2026-10-22 11:05pm
-Blue Lights
-Sandra reflects on a secret Gerry once shared with her and realises that she is in possession of volatile information.
-
-2026-10-23 12:05am
-The Devil's Confession: The Lost Eichmann Tapes
-Pressing forward with the prosecution, Hausner manages to secure a transcript of the Sassen Tapes, while the actual audio recordings continue to evade him.
-
-2026-10-23 1:05am
-This Is BBC TWO
-Preview of upcoming programmes from BBC Two.
-
 2026-10-23 5:30am
 The Bidding Room
 A family hope their colourful two-wheeler will have the bids rolling in, the dealers delight in a Picasso-inspired piece, and it's a double light-bulb moment when Nigel gets involved in the bidding.
@@ -631,6 +607,106 @@ Eva Longoria: Searching for France
 Eva enjoys Bordeaux's world-famous wines and its fresh produce and masterful Bordelaise sauces.
 
 2026-10-29 1:40am
+This Is BBC TWO
+Preview of upcoming programmes from BBC Two.
+
+2026-10-29 6:15am
+The Bidding Room
+Nigel is shocked by a jaw-dropping sculpture, the dealers are pushed to sew up a deal on a vintage family favourite, and a jacket owned by a beloved comedy legend is up for sale.
+
+2026-10-29 7:00am
+House of Games
+Les Dennis, Jenny Eclair, Owain Wyn Evans and Lauren Patel test their general knowledge skills on this week's House of Games.
+
+2026-10-29 7:30am
+Gardeners' World
+Horticulturists offer various techniques to elevate the home gardening experience, from repositioning roses in rustic layouts to planning vibrant spring displays.
+
+2026-10-29 8:30am
+See Hear
+Features and discussions reflect on the lives of individuals with various degrees of hearing impairments. Along the way, the presenters share their perspectives on relevant matters.
+
+2026-10-29 9:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-29 12:15pm
+Politics Live
+Engaging conversation about the political issues that matter to you.
+
+2026-10-29 1:00pm
+Impossible
+Thirty players compete across the series, scoring points by answering questions correctly. However, they must avoid the impossible answers, otherwise they will be eliminated from the show until the next day.
+
+2026-10-29 1:45pm
+The Answer Run
+Three couples face a series of 50/50 questions which hurtle The Answer Run down towards them. Across three rounds, the couples build up their cash pots, but only one pair can face The Final Run and win the chance to take home their cash prize.
+
+2026-10-29 2:30pm
+Great British Railway Journeys
+Michael's exploration of Essex reaches Chelmsford, where the city's bishop relates her story of escape from Iran after the Islamic revolution of 1979.
+
+2026-10-29 3:00pm
+Great British Railway Journeys
+Arriving in the Essex market town of Witham, Michael heads into the countryside to visit one of the county's great country houses, Terling Place.
+
+2026-10-29 3:30pm
+Secrets of the Aquarium
+Marcus, the new curator, attempts a high-risk move for a problem shark to the top of the aquarium. Andrew builds a cave for a reclusive lobster, and star attraction Friday the turtle suffers a nasty bite from a mystery tankmate.
+
+2026-10-29 4:30pm
+Antiques Roadshow
+Among the items brought to light are a carved whalebone originally given as a love token to be worn in a corset, and a macabre pottery model of a famous Victorian murder scene valued at £5,000. Also, a bizarre coincidence unites two Beatles collectors.
+
+2026-10-29 5:15pm
+Flog It!
+Paul Martin is at the Watts Gallery in the heart of the Surrey countryside with experts David Harper and Thomas Plant. David uncovers a collection of British film and TV memorabilia and Thomas is thrilled by some French cameo glass. Also, Paul Martin is on the trail of martians in Woking: the setting for HG Wells's sci-fi novel `The War Of The Worlds'.
+
+2026-10-29 6:00pm
+House of Games
+Les Dennis, Jenny Eclair, Owain Wyn Evans and Lauren Patel test their general knowledge skills on this week's House of Games.
+
+2026-10-29 6:30pm
+Strictly Come Dancing: It Takes Two
+Ellie Taylor presents all the backstage gossip and behind-the-scenes action from the world of Strictly, and costume designer Vicky Gill has an exclusive look at some of the couples' Halloween outfits ahead of the weekend.
+
+2026-10-29 7:00pm
+Breast Cancer Scandal: Exposing the Harm
+BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal in County Durham and hears from women told their mastectomies were unnecessary.
+
+2026-10-29 7:30pm
+
+Manchester City play Paris Saint-Germain in the UEFA Women's Champions League.
+
+2026-10-29 10:00pm
+Live at the Apollo
+The inimitable Joel Dommett introduces Fatiha El-Ghorri and Jamie MacDonald to the stage.
+
+2026-10-29 10:30pm
+Newsnight
+Featuring extensive coverage of the day's top national and international news stories, along with explanations about the context and potential aftereffects.
+
+2026-10-29 10:58pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-29 11:00pm
+Uncanny
+In the final case of the series, Danny is joined in the studio by Angela and her daughter Emily. They tell him about events that happened to them in the early 2000s when Emily was a child. A seemingly supernatural presence that began as what Angela thought was an imaginary friend, soon grew into something far more terrifying. Both Emily and her sister became too scared to sleep in their rooms, supposedly beset by the malign presence of an old man who threatened Emily and her family.
+
+2026-10-30 12:00am
+The Future with Hannah Fry
+Artificial intelligence has begun to exhibit early signs of agency. Hannah Fry discusses if AI has put humanity on a path to super intelligence or self-destruction, and if the potential promise and threat of AI is being exaggerated.
+
+2026-10-30 12:25am
+See Hear
+Features and discussions reflect on the lives of individuals with various degrees of hearing impairments. Along the way, the presenters share their perspectives on relevant matters.
+
+2026-10-30 12:55am
+This City Is Ours
+A long-time member of organised crime falls in love with Diana, prompting him to reevaluate his life and contemplate a future beyond his criminal activities.
+
+2026-10-30 1:55am
 This Is BBC TWO
 Preview of upcoming programmes from BBC Two.
 
