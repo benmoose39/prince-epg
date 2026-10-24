@@ -1,15 +1,3 @@
-2026-10-23 10:00pm
-Senedd Cymru - Welsh Parliament
-Highlights from the Welsh Parliament.
-
-2026-10-24 2:00am
-Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland Executive, with the First Minister, Michelle O'Neill, on Monday 22 May.
-
-2026-10-24 2:45am
-Northern Ireland Assembly
-Highlights from the Northern Ireland Assembly.
-
 2026-10-24 5:00am
 Westminster Hall
 House of Commons proceedings in Westminster Hall, including a debate on manufacturing skills, from Tuesday 20 October.
@@ -445,4 +433,32 @@ Coverage of the announcement of future Commons business and questions to Alan Ca
 2026-10-30 4:00am
 House of Commons
 Highlights of proceedings in the House of Commons from Thursday 29 October.
+
+2026-10-30 6:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall, including debates on e-petitions relating to prostate cancer screening and to placing a requirement on drivers to report collisions with cats, from Monday 26 October.
+
+2026-10-30 9:00am
+Select Committees
+Recorded coverage of select committee proceedings.
+
+2026-10-30 2:00pm
+House of Lords
+Highlights of proceedings in the House of Lords.
+
+2026-10-30 6:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
+
+2026-10-30 11:00pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 27 October.
+
+2026-10-30 11:30pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
+
+2026-10-31 12:00am
+Scottish Parliament
+Highlights from the Scottish Parliament.
 
