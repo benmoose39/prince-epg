@@ -1,51 +1,3 @@
-2026-10-24 9:30pm
-Match of the Day
-Highlights from the 2026/27 Premier League season.
-
-2026-10-24 10:40pm
-	Cat Person
-A college student who works at a movie theatre goes on an awkward date with an older man who may be a murderer.
-
-2026-10-25 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-25 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-25 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-25 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-10-25 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-25 3:30am
-Global Eye
-Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
-
-2026-10-25 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-25 4:30am
-Clive Myrie's African Adventure
-Clive gets a restyle at one of the world's biggest second-hand markets, learns Ghanaian grooves from Beyonce video star Dance God Lloyd and learns the art of fantasy coffins.
-
-2026-10-25 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-25 5:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
 2026-10-25 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -931,6 +883,90 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2026-10-31 12:45am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-10-31 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-10-31 10:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Rick Stein and Dara Klein, and by special guest Russell T Davies. Drinks expert Olly Smith picks the wines to go with the studio dishes, and there are some great moments from the BBC food archive.
+
+2026-10-31 11:30am
+Simply Nigella
+Nigella introduces us to her favourite recipes for sharing with family and friends. Whether it's a tray of nourishing breakfast bars, crunchy chicken cutlets, or Nigella's sumptuous chocolate cake, every recipe is a guaranteed crowd pleaser.
+
+2026-10-31 12:00pm
+Bargain Hunt
+Roo Irvine and the teams search for antiques at Southwell Racecourse, with experts Izzie Balmer and Nick Hall lending a hand. Roo learns about wartime surgeons at the National Civil War Centre.
+
+2026-10-31 12:45pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-31 12:57pm
+To Be Announced
+12:57pm
+
+2026-10-31 1:10pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-31 1:15pm
+Money for Nothing
+Interior designer Sarah Moore meets people up and down the UK who are throwing out what they consider to be worthless goods. She takes three of these worn-out items and transforms them beyond recognition, which in turn gives them a higher value.
+
+2026-10-31 2:00pm
+Homes Under the Hammer
+A stunning church conversion in Duxford near Cambridge, a pretty cottage in the village of Ruskington near Sleaford and a large former police station in Castle Vale in the West Midlands are bought at auction. Martin, Dion and Tommy follow progress as the developers transform their properties.
+
+2026-10-31 3:00pm
+Escape to the Country
+Alistair Appleton heads to Devon, with a mother-and-daughter duo hopeful of finding a new countryside home for the whole family in or near Dartmoor National Park. Business potential is at the top of the wish list, as there are ambitions to create a retreat centring on their love of horses and yoga.
+
+2026-10-31 3:45pm
+Final Score
+Jason Mohammad and guests bring you all the goals, latest news, analysis, reaction and interviews from the afternoon's biggest football matches.
+
+2026-10-31 5:25pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-31 5:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-10-31 5:40pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-31 5:45pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-10-31 6:01pm
+To Be Announced
+6:01pm
+
+2026-10-31 10:20pm
+BBC Weather
+The latest weather forecast.
+
+2026-10-31 10:25pm
+	The Iron Claw
+The true story of the Von Erich brothers, who make history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, the brothers seek larger-than-life immortality on the biggest stage in sports.
+
+2026-11-01 12:28am
+To Be Announced
+12:28am
+
+2026-11-01 2:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-01 2:05am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
