@@ -2,21 +2,29 @@
 Westminster Hall
 House of Commons proceedings in Westminster Hall, including a debate on compensation for Equitable Life policyholders, from Thursday 22 October.
 
-2026-10-26 9:00am
-Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland Executive, with the First Minister, Michelle O'Neill, on Monday 22 May.
+2026-10-26 8:10am
+House of Commons
+Coverage of the day's proceedings in the House of Commons on Thursday 22 October.
 
-2026-10-26 9:45am
+2026-10-26 8:35am
+Northern Ireland Assembly
+Questions in Stormont to the Northern Ireland executive, with the first minister Michelle O'Neill, on Monday 19 January.
+
+2026-10-26 9:25am
 Welsh First Minister's Questions
 Questions in the Senedd, the Welsh Parliament, to the first minister Rhun ap Iorwerth, on Tuesday 20 October.
 
-2026-10-26 10:45am
+2026-10-26 10:25am
 Prime Minister's Questions
 Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 21 October.
 
-2026-10-26 11:20am
-Select Committees
-Recorded coverage of select committee proceedings.
+2026-10-26 11:15am
+House of Commons
+Debate in the Commons on a motion to mark Black History Month, from Thursday 24 October.
+
+2026-10-26 2:00pm
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Senedd, the Welsh Parliament, tabled by Reform UK, on the wearing of face coverings in public, on Wednesday 21 October.
 
 2026-10-26 2:30pm
 House of Commons
@@ -26,43 +34,11 @@ Coverage of questions in the House of Commons to Shabana Mahmood, the home secre
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Monday 26 October.
 
-2026-10-26 4:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday 26 October.
-
-2026-10-26 5:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday 26 October.
-
-2026-10-26 6:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday 26 October.
-
-2026-10-26 7:30pm
-House of Commons
-Coverage of the day's proceedings in the House of Commons on Monday 26 October.
-
 2026-10-26 10:30pm
 Lords Questions
 Questions in the House of Lords to government ministers on Monday 26 October.
 
 2026-10-26 11:15pm
-House of Lords
-Business in the House of Lords on Monday 26 October.
-
-2026-10-27 12:15am
-House of Lords
-Business in the House of Lords on Monday 26 October.
-
-2026-10-27 1:15am
-House of Lords
-Business in the House of Lords on Monday 26 October.
-
-2026-10-27 2:15am
-House of Lords
-Business in the House of Lords on Monday 26 October.
-
-2026-10-27 3:15am
 House of Lords
 Business in the House of Lords on Monday 26 October.
 
@@ -134,159 +110,95 @@ Business in the House of Lords on Tuesday 27 October.
 House of Lords
 Business in the House of Lords on Tuesday 27 October.
 
-2026-10-28 7:00am
-House of Commons
-Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 25 February.
-
-2026-10-28 8:00am
-House of Commons
-Highlights of proceedings in the House of Commons from Tuesday 27 October.
-
-2026-10-28 9:30am
-Select Committees
-Coverage of select committee proceedings on Wednesday 28 October.
-
-2026-10-28 11:30am
-House of Commons
-Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 14 January.
-
-2026-10-28 12:00pm
-Prime Minister's Questions
-Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
-
-2026-10-28 12:35pm
-House of Commons
-Coverage of the UK government's Budget statement, including reaction from the opposition party leaders, on Wednesday, 30 October 2024.
-
-2026-10-28 1:30pm
-House of Commons
-Coverage of the UK government's budget statement, including reaction from opposition party leaders, on Wednesday 30 October.
-
-2026-10-28 2:30pm
-House of Commons
-Coverage of the UK government's budget statement, including reaction from opposition party leaders, on Wednesday 30 October.
-
-2026-10-28 3:30pm
-House of Commons
-Coverage of the UK government's budget statement by the chancellor of the exchequer, John Healey, including reaction from opposition party leaders, on Wednesday 28 October.
-
-2026-10-28 7:30pm
+2026-10-28 11:15pm
 House of Lords
-Coverage of proceedings in the House of Lords on Wednesday 28 October.
-
-2026-10-28 10:00pm
-Prime Minister's Questions
-Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
-
-2026-10-28 10:35pm
-Lords Questions
-Questions in the House of Lords to government ministers on Wednesday 28 October.
-
-2026-10-28 11:20pm
-House of Lords
-Coverage of business in the House of Lords on Wednesday, 28 October 2026.
-
-2026-10-29 12:20am
-House of Lords
-Coverage of business in the House of Lords on Wednesday, 28 October 2026.
-
-2026-10-29 1:20am
-House of Lords
-Coverage of business in the House of Lords on Wednesday, 28 October 2026.
-
-2026-10-29 2:20am
-House of Lords
-Business in the House of Lords on Wednesday 28 October.
-
-2026-10-29 3:20am
-House of Lords
-Business in the House of Lords on Wednesday 28 October.
-
-2026-10-29 4:20am
-House of Lords
-Business in the House of Lords on Wednesday 28 October.
+Business in the House of Lords on Tuesday 27 October.
 
 2026-10-29 7:00am
 House of Commons
-Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 14 January.
+Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 25 February.
 
-2026-10-29 7:30am
-Prime Minister's Questions
-Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
-
-2026-10-29 8:05am
+2026-10-29 8:00am
 House of Commons
-Highlights of proceedings in the House of Commons from Wednesday 28 October.
+Highlights of proceedings in the House of Commons from Tuesday 27 October.
 
 2026-10-29 9:30am
-House of Commons
-Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 12 February.
-
-2026-10-29 10:30am
-House of Commons
-Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 29 January.
+Select Committees
+Coverage of select committee proceedings on Wednesday 28 October.
 
 2026-10-29 11:30am
 House of Commons
-Coverage of day two of the budget debate in the House of Commons, opened by shadow chancellor Andrew Griffith on behalf of the opposition, followed by a response from the government, on Thursday 29 October.
+Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 14 January.
 
-2026-10-29 12:30pm
+2026-10-29 12:00pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
+
+2026-10-29 12:35pm
 House of Commons
-Coverage of day two of the budget debate in the House of Commons, opened by shadow chancellor Andrew Griffith on behalf of the opposition, followed by a response from the government, on Thursday 29 October.
+Coverage of the UK government's budget statement, including reaction from opposition party leaders, on Wednesday 26 November.
 
-2026-10-29 1:30pm
-House of Commons
-Coverage of day two of the budget debate in the House of Commons, opened by shadow chancellor Andrew Griffith on behalf of the opposition, followed by a response from the government, on Thursday 29 October.
+2026-10-29 7:30pm
+House of Lords
+Coverage of proceedings in the House of Lords on Wednesday 28 October.
 
-2026-10-29 2:30pm
-House of Commons
-Coverage of day two of the budget debate in the House of Commons, opened by shadow chancellor Andrew Griffith on behalf of the opposition, followed by a response from the government, on Thursday 29 October.
+2026-10-29 10:00pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
 
-2026-10-29 5:30pm
-Scottish First Minister's Questions
-Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
-
-2026-10-29 6:00pm
+2026-10-29 10:35pm
 Lords Questions
-Questions in the House of Lords to government ministers on Thursday 29 October.
+Questions in the House of Lords to government ministers on Wednesday 28 October.
 
-2026-10-29 6:45pm
+2026-10-29 11:20pm
 House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
+Coverage of business in the House of Lords on Wednesday, 28 October 2026.
 
-2026-10-29 7:45pm
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
+2026-10-30 7:00am
+House of Commons
+Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 14 January.
 
-2026-10-29 8:45pm
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
+2026-10-30 7:30am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
 
-2026-10-29 9:45pm
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
+2026-10-30 8:05am
+House of Commons
+Highlights of proceedings in the House of Commons from Wednesday 28 October.
 
-2026-10-29 10:45pm
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
-
-2026-10-29 11:45pm
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
-
-2026-10-30 12:45am
-House of Lords
-Coverage of business in the House of Lords on Thursday, 29 October 2026.
-
-2026-10-30 2:00am
+2026-10-30 9:30am
 House of Commons
 Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 12 February.
 
-2026-10-30 3:00am
+2026-10-30 10:30am
 House of Commons
 Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 29 January.
 
-2026-10-30 4:00am
+2026-10-30 11:30am
+House of Commons
+Coverage of day two of the budget debate in the House of Commons, opened by shadow chancellor Andrew Griffith on behalf of the opposition, followed by a response from the government, on Thursday 29 October.
+
+2026-10-30 5:30pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
+
+2026-10-30 6:00pm
+Lords Questions
+Questions in the House of Lords to government ministers on Thursday 29 October.
+
+2026-10-30 6:45pm
+House of Lords
+Coverage of business in the House of Lords on Thursday, 29 October 2026.
+
+2026-10-31 2:00am
+House of Commons
+Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 12 February.
+
+2026-10-31 3:00am
+House of Commons
+Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 29 January.
+
+2026-10-31 4:00am
 House of Commons
 Highlights of proceedings in the House of Commons from Thursday 29 October.
 
@@ -343,26 +255,82 @@ To Be Announced
 2:00am
 
 2026-11-01 6:00am
-To Be Announced
-6:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall, including debates on higher education funding, government support for rugby league clubs, sentencing for causing death by dangerous or careless driving, the performance of the HCRG Care Group in the south-west, and on the National Scheme of Delegation of Planning Functions, from Wednesday 28 October.
 
-2026-11-01 10:00am
-To Be Announced
-10:00am
+2026-11-01 11:00am
+House of Lords
+Coverage of a debate in the House of Lords.
 
-2026-11-01 2:00pm
-To Be Announced
-2:00pm
+2026-11-01 11:55am
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2026-11-01 12:40pm
+House of Lords
+Coverage of a private notice question in the House of Lords.
+
+2026-11-01 1:25pm
+House of Commons
+Coverage of an urgent question in the House of Commons.
+
+2026-11-01 2:10pm
+Scottish Parliament
+Coverage of a debate in the Scottish Parliament.
+
+2026-11-01 2:55pm
+House of Lords
+Coverage of a statement in the House of Lords.
+
+2026-11-01 3:40pm
+House of Commons
+Coverage of a statement in the House of Commons.
+
+2026-11-01 4:25pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
+
+2026-11-01 5:00pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 27 October.
+
+2026-11-01 5:30pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
 
 2026-11-01 6:00pm
-To Be Announced
-6:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2026-11-01 10:00pm
-To Be Announced
-10:00pm
+2026-11-01 11:55pm
+House of Commons
+Coverage of questions in the House of Commons to Heidi Alexander, the transport secretary, and her team of ministers on Thursday 12 February.
 
-2026-11-02 2:00am
-To Be Announced
-2:00am
+2026-11-02 12:55am
+House of Commons
+Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 29 January.
+
+2026-11-02 1:55am
+House of Commons
+Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 14 January.
+
+2026-11-02 2:25am
+House of Commons
+Coverage of questions in the House of Commons to David Lammy, the foreign secretary, and his team of ministers on Tuesday 25 February.
+
+2026-11-02 3:25am
+House of Commons
+Coverage of questions in the House of Commons to Shabana Mahmood, the home secretary, and her team of ministers on Monday 5 January.
+
+2026-11-02 4:25am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
+
+2026-11-02 5:00am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 27 October.
+
+2026-11-02 5:30am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
 
