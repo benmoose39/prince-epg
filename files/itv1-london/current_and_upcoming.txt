@@ -1,19 +1,3 @@
-2026-10-26 6:00am
-Good Morning Britain
-Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
-
-2026-10-26 9:30am
-Lorraine
-Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
-
-2026-10-26 10:00am
-This Morning
-Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
-
-2026-10-26 12:30pm
-Loose Women
-A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
-
 2026-10-26 1:30pm
 ITV Lunchtime News
 The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
@@ -455,50 +439,182 @@ Deal or No Deal
 Stephen Mulhern hosts the iconic gameshow as one of the brave contestants takes on the infamous Banker while opening the iconic 22 red boxes in the right order.
 
 2026-10-31 6:00am
-To Be Announced
-6:00am
+James Martin's Islands to Highlands
+James is joined by chef pal Nick Nairn. They're enjoying the luxury trip of a lifetime aboard The Royal Scotsman. James visits the kitchen aboard the train, where he cooks up a traditional duck a l'orange. Nick visits a special bakery housed in an old prisoner of war camp and James uses the bread to make a tasty ham and cheese toastie in the grounds of historic Scone Palace. The day ends back aboard the Royal Scotsman, where James and Nick dine in style in the beautiful dining room.
 
-2026-10-31 10:00am
-To Be Announced
-10:00am
+2026-10-31 6:30am
+James Martin's American Adventure
+James Martin ventures into Louisiana's state capital of Baton Rouge on his American Adventure to experience a unique American phenomenon - tailgating. It's the day of a big football match at Louisiana State University and the LSU Tigers are playing in front of thousands of fans, but the party gets started early.
 
-2026-10-31 2:00pm
-To Be Announced
-2:00pm
+2026-10-31 7:30am
+Love Your Weekend with Alan Titchmarsh
+Samuel West, Rishi Nair and Clarkson's Farm's Harriet Cowan join Alan. Elsewhere, there's the launch of a brand-new wildlife garden project, and Instagram and farming sensation Karl Franklin shows off his sheep herding skills. Plus, a catch-up with the East Sussex Wildlife Rescue Ambulance Service as they prepare to release some herring gulls back into the wild. Lager is the order of the day in today's Best of British.
 
-2026-10-31 6:00pm
-To Be Announced
-6:00pm
+2026-10-31 9:25am
+ITV News
+The latest national and international news.
 
-2026-10-31 10:00pm
-To Be Announced
-10:00pm
+2026-10-31 9:30am
+James Martin's Saturday Morning
+James cooks for two brilliant guests - TV sports presenter extraordinaire Clare Balding and rock royalty, the iconic Roger Taylor. Chefs Jose Pizarro and Meliz Berg join in the fun, cooking family favourite dishes.
 
-2026-11-01 2:00am
-To Be Announced
-2:00am
+2026-10-31 12:00pm
+Clodagh: Cooking at Home
+It's all about effortless and easy one pan wonders as Clodagh shares four all-time favourites. There's broccoli salmon noodles, a perfect 15-minute weeknight supper, and an all-in-one spicy sausage pasta that always goes down a storm - both cooked in her lovely outdoor pergola kitchen. Clodagh is sharing the tricks to making her impressive shortcut pear, thyme and brie tart, then picking greens in the garden to go in a big warming pot of walled garden soup that she's making in her pickling shed.
+
+2026-10-31 12:30pm
+ITV News
+The latest national and international news.
+
+2026-10-31 12:45pm
+
+Oli Bell presents live coverage of racing from Wetherby, Ascot and Down Royal. Today's feature meeting is at Wetherby, where the Charlie Hall Chase is the highlight. There's also competitive racing at Ascot and at Down Royal where the Grade 1 Champion Chase takes centre stage. Analysis from Tom Scudamore and Mick FitzGerald, reporting from Luke Harvey and Leonna Mayor, and commentary from Richard Hoiles.
+
+2026-10-31 4:00pm
+	Grease
+High-spirited musical set in 1950s America, in which a girl and boy who met on the beach are unexpectedly reunited at high school. She cannot understand how different he has become. Can the leather-clad, tough-talking leader of the T-Birds really be the same person? Perhaps her new friends, the Pink Ladies, can help her win back his heart?
+
+2026-10-31 6:05pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-10-31 6:25pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-10-31 6:30pm
+The Chase
+Bradley Walsh hosts as Peter from St Albans, Shania from Harrow, Medi from Aberystwyth and Naeem from Manchester join forces in the hope that their four brains can beat one, but that one brain does happen to belong to a Chaser.
+
+2026-10-31 7:30pm
+Win Win with People's Postcode Lottery
+Mel Giedroyc and Sue Perkins host an interactive quiz where viewers playing at home can win the exact same prizes as contestants playing in the studio, and one contestant may have the chance to win a million pounds by the end.
+
+2026-10-31 8:30pm
+The Voice UK
+Sir Tom Jones, will.i.am, Tom Fletcher and Danny Jones continue their hunt for the UK's best new talent as the Blind Auditions raise the stakes.
+
+2026-10-31 10:20pm
+ITV News
+The latest national and international news.
+
+2026-10-31 10:35pm
+Romesh Ranganathan's Parents' Evening
+Joel Dommett and his mum Penny, Tony Bellew and his son Corey, and Vicky Pattison and her mum Carroll compete in the comedy game show where success lies in the hands of the parents - as Joel tries to overcome his second-place curse and Tony and Corey's bickering threatens to get the better of them, Vicky's past party lifestyle might just lead her and her mum to victory in a show with plenty of surprises that include Romesh's mum's method for getting away with murder.
+
+2026-10-31 11:35pm
+English Football League Highlights
+Action from the day's fixtures in the Football League, including Norwich v Watford, Burnley v Portsmouth, Southampton v QPR and West Ham v West Brom in the Championship.
+
+2026-11-01 1:00am
+Teleshopping
+Shopping from home.
+
+2026-11-01 3:00am
+Dermot's Taste of Ireland
+Dermot meets a well-travelled couple bringing Basque fire to the Irish coast, hits the waves and cooks a final feast for familiar faces using flavours gathered on his journey.
+
+2026-11-01 3:25am
+Clodagh: Cooking at Home
+It's all about effortless and easy one pan wonders as Clodagh shares four all-time favourites. There's broccoli salmon noodles, a perfect 15-minute weeknight supper, and an all-in-one spicy sausage pasta that always goes down a storm - both cooked in her lovely outdoor pergola kitchen. Clodagh is sharing the tricks to making her impressive shortcut pear, thyme and brie tart, then picking greens in the garden to go in a big warming pot of walled garden soup that she's making in her pickling shed.
+
+2026-11-01 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-01 5:00am
+Fletchers' Family Farm
+It's a busy time on the farm as the family prepares pigs for the butcher, ready to become sausages for their stall at the Royal Cheshire Show. But Liz's plans are interrupted when she discovers an injured hen that has been badly pecked by the cockerel. She takes the bird to her friend Debbie, a chicken expert, who gives it some much-needed care before it returns to the farm sporting a rather stylish accessory.
 
 2026-11-01 6:00am
-To Be Announced
-6:00am
+James Martin's American Adventure
+James Martin hits the East Coast with a visit to the historic city of Boston. Starting with a shopping spree in the public market ahead of cooking with local ingredients. He also visits an innovative restaurant where cocktails are often inhaled rather than drunk and has some baked goods supplied by Joanne Chang, the Harvard graduate who has made a name for herself with a string of successful bakeries around the city.
 
-2026-11-01 10:00am
-To Be Announced
-10:00am
+2026-11-01 7:00am
+James Martin's Saturday Morning
+James cooks for two brilliant guests - TV sports presenter extraordinaire Clare Balding and rock royalty, the iconic Roger Taylor. Chefs Jose Pizarro and Meliz Berg join in the fun, cooking family favourite dishes.
 
-2026-11-01 2:00pm
-To Be Announced
-2:00pm
+2026-11-01 9:25am
+ITV News
+The latest national and international news.
 
-2026-11-01 6:00pm
-To Be Announced
-6:00pm
+2026-11-01 9:30am
+Love Your Weekend with Alan Titchmarsh
+The legendary Eric Idle joins Alan, and La Voix makes her Love Your Weekend debut. We catch up with our puppy school to see how the class of '26 is getting on, herb grower Jekka McVicar has potions and spells this Halloween weekend, and we are celebrating the joy of Monty Python in today's Best of British, in honour of Eric Idle.
+
+2026-11-01 11:30am
+Fletchers' Family Farm
+On her morning rounds, Liz takes a moment to appreciate the life the family have built on the farm, but their peaceful routine is interrupted when calf Elizabeth develops a worrying wheeze. Fearing pneumonia, the illness that claimed beloved Cherry last year, Kelvin and Liz call in vet Hugo to investigate. Meanwhile, with the pigs gone, the family begin transforming the old pig field into a vegetable patch.
+
+2026-11-01 12:30pm
+Talking Royals
+A round-up of royal news with expert analysis from ITV News Royal Editor Chris Ship, ITV News royal expert Lizzie Robinson and a host of guests.
+
+2026-11-01 1:00pm
+Cooking with the Stars
+Emma Willis and Tom Allen host as the last three new stars - former Strictly professional dancer Karen Hauer, comedian Seann Walsh and Olympian Laura Kenny - go head-to-head in a three-way cooking battle for the last two places in the next round. They'll be celebrating food that provides healthy and nutritious benefits, but the two stars who fail to impress with their culinary creations will have to face the cook-off - where one star leaves the competition.
+
+2026-11-01 1:30pm
+ITV News
+The latest national and international news.
+
+2026-11-01 1:40pm
+	The World Is Not Enough
+Suave British secret agent James Bond is embroiled in an all-action race to defuse an international power struggle as the world's oil supply hangs in the balance. Following the murder of a tycoon, 007 becomes bodyguard to his daughter, who has been targeted by a psychotic terrorist.
+
+2026-11-01 4:00pm
+Celebrity Lingo
+Adil Ray hosts the game of words as Steps stars Faye Tozer and Lee Latchford-Evans try to avoid tragedy against comedian Russell Kane - and Big Brother's Will Best - while battling to win money for charity.
+
+2026-11-01 4:35pm
+Tipping Point: Lucky Stars
+Chat show legend Jonathan Ross, TV presenter and charity campaigner Katie Piper, and Corrie star Antony Cotton need to keep cool under pressure if they're to master the machine.
+
+2026-11-01 5:35pm
+The Chase
+Bradley Walsh guides Peter from Caerphilly, Sarah from Ipswich, Rosie from Cornwall and Shane originally from Galway through a battle of wits as they take on a Chaser in the hope that they'll go home with thousands of pounds.
+
+2026-11-01 6:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-11-01 6:45pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-11-01 7:00pm
+Celebrity Catchphrase
+Aisling Bea, Chris Packham and Kate Lawler join Stephen Mulhern for 'Celebrity Catchphrase', hoping to 'say what they see' and guess well-known phrases for a chance to win £50,000 for their charity.
+
+2026-11-01 8:00pm
+Who Wants to Be a Millionaire?
+Jeremy Clarkson hosts the iconic quiz as the Millionaire chair, 15 questions and four lifelines are all that stand between six hopeful contestants and a million-pound prize.
+
+2026-11-01 9:00pm
+Adultery
+Tom and Beth take their affair to the next level on a weekend away, but the time alone results in a reminder of a painful truth for Tom.
 
 2026-11-01 10:00pm
-To Be Announced
-10:00pm
+ITV News
+The latest national and international news.
 
-2026-11-02 2:00am
-To Be Announced
-2:00am
+2026-11-01 10:20pm
+	John Wick
+New York City becomes the bullet-riddled playground of a former assassin as he hunts down the gangsters who destroyed everything he held dear.
+
+2026-11-02 12:05am
+Teleshopping
+Shopping from home.
+
+2026-11-02 3:00am
+Motorsport UK
+Richard John Neill presents MSUK from Croft with racing from the F4 and Porsche Carrera Cup Great Britain.
+
+2026-11-02 3:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-02 5:05am
+Lingo
+A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the 'Lingo' grids and puzzle-words.
 

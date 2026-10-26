@@ -714,6 +714,46 @@ Detailed weather forecast.
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
 
+2026-10-31 1:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-31 1:30am
+Clive Myrie's African Adventure
+Clive learns about his family story on an emotional visit to a former slave fort, before getting a big celebratory welcome (and a new name) from the elders of the Fante people.
+
+2026-10-31 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-31 2:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-10-31 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-31 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-10-31 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-10-31 4:30am
+The Travel Show
+Can the great outdoors still inspire a generation raised on screens? 2026 sees the Duke of Edinburgh Awards marking 70 years of taking young people on adventures in the British countryside.
+
+2026-10-31 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-10-31 5:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
 2026-10-31 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -731,12 +771,12 @@ Bargain Hunt
 Roo Irvine and the teams search for antiques at Southwell Racecourse, with experts Izzie Balmer and Nick Hall lending a hand. Roo learns about wartime surgeons at the National Civil War Centre.
 
 2026-10-31 12:45pm
+The Football Interview
+The biggest names in sport and entertainment join host Kelly Somers for bold, in-depth conversations about the nation's favourite sport.
+
+2026-10-31 1:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-10-31 12:57pm
-To Be Announced
-12:57pm
 
 2026-10-31 1:10pm
 BBC Weather
@@ -771,24 +811,36 @@ BBC Weather
 The latest weather forecast.
 
 2026-10-31 5:45pm
+The Celebrity Inner Circle
+Amanda Holden hosts this exciting night quiz show, packed with strategy, high stakes, and lots of surprises. Five contestants choose a celebrity partner, and are assigned a secret stash of cash worth up to a whopping £6,000. Featuring Katie Piper, Shaun Williamson, Josie d'Arby, Jean Johansson and Claire Sweeney.
+
+2026-10-31 6:30pm
+Strictly Come Dancing
+Prepare for a night of tricks and treats in our haunted ballroom as the couples perform in the annual Halloween special. There's a supernatural presence in the form of the judges Shirley Ballas, Craig Revel Horwood, Motsi Mabuse and Anton Du Beke, who also join in with the terrifying transformations. And after a night of paranormal activity on the dance floor, who will have cast a spell over you? And who will be doomed to dance off?
+
+2026-10-31 8:30pm
+Wisdom of the Crowd
+Contestants compete by guessing how many countries abroad the average UK adult has visited. With £100,000 banked, can anyone beat the might of the crowd to take home up to £30,000?
+
+2026-10-31 9:15pm
+Marble Hall Murders
+Both Susan Ryeland and Atticus Pünd race to discover the truth.
+
+2026-10-31 10:05pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-10-31 6:01pm
-To Be Announced
-6:01pm
 
 2026-10-31 10:20pm
 BBC Weather
 The latest weather forecast.
 
 2026-10-31 10:25pm
+Match of the Day
+Highlights from eight Premier League matches, including Manchester City against Brighton and Chelsea versus Manchester United. Leeds travel to Bournemouth, Brentford host Nottingham Forest, Coventry take on Sunderland, and two newly promoted sides face each other when Hull City play Ipswich. Tottenham and Crystal Palace go head-to-head in the teatime game, and Aston Villa entertain Fulham on Saturday night. Presented by Mark Chapman.
+
+2026-10-31 11:55pm
 	The Iron Claw
 The true story of the Von Erich brothers, who make history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, the brothers seek larger-than-life immortality on the biggest stage in sports.
-
-2026-11-01 12:28am
-To Be Announced
-12:28am
 
 2026-11-01 2:00am
 Weather for the Week Ahead
@@ -797,6 +849,34 @@ Detailed weather forecast.
 2026-11-01 2:05am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-01 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-11-01 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-01 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-11-01 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-01 4:30am
+Clive Myrie's African Adventure
+Clive learns about his family story on an emotional visit to a former slave fort, before getting a big celebratory welcome (and a new name) from the elders of the Fante people.
+
+2026-11-01 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-01 5:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
 2026-11-01 6:00am
 BBC News
@@ -807,12 +887,12 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-01 7:25am
+Match of the Day
+Highlights from eight Premier League matches, including Manchester City against Brighton and Chelsea versus Manchester United. Leeds travel to Bournemouth, Brentford host Nottingham Forest, Coventry take on Sunderland, and two newly promoted sides face each other when Hull City play Ipswich. Tottenham and Crystal Palace go head-to-head in the teatime game, and Aston Villa entertain Fulham on Saturday night. Presented by Mark Chapman.
+
+2026-11-01 9:00am
 Sunday with Laura Kuenssberg
 The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
-
-2026-11-01 8:24am
-To Be Announced
-8:24am
 
 2026-11-01 10:00am
 Politics London
@@ -843,12 +923,16 @@ Weather for the Week Ahead
 Detailed weather forecast.
 
 2026-11-01 1:15pm
+Songs of Praise
+On All Saints' Day, Pam Rhodes celebrates the life of St Francis of Assisi 800 years since his death and meets Christians still inspired by his teachings.
+
+2026-11-01 1:50pm
+Lifeline
+Following the work of different charities and highlighting ways of supporting their activities. Featuring different ways to raise money, as well as awareness for a wide range of causes.
+
+2026-11-01 2:00pm
 	Wallace & Gromit in The Curse of the Were-Rabbit
 The village is being overrun by rabbits and Wallace has a plan to alter their minds so that they will leave the vegetable allotments alone. However, his plan goes awry and the rabbit problem escalates when the villagers discover a monstrous `were-rabbit' destroying everything in its sights. Will Wallace and Gromit be able to solve the conundrum before the creature gets shot?
-
-2026-11-01 2:40pm
-To Be Announced
-2:40pm
 
 2026-11-01 3:15pm
 Blue Planet II
@@ -871,34 +955,94 @@ BBC Weather
 The latest weather forecast.
 
 2026-11-01 5:40pm
+Countryfile
+At Forest Green Rovers, known as the 'little club on the hill', Vick Hope discovers how a football team from a small Gloucestershire hamlet made it into the professional leagues.
+
+2026-11-01 6:40pm
+The Reluctant Vampire
+Wilf goes missing, and the vampire family decide to disguise themselves as humans and venture into the village to rescue him.
+
+2026-11-01 7:10pm
+Strictly Come Dancing
+It's fright night in the ballroom as the couples face the results of the Halloween spectacular. The pros get their fangs out for a group routine dedicated to Dracula, and there's music from Becky Hill. As another dance-off unfolds, who will make it to the halfway point of the competition? And whose Halloween weekend will turn into a nightmare?
+
+2026-11-01 8:00pm
+Blue Planet III
+In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.
+
+2026-11-01 9:00pm
+This City Is Ours
+Cheryl returns to Liverpool with devastating news for Michael. With no way out, he is forced to make an impossible decision to protect the one he loves. Meanwhile, tensions rise among the Phelans as they hunt Banksey, unaware a new enemy is moving in the shadows.
+
+2026-11-01 10:00pm
 BBC Weekend News
 National and international news, followed by weather.
-
-2026-11-01 6:05pm
-To Be Announced
-6:05pm
 
 2026-11-01 10:25pm
 BBC London News
 News, sport and weather from London.
 
 2026-11-01 10:30pm
+Match of the Day
+Highlights of Sunday's only Premier League game as Liverpool take on champions Arsenal at Anfield. Kelly Cates is joined by Micah Richards and Danny Murphy.
+
+2026-11-01 11:10pm
 	Merv
 When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Fixing their dog's broken heart may lead to a few sparks of their own.
 
-2026-11-02 12:07am
-To Be Announced
-12:07am
-
 2026-11-02 12:50am
+The Graham Norton Show
+Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
+
+2026-11-02 1:45am
 Weather for the Week Ahead
 Detailed weather forecast.
-
-2026-11-02 12:53am
-To Be Announced
-12:53am
 
 2026-11-02 1:50am
 Joins BBC News
 BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-02 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-02 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-02 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-02 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-02 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-02 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-02 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-02 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-02 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-02 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-02 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 
