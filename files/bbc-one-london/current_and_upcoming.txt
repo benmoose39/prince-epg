@@ -1,67 +1,3 @@
-2026-10-26 11:10pm
-	Bodies Bodies Bodies
-When a group of 20-somethings gets stuck at a remote mansion during a hurricane, a party game gone very, very wrong ends with a dead body on the ground and fake friends at every turn as they try to find the killer among them.
-
-2026-10-27 12:40am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-10-27 12:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-10-27 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-27 1:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
-2026-10-27 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-27 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-27 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-27 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-27 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-27 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-27 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-10-27 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-10-27 4:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-10-27 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-10-27 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-10-27 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -951,6 +887,154 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-02 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-02 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-02 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-11-02 10:45am
+Crimewatch Caught
+The extraordinary hunt for the Carmarthen farmer's wife who lived a secret life as the godmother of a crime gang. Plus, how officers dismantled a Cardiff gang dealing heroin.
+
+2026-11-02 11:15am
+Homes Under the Hammer
+Martel meets an old friend in County Durham who appears determined not to learn from his previous mistakes. Martin is pleased with the area he's in, just maybe not the property. Tommy thinks a demolition derby might be in order in Kent.
+
+2026-11-02 12:15pm
+Bargain Hunt
+Antique experts Gary Pe and Nick Hall guide the reds and blues as they hunt for bargains in the East Sussex town of Ardingly, while Anita Manning explores the history of the funfair.
+
+2026-11-02 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-02 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-02 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-02 2:00pm
+Money for Nothing
+Sarah Moore is at Witley recycling centre in Surrey on a mission to save three items with the potential to be revamped and sold on for cash. She finds a drinks trolley for designer Ayo Daramola-Martin and an old wind-up gramophone for signwriter Joel Poole. For her own project, Sarah has a collection of lampshades to get creative with.
+
+2026-11-02 2:45pm
+Escape to the Country
+Jules Hudson shows today's buyer around some excellent and innovative property choices in the magical landscape of Perth and Kinross that fit his budget of £210,000. Jules also gets to mess about in a boat on the king of Scotland's rivers, the magnificent Tay, where he learns about the efforts being made to conserve its salmon population.
+
+2026-11-02 3:45pm
+The Bidding Room
+Nigel and Simon relax into a pair of comfy club chairs, Jane has a personal connection to a curious piece of furniture, and one item has the dealers playing house.
+
+2026-11-02 4:30pm
+Bridge of Lies
+Friends Ian, Kate, Paul and Suzy take on the Bridge of Lies. One by one, they must cross the Bridge, stepping on the truths and avoiding the lies.
+
+2026-11-02 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-11-02 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-11-02 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-02 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-11-02 7:30pm
+EastEnders
+It's tense in the Branning household as a situation escalates. Cindy is on the warpath. Gemma tries to make friends in Walford.
+
+2026-11-02 8:00pm
+Panorama
+The story of Iranians who have lived through the most turbulent of years, with widespread street protests, a brutal crackdown by the authorities and a war launched against Iran by the US and Israel.
+
+2026-11-02 9:00pm
+This City Is Ours
+As Michael struggles to maintain control, Ozzie manipulates Freddie down a dark path.
+
+2026-11-02 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-11-02 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-02 10:40pm
+Have I Got News for You
+Victoria Coren Mitchell hosts, with guests comedian and actor Julian Clary and political correspondent Ava Santina Evans joining team captains Ian Hislop and Paul Merton as they delve into the news.
+
+2026-11-02 11:10pm
+The Traitors Ireland
+Siobhán McSweeney charges into chaos, suspicion, and stylish skulduggery. A group of strangers arrives at the castle. Their mission is to win ?50,000 without getting murdered or banished in the game. The twist? The Traitors walk amongst them.
+
+2026-11-03 12:10am
+The Traitors Ireland
+Siobhán McSweeney charges into chaos, suspicion, and stylish skulduggery. A group of strangers arrives at the castle. Their mission is to win ?50,000 without getting murdered or banished in the game. The twist? The Traitors walk amongst them.
+
+2026-11-03 1:10am
+Wisdom of the Crowd
+Contestants compete by guessing how many countries abroad the average UK adult has visited. With £100,000 banked, can anyone beat the might of the crowd to take home up to £30,000?
+
+2026-11-03 1:55am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-03 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-03 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-03 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-03 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-03 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-03 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-03 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-03 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-03 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-03 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-03 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
