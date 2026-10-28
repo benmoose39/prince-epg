@@ -1,43 +1,3 @@
-2026-10-27 11:30pm
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-10-28 12:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-28 1:00am
-Let's Focus
-Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
-
-2026-10-28 2:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-28 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-28 3:30am
-Witness
-Carla leads a fight in flood-damaged Valencia, where climate change and mass tourism threaten sea turtles along Spain's devastated coastline.
-
-2026-10-28 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-28 4:30am
-Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
-
-2026-10-28 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-28 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2026-10-28 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -336,7 +296,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-30 8:30am
 Al Jazeera Explains
-Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+Ahead of the US midterms, we examine how electoral maps could reshape Congress and why state elections matter as much as the battle for Washington.
 
 2026-10-30 9:00am
 News
@@ -372,7 +332,7 @@ Up-to-date news and analysis from around the world.
 
 2026-10-30 2:30pm
 Fault Lines
-Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.
+A hospital in South Sudan becomes the centre of a health and hunger crisis as the US cuts humanitarian aid.
 
 2026-10-30 3:00pm
 Newshour
@@ -893,4 +853,104 @@ Up-to-date news and analysis from around the world.
 2026-11-03 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-03 6:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 6:30am
+UpFront
+Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
+
+2026-11-03 7:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 8:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 9:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 10:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 11:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 1:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 2:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 3:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 4:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 5:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 6:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 7:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 8:00pm
+Al Jazeera World
+Thriving trading nation or a land without a people? This 20th century history uses sources and testimonies to show the other side of the Palestinian story.
+
+2026-11-03 9:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-03 10:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-03 11:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-04 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-04 1:00am
+Silenced: The War On Journalism
+A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.
+
+2026-11-04 2:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-04 3:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-04 4:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-04 5:00am
+News
+Up-to-date news and analysis from around the world.
 
