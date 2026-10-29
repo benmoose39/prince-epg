@@ -1,31 +1,3 @@
-2026-10-29 6:00am
-Good Morning Britain
-News, current affairs and lively debate.
-
-2026-10-29 9:30am
-Lorraine
-Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
-
-2026-10-29 10:00am
-This Morning
-Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
-
-2026-10-29 12:30pm
-Loose Women
-A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
-
-2026-10-29 1:30pm
-ITV Lunchtime News
-The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
-
-2026-10-29 1:55pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2026-10-29 2:00pm
-Dickinson's Real Deal
-David Dickinson and his team of dealers are at Sheffield Town Hall today, where a charity shop bargain hunter bags another winner and there are spectacular results at auction for a set of game cards and a collection of over 200 comics.
-
 2026-10-29 3:00pm
 Lingo
 A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the 'Lingo' grids and puzzle-words.
@@ -46,7 +18,7 @@ The latest news in London and the South East, plus local weather.
 ITV Evening News
 The latest headlines from around the world. Followed by a national weather forecast.
 
-2026-10-29 7:15pm
+2026-10-29 7:00pm
 The Martin Lewis Money Show Live
 In the wake of a new Labour Prime Minister and the Chancellor announcing his first Autumn Budget, Martin will break down what the new announcements mean for your personal finances. He will provide detailed analysis and answer your questions, ensuring you have a comprehensive understanding of the impact the Budget will bring to the pound in your pocket.
 
