@@ -46,7 +46,7 @@ The latest news in London and the South East, plus local weather.
 ITV Evening News
 The latest headlines from around the world. Followed by a national weather forecast.
 
-2026-10-29 7:15pm
+2026-10-29 7:00pm
 The Martin Lewis Money Show Live
 In the wake of a new Labour Prime Minister and the Chancellor announcing his first Autumn Budget, Martin will break down what the new announcements mean for your personal finances. He will provide detailed analysis and answer your questions, ensuring you have a comprehensive understanding of the impact the Budget will bring to the pound in your pocket.
 
@@ -342,11 +342,11 @@ Tom and Beth take their affair to the next level on a weekend away, but the time
 ITV News
 The latest national and international news.
 
-2026-11-01 10:20pm
+2026-11-01 10:25pm
 	John Wick
 New York City becomes the bullet-riddled playground of a former assassin as he hunts down the gangsters who destroyed everything he held dear.
 
-2026-11-02 12:05am
+2026-11-02 12:10am
 Teleshopping
 Shopping from home.
 
