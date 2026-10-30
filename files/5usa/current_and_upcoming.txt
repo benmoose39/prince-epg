@@ -1,43 +1,3 @@
-2026-10-29 8:00pm
-NCIS
-The NCIS team investigate the death of a Navy lieutenant who died of over-hydration, which soon turns into a murder investigation. Elsewhere, Gibbs meets Ducky's new lady.
-
-2026-10-29 9:00pm
-Blue Bloods
-An illegal drug shipment arriving in New York City must be found before the narcotics flood the streets; Jamie helps a neighbour handle a gambling debt; Frank receives pushback from Mayor Chase over his handling of a brawl.
-
-2026-10-29 10:00pm
-Law & Order: Special Victims Unit
-When a young boy is found raped and murdered in a field, a paroled sex offender who lives in the area is the prime suspect.
-
-2026-10-29 11:00pm
-Law & Order: Special Victims Unit
-Stabler fears a combative Benson will be the next victim of a real estate agent suspected of sexually assaulting and murdering a lawyer.
-
-2026-10-30 12:00am
-NCIS: Los Angeles
-The team travels to Syria to capture a high-value target, but the mission quickly goes awry.
-
-2026-10-30 1:00am
-NCIS: Los Angeles
-Hetty stays in DC for questioning and Kensi recovers from the Syria mission, while the rest of the team investigates an abduction case.
-
-2026-10-30 2:00am
-Law & Order: Special Victims Unit
-When a teen from a group home goes missing, the squad has only minutes to determine if he ran away or was abducted; Velasco suspects the system at large is to blame for letting children slip through the cracks.
-
-2026-10-30 2:55am
-Law & Order: Special Victims Unit
-A young boy seeks help when his sister doesn't come home from work; Benson and Carisi suspect a woman's assault was prearranged by a third party.
-
-2026-10-30 3:50am
-Entertainment News On 5
-A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.
-
-2026-10-30 4:00am
-Teleshopping
-Shopping from home.
-
 2026-10-30 6:00am
 Ideal World Shopping
 Ideal World Shopping - For All Your Shopping Needs.
@@ -545,4 +505,88 @@ When a young boy is found raped and murdered in a field, a paroled sex offender 
 2026-11-05 3:05am
 Law & Order: Special Victims Unit
 Stabler fears a combative Benson will be the next victim of a real estate agent suspected of sexually assaulting and murdering a lawyer.
+
+2026-11-05 6:00am
+Ideal World Shopping
+Ideal World Shopping - For All Your Shopping Needs.
+
+2026-11-05 9:00am
+Cops
+A seasoned corporal gives some advice to a young man with a new motorcycle; a woman's impatience lands her in hot water when she's pulled over for tailgating; officers give a driver multiple chances to come clean to no avail.
+
+2026-11-05 9:20am
+NCIS
+When a contract killer murders a Navy lieutenant commander, the NCIS team has to find out the motive behind it. Abby learns valuable information about the case after going through a series of kidney donation tests.
+
+2026-11-05 10:10am
+NCIS
+While investigating the murder of a coast guard officer aboard an abandoned cargo vessel, the NCIS team find a Lebanese family seeking refuge in the US. Meanwhile, Tony and McGee attempt to find the perfect woman for Gibbs.
+
+2026-11-05 11:10am
+NCIS
+The NCIS team investigate the death of a Navy lieutenant who died of over-hydration, which soon turns into a murder investigation. Elsewhere, Gibbs meets Ducky's new lady.
+
+2026-11-05 12:10pm
+Law & Order
+A woman is found murdered in Detective Falco's apartment and he does all he can to clear his name.
+
+2026-11-05 1:10pm
+Law & Order
+A cop is killed when he walks in on the robbery of a tabloid photographer's apartment.
+
+2026-11-05 2:05pm
+Law & Order
+A soccer mum dressed like a prostitute is killed.
+
+2026-11-05 3:05pm
+Law & Order
+A high profile publisher who worked on a controversial book is found murdered.
+
+2026-11-05 4:05pm
+Law & Order
+A man dies when a church is burnt down, and the killer claims he did it to save his daughter.
+
+2026-11-05 5:05pm
+Law & Order
+Green and Cassady investigate when a female rapper is murdered. The victim wasn't going to win any popularity contests, using her insult-loaded lyrics to launch withering attacks on her peers. Was she silenced, or was the death a random act of violence?
+
+2026-11-05 6:05pm
+NCIS
+Director Vance's brother-in-law is the lead suspect when Gibbs and the NCIS team investigate the murder of a petty officer.
+
+2026-11-05 7:00pm
+NCIS
+Tony and Ziva travel to Colombia, where they are joined by Ziva's longtime mentor Monique in the search for missing Marine Lieutenant and Navy Chaplain Wade.
+
+2026-11-05 8:00pm
+NCIS
+Missing classified Navy documents are found after a warehouse fire, prompting the NCIS team to join the Baltimore police department investigation.
+
+2026-11-05 9:00pm
+Blue Bloods
+Frank is at odds with his friend Archbishop Kearns when he says the NYPD arrested the wrong man for a murder; Eddie tries to get justice for a sexual assault survivor; Jamie and his nephew, Joe Hill, butt heads over fair police practises.
+
+2026-11-05 10:00pm
+Law & Order: Special Victims Unit
+The trial of an accused child molester is jeopardised when the prime witness has difficulty dealing with his past.
+
+2026-11-05 11:00pm
+Law & Order: Special Victims Unit
+An attorney suspected of keeping a Romanian immigrant as a sex slave is linked to a woman's murder, and the detectives are interviewed by a police psychologist.
+
+2026-11-06 12:00am
+NCIS: Los Angeles
+Callen is placed in a tough situation when his father is linked to a terrible case of radiation poisoning.
+
+2026-11-06 1:00am
+NCIS: Los Angeles
+The team get a lead in their ongoing mole operation when two men are killed outside Callen's house. Nell continues to investigate the government leak.
+
+2026-11-06 2:00am
+Law & Order: Special Victims Unit
+An investment analyst is found hanged in her bedroom and the unit explore her sordid sexual past in order to uncover her murderer's identity.
+
+2026-11-06 3:00am
+Law & Order: Special Victims Unit
+A rape victim turns to the unit for help, but lack of evidence prevents them from arresting the offender.
 
