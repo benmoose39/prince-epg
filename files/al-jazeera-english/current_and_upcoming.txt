@@ -1,51 +1,3 @@
-2026-10-30 10:30pm
-UpFront
-Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
-
-2026-10-30 11:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-30 11:30pm
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-10-31 12:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-31 1:00am
-Silenced: The War On Journalism
-A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.
-
-2026-10-31 2:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-10-31 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-31 3:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
-
-2026-10-31 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-31 4:30am
-Witness
-Carla leads a fight in flood-damaged Valencia, where climate change and mass tourism threaten sea turtles along Spain's devastated coastline.
-
-2026-10-31 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-10-31 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2026-10-31 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -807,6 +759,110 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-06 5:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 6:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 7:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 8:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 9:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 9:30am
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
+
+2026-11-06 10:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 11:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 12:00pm
+Who Killed Shireen?
+An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.
+
+2026-11-06 1:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 2:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 3:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 4:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 5:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 6:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 7:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 9:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-06 10:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-06 10:30pm
+UpFront
+Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
+
+2026-11-06 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-07 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-07 1:00am
+Who Killed Shireen?
+An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.
+
+2026-11-07 2:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-07 3:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-07 3:30am
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
+
+2026-11-07 4:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-07 5:00am
 News
 Up-to-date news and analysis from around the world.
 

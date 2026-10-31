@@ -1,31 +1,3 @@
-2026-10-30 10:47pm
-True Crime Scene
-A highly regarded officer is suspected in the disappearance of several soldiers.
-
-2026-10-30 11:48pm
-True Crime Scene
-A mother of two is charged after placing a 911 call stating her two sons have been stabbed by an intruder.
-
-2026-10-31 1:04am
-Police: Suspect No. 1
-In Norfolk, an otherwise unassuming summer evening is shaken by an armed robbery. A vehicle is stolen and innocent people are shot.
-
-2026-10-31 1:55am
-Police: Suspect No. 1
-Detective Inspector Burgess of Norwich CID has a problem as the number of home burglaries has rocketed. Looking at the evidence, officers suspect that one man is potentially responsible for a large part of the spike in residential crime.
-
-2026-10-31 2:47am
-Police: Suspect No. 1
-After a raid on a cannabis factory, nine people are arrested and it is up to the team to get to the bottom of which role each suspect played.
-
-2026-10-31 3:38am
-Police: Suspect No. 1
-The team in Norwich gather evidence about a single-punch attack that has left a man seriously injured, and there are no willing witnesses.
-
-2026-10-31 4:28am
-Police, Camera, Murder
-Unprecedented access reveals the critical role of digital forensics in modern murder investigations. A schoolboy is found stabbed in the street and an elderly pensioner has been tortured to death - can smartphone and CCTV analysis solve the crimes?
-
 2026-10-31 5:21am
 Heartland Homicide
 The small town of Enderby, British Columbia, is shattered after well-loved residents Derk Roelfsema and Audrey Foster-Roelfsema are found murdered in their own home. As rumours fly about the violent crime, authorities struggle to solve the case.
@@ -641,4 +613,104 @@ Tales of real-life crime told by the FBI. Vito Genovese dealt with disloyalty ru
 2026-11-06 5:47am
 Mafia's Greatest Hits
 Carmine Galante took the Mob into the world of heroin and even when locked up in jail, Galente still managed to control the streets and profit from his drug empire.
+
+2026-11-06 6:44am
+Mafia's Greatest Hits
+Ex-FBI agent Joe Pistone, who infiltrated the Mafia for six years as mobster `Donnie Brasco', reveals how his undercover work led to over 100 convictions.
+
+2026-11-06 7:43am
+Mafia's Greatest Hits
+Financier Allen Dorfman used union pension funds to bankroll the Mafia and the FBI quickly realised they could bankrupt the Mob by pursuing Dorfman.
+
+2026-11-06 8:42am
+Mafia's Greatest Hits
+Joe Valachi was the first Mafia member to break the Mob's code of silence and turn public informer, revealing the term `Cosa Nostra' to the world.
+
+2026-11-06 9:39am
+Mafia's Greatest Hits
+Gambino family soldier Roy DeMeo and his crew were suspected of killing dozens of people and dismembering their bodies, but the FBI and other mobsters were soon on his trail.
+
+2026-11-06 10:38am
+Mafia's Greatest Hits
+Meyer Lansky was an associate of `Lucky' Luciano and linked to criminal financial operations, but the FBI struggled to pin anything on him - or find his riches.
+
+2026-11-06 11:36am
+Crime Exposé With Nancy O'Dell
+When a woman becomes the victim of an assault and murder, police check the stories of her husband and family, and quickly learn that her stepdaughter and her boyfriend had made threats against her.
+
+2026-11-06 12:00pm
+British Gangsters: Faces of the Underworld
+The famous port's wealthy history has contributed to the prosperous underworld within, where the likes of Charlie Seiga, Curtis Warren and Shaun Smith thrived.
+
+2026-11-06 12:53pm
+British Gangsters: Faces of the Underworld
+Looks back at the notorious Peaky Blinders, the flourishing gang culture in the sixties with links to the Krays, and how this culture continues today.
+
+2026-11-06 1:47pm
+British Gangsters: Faces of the Underworld
+In the aftermath of ceasefire in Ireland, many militants turned to crime to make a living. Discover how residual anger on both sides led to unimaginable brutality.
+
+2026-11-06 2:40pm
+British Gangsters: Faces of the Underworld
+Focusing on renowned villains Eddie and Billy Blundell, this episode also delves into the murky world of rave culture and how it was outlawed, before being legalised.
+
+2026-11-06 3:34pm
+British Gangsters: Faces of the Underworld
+Bernard O'Mahoney explores the injustices suffered by those who have somewhat unwittingly surrounded themselves by criminals, including Phil Berriman.
+
+2026-11-06 4:27pm
+British Gangsters: Faces of the Underworld
+When innocent people are jailed for crimes they did not commit, what effect does it have on their lives and their loved ones? Bernard O'Mahoney finds out.
+
+2026-11-06 5:20pm
+British Gangsters: Faces of the Underworld
+Bernard looks at the effect of time on gangs and their origins. Whether it be motorcycle gangs or Irish travellers, the roots are dying out with every new generation.
+
+2026-11-06 6:13pm
+British Gangsters: Faces of the Underworld
+Bernard O'Mahoney explores the minefield that is the media and how its influence has been used to build celebrities out of men, without checking facts. Is it possible to create a gangland persona based purely on a false reputation built by the press? Yes, but there are certain to be extremely costly consequences...
+
+2026-11-06 7:07pm
+	The Feared: Irish Gangsters
+True crime author Bernard O'Mahoney returns to his home country to shine a light on the Irish underworld. With exclusive access to high-profile Irish `faces', he enters uncharted territory when he discovers that there may be more to these crimes than meets the eye. He travels around the country through the workings of a dark criminal underworld with stories of extreme violence, poverty, and ultimately, the devastating consequences they bring.
+
+2026-11-06 8:50pm
+	Gangster No. 1: The Freddie Foreman Story
+Attached to almost every unsolved gangland murder in London over the last 50 years, Freddie Foreman is the `Godfather' of Britain's criminal underworld. Foreman reveals the audacious details of the heists, double crossings, shootouts, murders and betrayals he was involved in, and ultimately, what has made him `Gangster Number.1'.
+
+2026-11-06 10:35pm
+The Krays: The Myth Behind the Legend
+Rivals and other contemporaries discuss gangsters Ronnie and Reggie Kray, who ran London's East End.
+
+2026-11-06 11:35pm
+Gangs of Britain
+Gary and Martin examine the evolution of Birmingham's gang culture, exploring its brutal criminal networks and landmark gang attacks.
+
+2026-11-07 12:25am
+British Gangsters: Faces of the Underworld
+The famous port's wealthy history has contributed to the prosperous underworld within, where the likes of Charlie Seiga, Curtis Warren and Shaun Smith thrived.
+
+2026-11-07 1:19am
+British Gangsters: Faces of the Underworld
+Looks back at the notorious Peaky Blinders, the flourishing gang culture in the sixties with links to the Krays, and how this culture continues today.
+
+2026-11-07 2:12am
+British Gangsters: Faces of the Underworld
+In the aftermath of ceasefire in Ireland, many militants turned to crime to make a living. Discover how residual anger on both sides led to unimaginable brutality.
+
+2026-11-07 3:05am
+British Gangsters: Faces of the Underworld
+Focusing on renowned villains Eddie and Billy Blundell, this episode also delves into the murky world of rave culture and how it was outlawed, before being legalised.
+
+2026-11-07 3:59am
+British Gangsters: Faces of the Underworld
+Bernard O'Mahoney explores the injustices suffered by those who have somewhat unwittingly surrounded themselves by criminals, including Phil Berriman.
+
+2026-11-07 4:52am
+British Gangsters: Faces of the Underworld
+When innocent people are jailed for crimes they did not commit, what effect does it have on their lives and their loved ones? Bernard O'Mahoney finds out.
+
+2026-11-07 5:45am
+British Gangsters: Faces of the Underworld
+Bernard looks at the effect of time on gangs and their origins. Whether it be motorcycle gangs or Irish travellers, the roots are dying out with every new generation.
 
