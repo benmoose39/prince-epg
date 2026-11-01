@@ -1,35 +1,3 @@
-2026-10-31 9:10pm
-	Tales of Manhattan
-As a formal black jacket gets passed on from person to person, these stories set in New York City follow the lives of the coat's owners.
-
-2026-10-31 11:30pm
-Eurotrash
-Hosted by Antoine de Caunes. Tonight, Lolo shows us how to hop, we go running in the weirdest race and go clubbing with the world's oldest transvestite.
-
-2026-11-01 12:05am
-Around the World in 80 Raves
-In the penultimate part, the six intrepid travellers from Leicester are still in San Diego partying with America's most infamous frat boys, the Sigma Pi's.
-
-2026-11-01 1:10am
-The Lost World
-Professor Challenger leads a party of explorers from the smog of Edwardian London to South America in search of a mythical plateau rumoured to be inhabited by dinosaurs. Based on the tale by Sir Arthur Conan Doyle.
-
-2026-11-01 2:45am
-	The Fall of the House of Usher
-A traveller arrives at the Usher mansion to visit his friend Roderick Usher, but discovers that both Roderick and his sister have been afflicted with an extremely strange disease.
-
-2026-11-01 4:05am
-Shirley Temple's Storybook
-The entire fate of the British Throne rests upon the shoulders of a boy named Kim.
-
-2026-11-01 5:10am
-Look at Life
-A look at how horses and their police riders are trained, exploring how they do their job.
-
-2026-11-01 5:25am
-One Step Beyond
-Two men each have a premonition of violent death.
-
 2026-11-01 6:00am
 	The Black Tent
 A stranded British soldier falls in love with a sheikh's daughter and enlists her father's aid in battling the Germans during World War II.
@@ -573,4 +541,100 @@ In the caped crusader's second season opener, The Archer, a medieval crook model
 2026-11-07 5:30am
 Batman
 Just as the dynamic duo are about to be impaled, they activate the Batsprings cleverly hidden in their boots, which catapult them up, up, and away, out of harm's way.
+
+2026-11-07 6:00am
+	Minesweeper
+An Annapolis graduate discharged for gambling rejoins the Navy and helps uncover a new type of Japanese mine.
+
+2026-11-07 7:20am
+	Talk About Jacqueline
+While yachting and flirting on the Riviera, a woman with a past meets a shy, retiring young researcher from the Far East and, against her better judgment, marries him. He runs across some scandalous gossip touching her past.
+
+2026-11-07 8:50am
+Radio London 1967
+A short promo film shot on board the Radio London pirate radio ship in summer 1967, shortly before the station's closure. DJs seen include John Peel, Mark Roman, Pete Drummond and Willie Walker.
+
+2026-11-07 9:00am
+Legend of the Hidden City
+Stars Brendan Pollecutt, Fezile Mpela & Robert Finlayson. Morgan plans to attack 'The Source'. Meanwhile, Ram declares war on Queen Kama and her people.
+
+2026-11-07 9:30am
+The Adventures of William Tell
+By using a traitor planted in Tell's camp, Gessler plans to smash the resistance movement in one swoop.
+
+2026-11-07 10:00am
+Hawkeye and the Last of the Mohicans
+Fortune hunters seek a treasure rumored to have belonged to the French explorer La Salle.
+
+2026-11-07 10:30am
+The Lone Ranger
+Outlaws demand their leader's release in return for a boy's life.
+
+2026-11-07 11:00am
+Supercar
+The adventures of the crew of Supercar, an amazing land, sea, and air vehicle, based at a secret laboratory in the Nevada Desert in 1961.
+
+2026-11-07 11:30am
+The Adventures of Robin Hood
+Robin Hood poses as a French chef to prepare a feast when Count Oliver steals the villagers' food.
+
+2026-11-07 12:00pm
+	Biggles: Adventures in Time
+James "Biggles" Bigglesworth and 1980s Jim Ferguson discover they have the ability to travel through time to each other's eras. Determined to stop the Germans changing the outcome of World War One, the duo attempt to destroy a German super weapon.
+
+2026-11-07 1:45pm
+	Damn the Defiant!
+An 18th-century ship captain's crew are driven to mutiny by the viciousness of one of the officers, despite the dangers of invasion by the French.
+
+2026-11-07 3:45pm
+The Scales of Justice
+A thirteen part series of featurettes from British cinema.
+
+2026-11-07 4:20pm
+	The Quatermass Xperiment
+An astronaut returns to Earth after an experimental space flight afflicted by a strange fungus that transforms him into a murderous monster. After bullets and bombs fail to stop the creature, brilliant scientist Professor Quatermass becomes mankind's last hope of survival.
+
+2026-11-07 5:55pm
+Tell Me Another
+Dick Hills tells personal anecdotes.
+
+2026-11-07 6:25pm
+Dick Turpin
+Glutton's Godmother, the Dutches of Durham is coming for a visit. Turpin and Swiftnick are robbing the Gooches just when Glutton's men come to fetch his pretend wife, and Dick ends up in drag.
+
+2026-11-07 7:00pm
+Maigret
+Parisian detective chief superintendent Maigret investigates murder cases.
+
+2026-11-07 8:05pm
+Lillie
+Lillie is a sensational success at her first social event in London, and soon the artists, writers and leaders of fashionable society are captivated by her - including one Oscar Wilde. Before long she has become a 'Professional Beauty', with pictures of her on magazines and available for sale in shops.
+
+2026-11-07 9:10pm
+	Prudence and the Pill
+Five couples attempt to avoid pregnancy by using contraceptive pills, but none of them are prepared to openly admit this is what they want. As a result of a series of mishaps involving them all, the pills are swapped for aspirin.
+
+2026-11-07 11:00pm
+Eurotrash
+Hosted by Antoine de Caunes and special guests, Eurotrash is the iconic late-night magazine show exploring Europe's most unconventional stories, eccentric personalities and pop culture moments. Blending irreverent humour with distinctive European flair, each 30-minute episode delivers an entertaining and unpredictable journey across the continent.
+
+2026-11-07 11:35pm
+Around the World in 80 Raves
+It's the end of the road for our Leicester lads and lasses. They've travelled over 8,000 miles across America and this is the fifth and final instalment of their travel exploits.
+
+2026-11-08 12:35am
+	Confessions of a Window Cleaner
+A young window cleaner discovers that his lady customers often require a little extra polishing. Based on Timothy Leary's novel.
+
+2026-11-08 2:20am
+	Rentadick
+The incompetent detectives of Rentadick, Inc. track thieves of an experimental nerve gas that paralyses from the waist down.
+
+2026-11-08 4:10am
+	The Girl on the Pier
+Rivalry between a Brighton crooner who has done time and his partner in crime, who is now being blackmailed.
+
+2026-11-08 5:25am
+One Step Beyond
+A farm girl's parents are terrified when their daughter reveals that she can read minds. But a priest knows that her gifts can save twoyoung lives.Sun, Mar 03, 2024.
 
