@@ -1,22 +1,6 @@
-2026-11-02 6:00am
-Westminster Hall
-House of Commons proceedings in Westminster Hall, from Thursday 29 October.
-
-2026-11-02 9:00am
-Scottish First Minister's Questions
-Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 27 October.
-
-2026-11-02 9:30am
-Scottish First Minister's Questions
-Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 29 October.
-
-2026-11-02 10:00am
-Prime Minister's Questions
-Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 28 October.
-
-2026-11-02 10:35am
-Select Committees
-Recorded coverage of select committee proceedings.
+2026-11-02 10:40am
+House of Commons
+Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 29 January.
 
 2026-11-02 12:00pm
 Northern Ireland Assembly
@@ -162,7 +146,7 @@ Coverage of questions in the House of Commons to Jeremy Hunt, the chancellor of 
 House of Commons
 Highlights of proceedings in the House of Commons from Tuesday 3 November.
 
-2026-11-04 9:30am
+2026-11-04 10:00am
 Select Committees
 Coverage of select committee proceedings on Wednesday 4 November.
 
