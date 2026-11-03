@@ -1,46 +1,34 @@
-2026-11-03 6:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-03 7:30am
-Media Watch
-A leading forum for media analysis and comment, Media Watch shines a spotlight on those that make the news, uncovering misrepresentation and manipulation.
-
-2026-11-03 8:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-03 9:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-03 10:00am
-News Summary
-Round up of the latest news headlines.
-
 2026-11-03 10:05am
 Balance Of Power
 The host sheds light on the geopolitical shifts and the changing balance of regional and global power based on a deep analysis of different factors.
 
 2026-11-03 11:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-03 11:05am
+The Rest Of The Story
+The host, along with a panel of experts and thinkers, throws light on an array of topics pertaining to the political scenario in the Arab world.
 
 2026-11-03 12:00pm
+Midday News
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
+
+2026-11-03 2:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-03 1:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-03 2:05pm
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
 
 2026-11-03 2:30pm
 The Tech Factor
 A technology magazine program that explains innovations and technological transformations and their impact on our lives and future.
 
 2026-11-03 3:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-03 3:30pm
 Economic Bulletin
@@ -51,12 +39,12 @@ News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-03 4:05pm
-Doc
-4:05pm
+Programme
+Bringing the best in television.
 
 2026-11-03 5:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-03 5:30pm
 Behind the News
@@ -71,16 +59,20 @@ The Opposite Direction
 The chance to hear both sides of the story as two guests discuss.
 
 2026-11-03 7:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-03 8:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Daily Roundup
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-03 9:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
+
+2026-11-03 9:05pm
+Maghreb Roundup
+A comprehensive compilation of the latest social, political and economic updates, news and developments from around the world.
+
+2026-11-03 9:50pm
+Sports Roundup
+The host presents a summary of the latest news updates and developments pertaining to sports from the nation and around the world.
 
 2026-11-03 10:00pm
 News Bulletin
@@ -91,8 +83,8 @@ The Rest Of The Story
 The host, along with a panel of experts and thinkers, throws light on an array of topics pertaining to the political scenario in the Arab world.
 
 2026-11-03 11:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-03 11:30pm
 The Tech Factor
@@ -103,464 +95,580 @@ News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-04 12:05am
-Doc
-12:05am
+Programme
+Bringing the best in television.
 
 2026-11-04 1:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-04 1:30am
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
 
 2026-11-04 2:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-04 2:30am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-04 2:05am
+The Opposite Direction
+The chance to hear both sides of the story as two guests discuss.
 
 2026-11-04 3:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-04 3:30am
+Behind the News
+A current affairs daily program looking at a major news story of the day.
 
 2026-11-04 4:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-04 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-04 5:05am
+The Stakeholders
+The filmmaker explores major events in the Arab world and beyond using fast-paced, direct debates that remain fair and balanced.
 
 2026-11-04 6:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Morning Table
+The hosts draw attention to the latest social, political and economic updates, news and developments from around the world.
 
-2026-11-04 7:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-04 7:30am
+Diaspora
+A documentary interview programme telling the stories of influential figures living in the diaspora. It explores how their experiences, ideas and positions have developed into forces for change within their communities.
 
 2026-11-04 8:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-04 9:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Noon news
+8:00am
 
 2026-11-04 10:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-04 10:05am
+Programme
+Bringing the best in television.
 
 2026-11-04 11:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-04 11:05am
+The Opposite Direction
+The chance to hear both sides of the story as two guests discuss.
 
 2026-11-04 12:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-04 1:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Midday News
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-04 2:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-04 2:05pm
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
+
+2026-11-04 2:30pm
+Programme
+Bringing the best in television.
+
 2026-11-04 3:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-04 3:30pm
+Economic Bulletin
+Bringing the best in television.
 
 2026-11-04 4:00pm
-News Summary
-Round up of the latest news headlines.
+News Bulletin
+International news with an emphasis on developments in the Arab world.
 
 2026-11-04 4:05pm
-From Washington
-Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
-
-2026-11-04 4:30pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Balance Of Power
+The host sheds light on the geopolitical shifts and the changing balance of regional and global power based on a deep analysis of different factors.
 
 2026-11-04 5:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-04 5:30pm
 Behind the News
 A current affairs daily program looking at a major news story of the day.
 
 2026-11-04 6:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-04 7:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-04 7:05pm
 News Summary
 Round up of the latest news headlines.
 
-2026-11-04 7:30pm
-Scenarios
-An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
+2026-11-04 6:05pm
+Making Sense
+An explanatory programme that explores the roots of crises, conflicts, and political and social transformations.
 
-2026-11-04 8:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-04 7:00pm
+Daily Roundup
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-04 9:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-04 9:05pm
+Maghreb Roundup
+A comprehensive compilation of the latest social, political and economic updates, news and developments from around the world.
+
+2026-11-04 9:50pm
+Sports Roundup
+The host presents a summary of the latest news updates and developments pertaining to sports from the nation and around the world.
+
 2026-11-04 10:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-04 10:05pm
+The Opposite Direction
+The chance to hear both sides of the story as two guests discuss.
+
 2026-11-04 11:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-04 11:30pm
-Behind the News
-A current affairs daily program looking at a major news story of the day.
+Programme
+Bringing the best in television.
 
 2026-11-05 12:00am
-News Summary
-Round up of the latest news headlines.
+News Bulletin
+International news with an emphasis on developments in the Arab world.
 
 2026-11-05 12:05am
-Scenarios
-An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
+Balance Of Power
+The host sheds light on the geopolitical shifts and the changing balance of regional and global power based on a deep analysis of different factors.
 
 2026-11-05 1:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-05 1:30am
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
 
 2026-11-05 2:00am
-News Summary
-Round up of the latest news headlines.
-
-2026-11-05 2:05am
-From Washington
-Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
-
-2026-11-05 3:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
+
+2026-11-05 2:05am
+Making Sense
+An explanatory programme that explores the roots of crises, conflicts, and political and social transformations.
+
+2026-11-05 3:00am
+News
+Featuring news.
+
+2026-11-05 3:30am
+Behind the News
+A current affairs daily program looking at a major news story of the day.
 
 2026-11-05 4:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-05 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-05 5:05am
+Programme
+Bringing the best in television.
 
 2026-11-05 6:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Morning Table
+The hosts draw attention to the latest social, political and economic updates, news and developments from around the world.
 
-2026-11-05 7:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-05 7:30am
+The Tech Factor
+A technology magazine program that explains innovations and technological transformations and their impact on our lives and future.
 
 2026-11-05 8:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-05 9:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Noon news
+8:00am
 
 2026-11-05 10:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-05 10:05am
+The Stakeholders
+The filmmaker explores major events in the Arab world and beyond using fast-paced, direct debates that remain fair and balanced.
 
 2026-11-05 11:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-05 11:05am
+Making Sense
+An explanatory programme that explores the roots of crises, conflicts, and political and social transformations.
 
 2026-11-05 12:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-05 1:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Midday News
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-05 2:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-05 2:05pm
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
+
+2026-11-05 2:30pm
+Sight
+An intellectual program that takes viewers on a journey of inquiry, beginning with questions from everyday life and extending to faith, identity, freedom, and meaning.
+
 2026-11-05 3:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-05 3:30pm
+Economic Bulletin
+Bringing the best in television.
 
 2026-11-05 4:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-05 4:30pm
-Beyond Authority
-A weekly programme assessing important political, security, economic, social and general events of interest to the public. Presented in the critical and sarcastically comic style but with appropriate measure of seriousness.
+2026-11-05 4:05pm
+From Washington
+Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
 
 2026-11-05 5:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-05 5:30pm
 Behind the News
 A current affairs daily program looking at a major news story of the day.
 
 2026-11-05 6:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-05 7:00pm
 News Summary
 Round up of the latest news headlines.
 
-2026-11-05 7:05pm
-Doc
-7:05pm
+2026-11-05 6:05pm
+Scenarios
+An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
 
-2026-11-05 8:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-05 7:00pm
+Daily Roundup
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-05 9:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-05 9:05pm
+Maghreb Roundup
+A comprehensive compilation of the latest social, political and economic updates, news and developments from around the world.
+
+2026-11-05 9:50pm
+Sports Roundup
+The host presents a summary of the latest news updates and developments pertaining to sports from the nation and around the world.
+
 2026-11-05 10:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-05 10:05pm
+Making Sense
+An explanatory programme that explores the roots of crises, conflicts, and political and social transformations.
+
 2026-11-05 11:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-05 11:30pm
-Behind the News
-A current affairs daily program looking at a major news story of the day.
+Sight
+An intellectual program that takes viewers on a journey of inquiry, beginning with questions from everyday life and extending to faith, identity, freedom, and meaning.
 
 2026-11-06 12:00am
-News Summary
-Round up of the latest news headlines.
-
-2026-11-06 12:05am
-Doc
-12:05am
-
-2026-11-06 1:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
+
+2026-11-06 12:05am
+From Washington
+Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
+
+2026-11-06 1:00am
+News
+Featuring news.
+
+2026-11-06 1:30am
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
 
 2026-11-06 2:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-06 2:30am
-Beyond Authority
-A weekly programme assessing important political, security, economic, social and general events of interest to the public. Presented in the critical and sarcastically comic style but with appropriate measure of seriousness.
+2026-11-06 2:05am
+Scenarios
+An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
 
 2026-11-06 3:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-06 3:30am
+Behind the News
+A current affairs daily program looking at a major news story of the day.
 
 2026-11-06 4:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-06 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-06 5:05am
+Balance Of Power
+The host sheds light on the geopolitical shifts and the changing balance of regional and global power based on a deep analysis of different factors.
 
 2026-11-06 6:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Morning Table
+The hosts draw attention to the latest social, political and economic updates, news and developments from around the world.
 
-2026-11-06 7:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-06 7:30am
+Programme
+Bringing the best in television.
 
 2026-11-06 8:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-06 9:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Noon news
+8:00am
 
 2026-11-06 10:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-06 10:05am
+From Washington
+Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
 
 2026-11-06 11:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-06 11:05am
+Scenarios
+An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
 
 2026-11-06 12:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-06 1:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Midday News
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-06 2:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-06 2:05pm
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
+
+2026-11-06 2:30pm
+Above Authority
+The host sheds light on the latest and biggest political, economic and social events in the Arab region and the world and provides an in-depth analysis.
+
 2026-11-06 3:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-06 3:30pm
+Economic Bulletin
+Bringing the best in television.
 
 2026-11-06 4:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-06 4:30pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-06 4:05pm
+Pleading
+The host invites prominent personalities to discuss the most controversial issues and examine them through direct, candid confrontation.
 
 2026-11-06 5:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-06 5:30pm
 Behind the News
 A current affairs daily program looking at a major news story of the day.
 
 2026-11-06 6:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-06 6:05pm
+Programme
+Bringing the best in television.
 
 2026-11-06 7:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-06 8:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Daily Roundup
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-06 9:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-06 9:05pm
+Maghreb Roundup
+A comprehensive compilation of the latest social, political and economic updates, news and developments from around the world.
+
+2026-11-06 9:50pm
+Sports Roundup
+The host presents a summary of the latest news updates and developments pertaining to sports from the nation and around the world.
+
 2026-11-06 10:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-06 10:05pm
+Scenarios
+An examination of potential scenarios of the rapid and successive regional and international changes taking place in our world. Based on an in-depth analytical reading of current events and a forward-looking perspective.
+
 2026-11-06 11:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-06 11:30pm
-Behind the News
-A current affairs daily program looking at a major news story of the day.
+Above Authority
+The host sheds light on the latest and biggest political, economic and social events in the Arab region and the world and provides an in-depth analysis.
 
 2026-11-07 12:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-07 12:05am
+Pleading
+The host invites prominent personalities to discuss the most controversial issues and examine them through direct, candid confrontation.
+
 2026-11-07 1:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-07 1:30am
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
 
 2026-11-07 2:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-07 2:30am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-07 2:05am
+Programme
+Bringing the best in television.
 
 2026-11-07 3:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-07 3:30am
+Behind the News
+A current affairs daily program looking at a major news story of the day.
 
 2026-11-07 4:00am
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
 2026-11-07 5:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-07 5:05am
+From Washington
+Journalists, thinkers, analysts and decision makers in America discuss the week's news politics.
 
 2026-11-07 6:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Morning Table
+The hosts draw attention to the latest social, political and economic updates, news and developments from around the world.
 
-2026-11-07 7:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-07 7:30am
+Sight
+An intellectual program that takes viewers on a journey of inquiry, beginning with questions from everyday life and extending to faith, identity, freedom, and meaning.
 
 2026-11-07 8:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-07 9:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Noon news
+8:00am
 
 2026-11-07 10:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-07 10:05am
+Pleading
+The host invites prominent personalities to discuss the most controversial issues and examine them through direct, candid confrontation.
 
 2026-11-07 11:00am
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News Summary
+Round up of the latest news headlines.
+
+2026-11-07 11:05am
+Programme
+Bringing the best in television.
 
 2026-11-07 12:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-07 1:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+Midday News
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-07 2:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
+2026-11-07 2:05pm
+Networks
+The hosts shed light on the latest news and stories circulating on different social media platforms while reflecting people's opinions and points of view regarding the news.
+
+2026-11-07 2:30pm
+Programme
+Bringing the best in television.
+
 2026-11-07 3:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
+
+2026-11-07 3:30pm
+Economic Bulletin
+Bringing the best in television.
 
 2026-11-07 4:00pm
 News Bulletin
 International news with an emphasis on developments in the Arab world.
 
-2026-11-07 4:30pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-07 4:05pm
+South
+The filmmaker explores major events and issues across developing regions like the Global South, Africa, Latin America, India, China and East Asia.
 
 2026-11-07 5:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+News
+Featuring news.
 
 2026-11-07 5:30pm
 Behind the News
 A current affairs daily program looking at a major news story of the day.
 
 2026-11-07 6:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
-
-2026-11-07 7:00pm
 News Summary
 Round up of the latest news headlines.
 
-2026-11-07 7:05pm
-The Interview
-7:05pm
+2026-11-07 6:05pm
+Century Witness
+Join this week's guest that has played a significant role in Arab politics.
 
-2026-11-07 8:00pm
-News Bulletin
-International news with an emphasis on developments in the Arab world.
+2026-11-07 7:00pm
+Daily Roundup
+A comprehensive compilation of the latest social, political and economic news and updates in the region and from around the world.
 
 2026-11-07 9:00pm
 News Bulletin

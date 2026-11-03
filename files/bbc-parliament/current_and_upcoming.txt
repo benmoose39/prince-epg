@@ -1,22 +1,10 @@
-2026-11-03 5:00am
-House of Lords
-Business in the House of Lords on Monday 2 November.
-
-2026-11-03 7:00am
-House of Commons
-Coverage of questions in the House of Commons to Angela Rayner, the housing, communities and local government secretary, and her team of ministers on Monday 2 September.
-
-2026-11-03 8:00am
-House of Commons
-Highlights of proceedings in the House of Commons from Monday 2 November.
-
 2026-11-03 9:30am
 Select Committees
 Coverage of select committee proceedings on Tuesday 3 November.
 
 2026-11-03 11:30am
 House of Commons
-Coverage of questions in the House of Commons to Jeremy Hunt, the chancellor of the exchequer, and his team of ministers on Tuesday 6 February.
+Coverage of questions in the House of Commons to John Healey, the Chancellor of the Exchequer, and his team of ministers on Tuesday 3 November.
 
 2026-11-03 12:30pm
 House of Commons
@@ -76,7 +64,7 @@ Business in the House of Lords on Tuesday 3 November.
 
 2026-11-04 7:00am
 House of Commons
-Coverage of questions in the House of Commons to Jeremy Hunt, the chancellor of the exchequer, and his team of ministers on Tuesday 6 February.
+Coverage of questions in the House of Commons to John Healey, the Chancellor of the Exchequer, and his team of ministers on Tuesday 3 November.
 
 2026-11-04 8:00am
 House of Commons
@@ -88,7 +76,7 @@ Coverage of select committee proceedings on Wednesday 4 November.
 
 2026-11-04 11:30am
 House of Commons
-Coverage of questions in the House of Commons to Jo Stevens, the Welsh Secretary, and her team of ministers on Wednesday 4 March.
+Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 4 November.
 
 2026-11-04 12:00pm
 Prime Minister's Questions
@@ -148,7 +136,7 @@ Business in the House of Lords on Wednesday 4 November.
 
 2026-11-05 7:00am
 House of Commons
-Coverage of questions in the House of Commons to Jo Stevens, the Welsh Secretary, and her team of ministers on Wednesday 4 March.
+Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 4 November.
 
 2026-11-05 7:30am
 Prime Minister's Questions
@@ -240,7 +228,7 @@ Highlights from the Welsh Parliament.
 
 2026-11-07 4:30am
 Northern Ireland Assembly
-Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Tuesday 29 September.
+Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.
 
 2026-11-07 5:15am
 Northern Ireland Assembly
@@ -271,28 +259,80 @@ To Be Announced
 2:00am
 
 2026-11-08 6:00am
-To Be Announced
-6:00am
+Westminster Hall
+House of Commons proceedings in Westminster Hall, from Wednesday 4 November.
 
-2026-11-08 10:00am
-To Be Announced
-10:00am
+2026-11-08 11:00am
+Northern Ireland Assembly
+Coverage of a statement in the Northern Ireland Assembly.
 
-2026-11-08 2:00pm
-To Be Announced
-2:00pm
+2026-11-08 11:40am
+Senedd Cymru - Welsh Parliament
+Coverage of a debate in the Welsh Parliament.
+
+2026-11-08 12:25pm
+Scottish Parliament
+Coverage of a statement in the Scottish Parliament.
+
+2026-11-08 1:10pm
+House of Lords
+Featuring all the action from the UK Parliament's House of Lords where peers engage in debates, hold Q&A sessions, and suggest legislative changes.
+
+2026-11-08 1:55pm
+House of Commons
+Featuring all the action from the UK Parliament's House of Commons where MPs engage in debates, scrutinise policies, and listen to statements by the government.
+
+2026-11-08 2:40pm
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 4 November.
+
+2026-11-08 3:15pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.
+
+2026-11-08 3:45pm
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.
+
+2026-11-08 4:15pm
+Welsh First Minister's Questions
+Questions in the Senedd, the Welsh Parliament, to the First Minister Rhun ap Iorwerth, on Tuesday 3 November.
+
+2026-11-08 5:15pm
+Northern Ireland Assembly
+Coverage of questions in the Northern Ireland Assembly in Stormont to the communities minister, Gordon Lyons, on Monday 2 November.
 
 2026-11-08 6:00pm
-To Be Announced
-6:00pm
+Select Committees
+Recorded coverage of select committee proceedings.
 
-2026-11-08 10:00pm
-To Be Announced
-10:00pm
+2026-11-09 12:55am
+House of Commons
+Coverage of questions in the House of Commons to Stephen Kinnock, the Welsh secretary, and his team of ministers on Wednesday 4 November.
 
-2026-11-09 2:00am
-To Be Announced
-2:00am
+2026-11-09 1:25am
+House of Commons
+Coverage of questions in the House of Commons to John Healey, the Chancellor of the Exchequer, and his team of ministers on Tuesday 3 November.
+
+2026-11-09 2:25am
+House of Commons
+Coverage of questions in the House of Commons to Angela Rayner, the housing, communities and local government secretary, and her team of ministers on Monday 2 November.
+
+2026-11-09 3:25am
+Prime Minister's Questions
+Coverage of questions in the House of Commons to Andy Burnham, the prime minister, on Wednesday 4 November.
+
+2026-11-09 4:00am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 3 November.
+
+2026-11-09 4:30am
+Scottish First Minister's Questions
+Questions in the Scottish Parliament from party leaders to John Swinney, the first minister, on Thursday 5 November.
+
+2026-11-09 5:00am
+Welsh First Minister's Questions
+Questions in the Senedd, the Welsh Parliament, to the First Minister Rhun ap Iorwerth, on Tuesday 3 November.
 
 2026-11-09 6:00am
 To Be Announced
