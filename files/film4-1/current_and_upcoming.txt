@@ -1,19 +1,3 @@
-2026-11-03 8:30am
-Teleshopping
-Shopping from home.
-
-2026-11-03 12:00pm
-	Sherlock Holmes and the Secret Weapon
-Renowned sleuth Sherlock Holmes tries to smuggle the Swiss inventor of a revolutionary aircraft bomb-aiming device to England - right under the noses of the Nazis. Unfortunately, an even greater adversary is awaiting their arrival.
-
-2026-11-03 1:20pm
-	Arabesque
-Ancient language specialist David thinks he has won the jackpot when a mysterious Arab offers him a fortune to translate a Hittite inscription. What he doesn't know is that the words contain a code which could save a Middle Eastern prime minister from assassination.
-
-2026-11-03 3:30pm
-	Broken Lance
-Tensions erupt within an Arizona cattle baron's household when his three sons vie for control of the ranch.
-
 2026-11-03 5:25pm
 	A Room With a View
 On holiday in Florence, Charlotte Bartlett and her cousin encounter Mr Emerson, an English tourist accompanied by his son. After an unpleasant incident, the two women return to England but when Mr Emerson turns up as a tenant of a nearby house, all sorts of romantic complications ensue.
@@ -198,63 +182,99 @@ Agents develop a revolutionary computer program that uses a digital child to cat
 Teleshopping
 Shopping from home.
 
-2026-11-08 4:45am
+2026-11-08 8:20am
 Teleshopping
 Shopping from home.
 
-2026-11-08 8:45am
+2026-11-08 12:00pm
+	Sherlock Holmes and the Secret Weapon
+Renowned sleuth Sherlock Holmes tries to smuggle the Swiss inventor of a revolutionary aircraft bomb-aiming device to England - right under the noses of the Nazis. Unfortunately, an even greater adversary is awaiting their arrival.
+
+2026-11-08 1:20pm
 Teleshopping
 Shopping from home.
 
-2026-11-08 10:00am
-To Be Announced
-10:00am
+2026-11-08 1:25pm
+	Arthur Christmas
+Everyone knows that, each Christmas, Santa Claus delivers presents to every last child on Earth. What everyone doesn't know is that Santa accomplishes the feat with a very high-tech operation beneath the North Pole. But when the unthinkable happens, and Santa misses one child out of hundreds of millions, someone has to save the day. It's up to Arthur (James McAvoy), Santa's youngest son, to deliver a present to the forgotten tyke before Christmas morning dawns.
 
-2026-11-08 11:00am
-To Be Announced
-11:00am
+2026-11-08 3:25pm
+	Tooth Fairy
+Nicknamed the `Tooth Fairy' due to his penchant for knocking out other players' teeth, an arrogant hockey player's moniker becomes very apt when he steals a dollar that his girlfriend Carly's daughter has left for the real Tooth Fairy. Sprouting wings, Derek is summoned to meet the leader of the fairies, Lily, who labels him a `dream crusher' and orders him to serve as a tooth fairy to make up for his transgressions.
 
-2026-11-08 3:00pm
-To Be Announced
-3:00pm
+2026-11-08 5:30pm
+	The Kid Who Would Be King
+Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies into a band of knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.
 
-2026-11-08 7:00pm
-To Be Announced
-7:00pm
+2026-11-08 7:50pm
+	The Adjustment Bureau
+After glimpsing his future, an ambitious politician battles the agents of Fate itself to be with the woman he loves.
 
-2026-11-08 11:00pm
-To Be Announced
-11:00pm
+2026-11-08 9:55pm
+Wild Horse Nine Interview Special
+Writer/director Martin McDonagh and cast discuss the Film4-produced political comedy thriller Wild Horse Nine.
 
-2026-11-09 3:00am
-To Be Announced
-3:00am
+2026-11-08 10:00pm
+	Dawn of the Planet of the Apes
+Human survivors of a deadly plague threaten Caesar's growing nation of genetically evolved apes. Though they reach a fragile peace, both sides are soon brought to the brink of a war that will determine which will become Earth's dominant species.
 
-2026-11-09 8:40am
-To Be Announced
-8:40am
+2026-11-09 12:35am
+	Calm with Horses
+In rural Ireland, ex-boxer Douglas `Arm' Armstrong has become the feared enforcer for the drug-dealing Devers family, whilst also trying to be a good father to his autistic five-year-old son, Jack.
 
-2026-11-09 9:40am
-To Be Announced
-9:40am
+2026-11-09 2:40am
+	Shayda
+A young Iranian mother takes refuge in an Australian women's shelter with her 6-year-old daughter during the two weeks of Nowruz, the Persian New Year. Her path to freedom is jeopardised when her estranged husband arrives.
 
-2026-11-09 1:40pm
-To Be Announced
-1:40pm
+2026-11-09 5:00am
+Teleshopping
+Shopping from home.
 
-2026-11-09 5:40pm
-To Be Announced
-5:40pm
+2026-11-09 9:00am
+BSL Zone
+World War II: Unheard Memories documents the experience of deaf people in wartime Britain. The survivors reminisce on the panic when war was announced to the terror of the Blitz.
 
-2026-11-09 9:40pm
-To Be Announced
-9:40pm
+2026-11-09 9:30am
+Teleshopping
+Shopping from home.
 
-2026-11-10 1:40am
-To Be Announced
-1:40am
+2026-11-09 12:00pm
+	The Shepherd of the Hills
+Based on Harold Bell Wright's novel about an Ozark moonshiner who vows to kill the father who deserted him long ago.
 
-2026-11-10 5:40am
-To Be Announced
-5:40am
+2026-11-09 2:00pm
+	The True Story of Jesse James
+Borrowing widely from Nunally Johnson's script for Henry King's 1939 version of the legend (and using two sequences from the same production), Nicholas Ray's version portrays Jesse James as a rebel rather than a simple outlaw, driven to a life of crime by Northern sympathisers after the Civil War as the film follows the last 18 years of his life.
+
+2026-11-09 3:50pm
+	The Mouse That Roared
+Classic farce in which the tiny Grand Duchy of Fenwick declares war on the United States with the aim of glorious defeat and a hefty sum in post-war aid. An advance party travels to New York and kidnaps the inventor of the Q-bomb, unfortunately forcing the Americans into immediate surrender.
+
+2026-11-09 5:30pm
+	Jubal
+Western version of `Othello' in which a down-on-his-luck drifter takes a job at a ranch where the boss's sensuous wife takes a shine to him. Trouble is in store when the woman's ex-lover feels slighted and determines to cause trouble for the newcomer.
+
+2026-11-09 7:35pm
+Wild Horse Nine Interview Special
+Writer/director Martin McDonagh and cast discuss the Film4-produced political comedy thriller Wild Horse Nine.
+
+2026-11-09 7:45pm
+	Men in Black: International
+The Men in Black have expanded to cover the globe, but so have the villains of the universe. When aliens that can take the form of any human arrive on Earth, H and M embark on a globe-trotting adventure to save the agency -- and ultimately the world.
+
+2026-11-09 10:00pm
+	War for the Planet of the Apes
+Following the apes' dawn, human-simian relations are not going well. Caesar's forest-dwelling tribe are being hunted down by a ruthless, half-mad colonel obsessed with wiping their kind from the face of the earth, and it isn't long before the conflict results in tragic losses. Consumed by rage, Caesar abandons his noble, peace-seeking ways and sets out to avenge the fallen - whatever the cost.
+
+2026-11-10 12:45am
+	Anna
+Beneath a Russian woman's striking beauty lies a hidden secret that will unleash her indelible strength and skill and lead to her becoming one of the most feared assassins on the planet.
+
+2026-11-10 3:05am
+	The Future
+Sophie and Jason are in their mid-30s, childless and stuck in jobs that were supposed to be `just for now' - she teaches dance to kids, he operates an IT helpdesk from their shared home - but have seemingly set them on a road to nowhere. The realisation that, if they want to make something of their lives, they need to find direction hits with a jolt. One upshot is that they decide to adopt a down-on-its-luck cat.
+
+2026-11-10 4:50am
+Teleshopping
+Shopping from home.
 
