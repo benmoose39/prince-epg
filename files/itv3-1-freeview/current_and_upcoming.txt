@@ -1,31 +1,3 @@
-2026-11-02 9:00pm
-Midsomer Murders
-DCI Barnaby finds a tangled world of crime and intrigue in the art world. A recently discovered masterpiece by local artist Henry Hogson realises an impressive price at auction just hours before its previous owner is tortured and killed. Can Barnaby and Jones prevent the body count from rising further?
-
-2026-11-02 11:00pm
-Downton Abbey
-Rosamund arrives at Downton following Edith's shock departure. Will her secret finally be exposed to the family? Meanwhile, Rose is delighted to introduce Atticus and his parents to Downton for the first time.
-
-2026-11-03 12:00am
-A Touch of Frost
-DI Frost investigates whether three male bodies found buried naked in the shape of a triangle are part of a satanic ritual. Will closer analysis lead him in a different direction? Meanwhile, ruthless millionaire press baron James Callum is determined to make his mark on Denton and will stop at nothing to get what he wants. Will Frost be able to stop Callum in his tracks before his actions lead to fatal consequences?
-
-2026-11-03 1:55am
-The Royal
-It's the end of an era as Middleditch hands everything over to the new administrator - but not without the odd surprise in store for him. Meanwhile, Mr Rose finds himself at the centre of attention, and a minor accident leads to a major discovery for one family.
-
-2026-11-03 2:55am
-George and Mildred
-How do you climb the social ladder when you've got a few rungs missing? George has already said the people in the neighbourhood are toffee-nosed snobs. Mildred begins to wonder whether he's right.
-
-2026-11-03 3:20am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-11-03 3:30am
-Teleshopping
-Shopping from home.
-
 2026-11-03 9:00pm
 Vera
 DCI Vera Stanhope investigates the mysterious death of a wildlife ranger, whose body is found on a remote island off the coast of Northumberland.
@@ -175,6 +147,26 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2026-11-09 3:30am
+Teleshopping
+Shopping from home.
+
+2026-11-09 9:00pm
+Midsomer Murders
+During a masterclass for talented young musicians held by famous pianist Sir Michael Fielding, prodigy Zoe Stock is shocked to witness a woman drowning in the river, leaving a baby on the bank. When police arrive, however, there is no sign of the woman or her child. DCI Tom Barnaby is struck by the similarity of the reported drowning to a mysterious case from 20 years ago.
+
+2026-11-09 11:00pm
+Downton Abbey
+Preparations for the wedding of Mr Carson and Mrs Hughes are under way, but a misunderstanding threatens to shatter the peace. Edith meets up with an old acquaintance who comes to her assistance in an hour of need. Spratt has something to hide but Denker is hot on the trail, and Daisy jumps to conclusions when she hears about a plan of Cora's. Tensions mount over the hospital takeover, leading Isobel to offend a friend.
+
+2026-11-10 12:00am
+Foyle's War
+Having been turned down to join the war effort, Foyle feels frustrated at being left behind, but he soon finds his skills needed on the home front when a well-known German woman is brutally murdered.
+
+2026-11-10 3:00am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-10 3:30am
 Teleshopping
 Shopping from home.
 

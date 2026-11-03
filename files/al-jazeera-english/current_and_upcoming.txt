@@ -1,63 +1,3 @@
-2026-11-02 8:00pm
-Vietnam - 50 Years of Forgetting
-8:00pm
-
-2026-11-02 9:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-02 10:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-02 10:30pm
-Witness
-A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
-
-2026-11-02 11:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-02 11:30pm
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-11-03 12:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-03 1:00am
-Silenced: The War On Journalism
-A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.
-
-2026-11-03 2:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-03 3:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-03 3:30am
-The Global Population Bust
-Japan's population is ageing and plummeting what is the impact are the consequences of a world where age outpaces birth.
-
-2026-11-03 4:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-03 4:30am
-Talk to Al Jazeera
-One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
-
-2026-11-03 5:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-03 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
 2026-11-03 6:00am
 News
 Up-to-date news and analysis from around the world.
@@ -875,6 +815,154 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-09 5:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-09 6:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 6:30am
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
+
+2026-11-09 7:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 8:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 8:30am
+Talk to Al Jazeera
+One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
+
+2026-11-09 9:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 9:30am
+The Population Bust
+From anti-abortion policies in Hungary to promotions for procreating in South Korea, meet the politicians and companies trying to reverse dropping birth rates.
+
+2026-11-09 10:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 11:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 11:30am
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-09 12:00pm
+Who Killed Shireen?
+An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.
+
+2026-11-09 1:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 2:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 2:30pm
+Counting the Cost
+Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
+
+2026-11-09 3:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 4:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 4:30pm
+UpFront
+Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
+
+2026-11-09 5:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 5:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-09 6:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 7:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 7:30pm
+Al Jazeera Explains
+Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
+
+2026-11-09 8:00pm
+Let's Focus
+Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
+
+2026-11-09 9:00pm
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-09 10:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 10:30pm
+Witness
+A father confronts the environmental damage from years of war in Afghanistan and questions if he can ever return to the village he once called home.
+
+2026-11-09 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-09 11:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-10 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-10 1:00am
+Who Killed Shireen?
+An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.
+
+2026-11-10 2:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-10 3:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-10 3:30am
+The Population Bust
+From anti-abortion policies in Hungary to promotions for procreating in South Korea, meet the politicians and companies trying to reverse dropping birth rates.
+
+2026-11-10 4:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-10 4:30am
+Talk to Al Jazeera
+One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
+
+2026-11-10 5:00am
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-10 5:30am
 Inside Story
 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
