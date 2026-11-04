@@ -1,43 +1,3 @@
-2026-11-04 6:00am
-Us Midterms
-6:00am
-
-2026-11-04 6:30am
-Us Midterms
-6:30am
-
-2026-11-04 7:00am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 7:30am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 8:00am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 8:30am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 9:00am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 9:30am
-Mornings with Ridge and Frost
-All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.
-
-2026-11-04 10:00am
-Sky News Today with Gareth Malone
-Breaking news, developing stories, and live events from Sky News correspondents in the UK and around the world.
-
-2026-11-04 10:30am
-Sky News Today with Gareth Malone
-Breaking news, developing stories, and live events from Sky News correspondents in the UK and around the world.
-
 2026-11-04 11:00am
 Sky News Today with Gareth Malone
 Breaking news, developing stories, and live events from Sky News correspondents in the UK and around the world.
@@ -675,16 +635,16 @@ Sky News Today With Matt Barbet
 Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.
 
 2026-11-08 10:30am
-Sky News Today With Matt Barbet
-Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.
+Remembrance Sunday: The Cenotaph
+Sophie Raworth and Petroc Trelawny present live coverage from London as HM the King leads the Remembrance Sunday commemorations at the Cenotaph. His Majesty will be joined on Whitehall by senior members of the royal family and leading UK politicians, alongside representatives of the armed forces, the Commonwealth and faith communities for the two-minute silence at 11 o'clock and the National Service of Remembrance.
 
 2026-11-08 11:00am
-Sky News Today With Matt Barbet
-Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.
+Remembrance Sunday: The Cenotaph
+Sophie Raworth and Petroc Trelawny present live coverage from London as HM the King leads the Remembrance Sunday commemorations at the Cenotaph. His Majesty will be joined on Whitehall by senior members of the royal family and leading UK politicians, alongside representatives of the armed forces, the Commonwealth and faith communities for the two-minute silence at 11 o'clock and the National Service of Remembrance.
 
 2026-11-08 11:30am
-Sky News Today With Matt Barbet
-Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.
+Remembrance Sunday: The Cenotaph
+Sophie Raworth and Petroc Trelawny present live coverage from London as HM the King leads the Remembrance Sunday commemorations at the Cenotaph. His Majesty will be joined on Whitehall by senior members of the royal family and leading UK politicians, alongside representatives of the armed forces, the Commonwealth and faith communities for the two-minute silence at 11 o'clock and the National Service of Remembrance.
 
 2026-11-08 12:00pm
 Sky News Today With Matt Barbet
