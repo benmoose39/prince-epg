@@ -1,11 +1,3 @@
-2026-11-03 11:30pm
-US Midterm Elections
-Clive Myrie, Sumi Somaskanda and Caitríona Perry guide viewers through a decisive night with far-reaching implications for the world. We'll bring you the key results as votes pour in across the US.
-
-2026-11-04 2:00am
-US Midterm Elections
-Clive Myrie, Sumi Somaskanda and Caitríona Perry guide viewers through a decisive night with far-reaching implications for the world. We'll bring you the key results as votes pour in across the US.
-
 2026-11-04 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -879,6 +871,150 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-10 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-10 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-10 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-11-10 10:45am
+Dashcam Justice
+A high-speed road rage battle on the M4 ends with a car flipping across the motorway. Both drivers deny wrongdoing, but another motorist's dashcam captures the drama. A shortcut down a country lane leaves Susie Martin facing a head-on crash and an angry driver determined to blame her. Elsewhere, a warning horn helps avert disaster as a car bears down on a woman and child at a zebra crossing.
+
+2026-11-10 11:15am
+Homes Under the Hammer
+Martin is impressed by the use of space at a West Midlands terrace. Dion is in Salford, where less might be more with a project. The opposite is true with three flats on offer in Croydon, as it requires deep pockets to bring them back to life.
+
+2026-11-10 12:15pm
+Bargain Hunt
+Charlie Ross heads to the Peak District and goes underground in search of one of the rarest semi-precious minerals in the world, Blue John. Back on terra firma, he finds out how it's made into exquisite jewellery and ornaments.
+
+2026-11-10 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-10 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-10 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-10 2:00pm
+Money for Nothing
+Sarah Moore is in Surrey, determined to save quality items from ending up on the scrapheap at Witley recycling centre. She rescues a G Plan unit, a stacking bookcase and a papasan seat. With the help of screen print artist Zoe Murphy and restorer Peter Fournel, the tired trio of finds are revamped and rejuvenated, but will Sarah manage to produce profits for the items' unsuspecting owners?
+
+2026-11-10 2:45pm
+Escape to the Country
+Three generations of one family want to move to the East Midlands, and the task of finding a new home for them all has fallen on mum, grandma, and Ginny Buckley. Away from looking at houses, Ginny meets a volunteer group helping to restore the area's local canals and their footpaths so that wildlife can thrive and the public can enjoy a safer stroll.
+
+2026-11-10 3:45pm
+The Bidding Room
+A mother and daughter drive the dealers nuts to secure a sale, the bidders enjoy a seventies classic, and toy collector Russell returns with a game that's going nowhere fast.
+
+2026-11-10 4:30pm
+Bridge of Lies
+Ross Kemp presents the quiz show where a team of four - in this episode, friends Rob, Diane, Glen and Dave - take on the Bridge of Lies. One by one, they all face the Bridge, choosing who faces each crossing depending on the question category. Each crossing has 32 potential steps, including 22 truths and ten lies. They must cross the Bridge by stepping on the truths and avoiding the lies, earning money for each correct answer.
+
+2026-11-10 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-11-10 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-11-10 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-10 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-11-10 7:30pm
+EastEnders
+Linda goes in search of answers. Tensions rise between Suki and Ash. Mark finds himself in a tricky situation.
+
+2026-11-10 8:00pm
+Stacey & Joe
+Joe has big plans for the lake, with Stacey keeping everything on track. But between press interest, two birthdays and Joe's new emu obsession, life is busy.
+
+2026-11-10 9:00pm
+MasterChef: The Professionals
+In the second week of the heats, a fresh group of professional chefs wait in the wings of the kitchen ready to demonstrate their exceptional talent.
+
+2026-11-10 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-11-10 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-10 10:40pm
+Tall Tales and Murder
+Series 1 Episode 2
+
+2026-11-10 11:25pm
+	Knocked Up
+When a glamorous TV journalist gets pregnant by a guy she'd rather forget, her decision to keep the baby turns her life upside down.
+
+2026-11-11 1:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-11 1:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-11 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-11 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-11 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-11 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-11 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-11 3:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-11-11 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-11 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-11 4:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-11-11 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-11 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
