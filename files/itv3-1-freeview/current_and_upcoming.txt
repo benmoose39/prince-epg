@@ -1,27 +1,3 @@
-2026-11-04 9:00pm
-Midsomer Murders
-Science fellow George Jeffers threatens to go public with what he believes is a potentially lethal software glitch in a new air traffic control system. American software boss Clinton Finn fears he will lose millions if the truth comes out and puts pressure on the University authorities, but when village schoolteacher Emily Harte is killed by a hit-and-run driver, Barnaby wonders if Jeffers was the real target.
-
-2026-11-04 11:00pm
-	Downton Abbey
-Excitement is high at Downton Abbey when the Crawley family learns that King George V and Queen Mary are coming to visit. But trouble soon arises when the servants learn that the king and queen travel with their own royal chefs and attendants.
-
-2026-11-05 1:00am
-A Touch of Frost
-The police drama series returns. A 20-year-old missing persons case is re-opened when the remains of a teenage girl are finally found. With the mother desperate to discover the truth about her daughter's disappearance, Frost attempts to get to the bottom of a case that has spanned two decades.
-
-2026-11-05 3:00am
-George and Mildred
-It's a novel experience for Mildred when George gets jealous.
-
-2026-11-05 3:25am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-11-05 3:30am
-Teleshopping
-Shopping from home.
-
 2026-11-05 9:00pm
 Vera
 When the body of a drug addict is found face down in a river, DCI Vera Stanhope is forced to delve back into an old case in order to unmask the killer.
@@ -163,6 +139,26 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2026-11-11 3:30am
+Teleshopping
+Shopping from home.
+
+2026-11-11 9:00pm
+Midsomer Murders
+Betrayal, infidelity and blackmail fester as plans to re-enact a Victorian prizefight turn nasty - and even DCI Barnaby finds his judgement clouded by an old friend. Midsomer Morchard welcomes back local boxer John Kinsella from his world title fight victory in New York. Meanwhile, Kinsella's ruthless and controlling promoter Frank Bishop goes to see solicitor Giles Braithwaite, only to find the lawyer dead.
+
+2026-11-11 11:00pm
+Downton Abbey
+Violet invites Neville Chamberlain, minister of health, to dine at Downton Abbey as part of her scheme to quash plans for the takeover of the hospital. The evening proves distressing for everyone. Mrs Patmore, Daisy and Andy help Mr Mason to move into Yew Tree Farm and Andy finds an unexpected confidant in Thomas. Mary and Tom go to watch Henry Talbot test drive a new car, but Mary is not convinced she has met her match.
+
+2026-11-12 12:00am
+Foyle's War
+In June 1940, Foyle is preparing for a German invasion when he is called on to investigate the death of a conscientious objector. He uncovers a network of lies and corruption in the heart of wartime Hastings.
+
+2026-11-12 3:00am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-12 3:30am
 Teleshopping
 Shopping from home.
 
