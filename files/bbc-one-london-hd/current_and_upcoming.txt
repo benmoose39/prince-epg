@@ -1,87 +1,3 @@
-2026-11-08 8:00pm
-Blue Planet III
-Beyond the horizon lies the vast open ocean, a world teeming with extraordinary life where giant blue whales, tiny drifting crabs and tenacious turtles thrive against all odds.
-
-2026-11-08 9:00pm
-This City Is Ours
-A long-time member of organised crime falls in love with Diana, prompting him to reevaluate his life and contemplate a future beyond his criminal activities.
-
-2026-11-08 10:00pm
-BBC Weekend News
-National and international news, followed by weather.
-
-2026-11-08 10:25pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-08 10:30pm
-Match of the Day
-Highlights from the 2026/27 Premier League season.
-
-2026-11-08 11:50pm
-The Graham Norton Show
-Graham's guests are Dame Judi Dench, Alan Cumming and Nicola Coughlan.
-
-2026-11-09 12:45am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-09 12:50am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-09 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-09 1:30am
-The Interface
-The Interface dives into the stories, trends, apps, gadgets, algorithms and internet obsessions shaping how we live, work, think and connect.
-
-2026-11-09 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-09 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-09 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-09 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-09 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-09 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-09 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-09 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-09 4:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-09 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-09 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-11-09 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -921,4 +837,160 @@ Twenty-four hours a day, the latest national and international stories as they b
 2026-11-15 5:30am
 Talking Business
 Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2026-11-15 6:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-15 9:00am
+Sunday with Laura Kuenssberg
+The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.
+
+2026-11-15 10:00am
+Politics London
+The latest political news, interviews and debate.
+
+2026-11-15 10:30am
+Sunday Morning Live
+A thought-provoking debate and instant audience reaction on the big ethical talking points of the week, together with roving reports from around the UK.
+
+2026-11-15 11:30am
+Money for Nothing
+What is boxy, brown and sounds amazing? Audio engineer Horse tries to turn a kitchen cabinet into a banging Bluetooth speaker - but will it be a smash hit?
+
+2026-11-15 12:00pm
+Bargain Hunt
+Eric Knowles is in Cheshire with experts Charles Hanson and Caroline Hawley as the teams go shopping for antiques to sell at auction in Stockport. Eric takes a trip to Cuckooland Museum to find out about a huge collection of over 700 cuckoo clocks.
+
+2026-11-15 12:45pm
+Points of View
+Viewers have their say on BBC television programmes.
+
+2026-11-15 1:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-11-15 1:10pm
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-15 1:15pm
+Songs of Praise
+Ahead of this year's International Men's Day, Sean meets men whose lives have been transformed through faith, friendship and positive role models.
+
+2026-11-15 1:50pm
+BBC Children in Need
+The kids take over in this celebration of the best bits from Children in Need's 2026 live fundraiser. Mischievous mini co-stars call the shots as four Hollywood stars take on their biggest roles yet, Pudsey springs a big surprise on a deserving young comedian, the Children in Need Choir returns, and The One Show Challenge Squad's Serena and Zoe light up the stage. Plus, inspiring stories of the children and young people whose lives are being changed thanks to your donations.
+
+2026-11-15 2:50pm
+Blue Planet III
+Beyond the horizon lies the vast open ocean, a world teeming with extraordinary life where giant blue whales, tiny drifting crabs and tenacious turtles thrive against all odds.
+
+2026-11-15 3:50pm
+Homes Under the Hammer
+A couple of challenging projects in Cambridgeshire and Lincolnshire mean the new owners will need to roll their sleeves up. In East Sussex, Jacqui sees a charming mid-terrace with beautiful sea views.
+
+2026-11-15 4:50pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-11-15 5:05pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-15 5:10pm
+BBC Weather
+The latest weather forecast.
+
+2026-11-15 5:15pm
+Countryfile
+Hamza Yassin heads to a secret location in Scotland's Southern Uplands to join a dedicated team on an exciting mission to protect the fastest animal in the world - the peregrine falcon. Getting up close to three chicks, he discovers how DNA sampling is helping tackle the theft of these remarkable birds. Along the way, the programme revisits memorable Countryfile wildlife encounters, from dolphins off Anglesey to spectacular starling murmurations at Newport Wetlands.
+
+2026-11-15 6:15pm
+Antiques Roadshow
+The roadshow is at Roundhay Park in Leeds, where highlights include a rare Alfred Wallis painting, an unusual Fairyland Lustre bowl and an intriguing cap made from celebrated racehorse Red Rum's hair.
+
+2026-11-15 7:15pm
+Strictly Come Dancing
+The results are in, and with a place in Blackpool at stake, the tension is high. The pros take on one of the biggest trends in fiction as they bring the world of romantasy to life for their latest group performance, and fresh from his victorious stint on The Celebrity Traitors, Bash Croft performs in the ballroom. Two couples will go head-to-head in the dance-off, but who will secure the final spot in the Tower Ballroom?
+
+2026-11-15 8:00pm
+Blue Planet III
+From winter storms to scorching summers, seasonal seas push animals to be resourceful, adaptable, and adventurous. Those who can survive these dynamic seas reap rich rewards.
+
+2026-11-15 9:00pm
+This City Is Ours
+As tensions rise between Michael and Diana, Freddie wrestles with his next steps, and the Phelans' hunger for revenge meets Ozzie's ultimate betrayal.
+
+2026-11-15 10:00pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-15 10:25pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-15 10:30pm
+	Another Simple Favor
+Stephanie Smothers agrees to travel to Italy to be the maid of honour for the devious and cunning Emily Nelson. However, she soon suspects Emily's good will is part of an elaborate plan for revenge.
+
+2026-11-16 12:25am
+The Graham Norton Show
+Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
+
+2026-11-16 1:15am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-16 1:20am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-16 1:30am
+The Interface
+The Interface dives into the stories, trends, apps, gadgets, algorithms and internet obsessions shaping how we live, work, think and connect.
+
+2026-11-16 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-16 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-16 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-16 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-16 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-16 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-16 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-16 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-16 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-16 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-16 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
 

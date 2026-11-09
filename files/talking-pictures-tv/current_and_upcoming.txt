@@ -1,43 +1,3 @@
-2026-11-08 7:00pm
-	My Cousin Rachel
-B&W. The heir to a considerable fortune attempts to find out if the woman he loves is really a murderer.
-
-2026-11-08 8:55pm
-Look at Life
-A look at the aerobatics of the RAF and the civil flyers.
-
-2026-11-08 9:05pm
-Fox
-Drama with Ray Winstone following Billy Fox, an outwardly retired Covent Garden market porter living in Clapham who is also involved in crime in London's East End.
-
-2026-11-08 10:10pm
-	Runaway Train
-Philosophical action thriller about two escaped prisoners who hide on board a train speeding through Alaska. The driver suffers a fatal heart attack and the train races out of control through the icy wilderness. With the railroad signalmen unable to stop it and a vindictive prison warden desperately pursuing them by helicopter, the train's passengers look set to face disaster. Based on a screenplay by Akira Kurosawa.
-
-2026-11-09 12:20am
-The Heritage Chart Show
-A TOTP-style TV Show for Heritage Artists based on the Heritage Chart which is voted on in over 80 countries. Songs you love from popular artists, live and on video with the odd interview.
-
-2026-11-09 1:25am
-Jimmy Somerville - Smalltown Boy
-Meet pop and gay icon Jimmy Somerville who left his mark on the 1980s. He has had a lasting influence on British pop without ever betraying his own identity.
-
-2026-11-09 2:30am
-	Jail Bait
-A fleeing killer forces a plastic surgeon to give him a new face.
-
-2026-11-09 4:00am
-The Detectives
-A henpecked man stumbles into a criminal plot.
-
-2026-11-09 5:00am
-The Adventures of Robin Hood
-A wounded Robert of Huntington (Jason Connery) is outlawed and becomes Robin Hood when he fights against the Sheriff of Nottingham to free Marion.
-
-2026-11-09 5:30am
-Supercar
-The adventures of the crew of Supercar, an amazing land, sea, and air vehicle, based at a secret laboratory in the Nevada Desert in 1961.
-
 2026-11-09 6:00am
 The Vise
 Stars Ron Randell, Christopher Lee and Eric Lander. A young artist has the key to a successful career, he can fake old masters well enough to deceive and art critic.
@@ -569,4 +529,88 @@ From Kilkeel in Northern Ireland to Lincoln Cathedral, travel across the four co
 2026-11-15 5:25am
 One Step Beyond
 A group of businessmen on a vacation divert themselves with a Chinese lacquer box reputed to have magical powers.
+
+2026-11-15 6:00am
+	The Atomic Submarine
+When a series of unexplained accidents destroys shipping in the Arctic Circle, an American submarine is dispatched to investigate. The discoveries made by the crew could spell the end of civilisation.
+
+2026-11-15 7:30am
+Dial 999
+Police are baffled by robberies known as `The Red Rose series', Maguire and his partner suspect a seemingly innocent jeweller.
+
+2026-11-15 8:00am
+Sherlock Holmes
+A mute girl tries to warn an engineer that he will soon be killed.
+
+2026-11-15 8:35am
+Twist or Stick
+A 1960s twisting compilation featuring `The Hollies', Shane Fenton & The Fentones, The Orchids, The Keytones and much more.
+
+2026-11-15 9:00am
+	The Four Feathers
+A British Army officer redeems himself from charges of cowardice when he quells a native rebellion in Sudan.
+
+2026-11-15 11:15am
+	Daniel Boone, Trail Blazer
+The frontiersman leads settlers to Kentucky, where he makes peace with a Shawnee chief.
+
+2026-11-15 12:50pm
+	The Railway Children
+Set in Yorkshire at the dawn of the 20th century, this is the story of three children whose father has been wrongfully imprisoned for espionage, though they know nothing of this; their mother refuses to tell them why the police took away their father. So, the children spend their free time exploring the mystery of their father's disappearance and gazing at the nearby railroad in the hope that it will somehow bring them an answer.
+
+2026-11-15 2:55pm
+That's My Boy
+Mrs Price wants to move in with Angie, Ida and Robert because she's lonely in London. The trio hatch a plan to put her off the idea.
+
+2026-11-15 3:30pm
+For the Love of Ada
+Ada's convinced that the baby is overdue, and Walter gambles his months pension.
+
+2026-11-15 4:00pm
+The Man From U.N.C.L.E.
+THRUSH sends bees to murder.
+
+2026-11-15 5:00pm
+The Footage Detectives
+Mike and Noel bring a touch of magic with amazing 1950s card tricks, then a visit to the Chelsea Flower Show in the 50s and there's a reel of Scottish football fans heading to the Empire Stadium.
+
+2026-11-15 6:00pm
+Enemy at the Door
+The star-studded cast of this unforgettable WWII drama series are joined by Joss Ackland in this episode.
+
+2026-11-15 7:05pm
+	Ring of Spies
+A disgruntled former embassy official takes revenge against the British government by selling secrets to the Soviets.
+
+2026-11-15 8:55pm
+Look At Life
+A look into why August Bank Holiday is traditionally the date around which most Britons fix their holidays. Those who think they will get away from it all are in for a shock.
+
+2026-11-15 9:05pm
+Fox
+Following Billy Fox, an outwardly retired Covent Garden market porter living in Clapham with his family, who have gangland connections in London's East End.
+
+2026-11-15 10:10pm
+	Whatever Happened to Aunt Alice?
+Mrs Marrable is a bereaved widow who takes to hiring housekeepers and then killing them for their money. When Miss Tinsley disappears, her former employer Alice investigates. Posing as a maid, she gains employment with the murderous Mrs Marrable.
+
+2026-11-16 12:10am
+The Heritage Chart Show
+A TOTP-style TV Show for Heritage Artists based on the Heritage Chart which is voted on in over 80 countries. Songs you love from popular artists, live and on video with the odd interview.
+
+2026-11-16 1:10am
+	The Night of the Shooting Stars
+During World War II, an Italian village finds itself caught in the bloody struggle between retreating Nazi forces, stubborn fascists, local partisans and the incoming U.S. forces. A group of villagers, including love-struck Galvano and his dream girl, Concetta, opt to leave their village and search for American troops. The story, set in part during a Tuscan celebration, is told from the point of view of 6-year-old Cecilia.
+
+2026-11-16 3:20am
+	A Yank in Ermine
+An American air-man inherits an English title but will he cope with English nobility?
+
+2026-11-16 5:00am
+The Adventures of Robin Hood
+Upon Marian's pleas, Robin attempts to stop Prince John from divorcing his wife and marrying a French lady.
+
+2026-11-16 5:30am
+Supercar
+Despite warnings from locals, the Supercar team explore an underwater temple only to find out why they were warned.
 
