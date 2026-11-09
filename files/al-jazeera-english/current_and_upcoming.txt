@@ -1,67 +1,3 @@
-2026-11-09 6:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
-
-2026-11-09 7:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-09 8:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-09 8:30am
-Talk to Al Jazeera
-One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
-
-2026-11-09 9:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-09 9:30am
-The Population Bust
-From anti-abortion policies in Hungary to promotions for procreating in South Korea, meet the politicians and companies trying to reverse dropping birth rates.
-
-2026-11-09 10:00am
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-09 11:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-09 11:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
-
-2026-11-09 12:00pm
-Who Killed Shireen?
-An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments.
-
-2026-11-09 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-09 2:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-09 2:30pm
-Counting the Cost
-Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
-
-2026-11-09 3:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
-
-2026-11-09 4:00pm
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-09 4:30pm
-UpFront
-Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
-
 2026-11-09 5:00pm
 News
 Up-to-date news and analysis from around the world.
@@ -736,325 +672,297 @@ Beyond the headlines to the heart of the news of the day. Al Jazeera gets the In
 
 2026-11-14 6:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 6:30am
-The Bottom Line
-Discussions on US politics and policies.
+Making Peace
+In post-peace Colombia, ex-FARC fighters confess as victims confront them seeking justice and reconciliation.
 
 2026-11-14 7:00am
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 8:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 8:30am
 Counting the Cost
-Providing the background to the economics stories that shape our world.
+Presenting a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the public.
 
 2026-11-14 9:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 9:30am
-The Stream
-A new online community using social media to seek out unheard voices.
+UpFront
+Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
 
 2026-11-14 10:00am
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 11:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 11:30am
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-14 12:00pm
 Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
 
 2026-11-14 1:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 2:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 2:30pm
-UpFront
-Challenging, dynamic and UpFront, Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests and newsmakers.
+101 East
+101 East reports on the people and events shaping the Asia Pacific region.
 
 2026-11-14 3:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 4:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 4:30pm
-People and Power
-Investigations over the real nature of power: what it is, who has it and how it's being used.
+Fault Lines
+Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.
 
 2026-11-14 5:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 5:30pm
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-14 6:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 7:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 7:30pm
-Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities.
+The Listening Post
+What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
 
 2026-11-14 8:00pm
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-14 8:30pm
-Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Witness
+Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.
 
 2026-11-14 9:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-14 10:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-14 10:30pm
-Boycott
-10:30pm
-
-2026-11-14 11:00pm
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-14 11:30pm
-Flatten The Curve
-A look into the struggle for vaccine equity in African nations.
-
-2026-11-15 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-15 12:30am
-Inside Story
-Going beyond the headlines and to the heart of the news of the day.
-
-2026-11-15 1:00am
 The Bottom Line
 Discussions on US politics and policies.
 
-2026-11-15 1:30am
-The Fans Who Make Football
-A look at football fan culture from all over the world and their impact on the game, with a focus on fans from the United Kingdom and Ireland, Indonesia, Morocco, Germany, and more.
+2026-11-14 11:00pm
+News
+Up-to-date news and analysis from around the world.
+
+2026-11-14 11:30pm
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+
+2026-11-15 12:00am
+Newshour
+Latest news and in-depth analysis from around the world.
+
+2026-11-15 1:00am
+Al Jazeera World
+A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
 
 2026-11-15 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-15 2:30am
-The Stream
-A new online community using social media to seek out unheard voices.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 3:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 3:30am
-Counting the Cost
-Providing the background to the economics stories that shape our world.
+UpFront
+Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
 
 2026-11-15 4:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 4:30am
-Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities.
+Counting the Cost
+Presenting a weekly report on worldwide developments in business, finance, and economics, all while analysing their potential impact on the public.
 
 2026-11-15 5:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 5:30am
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-15 6:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 6:30am
-Africa's New Directions
-Informal sector business owners and vendors are the backbone of South Sudan's economy.
+Fault Lines
+Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.
 
 2026-11-15 7:00am
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 8:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 8:30am
-Boycott
-8:30am
+The Listening Post
+What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
 
 2026-11-15 9:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 9:30am
-UpFront
-Challenging, dynamic and UpFront, Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests and newsmakers.
+The Bottom Line
+Discussions on US politics and policies.
 
 2026-11-15 10:00am
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 11:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 11:30am
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-15 12:00pm
-Witness
-Inspirational stories providing a fresh and informative insight into the world's key events.
+Al Jazeera English: The Counter Narrative
+After 20 years of AJE on the air, we reflect on the channel's development as an important media pillar and how it has proven to be the voice of the voiceless.
 
 2026-11-15 1:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 2:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 2:30pm
-Talk to Al Jazeera
-A series of conversations with some of the world's leading personalities.
+Making Peace
+In post-peace Colombia, ex-FARC fighters confess as victims confront them seeking justice and reconciliation.
 
 2026-11-15 3:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 4:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 4:30pm
-101 East
-Reports tackling the issues that unify and divide Asia.
+Beyond the Horizon - Searching For Gaza
+4:30pm
 
 2026-11-15 5:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 5:30pm
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-15 6:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 7:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 7:30pm
-The Listening Post
-What is being reported by world media and how? Richard Gizbert guides you through the global news.
+Talk to Al Jazeera
+One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
 
 2026-11-15 8:00pm
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-15 8:30pm
-Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Al Jazeera English: The Counter Narrative
+After 20 years of AJE on the air, we reflect on the channel's development as an important media pillar and how it has proven to be the voice of the voiceless.
 
 2026-11-15 9:00pm
 Newshour
-A closer look at international news, events, current affairs, and exclusive stories from around the world.
+Latest news and in-depth analysis from around the world.
 
 2026-11-15 10:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 10:30pm
-All Hail The Planet
-Analyses the social, economic and political forces that undermine global action on climate change.
+The Global Population Bust
+As Europe's population ages and Africa's grows, how does migration reshape a world facing a dramatic decline in population?
 
 2026-11-15 11:00pm
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-15 11:30pm
-People and Power
-Investigations over the real nature of power: what it is, who has it and how it's being used.
+Inside Story
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
 2026-11-16 12:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-16 12:30am
-Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-11-16 1:00am
-Al Jazeera World
-Showcasing films from across the Al Jazeera Network.
+Witness
+Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.
 
 2026-11-16 2:00am
-News
-World news from Al Jazeera's Kuala Lumpur news centre.
-
-2026-11-16 2:30am
-UpFront
-Challenging, dynamic and UpFront, Mehdi Hasan cuts through headlines to get to the heart of the matter with his guests and newsmakers.
+Newshour
+Latest news and in-depth analysis from around the world.
 
 2026-11-16 3:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-16 3:30am
-Boycott
-3:30am
+The Bottom Line
+Discussions on US politics and policies.
 
 2026-11-16 4:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-16 4:30am
 The Listening Post
-What is being reported by world media and how? Richard Gizbert guides you through the global news.
+What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
 
 2026-11-16 5:00am
 News
-World news from Al Jazeera's Kuala Lumpur news centre.
+Up-to-date news and analysis from around the world.
 
 2026-11-16 5:30am
 Inside Story
-Going beyond the headlines and to the heart of the news of the day.
+Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
 
