@@ -1,15 +1,3 @@
-2026-11-10 3:00am
-This Is BBC TWO
-Preview of upcoming programmes from BBC Two.
-
-2026-11-10 6:30am
-House of Games
-Every day this week, celebrity contestants Maisie Adam, Ade Edmondson, Rickie Haywood-Williams and Sammi Kinghorn take on a series of quiz rounds selected by the host, Michael Sheen. A daily winner is declared following a quickfire round at the end of each show, and the scores are tallied across the week, resulting in an overall champion being crowned on Friday. Will the winning stars opt for the much-coveted House of Games decanter, or will they be tempted with the House of Games record player?
-
-2026-11-10 7:00am
-Homes Under the Hammer
-A Surrey house undergoes a terrific transformation. Jacqui's loving London life, and Dion's on familiar territory in Stoke.
-
 2026-11-10 8:00am
 Clive Myrie's Caribbean Adventure
 It's a family reunion for Clive. On the Western tip of Jamaica, he meets up with cousins he hasn't seen in decades. He doesn't have time to kick back as he's in the kitchen preparing a classic island dish of curry goat for all the guests.
@@ -515,8 +503,12 @@ Saturday Kitchen Best Bites
 Andi Oliver takes a classic British dessert and transforms it into a savoury number with her three cheese and leek bread and butter pudding. Niklas Ekstedt brings the taste of Sweden to the studio with the iconic Jansson's temptation.
 
 2026-11-15 11:30am
-Eva Longoria: Searching for France
-One of the greatest French arts is the art of pâtisserie and Paris is a pastry powerhouse.
+Best Bakes Ever
+With Britain more obsessed with baking than ever, actress and cake expert Jane Asher brings together a selection of recipes from the nation's favourite television chefs, for `The Best Bakes Ever'.
+
+2026-11-15 12:00pm
+Nigel Slater's Simple Suppers
+Nigel Slater creates simple but delicious meals from ingredients that are often overlooked, including a lentil and chard stew.
 
 2026-11-15 12:10pm
 	Jane Eyre
@@ -544,7 +536,7 @@ As the days grow longer, the MacDonalds round up their pregnant Highland cattle 
 
 2026-11-15 7:15pm
 Eva Longoria: Searching for France
-Eva charts the history of French cuisine via a seven-course fine dining meal aboard a Seine riverboat.
+One of the greatest French arts is the art of pâtisserie and Paris is a pastry powerhouse.
 
 2026-11-15 8:00pm
 Ireland with Simon Reeve

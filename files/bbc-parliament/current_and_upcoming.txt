@@ -1,62 +1,50 @@
-2026-11-10 11:30pm
-House of Lords
-Coverage of the day's proceedings in the House of Lords on Monday 9 November.
+2026-11-10 7:15am
+Westminster Hall
+House of Commons proceedings in Westminster Hall, from Tuesday 10 November.
 
-2026-11-11 6:15am
-Lords Questions
-Questions in the House of Lords to government ministers on Monday 9 November.
-
-2026-11-11 7:00am
-House of Lords
-Highlights of proceedings in the House of Lords on Monday 9 November.
-
-2026-11-11 8:45am
+2026-11-10 8:45am
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 11 May.
+Questions in the Northern Ireland Assembly in Stormont to the finance minister, John O'Dowd, on Monday 1 June.
 
-2026-11-11 9:30am
+2026-11-10 9:30am
 Welsh First Minister's Questions
 Questions in the Senedd, the Welsh Parliament, to the First Minister Rhun ap Iorwerth, on Tuesday 3 November.
 
-2026-11-11 10:30am
+2026-11-10 10:30am
 Select Committees
 Recorded coverage of select committee proceedings.
 
-2026-11-11 12:30pm
+2026-11-10 12:30pm
 Ten Minute Rule Bill
 The introduction to the House of Commons of a Bill under the ten-minute rule, tabled by Labour MP Liz Twist, on a code and adjudicator for the fashion supply chain, from Wednesday 13 July.
 
-2026-11-11 12:45pm
+2026-11-10 12:45pm
 Lords Questions
 Questions in the House of Lords to government ministers on Monday 9 November.
 
-2026-11-11 1:30pm
+2026-11-10 1:30pm
 Welsh First Minister's Questions
 Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 10 November.
 
-2026-11-11 2:30pm
+2026-11-10 2:30pm
 House of Commons
 Coverage of questions in the House of Commons to Alex Norris, the justice secretary, and his team of ministers on Tuesday 10 November.
 
-2026-11-11 3:30pm
+2026-11-10 3:30pm
 House of Commons
 Coverage of the day's proceedings in the House of Commons on Tuesday 10 November.
 
-2026-11-11 10:30pm
+2026-11-10 10:30pm
 Welsh First Minister's Questions
 Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Iorwerth, on Tuesday 10 November.
 
-2026-11-11 11:30pm
+2026-11-10 11:30pm
 Scottish First Minister's Questions
 Questions in the Scottish Parliament from backbench MSPs to John Swinney, the first minister, on Tuesday 10 November.
 
-2026-11-12 12:00am
+2026-11-11 12:00am
 Lords Questions
 Questions in the House of Lords to government ministers on Tuesday 10 November.
-
-2026-11-12 12:45am
-House of Lords
-Business in the House of Lords on Tuesday 10 November.
 
 2026-11-11 12:45am
 House of Lords
@@ -192,11 +180,11 @@ Highlights from the Welsh Parliament.
 
 2026-11-14 4:30am
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 11 May.
+Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday, 9 November.
 
 2026-11-14 5:15am
 Northern Ireland Assembly
-Highlights from the Northern Ireland Assembly.
+Questions in the Northern Ireland Assembly in Stormont to the finance minister, John O'Dowd, on Monday 1 June.
 
 2026-11-14 6:00am
 Westminster Hall
@@ -220,7 +208,7 @@ Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Io
 
 2026-11-14 1:35pm
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 11 May.
+Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday, 9 November.
 
 2026-11-14 2:20pm
 House of Commons
@@ -320,7 +308,7 @@ Questions in the Senedd, the Welsh Parliament, to the first minister, Rhun ap Io
 
 2026-11-15 5:15pm
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 11 May.
+Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday, 9 November.
 
 2026-11-15 6:00pm
 Select Committees
@@ -364,7 +352,7 @@ House of Commons proceedings in Westminster Hall, from Thursday 12 November.
 
 2026-11-16 8:40am
 Northern Ireland Assembly
-Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday 11 May.
+Questions in Stormont to the Northern Ireland executive, with the deputy first minister, Emma Little-Pengelly, on Monday, 9 November.
 
 2026-11-16 9:25am
 Welsh First Minister's Questions
