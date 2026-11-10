@@ -1,7 +1,3 @@
-2026-11-09 8:00am
-JewelleryMaker REPEATS
-8:00am
-
 2026-11-10 8:00am
 To Be Announced
 8:00am
@@ -24,5 +20,9 @@ To Be Announced
 
 2026-11-15 8:00am
 To Be Announced
+8:00am
+
+2026-11-16 8:00am
+JewelleryMaker REPEATS
 8:00am
 
