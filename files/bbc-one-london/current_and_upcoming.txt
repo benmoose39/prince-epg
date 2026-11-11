@@ -1,75 +1,3 @@
-2026-11-10 9:00pm
-MasterChef: The Professionals
-In the second week of the heats, a fresh group of professional chefs wait in the wings of the kitchen ready to demonstrate their exceptional talent.
-
-2026-11-10 10:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-11-10 10:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-10 10:40pm
-Tall Tales and Murder
-Series 1 Episode 2
-
-2026-11-10 11:25pm
-	Knocked Up
-When a glamorous TV journalist gets pregnant by a guy she'd rather forget, her decision to keep the baby turns her life upside down.
-
-2026-11-11 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-11 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-11 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-11 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-11 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-11 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-11 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-11 3:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-11-11 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-11 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-11 4:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-11-11 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-11 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-11-11 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -927,6 +855,162 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-17 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-17 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-17 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-11-17 10:45am
+Dashcam Justice
+A £20,000 crash claim looks convincing until fraud investigators spot one tiny clue. Near Liverpool, a lorry smashes into a minibus carrying a child to school, but a second camera reveals a troubling twist. In Wigan, a motorist tears past a learner across double white lines. Cameras front and rear capture the manoeuvre, giving police the evidence to pursue the case.
+
+2026-11-17 11:15am
+Homes Under the Hammer
+Two rookie renovators take on projects in County Durham and Derby, while a more seasoned developer has his work cut out at a bungalow in East Sussex.
+
+2026-11-17 12:15pm
+Bargain Hunt
+Charlie Ross visits the Royal Armouries Museum in Leeds to see an impressive collection of human, horse, and elephant armour. Another battle is taking place at an antiques fair in Wetherby, waged by two teams of friends. In the red corner, it is pals Hannah and Verity, captained by Izzie Balmer. Their opponents in blue are boat fitters Giles and Huw, skippered by David Harper.
+
+2026-11-17 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-17 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-17 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-17 2:00pm
+Scam Interceptors
+The team are forced into multiple in-person interventions as a group of tech support scammers terrify their victims by pretending that they have been accused of being involved in serious criminality.
+
+2026-11-17 2:30pm
+Doorbell Detectives
+When Shaz receives a package that he didn't order, he turns Doorbell Detective and discovers a man intercepting deliveries on his doorstep, pretending to be him. Former police inspector Anton Sullivan demonstrates a simple doorstep scam on pensioner Beryl and gives her some tips to avoid it happening. And what would you do if you caught a burglar in the act of robbing your house? This is what faced Doorbell Detective Ethan.
+
+2026-11-17 3:00pm
+Escape to the Country
+Having almost made their escape seven years ago, today's couple want to try again, tasking Ginny Buckley to help them move from a Surrey town and out into the countryside around the Norfolk/Suffolk border. Ginny also meets someone who has already moved to the region, turning her thatched cottage into a dreamy, picture postcard home.
+
+2026-11-17 3:45pm
+The Repair Shop: On the Road
+The team face their quirkiest fix yet - a giant fibreglass cow lantern. Also, luthier Julyan brings a banjulele back to life, and Dom gets a crash course in brilliant cutting.
+
+2026-11-17 4:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2026-11-17 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-11-17 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-11-17 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-17 7:00pm
+The One Show
+Alex Jones and Lauren Laverne bring you the stories that matter from across the country.
+
+2026-11-17 7:30pm
+EastEnders
+A decision threatens to derail what Suki and Eve have been fighting for. Celebrations take an unexpected turn when some surprising news sends emotions running high. Gina and Penny search for answers.
+
+2026-11-17 8:00pm
+Stacey & Joe
+A tense camping trip, a lost wedding ring and goat yoga, all whilst a possible move from Pickle Cottage takes a big step forward.
+
+2026-11-17 9:00pm
+Panorama
+Current affairs programme, featuring interviews and investigative reports on all aspects of life in Britain.
+
+2026-11-17 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-11-17 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-17 10:40pm
+Tall Tales and Murder
+Paul reveals his troubled past to Bridget, who encourages him to settle an old score. Matron involves Bunny in a novel cure for her insomnia as Grinner stokes fears about Wesley.
+
+2026-11-17 11:30pm
+Michael McIntyre's The Wheel
+Michael McIntyre hosts his hit game show packed with huge stars, big laughs and a giant spinning wheel. Can the contestants answer their way to a fortune? The celebrity experts in this episode are Michael Ball, Kate Garraway, Isa Guha, Harriet Kemsley, Matt Morsia, Katherine Ryan, Jordan Banjo and Perri Kiely.
+
+2026-11-18 12:30am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-18 12:35am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-18 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-18 1:30am
+Tech Now
+Yasmin Morgan-Griffiths follows a team in Switzerland testing AI early warning systems for landslides, while Alasdair Keane finds out why thousands of solar-powered buoys are being deployed globally.
+
+2026-11-18 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-18 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-18 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-18 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-18 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-18 3:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-11-18 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-18 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-18 4:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-11-18 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-18 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
