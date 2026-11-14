@@ -1,27 +1,3 @@
-2026-11-13 10:00pm
-All Elite Wrestling: Dynamite
-Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley, MJF, Ricochet and Adam Page, and many more who bring a freshness and energy into professional wrestling.
-
-2026-11-14 12:05am
-Minder
-In a further assault on Europe, Arthur ventures into cuisine. However, when his French chef, Henri, goes missing, Arthur and Ray find themselves in the kitchen making vol-au-vents for a formidable gathering.
-
-2026-11-14 1:05am
-Minder
-Arthur offers the services of his minder, Ray, to prevent a compulsive gambler from losing any more money. When she introduces Arthur to her winning roulette system, temptation proves too great for him.
-
-2026-11-14 2:10am
-Two and a Half Men
-Charlie runs off to Vegas and returns with a new wife, but she's not Chelsea.
-
-2026-11-14 2:35am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-11-14 3:00am
-Teleshopping
-Shopping from home.
-
 2026-11-14 6:00am
 The Best of the 80s
 A look back at a selection of the wide variety of sports covered by ITV during the 1980s - from football to wrestling, double decker bus racing to boxing - and including many iconic and memorable moments.
@@ -515,6 +491,98 @@ StartUp
 ArakNet gets up and running as the trio must build a routine around dangerous circumstances. Izzy objects to Mara's strategic plan, to no avail. With Nick struggling to gain traction at a buzzy tech convention, Wes confidently steps up to the plate. Ronald's demons get the best of him, sending him down a dark road he's long avoided.
 
 2026-11-20 3:00am
+Teleshopping
+Shopping from home.
+
+2026-11-20 6:00am
+Randall and Hopkirk (Deceased)
+It's hard to trust a ghost when he says he has seen a murder and you then find that the victim is still alive. Jeff Randall doesn't know what to believe when his ghost detective partner Marty Hopkirk repeatedly reports dramatic events which appear to be without foundation.
+
+2026-11-20 7:05am
+The Prisoner
+Number Six stands for election as the new Number Two, but discovers that even as a candidate for this position he has no freedom of speech.
+
+2026-11-20 8:10am
+Minder
+When Arthur and Ray manage to sell their unwanted stock as fairground novelty prizes, they become unwittingly involved in fraud and major theft.
+
+2026-11-20 9:10am
+Dempsey and Makepeace
+Series 3 Episode 7: Out of Darkness
+
+2026-11-20 10:15am
+The Memoirs of Sherlock Holmes
+An elderly widow receives a suspicious offer of a large sum of money to move out of her depressing mansion and leave absolutely everything behind. Holmes looks into this strange proposition and comes face to face with an enforcer and powerful pugilist.
+
+2026-11-20 11:25am
+Robin of Sherwood
+Series 3 Episode 12: The Time of the Wolf
+
+2026-11-20 12:35pm
+Dempsey and Makepeace
+Series 3 Episode 8: Cortez Connection
+
+2026-11-20 1:40pm
+The Memoirs of Sherlock Holmes
+Holmes and Watson attempt to solve a mystery involving the highly intelligent and manipulative doctor, Culverton Smith, who specialises in tropical medicine. When the doctor's wealthy cousin dies of a rare tropical disease and leaves Culverton all his money and property despite having a wife and children, Holmes and Watson become determined to set things right.
+
+2026-11-20 2:45pm
+Randall and Hopkirk (Deceased)
+Death comes to one member of a mind-reading act when reaching the Russian Roulette part of the turn when his partner asks a member of the audience to load the gun. One cartridge is live - the others blank. The routine has been performed time and time again, but on this occasion the live cartridge is in the wrong chamber. The victim is Fernandez, and his partner Abel is accused of the murder.
+
+2026-11-20 3:50pm
+The Prisoner
+The Prisoner is electronically hypnotised to believe that he is someone else.
+
+2026-11-20 4:55pm
+Junk and Disorderly
+Henry Cole and his band of Junketeers visit a farm sale and come away with a vintage Massey Ferguson tractor - like a lot of good ideas at the time, they come to regret it and have to take drastic measures to get it sold.
+
+2026-11-20 6:00pm
+Minder
+Arthur has a fallout with Dave after the reappearance of a childhood gang member. Arthur is so annoyed that he decides to set up a club to rival the Winchester.
+
+2026-11-20 7:00pm
+American Pickers
+Mike and Frank team up to find a dinosaur bone that's 65 million years old, and an ingenious audio recording machine made from piano wire.
+
+2026-11-20 8:00pm
+Junk and Disorderly
+Henry Cole and top restorers Allen Millyard and Guy Willison scour the country, challenging themselves to make money out of buying and selling other people's automotive junk and classic collectibles.
+
+2026-11-20 9:00pm
+	Killer Elite
+Ex special-ops agent Danny Bryce (Jason Statham) has been forced out of retirement when his mentor Hunter (Robert De Niro) gets captured. Danny must complete a dangerous mission to save his life.
+
+2026-11-20 10:00pm
+FYI Daily
+News from the world of entertainment.
+
+2026-11-20 10:05pm
+	Killer Elite
+Ex special-ops agent Danny Bryce (Jason Statham) has been forced out of retirement when his mentor Hunter (Robert De Niro) gets captured. Danny must complete a dangerous mission to save his life.
+
+2026-11-20 11:25pm
+All Elite Wrestling: Dynamite
+Action from the American professional wrestling promotion founded in 2019. Featuring Will Ospreay, Kazuchika Okada, Jay White, Mercedes Mone, Toni Storm, and many more.
+
+2026-11-21 1:25am
+Two and a Half Men
+Alan tries for an intimate night at a hotel with his new girlfriend, while Charlie takes a different approach to obtain the `girlfriend experience'.
+
+2026-11-21 1:50am
+Two and a Half Men
+Alan and Jake go on a road trip while Charlie is visited by the ghosts of girlfriend's past.
+
+2026-11-21 2:15am
+Two and a Half Men
+After Charlie's licence is suspended, Jake becomes Charlie's driver. Much to Charlie's chagrin, Alan makes plans to attend Chelsea's birthday party.
+
+2026-11-21 2:40am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-21 3:00am
 Teleshopping
 Shopping from home.
 

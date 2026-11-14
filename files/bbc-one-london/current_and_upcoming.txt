@@ -1,47 +1,3 @@
-2026-11-13 10:40pm
-The Graham Norton Show
-Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
-
-2026-11-13 11:30pm
-	The Hunger Games: The Ballad of Songbirds & Snakes
-Years before he becomes the tyrannical president of Panem, 18-year-old Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.
-
-2026-11-14 1:55am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-14 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-14 2:30am
-The Big Cases
-In one of Britain's biggest celebrity trials, Russell Brand is jailed after being found guilty of rape and sexual assaults. How did one of entertainment's biggest stars end up behind bars?
-
-2026-11-14 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-14 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-11-14 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-14 4:30am
-The Travel Show
-The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
-
-2026-11-14 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-14 5:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
 2026-11-14 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -953,4 +909,148 @@ Twenty-four hours a day, the latest national and international stories as they b
 2026-11-20 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-20 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-20 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-11-20 10:45am
+Dashcam Justice
+A van pulls across a motorcyclist's path near Wrexham, sending him over the handlebars and through its windscreen. His helmet camera survives, recording vital evidence. An insurer untangles a messy roundabout crash, while cyclists film a driver glued to a phone and a car cutting straight across a mini-roundabout. Another driver jumps a queue and a red light, nearly flattening a cyclist.
+
+2026-11-20 11:15am
+Homes Under the Hammer
+Martin is overcome by the amount of beige on show in a Telford flat. Dion heads downwards to reveal an unexpected bonus in Leeds. In Suffolk, there are character features for Jacqui to uncover.
+
+2026-11-20 12:15pm
+Bargain Hunt
+Anita Manning presents as the hunt for bargains heads to Southwell Racecourse. Antiques experts Mark Stacey and Raj Bisram are on hand to help out the teams.
+
+2026-11-20 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-20 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-20 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-20 2:00pm
+The Northumbria Mysteries
+The worlds of windsurfing and funeral directing collide when a body is found washed up on the beach. With Joe along for the ride, Rose and Raj must find what connects them.
+
+2026-11-20 2:45pm
+Escape to the Country
+Three generations of the same family need help from Jules Hudson to find them a new, rural Norfolk home. In the kitty is £800,000 for a four-bedroom house, an annexe for Granny and enough land for a Shetland pony. Jules also needs a keen eye to spot some of the world's rarest species of deer and antelope at a local safari park.
+
+2026-11-20 3:45pm
+The Repair Shop: On the Road
+The boys help save a monument that's crumbling before their eyes, Will brings a huge drum back to the barn, and Dom gets on the tools with the last scissor-maker in Sheffield.
+
+2026-11-20 4:30pm
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2026-11-20 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-11-20 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-11-20 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-20 7:00pm
+The One Show
+Alex Jones and JB Gill bring you the stories that matter from across the country.
+
+2026-11-20 7:30pm
+BBC Children in Need
+Owain Wyn Evans's Four Nations Challenge.
+
+2026-11-20 8:00pm
+Return to Paradise
+The anniversary screening of a cult film turns deadly when a key figure is found shot dead. But how did the killer fire the gun unnoticed by the packed audience?
+
+2026-11-20 9:00pm
+Have I Got News for You
+Kelly Cates hosts, with guest panellists comedian Maisie Adam and journalist Krishnan Guru-Murthy joining team captains Ian Hislop and Paul Merton as they delve into the news.
+
+2026-11-20 9:30pm
+Bill's Included
+When Bill's wife walks out on him for the gardener, he's left lonely and broke. In the hope of turning his life around, he lets out his spare rooms to four students.
+
+2026-11-20 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-11-20 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-20 10:40pm
+The Graham Norton Show
+Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
+
+2026-11-20 11:30pm
+	Fall
+After Dan dies climbing the Rocky Mountains, his girlfriend Becky and her friend Hunter decide to climb a huge 1,000-foot communications tower and dump Dan's ashes.
+
+2026-11-21 1:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-21 1:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-21 1:30am
+Clive Myrie's African Adventure
+Clive travels to Marrakech, the Red City, known for its distinctive architecture. He learns how to create the most stunning Moroccan tile mosaics and stays overnight in the Atlas Mountains.
+
+2026-11-21 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-21 2:30am
+Africa Enterprise
+Business leaders from across Africa share their views on business and the economy.
+
+2026-11-21 2:45am
+Tech Now
+Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race, as Yasmin Morgan-Griffiths visits the Swiss startup that wants to generate electricity using railway tracks.
+
+2026-11-21 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-21 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-11-21 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-21 4:30am
+The Travel Show
+Zoologist and nature enthusiast Lira Valencia heads to Brazil's coast to explore human-wildlife coexistence, including the fishermen who have developed a unique relationship with dolphins.
+
+2026-11-21 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-21 5:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
