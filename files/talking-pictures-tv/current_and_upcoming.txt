@@ -1,39 +1,3 @@
-2026-11-15 7:05pm
-	Ring of Spies
-A disgruntled former embassy official takes revenge against the British government by selling secrets to the Soviets.
-
-2026-11-15 8:55pm
-Look At Life
-A look into why August Bank Holiday is traditionally the date around which most Britons fix their holidays. Those who think they will get away from it all are in for a shock.
-
-2026-11-15 9:05pm
-Fox
-Following Billy Fox, an outwardly retired Covent Garden market porter living in Clapham with his family, who have gangland connections in London's East End.
-
-2026-11-15 10:10pm
-	Whatever Happened to Aunt Alice?
-Mrs Marrable is a bereaved widow who takes to hiring housekeepers and then killing them for their money. When Miss Tinsley disappears, her former employer Alice investigates. Posing as a maid, she gains employment with the murderous Mrs Marrable.
-
-2026-11-16 12:10am
-The Heritage Chart Show
-A TOTP-style TV Show for Heritage Artists based on the Heritage Chart which is voted on in over 80 countries. Songs you love from popular artists, live and on video with the odd interview.
-
-2026-11-16 1:10am
-	The Night of the Shooting Stars
-During World War II, an Italian village finds itself caught in the bloody struggle between retreating Nazi forces, stubborn fascists, local partisans and the incoming U.S. forces. A group of villagers, including love-struck Galvano and his dream girl, Concetta, opt to leave their village and search for American troops. The story, set in part during a Tuscan celebration, is told from the point of view of 6-year-old Cecilia.
-
-2026-11-16 3:20am
-	A Yank in Ermine
-An American air-man inherits an English title but will he cope with English nobility?
-
-2026-11-16 5:00am
-The Adventures of Robin Hood
-Upon Marian's pleas, Robin attempts to stop Prince John from divorcing his wife and marrying a French lady.
-
-2026-11-16 5:30am
-Supercar
-Despite warnings from locals, the Supercar team explore an underwater temple only to find out why they were warned.
-
 2026-11-16 6:00am
 The Vise
 One-armed detective Mark Saber, an Englishman working with the New York Police Department, along with his assistant, Sergeant Tim Moloney, tracks down criminals by his brilliant use of deduction as well as regular police methods.
@@ -549,4 +513,84 @@ Aliens visit the solar-powered house of a middle-class family, and the house is 
 2026-11-22 5:25am
 One Step Beyond
 A young girl recovers from scarlet fever, but insists she is the dead daughter of another family.
+
+2026-11-22 6:00am
+	Down Among the Z Men
+A British army draftee helps protect a professor's atomic formula from the hands of enemy agents.
+
+2026-11-22 7:25am
+Scotland Yard
+A night worker returning home sees smoke and flames coming from a building.
+
+2026-11-22 8:00am
+Sherlock Holmes
+A television adaptation of some of Sir Arthur Conan Doyle's popular stories.
+
+2026-11-22 8:30am
+	The Brave Don't Cry
+Trapped Scottish coal miners wait below as their loved ones wait above, as a young official tries a rescue.
+
+2026-11-22 10:15am
+	X the Unknown
+A radioactive mud-like substance escapes from the centre of the Earth and terrorizes a Scottish village.
+
+2026-11-22 11:50am
+	North West Frontier
+In 1905, a rebellion on India's north west frontier threatens the life of a young Hindu prince. Captain Scott, a British officer, rescues the boy and sets out with a small group on an old locomotive, making a perilous journey through rebel territory, but Scott and his passengers are faced not just with the marauding tribesmen, but also a traitor in their midst.
+
+2026-11-22 2:20pm
+Waterworld
+Take a look at some of the engineering marvels produced during the construction of Britain's 1800-mile canal network.
+
+2026-11-22 2:55pm
+That's My Boy
+Ida gets excited for her birthday and expects a grand celebration, so she drops some not-too-subtle hints to remind everyone.
+
+2026-11-22 3:30pm
+For the Love of Ada
+Ada is about to become a grandmother but when Ruth's baby arrives, Leslie is at first nowhere to be found.
+
+2026-11-22 4:00pm
+The Man From U.N.C.L.E.
+THRUSH spy works at U.N.C.L.E.
+
+2026-11-22 5:00pm
+The Footage Detectives
+This week's first stop is Piccadilly Roundabout in 1944 wartime London. There's a slice of history from a bread factory in 1966, a reel of 1950s Italy and a look at the history of Baxter's.
+
+2026-11-22 6:00pm
+Enemy at the Door
+Dr Martel confronts the Germans after becoming concerned at the quality of the island's water supply.
+
+2026-11-22 7:00pm
+	Jigsaw
+A woman is murdered and it's up to Detective Fellows to sift through the clues and solve the `Jigsaw'.
+
+2026-11-22 9:05pm
+Fox
+Following Billy Fox, an outwardly retired Covent Garden market porter living in Clapham with his family, who have gangland connections in London's East End.
+
+2026-11-22 10:10pm
+	An Innocent Man
+A mechanic accused of a crime he didn't commit is sent to serve time with a gang of hardened criminals. By befriending a tough but influential inmate he manages to get parole, but still finds himself hounded on the outside by the bent cops that framed him. In a bid to be rid of them once and for all, he enlists the help of his underworld contacts to devise a plan that will lure the officers into a fatal blunder.
+
+2026-11-23 12:30am
+The Heritage Chart Show
+'TOTP' style programming for heritage artists based on the Heritage Chart which is voted on in over 80 countries. Featuring songs from popular artists, both live and on video, with the odd interview.
+
+2026-11-23 1:35am
+	Robinson Crusoe
+Daniel Defoe's British hero is shipwrecked on a tropical island alone, and with his man Friday.
+
+2026-11-23 3:40am
+	Three Silent Men
+An inventor of a deadly weapon to be used against the allies is injured in a crash. Surgeon, Sir James saves his life but learns of his plot.
+
+2026-11-23 5:00am
+The Adventures of Robin Hood
+A beggar gets taken in by Robin and his friends after he gets accused of murdering the sheriff's brother.
+
+2026-11-23 5:30am
+Supercar
+On the way to the South Pole, an uncontrolled force lands them on a strange island where they are in danger.
 
