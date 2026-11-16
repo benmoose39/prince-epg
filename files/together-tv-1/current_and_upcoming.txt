@@ -1,11 +1,3 @@
-2026-11-16 6:00am
-Teleshopping: Blue Jet Freedom
-Teleshopping programming bringing you a selection of innovative products.
-
-2026-11-16 6:30am
-Teleshopping: SmartAir D Z Dehumidifier
-Teleshopping programming bringing you a selection of innovative products.
-
 2026-11-16 7:00am
 Teleshopping
 Shopping from home.
@@ -237,6 +229,10 @@ Shopping from home.
 2026-11-18 8:00am
 Teleshopping: Power Glide Plus
 Teleshopping programming bringing you a selection of innovative products.
+
+2026-11-18 8:30am
+Teleshopping
+Shopping from home.
 
 2026-11-18 9:00am
 Teleshopping

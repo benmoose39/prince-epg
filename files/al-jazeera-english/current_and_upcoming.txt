@@ -1,11 +1,3 @@
-2026-11-16 6:00am
-News
-Up-to-date news and analysis from around the world.
-
-2026-11-16 6:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
-
 2026-11-16 7:00am
 Newshour
 Latest news and in-depth analysis from around the world.
@@ -43,8 +35,8 @@ Al Jazeera English: The Counter Narrative
 After 20 years of AJE on the air, we reflect on the channel's development as an important media pillar and how it has proven to be the voice of the voiceless.
 
 2026-11-16 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
+NEWSHOUR: The World Now
+A fast-paced, live global news show capturing the latest developments as they unfold.
 
 2026-11-16 2:00pm
 News
@@ -67,8 +59,8 @@ UpFront
 Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.
 
 2026-11-16 5:00pm
-News
-Up-to-date news and analysis from around the world.
+NEWS 30min: s in Focus
+A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 
 2026-11-16 5:30pm
 Inside Story
@@ -143,8 +135,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-17 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+News
+Up-to-date news and analysis from around the world.
 
 2026-11-17 6:00am
 News
@@ -191,8 +183,8 @@ The Campaign Against The Climate
 12:00pm
 
 2026-11-17 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
+NEWSHOUR: The World Now
+A fast-paced, live global news show capturing the latest developments as they unfold.
 
 2026-11-17 2:00pm
 News
@@ -215,8 +207,8 @@ The Bottom Line
 Discussions on US politics and policies.
 
 2026-11-17 5:00pm
-News
-Up-to-date news and analysis from around the world.
+NEWS 30min: s in Focus
+A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 
 2026-11-17 5:30pm
 Inside Story
@@ -291,8 +283,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-18 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+News
+Up-to-date news and analysis from around the world.
 
 2026-11-18 6:00am
 News
@@ -339,8 +331,8 @@ Al Jazeera World
 A series of one-hour documentaries showcasing films from across the Al Jazeera Network.
 
 2026-11-18 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
+NEWSHOUR: The World Now
+A fast-paced, live global news show capturing the latest developments as they unfold.
 
 2026-11-18 2:00pm
 News
@@ -363,8 +355,8 @@ The Global Population Bust
 As Europe's population ages and Africa's grows, how does migration reshape a world facing a dramatic decline in population?
 
 2026-11-18 5:00pm
-News
-Up-to-date news and analysis from around the world.
+NEWS 30min: s in Focus
+A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 
 2026-11-18 5:30pm
 Inside Story
@@ -439,8 +431,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-19 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+News
+Up-to-date news and analysis from around the world.
 
 2026-11-19 6:00am
 News
@@ -487,8 +479,8 @@ Witness
 A wide array of compelling stories that aim to inspire and provide insight into some of the world's major events.
 
 2026-11-19 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
+NEWSHOUR: The World Now
+A fast-paced, live global news show capturing the latest developments as they unfold.
 
 2026-11-19 2:00pm
 News
@@ -511,8 +503,8 @@ Witness
 Sosa, a survivor of child trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother and confront the past.
 
 2026-11-19 5:00pm
-News
-Up-to-date news and analysis from around the world.
+NEWS 30min: s in Focus
+A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 
 2026-11-19 5:30pm
 Inside Story
@@ -543,8 +535,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-19 10:30pm
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
+The Art of Negoatiation
+With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
 
 2026-11-19 11:00pm
 News
@@ -587,8 +579,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-20 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+News
+Up-to-date news and analysis from around the world.
 
 2026-11-20 6:00am
 News
@@ -615,8 +607,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-20 9:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
+The Art of Negoatiation
+With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
 
 2026-11-20 10:00am
 Newshour
@@ -635,8 +627,8 @@ The Drugs Don't Work
 The overuse of antibiotics will lead to 8 million deaths yearly from drug-resistant superbugs by 2050. Hundreds of millions more could die from related causes.
 
 2026-11-20 1:00pm
-Newshour
-Latest news and in-depth analysis from around the world.
+NEWSHOUR: The World Now
+A fast-paced, live global news show capturing the latest developments as they unfold.
 
 2026-11-20 2:00pm
 News
@@ -659,8 +651,8 @@ Making Peace
 El Salvador's bereaved mothers unite after gang violence, turning shared grief into solidarity and hope beyond hate.
 
 2026-11-20 5:00pm
-News
-Up-to-date news and analysis from around the world.
+NEWS 30min: s in Focus
+A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 
 2026-11-20 5:30pm
 Inside Story
@@ -719,8 +711,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-21 3:30am
-101 East
-101 East reports on the people and events shaping the Asia Pacific region.
+The Art of Negoatiation
+With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
 
 2026-11-21 4:00am
 News
@@ -735,8 +727,8 @@ News
 Up-to-date news and analysis from around the world.
 
 2026-11-21 5:30am
-Inside Story
-Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.
+News
+Up-to-date news and analysis from around the world.
 
 2026-11-21 6:00am
 News

@@ -40,7 +40,7 @@ Matt Allwright hears from Jane, who awoke in the middle of the night to discover
 
 2026-11-16 3:00pm
 Escape to the Country
-Alistair Appleton is tasked with helping a couple find a more relaxing way of life in the North Yorkshire countryside for their £400,000 budget. He also finds himself up close with the county's spectacular natural scenery when he attempts an adrenaline-fuelled adventure traversing How Stean Gorge on a course of high-wire cables.
+Richie Anderson helps Rich and Jade swap Australia for beautiful rural North Yorkshire, with a £400,000 budget, a grown-up daughter and four furry family members in tow.
 
 2026-11-16 3:45pm
 The Repair Shop: On the Road
@@ -192,7 +192,7 @@ When Shaz receives a package that he didn't order, he turns Doorbell Detective a
 
 2026-11-17 3:00pm
 Escape to the Country
-Having almost made their escape seven years ago, today's couple want to try again, tasking Ginny Buckley to help them move from a Surrey town and out into the countryside around the Norfolk/Suffolk border. Ginny also meets someone who has already moved to the region, turning her thatched cottage into a dreamy, picture postcard home.
+Briony May Williams searches the Norfolk and Suffolk countryside for a home that's just right for a discerning couple plus their three dogs and a fleet of wheels.
 
 2026-11-17 3:45pm
 The Repair Shop: On the Road
@@ -623,8 +623,12 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-11-20 6:00am
-Breakfast
-The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-20 6:10am
+To Be Announced
+6:10am
 
 2026-11-20 9:30am
 Morning Live
