@@ -1,55 +1,3 @@
-2026-11-16 5:00pm
-Deal or No Deal
-Join Stephen Mulhern as Muddi is given his opportunity to open the iconic red boxes. But will he be tempted to accept an offer from The Banker in exchange for what might be inside his box? Or will he hold out until the end and be rewarded with the £100,000 jackpot?
-
-2026-11-16 6:00pm
-The Chase
-All that stands between John, Katie, Abbey and Rudy and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains. Bradley Walsh hosts.
-
-2026-11-16 7:00pm
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2026-11-16 7:30pm
-ITV Evening News
-The latest headlines from around the world. Followed by a national weather forecast.
-
-2026-11-16 8:30pm
-Cooking with the Stars
-Emma Willis and Tom Allen host as stars Joey Essex, Caroline Quentin & Harry Akines-Aryeetey try to impress with British dishes on a Budget.
-
-2026-11-16 9:00pm
-Emmerdale
-In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
-
-2026-11-16 9:30pm
-Coronation Street
-The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
-
-2026-11-16 10:00pm
-I'm a Celebrity... Get Me Out of Here!
-Twelve celebrities are left to fend for themselves at a basic campsite, with only each other and the wildlife for company. In order to win food for themselves, the celebrities must compete in trials that test them both physically and mentally.
-
-2026-11-16 11:35pm
-ITV News at Ten and Weather
-Includes a national weather forecast and the latest news and weather in your region.
-
-2026-11-17 12:05am
-ITV News London
-The latest news in London and the South East, plus local weather.
-
-2026-11-17 12:20am
-	Jack Reacher
-A defence attorney hires an enigmatic ex-Army investigator to tackle the case of a highly trained sniper who apparently murdered five people at random.
-
-2026-11-17 2:30am
-Teleshopping
-Shopping from home.
-
-2026-11-17 4:00am
-Lingo
-A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the 'Lingo' grids and puzzle-words.
-
 2026-11-17 4:50am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
@@ -587,6 +535,102 @@ Motorsport UK
 Richard John Neill presents MSUK from Silverstone with racing from the Porsche Carrera Cup Great Britain and F4.
 
 2026-11-23 4:50am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-23 6:05am
+Ainsley's Taste of the Bahamas
+Ainsley starts the day with Bahamian-style coffee and a morning fish dish at a beachside shack, then takes in some undersea art at the Clifton Heritage Park before plating up a plantain-and-sweet-potato rosti with crab salad for a full Bahamian breakfast.
+
+2026-11-23 6:30am
+Clodagh: Cooking at Home
+It's all about quick and fabulous suppers as Clodagh shares four all-time favourites. She's making a foolproof Easy Fast Chicken Curry and collecting eggs from her hens for a snappy solo supper of Creamy Gruyère Baked Eggs in the garden. Then she's taking an emotional trip down memory lane to share incredible Speedy Pancetta and Garlic Mussels inspired by her dad that she's making in her outdoor kitchen, before whipping up a pan of cheesy lemony Late Night Alfredo Pasta.
+
+2026-11-23 7:00am
+Good Morning Britain
+Britain's weekday breakfast show on the latest news, weather and sports as well as offering information on entertainment, health and money.
+
+2026-11-23 10:30am
+Lorraine
+Lorraine Kelly presents a breakfast programme which includes a topical mix of entertainment, discussion, celebrity interviews, the latest fashion, and more.
+
+2026-11-23 11:00am
+This Morning
+Featuring a generous morning dose of celebrity interviews, showbiz updates, lifestyle tips and everything else relevant to start the day in an upbeat manner.
+
+2026-11-23 1:30pm
+Loose Women
+A rotating panel comprised of women from the entertainment and journalism worlds discuss issues from a female perspective, from politics and current affairs to all the latest gossip.
+
+2026-11-23 2:30pm
+ITV Lunchtime News
+The latest headlines from around the world. Followed by a national weather forecast and all the news and weather in your region.
+
+2026-11-23 2:55pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-11-23 3:00pm
+Dickinson's Real Deal
+The dealers den pitches up in Milton Keynes, where a seller makes a 1,000 percent profit out of Tracy Thackeray-Howitt, Mark Stevens gets some gold to really smile about and David Ford gets a happy ending, going home with his own Disney prints.
+
+2026-11-23 4:00pm
+Lingo
+Looking to prove they're as good as their word are Jane and Mick from Chesterfield, Bilal and husband Joe from London, and couple Scarlett and Walter from London.
+
+2026-11-23 5:00pm
+Deal or No Deal
+Stephen Mulhern hosts as Ell is given her opportunity to open the legendary red boxes. But will she be tempted to accept an offer from The Banker in exchange for what might be inside her randomly selected box? Or will she hold out until the end and be rewarded with the jackpot of £100,000?
+
+2026-11-23 6:00pm
+The Chase
+Bradley Walsh hosts as Jake from Newark, Laura from Stockport, Leila from Cardiff and Frank from Glenrothes join forces in the hope that their four brains can beat a Chaser's.
+
+2026-11-23 7:00pm
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-11-23 7:30pm
+ITV Evening News
+The latest headlines from around the world. Followed by a national weather forecast.
+
+2026-11-23 8:30pm
+Cooking with the Stars
+Hosted by Emma Willis and Tom Allen, it's the second quarter-final. The remaining stars are delivering delicious one-pot dishes in a bid to secure a place in the semi-final. Karen Hauer, Zara McDermott and Scarlett Moffat will be going head-to-head in this culinary battle. The two stars who fail to impress the chefs will end up in the cook-off and will fight it out for the last place in the grand final.
+
+2026-11-23 9:00pm
+Emmerdale
+In the heart of the beautiful countryside of the Yorkshire Dales, residents of a farm and the nearby village deal with all the drama, joys and heartbreaks life throws at them.
+
+2026-11-23 9:30pm
+Coronation Street
+The working-class residents of Coronation Street see their fair share of drama as they make their way about their daily lives.
+
+2026-11-23 10:00pm
+I'm a Celebrity... Get Me Out of Here!
+Twelve celebrities are left to fend for themselves at a basic campsite, with only each other and the wildlife for company. In order to win food for themselves, the celebrities must compete in trials that test them both physically and mentally.
+
+2026-11-23 11:35pm
+ITV News at Ten and Weather
+Includes a national weather forecast and the latest news and weather in your region.
+
+2026-11-24 12:05am
+ITV News London
+The latest news in London and the South East, plus local weather.
+
+2026-11-24 12:20am
+True Crime Presents
+Emma Caldwell's killer Iain Packer, a sign installer with a violent past, evaded justice for years.
+
+2026-11-24 1:10am
+Teleshopping
+Shopping from home.
+
+2026-11-24 4:00am
+Deal or No Deal
+Stephen Mulhern hosts as Ell is given her opportunity to open the legendary red boxes. But will she be tempted to accept an offer from The Banker in exchange for what might be inside her randomly selected box? Or will she hold out until the end and be rewarded with the jackpot of £100,000?
+
+2026-11-24 4:50am
 Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
