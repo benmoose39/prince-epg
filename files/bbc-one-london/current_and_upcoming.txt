@@ -471,12 +471,8 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-11-20 6:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-20 6:10am
-To Be Announced
-6:10am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
 2026-11-20 9:30am
 Morning Live
@@ -960,7 +956,7 @@ In this celebrity special, Denise van Outen joins the team as they fight back ag
 
 2026-11-23 8:30pm
 The Marvellous Miniature Workshop
-Katie and Lee ask Sara Cox and the team to recreate Hollyhill Farmhouse, the place where their love story began and family life unfolded. The house, now lost to them, holds decades of precious memories.
+Sara Cox and the team meet Steven, a fourth-generation baker who longs to see his family's beloved bakery brought back to life in miniature. Once the heart of local life, the business has since been lost to changing times.
 
 2026-11-23 9:00pm
 The Witch Farm

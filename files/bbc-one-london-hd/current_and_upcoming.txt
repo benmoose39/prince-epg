@@ -471,12 +471,8 @@ Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
 2026-11-20 6:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-20 6:10am
-To Be Announced
-6:10am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
 
 2026-11-20 9:30am
 Morning Live
