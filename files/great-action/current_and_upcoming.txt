@@ -1,35 +1,3 @@
-2026-11-18 11:00pm
-The Unit
-The Unit is sent to Africa in order to track down the suppliers of illegally-trafficked diamonds. Meanwhile, the wives of the soldiers organise the `Old Home Week' to help raise funds for troops stationed in Iraq.
-
-2026-11-19 12:00am
-The Avengers
-A blinding light bleaches the corpses of British Venusian Society members; special guest Jon Pertwee.
-
-2026-11-19 1:00am
-The Baron
-After tracking down a thief who stole his Fabergé bauble, Mannering agrees to help British intelligence take down a ring of art thieves hiding behind diplomatic immunity.
-
-2026-11-19 2:00am
-The Persuaders!
-After Danny Wilde buys a cottage in the country, the danger for him and Brett comes at no extra charge.
-
-2026-11-19 2:55am
-Good News from GREAT!
-An uplifting round-up of good news stories from the UK and around the world.
-
-2026-11-19 3:05am
-	Super Eruption
-A devastating volcanic eruption occurs in the centre of Yellowstone Park. A firefighter and a vulcanologist pool their specialist skills to save as many lives from the catastrophe as possible.
-
-2026-11-19 4:30am
-Coast Guard Alaska
-After a damaged vessel goes drifting across the tumultuous Bering Sea, the Guardsmen rush to the scene.
-
-2026-11-19 5:15am
-Coast Guard Alaska
-The Coast Guard face intense turbulence and freezing temperatures in Kodiak as they rescue a patient in a remote town.
-
 2026-11-19 6:00am
 Teleshopping
 Shopping from home.
@@ -813,4 +781,128 @@ A sailboat loses its engines in rough seas, a child is sick in a remote village 
 2026-11-25 5:15am
 Coast Guard Alaska
 In Sitka, the Coast Guard drops to a commercial cruise ship in order to medevac an extremely ill patient.
+
+2026-11-25 6:00am
+Teleshopping
+Shopping from home.
+
+2026-11-25 6:30am
+Teleshopping
+Shopping from home.
+
+2026-11-25 7:00am
+Teleshopping
+Shopping from home.
+
+2026-11-25 7:30am
+Teleshopping
+Shopping from home.
+
+2026-11-25 8:00am
+Teleshopping
+Shopping from home.
+
+2026-11-25 8:30am
+Teleshopping
+Shopping from home.
+
+2026-11-25 9:00am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-11-25 9:10am
+Raiders of the Lost Art
+Painted during Vienna's cultural heyday, Gustav Klimt's The Woman in Gold was seized by the Nazis during World War II. Hear the story behind this iconic artwork.
+
+2026-11-25 9:40am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
+
+2026-11-25 9:50am
+The Battle of Britain
+Never in the field of human conflict was so much owed by so many to so few. Looking into the history of events that lead to the Battle of Britain.
+
+2026-11-25 10:46am
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-11-25 10:51am
+The Battle of Britain
+Never in the field of human conflict was so much owed by so many to so few. Looking into the history of events that lead to the Battle of Britain.
+
+2026-11-25 11:00am
+Burn Notice
+Sam and Fiona help a fugitive evade police in return for his help on an investigation. Meanwhile, Michael infiltrates a dangerous gang of corporate thieves in order to rescue a group of hostages.
+
+2026-11-25 12:00pm
+Burn Notice
+Michael and Fi go undercover at a couples' resort to extract a traitorous scientist and his wife. Plus, Jesse and Sam finally catch up to Maxi's killer, and Pearce makes a startling discovery.
+
+2026-11-25 1:00pm
+	Force 10 From Navarone
+During World War II, the survivors of Navarone, consisting of an odd assortment of military experts, team up on a mission to destroy a vital enemy bridge in the Balkans. Unbeknownst to them, there is a traitor in their midst.
+
+2026-11-25 3:30pm
+	Gung Ho!
+A fictionalised account of the Marine unit that spearheaded the invasion of Japanese-held islands during World War II.
+
+2026-11-25 5:30pm
+Wanted: Dead or Alive
+A man with unwavering faith in a legend about lost treasure hires Josh to find hidden gold.
+
+2026-11-25 6:00pm
+The Unit
+Jonas and Molly discover that their nephew is beating his wife. Mack tries to help when the pilot of a jet dies mid-flight.
+
+2026-11-25 7:00pm
+The Avengers
+Steed investigates a hospital where two doctors are producing dual personalities in their patients.
+
+2026-11-25 8:00pm
+The Avengers
+Soviet agents held in a British monastery vanish, only to reappear and murder their old adversaries.
+
+2026-11-25 9:00pm
+	Urban Justice
+A man with a violent past seeks revenge for the murder of his son, a police officer who was gunned down in a drive-by shooting. In his desperate hunt for the killer, he makes some dangerous enemies.
+
+2026-11-25 9:56pm
+This Week Back Then
+Taking the viewer back in time with a look at news headlines from this week, back then.
+
+2026-11-25 10:01pm
+	Urban Justice
+A man with a violent past seeks revenge for the murder of his son, a police officer who was gunned down in a drive-by shooting. In his desperate hunt for the killer, he makes some dangerous enemies.
+
+2026-11-25 11:00pm
+The Unit
+Jonas and Molly discover that their nephew is beating his wife. Mack tries to help when the pilot of a jet dies mid-flight.
+
+2026-11-26 12:00am
+The Avengers
+A finishing school for young English gentlemen proves to be a hotbed for murder and espionage.
+
+2026-11-26 1:00am
+The Baron
+The Baron acquires an exact double as a criminal gang attempts to pull off the most audacious robbery of them all.
+
+2026-11-26 2:00am
+The Persuaders!
+A greedy relative is murdering Brett's family one by one; guest Denholm Elliott.
+
+2026-11-26 3:00am
+	Lone Rider
+Soldier Bob Hattaway returns to his home town to discover that corrupt landowner Stu Croaker has become the most powerful man in the county. Stu wants the Hattaway family business, but when his strong-arm tactics turn deadly, Bob fights back with a vengeance.
+
+2026-11-26 4:20am
+Coast Guard Alaska
+The guardsmen in Sitka rush to medevac an elderly male in critical condition and the Air Station battles challenging weather and rough terrain to rescue a missing hiker stranded on a dangerous cliff.
+
+2026-11-26 5:05am
+Coast Guard Alaska
+The commander of Air Station Kodiak retires, and the Cost Guard ramps up on dramatic SAR cases including a flight to collect a fisherman who has gone overboard.
+
+2026-11-26 5:50am
+Good News from GREAT!
+An uplifting round-up of good news stories from the UK and around the world.
 
