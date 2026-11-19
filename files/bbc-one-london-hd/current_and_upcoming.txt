@@ -1,31 +1,3 @@
-2026-11-19 6:00am
-Breakfast
-The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
-
-2026-11-19 9:30am
-Morning Live
-Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
-
-2026-11-19 10:45am
-Dashcam Justice
-Cyclist James Taylor's ride home in Bristol turns terrifying when a driver follows dangerously close, then squeezes past. His cameras capture the angry confrontation. An insurer questions a whiplash claim after a barely visible bump, while a horse rider films an overtake that nearly ends in a head-on crash. A van runs a red light, but tracing the driver brings an unexpected twist.
-
-2026-11-19 11:15am
-Homes Under the Hammer
-A newbie Derbyshire developer admits he's winging it! In Bournemouth, Martin is gobsmacked by the building he's in. Jacqui is in a Norfolk village called Little Snoring, but there's no time for her to have a nap with a property to see.
-
-2026-11-19 12:15pm
-Bargain Hunt
-Will it be game, set and match for Ben Cooper's or Kate Bliss's team on this episode? In Box, near Bath, presenter Caroline Hawley visits the UK's only tennis ball manufacturer, where she learns about the origins of the tennis ball and how it gets its all-important bounce! Hoping to ace it at the fair are friends Helen and Marsha on the red team. Their opponents in blue are pals Clark and Michele, who are in it 'for gavels and fame'.
-
-2026-11-19 1:00pm
-BBC News at One
-The latest national and international news, followed by weather.
-
-2026-11-19 1:35pm
-BBC London News
-News, sport and weather from London.
-
 2026-11-19 1:45pm
 BBC News at One
 The latest national and international news, followed by weather.
@@ -399,8 +371,8 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-22 3:30am
-Global Eye
-Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+Political Thinking with Nick Robinson
+Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.
 
 2026-11-22 4:00am
 BBC News
