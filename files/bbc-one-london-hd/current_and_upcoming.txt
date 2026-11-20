@@ -1,83 +1,3 @@
-2026-11-19 10:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-11-19 10:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-19 10:40pm
-Question Time
-Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
-
-2026-11-19 11:40pm
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2026-11-20 12:10am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-20 12:15am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-20 12:30am
-Newscast
-Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
-
-2026-11-20 1:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-20 1:30am
-The Interface
-The Interface dives into the stories, trends, apps, gadgets, algorithms and internet obsessions shaping how we live, work, think and connect.
-
-2026-11-20 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-20 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-20 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-20 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-20 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-20 3:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-20 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-20 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-20 4:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-20 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-20 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-11-20 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -947,6 +867,162 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-11-26 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-26 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-26 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-11-26 10:45am
+Farm 999
+The East Anglian air ambulance races to save a farmer after a freak accident, lambs face attack from birds of prey, and Paul Colgan investigates illegal fly tipping in Cheshire.
+
+2026-11-26 11:15am
+Homes Under the Hammer
+An 'uninhabitable' house in Clackmannanshire and a Lincolnshire layout disaster need lots of work, whereas a Leicester flat is pretty much good to go.
+
+2026-11-26 12:15pm
+Bargain Hunt
+Stephanie Connell helps the reds tackle their military challenge, while John Cameron and the blues hunt for an item with a connection to music or drama, at the Detling Showground in Kent.
+
+2026-11-26 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-26 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-26 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-11-26 2:00pm
+Scam Interceptors
+Working with ethical hackers, Rav Wilding hunts down the scammers plaguing our lives.
+
+2026-11-26 2:30pm
+Doorbell Detectives
+When Phil returns home to find someone hanging around his house, he decides to confront him and finds some incriminating evidence on his doorbell footage. Former police inspector Anton Sullivan takes a trip to a garden centre to highlight simple tips that can deter wannabe burglars. And Janet turns Doorbell Detective to foil an elaborate scam when she receives a brand new mobile phone.
+
+2026-11-26 3:00pm
+Escape to the Country
+Alistair Appleton helps a couple who have never lived in an older home, but who are now ready to fall for a bit of period charm in either Norfolk or Suffolk. With a £270,000 budget and three lively whippets to please, they are after a dog-friendly garden and a slice of East Anglian architectural history to call home. Alistair also meets a willow farmer and discovers how this wonderfully sustainable crop is being woven into the future.
+
+2026-11-26 3:45pm
+The Repair Shop: On the Road
+The team help a charity get their iconic bus back on the road, Mark Stuckey reaches for the stars fixing an unusual projector, and Will is wowed by the lost art of encaustic tiles.
+
+2026-11-26 4:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Tess, Stuart, Eileen, Mel and Dan race in moving podiums across the studio to try to win £5,000.
+
+2026-11-26 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-11-26 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-11-26 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-26 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-11-26 7:30pm
+EastEnders
+Nicola takes matters into her own hands. Gina faces a difficult decision. Denise's resilience is put to the test.
+
+2026-11-26 8:00pm
+MasterChef: The Professionals
+It's the last quarter-final of the series, and with a place in knockout week at stake, there's everything to play for.
+
+2026-11-26 9:00pm
+Shetland
+The dark side of one of the most beautiful places on earth. A team of police officers and detectives uncover secrets and lies from the past in Shetland at the edge of the United Kingdom.
+
+2026-11-26 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-11-26 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-26 10:40pm
+Question Time
+Features a studio audience quizzing top politicians on the events of the day. The panel surrounding presenter Fiona Bruce is composed of at least one member of the three major parties.
+
+2026-11-26 11:40pm
+Newscast
+Weekly analysis with Laura Kuenssberg, Adam Fleming and Chris Mason.
+
+2026-11-27 12:10am
+The Finish Line
+Roman Kemp and sidekick Sarah Greene host the quiz show where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2026-11-27 12:55am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-27 1:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-27 1:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
+
+2026-11-27 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-27 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-27 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-27 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-27 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-27 3:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-27 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-11-27 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-11-27 4:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-11-27 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-27 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
