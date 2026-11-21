@@ -1,31 +1,3 @@
-2026-11-20 8:00pm
-Doc Martin
-Martin is surprised when his parents visit out of the blue, but they bring unwelcome tidings for all, especially Aunt Joan.
-
-2026-11-20 9:00pm
-Doc Martin
-Mark has an unusual idea for a stag night, which involves camping under the stars rather than going to the pub.
-
-2026-11-20 10:00pm
-Foyle's War
-Sabotage, murder and adultery at a pioneering RAF burns hospital brings Foyle face to face with the devastating physical and emotional consequences of war.
-
-2026-11-20 11:50pm
-A Touch of Frost
-A vicious attack on a widow and her daughter demands Frost turn his attention to catching the murderer, but as he uncovers the lies and deceit of those involved with the murdered woman a manhunt begins for a serial killer.
-
-2026-11-21 1:55am
-George and Mildred
-Mildred longs to adopt a child.
-
-2026-11-21 2:20am
-Unwind with ITV
-A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
-
-2026-11-21 2:30am
-Teleshopping
-Shopping from home.
-
 2026-11-21 6:00am
 Wycliffe
 When an attempt is made to steal a headless, thirty-year-old skeleton from an archaeological dig, Wycliffe and the team discover an estate steeped in archaic values.
@@ -475,6 +447,86 @@ Unwind with ITV
 A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
 
 2026-11-27 2:30am
+Teleshopping
+Shopping from home.
+
+2026-11-27 6:00am
+Wild at Heart
+The family is still estranged after Caroline moves back to the Clearwater House with Du Plessis, who appears to be showing signs of a major breakdown and is convinced that he has seen the ghost of Peeters in the town. Meanwhile, Ed and Danny try to rescue some animals from a closing zoo but their attempts to cut corners may lead to regret.
+
+2026-11-27 7:05am
+Classic Emmerdale
+Brenda is shocked to learn Terry knows about her bankruptcy, Nicola goes into labour while locked up alone in the Home Farm shop, and Val tries to win back Pollard.
+
+2026-11-27 7:35am
+Classic Emmerdale
+Lexi feels excluded when Nicola gives birth, Terry reassures Brenda they will sort out their money worries together, and Mark confronts Faye about Ryan and Nathan's friendship.
+
+2026-11-27 8:05am
+Classic Coronation Street
+Tina uncovers evidence that David took advantage of her father's addiction. Maria's suggestion that she could move to Ireland forces her and Tony to face up to their true feelings.
+
+2026-11-27 8:40am
+Classic Coronation Street
+Maria and Tony struggle to hide their relationship from Michelle. Determined not to spoil another wedding, Becky avoids alcohol on her hen night, and Liz returns from Spain.
+
+2026-11-27 9:15am
+A Touch of Frost
+When a security guard is killed at Denton Quarry, Frost discovers that the only witness is a young man who claims that the culprits were aliens from a distant planet. Frost's investigation leads him into a murky world of big business and corporate revenge before discovering the true identity of the aliens.
+
+2026-11-27 11:30am
+Heartbeat
+A search for stolen antiques turns life threatening for Mason and Wetherby and prejudices are stirred by the arrival of a group of Taoist monks. Meanwhile, David discovers his spiritual side.
+
+2026-11-27 12:35pm
+Heartbeat
+A cat burglar is on the prowl, targeting the richest homes in the district, Carol catches the eye of a dashing visitor while Peggy plays matchmaker for David. Elsewhere, Bernie worries when Rosie fails to return from Australia.
+
+2026-11-27 1:35pm
+Midsomer Murders
+When convicted murderer Grady Felton returns to the village where he killed a boy years earlier, his arrival is met with anger from the locals. Soon afterwards, a barrister is killed in Midsomer and suspicion falls on Grady. Grady has a solid alibi, but Barnaby suspects that he is working with an accomplice - until Grady himself is targeted in an arson attack.
+
+2026-11-27 3:40pm
+Classic Emmerdale
+Natasha confronts Faye about her return to the village, Brenda feels guilty when Terry parts with his savings, and Carl finds it uncomfortable being around Nicola's baby and Lexi.
+
+2026-11-27 4:10pm
+Classic Emmerdale
+Emmerdale is one of Britain's best-loved and highly-viewed long-running drama soaps - set in the heart of the beautiful countryside of the Yorkshire Dales, this realistic and down-to-earth drama superbly chronicles the joys and the heartbreaks of a tightly-knit countryside community.
+
+2026-11-27 4:40pm
+Classic Coronation Street
+Steve and Becky's second wedding day goes like a dream - until they return to the Rovers and get a nasty surprise. Michelle moves out of No. 7, but gives Maria her blessing.
+
+2026-11-27 5:15pm
+Classic Coronation Street
+The police search of the Rovers uncovers exactly what DC Hooch intended and Becky is arrested for possession of drugs. Tony is delighted when Maria suggests he move in with her.
+
+2026-11-27 5:50pm
+Heartbeat
+Rachel, Joe and Carol go to Australia in search of a missing person - Rosie and Carol's long-lost brother.
+
+2026-11-27 7:00pm
+Players Championship Finals
+The latest darts action.
+
+2026-11-27 11:00pm
+Agatha Christie's Poirot
+It's 1935, and a team of international archaeologists in Egypt have broken the seal of the tomb of King Men-Her-Ra for the first time in 3000 years. Moments later, the leader of the group, Sir John Willard, drops down dead of a heart attack. Poirot is called upon to consider whether he is the victim of the tomb's legendary curse or whether there is a more mortal explanation for his death.
+
+2026-11-27 11:55pm
+A Touch of Frost
+When a security guard is killed at Denton Quarry, Frost discovers that the only witness is a young man who claims that the culprits were aliens from a distant planet. Frost's investigation leads him into a murky world of big business and corporate revenge before discovering the true identity of the aliens.
+
+2026-11-28 1:55am
+George and Mildred
+Mildred learns George needs more life insurance.
+
+2026-11-28 2:20am
+Unwind with ITV
+A daily delivery of bespoke Mindfulness content designed to calm the mind and encourage relaxation and reflection.
+
+2026-11-28 2:30am
 Teleshopping
 Shopping from home.
 
