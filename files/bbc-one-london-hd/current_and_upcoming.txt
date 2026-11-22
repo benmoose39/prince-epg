@@ -1,55 +1,3 @@
-2026-11-21 10:00pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-21 10:20pm
-Match of the Day
-Highlights and key analysis from all the day's games in the Premier League.
-
-2026-11-21 11:45pm
-	Far From the Madding Crowd
-A headstrong Victorian beauty has her choice of three different suitors: a sheep farmer, a dashing soldier and a prosperous, older bachelor.
-
-2026-11-22 1:40am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-22 1:45am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-22 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-22 2:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
-2026-11-22 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-22 3:30am
-Political Thinking with Nick Robinson
-Nick Robinson has a conversation with, not an interrogation of, the people who shape our political thinking about what shaped theirs.
-
-2026-11-22 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-22 4:30am
-Clive Myrie's African Adventure
-Clive travels to Marrakech, the Red City, known for its distinctive architecture. He learns how to create the most stunning Moroccan tile mosaics and stays overnight in the Atlas Mountains.
-
-2026-11-22 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-22 5:30am
-Talking Business
-Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
-
 2026-11-22 6:00am
 BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
@@ -953,4 +901,116 @@ Twenty-four hours a day, the latest national and international stories as they b
 2026-11-28 5:30am
 AI Decoded
 Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-11-28 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-11-28 10:00am
+Saturday Kitchen Live
+Matt Tebbutt is joined by chefs Ben Lippett and Paul Ainsworth, and by special guest Jack Dee. Drinks expert Helen McGinn picks the wines to go with the studio dishes, and there are some great moments from the BBC food archive.
+
+2026-11-28 11:30am
+Simply Nigella
+For the days when something light and luscious is needed, Nigella's salad of salmon, avocado, watercress and pumpkin seeds fits perfectly. For the occasions that call for something a bit different, there's Nigella's chicken schawarma with an array of spices, sauces and flatbreads.
+
+2026-11-28 12:00pm
+Bargain Hunt
+Charlie Ross is in Shropshire, where experts Tim Weeks and Ben Cooper try to help the teams make big profits when they head to the auction in Malvern. Charlie takes a trip into Shrewsbury to learn about the history of some 15th-century merchants, the Shrewsbury Drapers, and how they made the town so prosperous.
+
+2026-11-28 12:45pm
+The Football Interview
+The biggest names in sport and entertainment join host Kelly Somers for bold, in-depth conversations about the nation's favourite sport.
+
+2026-11-28 1:00pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-11-28 1:15pm
+
+Live coverage from day 1 of the 2026 UK Snooker Championship.
+
+2026-11-28 4:30pm
+Final Score
+Jason Mohammad and guests bring you all the goals, latest drama, analysis, reaction and interviews.
+
+2026-11-28 5:25pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-11-28 5:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-11-28 5:45pm
+The Finish Line
+Roman Kemp hosts this brand new quiz show with sidekick Sarah Greene where contestants race on moving podiums across the studio floor. Correct answers get the players moving, while wrong answers will stop them in their tracks.
+
+2026-11-28 6:30pm
+Strictly Come Dancing
+Emma, Josh and Jojo welcome the remaining couples back to the Strictly ballroom, and with the quarter-finals and semi-finals on the horizon, everyone is determined to give their best. The Instant Dance challenge returns, in which the couples are tasked with improvising a routine in a style they have previously performed.
+
+2026-11-28 8:25pm
+Michael McIntyre's The Wheel
+Michael McIntyre hosts his hit game show packed with huge stars, big laughs and a giant spinning wheel. Can the contestants answer their way to a fortune? The celebrity experts in this episode are Karen Carney, Sophie Ellis-Bextor, Harry Hill, Judi Love, Niko Omilana, Tom Rosenthal and Ellie Simmonds.
+
+2026-11-28 9:20pm
+Honey
+When an old friend returns, Martha faces the danger of exposure, forcing her to confess all to Kurt and make a risky decision to trust him. They must both keep Kamilla onside, even whilst keeping secrets from her and one another. Fuelled by both his complicated entanglements with Martha and Kurt and an effort to outmanoeuvre her, Friedrich makes a drastic move to catch Martha out.
+
+2026-11-28 10:10pm
+BBC Weekend News
+National and international news, followed by weather.
+
+2026-11-28 10:30pm
+Match of the Day
+Highlights from the 2026/27 Premier League season.
+
+2026-11-28 11:30pm
+	The Lady in the Van
+A man forms an unexpected bond with a transient woman living in her car that is parked in his driveway.
+
+2026-11-29 1:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-11-29 1:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-11-29 1:30am
+The Firing Line
+The Firing Line features the nominees and the winners of the Rory Peck Awards for 2026. These awards celebrate the work of freelance journalists from around the world.
+
+2026-11-29 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-29 2:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
+
+2026-11-29 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-29 3:30am
+Global Eye
+Bringing forensic journalism from all corners of the world by BBC Eye, the World Service's critically acclaimed investigative unit, and featuring expert global correspondents getting to the heart of the biggest international stories.
+
+2026-11-29 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-29 4:30am
+Clive Myrie's African Adventure
+Clive trains with some of the country's best young footballers and gets on his bike to ride the streets with a Moroccan female motorcycle gang.
+
+2026-11-29 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-11-29 5:30am
+Talking Business
+Aaron Heslehurst interacts with experts on various business issues from all over the world and interviews them on the latest innovations in technology.
 
