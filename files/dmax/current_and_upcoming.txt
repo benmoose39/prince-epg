@@ -1,31 +1,3 @@
-2026-11-23 6:00am
-Gold Divers
-Shawn and Kris battle encroaching miners. Ken's beastly Myrtle Irene continues to invade and operating costs soar. Emily expands her operation, but an air malfunction threatens her season.
-
-2026-11-23 7:00am
-Gold Divers
-In the Bluff's lawless waters, Shawn and Kris use brute strength and verbal threats to stand their ground as competition forces captains to change tactics.
-
-2026-11-23 8:00am
-Aussie Gold Hunters
-The Gold Devils decide take a huge gamble when Alan and Salty go off-road and into the wilderness of Kimberley. Shane and Kate do their best to get two wetplants going, however, they run out of water.
-
-2026-11-23 9:00am
-Building Off the Grid
-Professional tree-house builder Michael "Murph" Murphy wants to build a cottage retreat for his family in Washington; he enlists his friends to create natural siding and a massive fishing net for lounging above the living space.
-
-2026-11-23 10:00am
-Building Off the Grid
-First-time builders Shay and Shae set out to build a home using five shipping containers on a wooded lot in Oklahoma.
-
-2026-11-23 11:00am
-Deadliest Catch
-King crab season has come to an end, and the exhausted crew of the Northwestern have filled the crab tanks to the brim. Meanwhile the Cornelia Marie suffers a blackout.
-
-2026-11-23 1:00pm
-Expedition Unknown
-Josh Gates joins leading archaeologists as they investigate America's first missing-persons case, The Lost Colony of Roanoke. Following newly discovered clues, he digs for answers to this 400-year-old mystery.
-
 2026-11-23 2:00pm
 Expedition Unknown
 To help clone the extinct woolly mammoth, Josh visits a Korean biotech lab driving the project and excavates ancient bones in a Canadian mine. He then descends into a vast sinkhole in Siberia to unearth frozen DNA.
@@ -489,6 +461,14 @@ Shopping from home.
 2026-11-28 4:30am
 Teleshopping
 Shopping from home.
+
+2026-11-28 6:00am
+Teleshopping
+6:00am
+
+2026-11-28 12:00pm
+Teleshopping
+12:00pm
 
 2026-11-28 4:00pm
 Aussie Gold Hunters
