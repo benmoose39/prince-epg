@@ -1,67 +1,3 @@
-2026-11-24 10:30pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-24 10:40pm
-Tall Tales and Murder
-Bee Man catches up with Paul as Bridget realises the cost of her hasty revenge. Matron's plan to swap Grinner for Maurice goes awry when Grinner escapes and Wesley closes in.
-
-2026-11-24 11:30pm
-	The Mauritanian
-A defence attorney, her associate and a military prosecutor uncover a far-reaching conspiracy while investigating the case of a suspected 9/11 terrorist imprisoned at Guantanamo Bay, Cuba, for six years.
-
-2026-11-25 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-25 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-25 2:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-25 2:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-25 2:45am
-BBC Sport
-Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
-
-2026-11-25 3:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-25 3:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-25 3:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-11-25 4:00am
-Newsday
-From London and Singapore the latest international news from the BBC.
-
-2026-11-25 4:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
-2026-11-25 4:45am
-Asia Specific
-'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
-
-2026-11-25 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-25 5:30am
-Business Today
-Bringing the latest business news and up to date informed analysis from London and around the world.
-
 2026-11-25 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -824,7 +760,7 @@ Matt Allwright meets the residents of what is maybe one of Britain's safest stre
 
 2026-11-30 3:00pm
 Escape to the Country
-Sonali Shah is house hunting with a couple who have a budget of £650,000 and want to quit the city to find a house with great entertaining potential in the Cheshire countryside. Sonali also delves into the region's manufacturing heritage at one of the country's best preserved textile mills from the Industrial Revolution.
+After living in 14 homes together, globetrotting teachers Mike and Nadine certainly know a thing or two about moving. Now, they're returning from the capital of Croatia, Zagreb, and Sonali Shah is helping them search rural Cheshire for home number 15. There's a fabulous selection of properties, including a converted mill with much of its original workings still in place. Sonali also meets an artist who turns Cheshire's flora and fauna into beautiful pottery.
 
 2026-11-30 3:45pm
 The Repair Shop: On the Road
@@ -935,6 +871,158 @@ BBC News
 Twenty-four hours a day, the latest national and international stories as they break.
 
 2026-12-01 5:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-12-01 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-12-01 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-12-01 10:45am
+Farm 999
+Violent attacks on farmland, as off-road gangs and hare hunters wreak havoc.
+
+2026-12-01 11:15am
+Homes Under the Hammer
+Owain meets a plasterer in Wales intent on creating a stunning home for himself. Jacqui is in Kent, where a flat needs more than a lick of paint. And Dion is in Birmingham, where another flat has a rather colourful carpet.
+
+2026-12-01 12:15pm
+Bargain Hunt
+While the teams try to cut a sweet deal at an antiques fair in Wetherby, Caroline Hawley visits York, which for more than a century has been known as the chocolate-making capital of the UK. She learns how tins of chocolate were sent to local soldiers during World War I. Battling for bargains are grandmother and granddaughter Daphne and Emily, captained by Philip Serrell. Competing for even bigger profits are colleagues Phil and Sharmarley, skippered by Jonathan Pratt.
+
+2026-12-01 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-12-01 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-01 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-12-01 2:00pm
+Scam Interceptors
+A nightmare intercept for the team in the hub as they desperately try to reach a woman in the clutches of a cryptocurrency scammer. The criminal in question uses online meetings to speak to his victims, meaning even though they can see the woman on a video call with the scammer, the team simply cannot reach her despite making endless calls and sending countless texts. Will reaching out to the woman's colleagues and neighbours get her the help she needs?
+
+2026-12-01 2:30pm
+Doorbell Detectives
+When Chelsea goes to make a coffee, she notices her milk hasn't been delivered. She reviews her doorbell footage and is shocked to discover a man breaking into her house all while she was asleep upstairs. Former police inspector Anton Sullivan shows how even fancy flats are targets for thieves. And Anabela is gobsmacked when she discovers her cat has been stolen, but will turning to social media manage to recover him?
+
+2026-12-01 3:00pm
+Escape to the Country
+Steve Brown helps a couple wanting space for animals to swap urban Gloucestershire for rural Herefordshire and also visits former escapees who now run a thriving organic farm.
+
+2026-12-01 3:45pm
+The Repair Shop: On the Road
+Will and Dom discover the noble sport of pram racing in Sussex, Kirsten performs emergency surgery on a garden gnome, and science meets art with a pair of neon sign makers.
+
+2026-12-01 4:30pm
+The Finish Line
+Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Adam, Morgan, Mikey, Sandra and Dip race in moving podiums across the studio floor to try to win £5,000.
+
+2026-12-01 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-12-01 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-12-01 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-01 7:00pm
+The One Show
+Alex Jones and Roman Kemp bring you the stories that matter from across the country.
+
+2026-12-01 7:30pm
+EastEnders
+Harry is left facing a life-changing dilemma. Doubts begin to creep in for Linda. Cindy's actions continue to have consequences.
+
+2026-12-01 8:00pm
+Stacey & Joe
+It's a big week at the lake and there is still a mountain of work to do. Stacey says goodbye to Zach as he heads to America, while Joe cheers her up with an unlikely upcycling project.
+
+2026-12-01 9:00pm
+MasterChef: The Professionals
+Knockout week is here, and the 12 remaining chefs face their toughest test yet as seafood maestro Paul Ainsworth challenges them to reinvent one of Britain's best-loved dishes: fish and chips.
+
+2026-12-01 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-12-01 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-01 10:40pm
+Tall Tales and Murder
+A Dublin nurse and an indebted car thief team up when a newly awakened comatose gangster claims to have buried ancient Celtic gold, sparking a deadly hunt by local criminals.
+
+2026-12-01 11:30pm
+	Last Christmas
+Nothing seems to go right for young Kate, a frustrated Londoner who works as an elf in a year-round Christmas shop. But things soon take a turn for the better when she develops a growing attraction to a charming suitor who seems too good to be true.
+
+2026-12-02 1:10am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-12-02 1:15am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-12-02 1:30am
+Tech Now
+Ammie Sekhon visits the UK lab testing robotics that could one day help spacecraft act and think independently. Lara Lewington finds out why scientists are growing human brain cells on microchips.
+
+2026-12-02 2:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-12-02 2:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-12-02 2:45am
+BBC Sport
+Coverage, commentary highlights and more from the world's biggest sporting events on the Red Button.
+
+2026-12-02 3:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-12-02 3:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-12-02 3:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-12-02 4:00am
+Newsday
+From London and Singapore the latest international news from the BBC.
+
+2026-12-02 4:30am
+Business Today
+Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-12-02 4:45am
+Asia Specific
+'Asia Specific' brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best.
+
+2026-12-02 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-12-02 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
 
