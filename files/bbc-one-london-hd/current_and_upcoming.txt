@@ -1,75 +1,3 @@
-2026-11-27 7:30pm
-Hunting the Rogue Traders
-7:30pm
-
-2026-11-27 8:00pm
-Return to Paradise
-Human remains are uncovered in the concrete by the local ocean pool. How could that be possible when the victim had already left town before the concrete was poured 43 years ago?
-
-2026-11-27 9:00pm
-Have I Got News for You
-Alexander Armstrong hosts, with guest panellists actor and comedian Chris McCausland and journalist Cindy Yu joining team captains Ian Hislop and Paul Merton as they delve into the news.
-
-2026-11-27 9:35pm
-Bill's Included
-Bill's exciting new life comes crashing down when he learns that his lodgers have given themselves nicknames but left him out. Hurt, Bill ramps up his eccentricities in the hope of providing the inspiration for a new moniker, only for his odd behaviour to confirm the students' suspicion that they're living with a weirdo.
-
-2026-11-27 10:00pm
-BBC News at Ten
-The latest national and international news, with reports from BBC correspondents worldwide.
-
-2026-11-27 10:35pm
-BBC London News
-News, sport and weather from London.
-
-2026-11-27 10:40pm
-The Graham Norton Show
-Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
-
-2026-11-27 11:35pm
-	The Preacher's Wife
-A cleric begins to doubt himself and is visited by an angel. The heavenly emissary is supposed to help the good reverend over his midlife crisis, but he is distracted by the cleric's lovely young wife. A remake with gospel music of the `The Bishop's Wife'.
-
-2026-11-28 1:30am
-Weather for the Week Ahead
-Detailed weather forecast.
-
-2026-11-28 1:35am
-Joins BBC News
-BBC One joins the BBC's rolling news channel for a night of news.
-
-2026-11-28 2:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-28 2:30am
-The Firing Line
-The Firing Line features the nominees and the winners of the Rory Peck Awards for 2026. These awards celebrate the work of freelance journalists from around the world.
-
-2026-11-28 3:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-28 3:30am
-The Media Show
-Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
-
-2026-11-28 4:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-28 4:30am
-The Travel Show
-The Travel Show follows adaptive athlete Ollie Thorn as he aims to become the first person to handcycle to Everest Base Camp, after a 2012 motorbike crash left him with a spinal cord injury.
-
-2026-11-28 5:00am
-BBC News
-Twenty-four hours a day, the latest national and international stories as they break.
-
-2026-11-28 5:30am
-AI Decoded
-Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
-
 2026-11-28 6:00am
 Breakfast
 The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
@@ -961,4 +889,144 @@ Twenty-four hours a day, the latest national and international stories as they b
 2026-12-04 5:30am
 Business Today
 Bringing the latest business news and up to date informed analysis from London and around the world.
+
+2026-12-04 6:00am
+Breakfast
+The BBC's Breakfast programme features the latest news, sport, business, weather and other items on a daily basis.
+
+2026-12-04 9:30am
+Morning Live
+Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.
+
+2026-12-04 10:45am
+Farm 999
+Farm thieves strike and a cow's in deep water - police and fire crews race to the rescue.
+
+2026-12-04 11:15am
+Homes Under the Hammer
+Victorian splendour is how a couple in Whitstable hope to add sparkle to a run-down house just half a mile from the sea. Their passion project will be their home when the project's finished. There are also ambitious renovations in Bedworth and Torquay.
+
+2026-12-04 12:15pm
+Bargain Hunt
+Two young couples gallop around an antiques fair at a West Yorkshire racecourse as their experts David Harper and Philip Serrell try to steer them to a win.
+
+2026-12-04 1:00pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-12-04 1:35pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-04 1:45pm
+BBC News at One
+The latest national and international news, followed by weather.
+
+2026-12-04 2:00pm
+The Northumbria Mysteries
+When James Irving is shot dead in broad daylight in the middle of a bustling market town, the police are left with an inexplicable murder scene. No witnesses saw where the sniper's bullet came from, and there is no clear motive. Assigned to the case, Rose and Raj hit a wall. James was a well-liked man with no obvious enemies, and despite clear CCTV coverage of the square, the killer remains completely invisible.
+
+2026-12-04 2:45pm
+Escape to the Country
+In true Escape to the Country style, today's couple (both former international rugby players) want to leave London in search of a rural idyll in Dorset, and Alistair Appleton is the man to help them on their way. Aside from property, Alistair learns about the health benefits of watercress at a farm which specialises in growing this delicious and nutritious crop.
+
+2026-12-04 3:45pm
+The Repair Shop: On the Road
+In Chatham, the team honour the fallen, restoring two First World War memorial plaques after a shocking act of vandalism.
+
+2026-12-04 4:30pm
+The Finish Line
+Roman Kemp, assisted by Sarah Greene, hosts the quiz show where knowledge equals speed. Megan, Emilie, Kenny, Philippa and Stephen race in moving podiums across the studio floor to try to win £5,000.
+
+2026-12-04 5:15pm
+Pointless
+A twist on the classic quiz show formula, contestants search through the depths of their knowledge in an attempt to score as few points as possible.
+
+2026-12-04 6:00pm
+BBC News at Six
+The latest national and international news, followed by weather.
+
+2026-12-04 6:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-04 7:00pm
+The One Show
+Alex Jones and Clara Amfo bring you the stories that matter from across the country.
+
+2026-12-04 7:30pm
+Policing Paradise
+The drugs unit arrest a man on cruise ship in a major bust, there's a mystery, missing phone at the golf course, and the police are on hand to assist at a tourist bike crash.
+
+2026-12-04 8:00pm
+Return to Paradise
+A wildlife park worker is stabbed with their ornamental cassowary claw in a cassowary enclosure. The victim was the only one to access the cage, so how did the killer escape?
+
+2026-12-04 9:00pm
+Have I Got News for You
+Katherine Ryan hosts, with guest panellists presenter, producer and novelist Richard Osman, and journalist and presenter Cathy Newman joining team captains Ian Hislop and Paul Merton as they delve into the news.
+
+2026-12-04 9:35pm
+Bill's Included
+Bill worries the lodgers are taking advantage of him, so he starts saying no. But when they meet a PhD student who's only too happy to help, he finds himself in a battle with a rival.
+
+2026-12-04 10:00pm
+BBC News at Ten
+The latest national and international news, with reports from BBC correspondents worldwide.
+
+2026-12-04 10:30pm
+BBC London News
+News, sport and weather from London.
+
+2026-12-04 10:40pm
+The Graham Norton Show
+Comedian Graham Norton showcases the best of world talent in his funny and edgy talk show, which blends comic sketches and monologues, with serious in-depth interviews.
+
+2026-12-04 11:35pm
+	Planes, Trains and Automobiles
+Fastidious businessman Neal Page and slobbish shower-curtain salesman Del Griffith are the reluctant odd couple trying to get home from New York to Chicago to be with their families at Thanksgiving whose thwarted travel plans keep throwing them together in.
+
+2026-12-05 1:00am
+Weather for the Week Ahead
+Detailed weather forecast.
+
+2026-12-05 1:05am
+Joins BBC News
+BBC One joins the BBC's rolling news channel for a night of news.
+
+2026-12-05 1:30am
+Clive Myrie's African Adventure
+On Morocco's northern tip, Clive meets The Master Musicians of Joujouka and helps out on the farm, milking mountain goats to produce delicious jben cheese.
+
+2026-12-05 2:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-12-05 2:30am
+The Climate Question
+Author Kate Marvel discusses her life in climate modelling, and how climate science cannot be separated from human emotions.
+
+2026-12-05 3:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-12-05 3:30am
+The Media Show
+Experts try to piece together a succinct picture of the biggest stories making the rounds on social media platforms and news reports across the world.
+
+2026-12-05 4:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-12-05 4:30am
+The Travel Show
+The team embark on a long journey across the globe in search of new experiences. They travel off the beaten track and uncover the hidden sides of popular tourist destinations.
+
+2026-12-05 5:00am
+BBC News
+Twenty-four hours a day, the latest national and international stories as they break.
+
+2026-12-05 5:30am
+AI Decoded
+Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.
 
